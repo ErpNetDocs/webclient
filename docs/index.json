@@ -1,0 +1,27 @@
+{
+  "includes/erpnet.html": {
+    "href": "includes/erpnet.html",
+    "title": "| ERP.net Web Client",
+    "keywords": "ERP.net"
+  },
+  "includes/name.html": {
+    "href": "includes/name.html",
+    "title": "| ERP.net Web Client",
+    "keywords": "ERP.net"
+  },
+  "includes/webclient.html": {
+    "href": "includes/webclient.html",
+    "title": "| ERP.net Web Client",
+    "keywords": "ERP.net Web Client"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Welcome to the ERP.net Web Client Documentation | ERP.net Web Client",
+    "keywords": "Welcome to the ERP.net Web Client Documentation This documentation contains information about the user interface and how to use the ERP.net Web Client. For information and deep dive in the business logic of ERP.net, check the Technical Documentation . Topics Introduction to ERP.net Web Client - explanation of commonly used terms, concepts and commands. Step by step guides Specific functionality - forms, which are specific to the ERP.net Web Client Other documentations All docs - root container for all ERP.net documentations. Technical Documentation - business logic and implementation information. Domain Model - reference information about the business entities. Developer Documentation - information for developers."
+  },
+  "README.html": {
+    "href": "README.html",
+    "title": "Welcome to the ERP.net Web Client Documentation | ERP.net Web Client",
+    "keywords": "Welcome to the ERP.net Web Client Documentation The documentation uses DocFX to build."
+  }
+}
