@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/ivanarj/Documents/GitHub/webclient",
+  "source_base_path": "C:/TFSAgent15/_work/27/s",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -18,7 +18,29 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "N5jlyrXObEUpoANRx6hQWA=="
+          "hash": "zY1S0Y3yS4WvEf3Dp5d1QQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/fonts/glyphicons-halflings-regular.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/fonts/glyphicons-halflings-regular.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/logo.svg"
         }
       },
       "is_incremental": false,
@@ -30,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/erpnet.html",
-          "hash": "IgJ2fo8iP4MMGl9GoNgAFA=="
+          "hash": "xanjz2oiTZlrgRed1VODDA=="
         }
       },
       "is_incremental": false,
@@ -42,7 +64,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/name.html",
-          "hash": "UA7EC6BhDT+mPU+C/wZhGQ=="
+          "hash": "HQFHUp8qJ8wv/OirbfQY0A=="
         }
       },
       "is_incremental": false,
@@ -54,7 +76,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/webclient.html",
-          "hash": "8Klp1o2l6uvGfrugNYeiwg=="
+          "hash": "hHVdT+yi526VNilGKVGICQ=="
         }
       },
       "is_incremental": false,
@@ -66,7 +88,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "YECADLnG3omeXQ5fpvPUcw=="
+          "hash": "XWhVIeAF3gf65tskkojR5w=="
         }
       },
       "is_incremental": false,
