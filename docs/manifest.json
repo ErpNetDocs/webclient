@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "zY1S0Y3yS4WvEf3Dp5d1QQ=="
+          "hash": "AOGjUMFb2k3uzUggQnqtJw=="
         }
       },
       "is_incremental": false,
@@ -52,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/erpnet.html",
-          "hash": "xanjz2oiTZlrgRed1VODDA=="
+          "hash": "5bZD1sLEJi30LjMueBLuNg=="
         }
       },
       "is_incremental": false,
@@ -64,7 +64,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/name.html",
-          "hash": "HQFHUp8qJ8wv/OirbfQY0A=="
+          "hash": "j0xrUdKgBNyWwZfvh795xw=="
         }
       },
       "is_incremental": false,
@@ -76,7 +76,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/webclient.html",
-          "hash": "hHVdT+yi526VNilGKVGICQ=="
+          "hash": "cHM1o8dmy7ggYc1psSsYCg=="
         }
       },
       "is_incremental": false,
@@ -88,7 +88,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "XWhVIeAF3gf65tskkojR5w=="
+          "hash": "zN8+kxNpOR8Gf/mKWFxgMg=="
         }
       },
       "is_incremental": false,
@@ -109,10 +109,12 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because docfx version changed from 2.56.3.0 to 2.56.5.0.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "DocfxVersionChanged"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
