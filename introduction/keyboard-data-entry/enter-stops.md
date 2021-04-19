@@ -25,4 +25,4 @@ In this case, the user starts with “Customer” and goes directly to “From P
 
 ![Enter stops usage 1](pictures/enterstops-usage-1.png) ![Enter stops usage 2](pictures/enterstops-usage-2.png) 
 
-Enter stops can be applied to <b>icons</b> and <b>buttons</b> such as <b>Next</b> and <b>Create New</b>, this way significantly speeding up the editing process compared to only click-based programs.
+Enter stops can be applied not only to fields but also to <b>icons</b> and <b>buttons</b> such as <b>Next</b> and <b>Create New</b>, this way significantly speeding up the editing process compared to only click-based programs.
