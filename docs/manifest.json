@@ -37,6 +37,72 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/keyboard-data-entry/pictures/document-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/keyboard-data-entry/pictures/document-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/keyboard-data-entry/pictures/enterstops-usage-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/keyboard-data-entry/pictures/enterstops-usage-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/keyboard-data-entry/pictures/enterstops-usage-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/keyboard-data-entry/pictures/enterstops-usage-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/keyboard-data-entry/pictures/fields-reorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/keyboard-data-entry/pictures/fields-reorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/keyboard-data-entry/pictures/panels-reorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/keyboard-data-entry/pictures/panels-reorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/keyboard-data-entry/pictures/panels-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/keyboard-data-entry/pictures/panels-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/logo.svg",
       "output": {
         "resource": {
