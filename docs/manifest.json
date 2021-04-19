@@ -96,11 +96,89 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/keyboard-data-entry/enter-stops.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/keyboard-data-entry/enter-stops.html",
+          "hash": "UnAIqgEcWW8eurCn6Wvvgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/keyboard-data-entry/overview.md",
       "output": {
         ".html": {
           "relative_path": "introduction/keyboard-data-entry/overview.html",
           "hash": "kS5iryKLBRO688bdGJKTBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/keyboard-data-entry/pictures/document-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/keyboard-data-entry/pictures/document-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/keyboard-data-entry/pictures/enterstops-usage-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/keyboard-data-entry/pictures/enterstops-usage-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/keyboard-data-entry/pictures/enterstops-usage-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/keyboard-data-entry/pictures/enterstops-usage-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/keyboard-data-entry/pictures/fields-reorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/keyboard-data-entry/pictures/fields-reorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/keyboard-data-entry/pictures/panels-reorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/keyboard-data-entry/pictures/panels-reorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/keyboard-data-entry/pictures/panels-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/keyboard-data-entry/pictures/panels-settings.png"
         }
       },
       "is_incremental": false,
