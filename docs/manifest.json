@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "Zhe8AdJxmJuwTJZ3gSBndQ=="
+          "hash": "8G0m//rDMJFSbtsAG1EMPQ=="
         }
       },
       "is_incremental": false,
@@ -118,7 +118,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/erpnet.html",
-          "hash": "DghVrB9tCHfQVO7tlr0KWA=="
+          "hash": "nN7XA2QQsGGmDBP+zEqHqg=="
         }
       },
       "is_incremental": false,
@@ -130,7 +130,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/name.html",
-          "hash": "oaI4CMIg7WIZootB9xBijg=="
+          "hash": "QoA2KfpL0T0OhyUsZS5O5w=="
         }
       },
       "is_incremental": false,
@@ -142,7 +142,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/webclient.html",
-          "hash": "llIFXvYUZJs6X6yHZ4LOuA=="
+          "hash": "9nR6LAmzaS5vnV89NFCZ9w=="
         }
       },
       "is_incremental": false,
@@ -154,7 +154,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "O0g5aMWOxiuvkzrPBTFLrA=="
+          "hash": "3BF+GfNYt1BpIx2y9wnHsw=="
         }
       },
       "is_incremental": false,
@@ -166,7 +166,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/keyboard-data-entry/enter-stops.html",
-          "hash": "UnAIqgEcWW8eurCn6Wvvgw=="
+          "hash": "2MtlzyAfOVjq+w+WUhYNyg=="
         }
       },
       "is_incremental": false,
@@ -178,7 +178,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/keyboard-data-entry/overview.html",
-          "hash": "kS5iryKLBRO688bdGJKTBg=="
+          "hash": "7OhLO/WK8vt2a5HTlHYkow=="
         }
       },
       "is_incremental": false,
@@ -277,10 +277,12 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because docfx version changed from 2.56.8.0 to 2.56.9.0.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "DocfxVersionChanged"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
