@@ -1,3 +1,13 @@
+- name: Overview
+  href: index.md
+- name: Common terms
+  href: terms.md
+- name: My apps
+  href: my-apps/toc.yml
+  topicHref: my-apps/index.md
+- name: Social ERP
+  href: social/toc.yml
+  topicHref: social/index.md  
 - name: Keyboard data entry
   href: keyboard-data-entry/toc.yml
-  
+  topicHref: keyboard-data-entry/index.md
