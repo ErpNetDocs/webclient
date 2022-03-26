@@ -19,15 +19,60 @@
     "title": "Welcome to the ERP.net Web Client Documentation | ERP.net Web Client",
     "keywords": "Welcome to the ERP.net Web Client Documentation This documentation contains information about the user interface and how to use the ERP.net Web Client. For information and deep dive in the business logic of ERP.net, check the Technical Documentation . Topics Introduction to ERP.net Web Client - explanation of commonly used terms, concepts and commands. Step by step guides Specific functionality - forms, which are specific to the ERP.net Web Client Other documentations All docs - root container for all ERP.net documentations. Technical Documentation - business logic and implementation information. Domain Model - reference information about the business entities. Developer Documentation - information for developers."
   },
+  "introduction/index.html": {
+    "href": "introduction/index.html",
+    "title": "Introduction to ERP.net Web Client | ERP.net Web Client",
+    "keywords": "Introduction to ERP.net Web Client This section contains topics that introduce you to the world of ERP.net Web Client. It provides an explanation of the most commonly used terms, system-specific concepts and shows the most frequently used commands and work techniques."
+  },
   "introduction/keyboard-data-entry/enter-stops.html": {
     "href": "introduction/keyboard-data-entry/enter-stops.html",
     "title": "Enter stops | ERP.net Web Client",
     "keywords": "Enter stops Enter stops can be used to speed up the process of creating and editing data fields. They prioritize essential steps by leaving out those the user may want to easily skip. Whether it is for fields or panels, enter stops allow for faster and more intuitive management of pages. Unlike the tab key, which always goes through each and every field and panel, the Enter key’s usage can be customized. When editing the document, if enter stops are configured and you are pressing the enter key when you are done editing a field, some fields will be skipped and the cursor will automatically move from one important field to another. Setting enter stops with data fields In Edit mode, you can choose which data fields work with enter stops by clicking the Settings icon at the top right corner of a document. From there, navigate to the Reorder tab. Take a note of the boxes under Enter Stop . During editing, fields with checkmarks are prioritized while empty ones are skipped . This setting won’t delete them from the database. Select the ones you will more likely need to fill out every time you create a sales order, and close the window. Setting enter stops with panels Further to individual fields, you can also choose which entire panels should be skipped and which ones should be prioritized. You can configure this behavior by clicking the Settings icon at the Panels section. From there, navigate to the Reorder tab again, select which panels should be considered enter stops, and close the window. The ones without the checkbox will be skipped when pressing the enter key while editing the document. Using enter stops To put the changes you’ve made into practice, simply press the Enter key while editing a document. Doing this again moves the blue highlights from one prioritized field to the next. The highlighted path follows the fields with checkmarks in a chronological order. In this case, the user starts with “Customer” and goes directly to “From Party”, skipping \"Access Key\". Enter stops can be applied not only to fields but also to icons and buttons such as Next and Create New , this way significantly speeding up the editing process compared to only click-based programs."
   },
-  "introduction/keyboard-data-entry/overview.html": {
-    "href": "introduction/keyboard-data-entry/overview.html",
+  "introduction/keyboard-data-entry/index.html": {
+    "href": "introduction/keyboard-data-entry/index.html",
     "title": "| ERP.net Web Client",
     "keywords": ""
+  },
+  "introduction/my-apps/calendar.html": {
+    "href": "introduction/my-apps/calendar.html",
+    "title": "Overview | ERP.net Web Client",
+    "keywords": "Overview As the name suggests, it's a calendar. More precisely, this is a versatile calendar control, fully (smart) responsive, visualizing your activities. We'll skip the description of the trivial calendar functionality- how you can navigate between the months, how the today's date is marked, etc... We'll just show you the essentials. Activities This is the main goal of the calendar in the ERP.net Web Client. It will show in a convenient way all your activities. This way you can see them in a convenient, natural way, without the need to open navigators, apply filters, etc. Also you can create a new activity. Just click on the \"Create\" button: Fill in the required fields, save it and you're done. The new activity will appear on the day for which it's planned. View types The calendar app supports different view types. You can switch between them from the app's panel settings. When you choose the new type of view, the changes will take effect immediately. Monthly The default view type. Self-explanatory, shows the days of the selected month, alignining the raster with the days of the previous and next, graying them out. Workweek An alternative view, showing the five days of the selected work week as columns. The working time will be visualized on the vertical axis. Smart responsiveness Why smart? Because it doesn't just scale to the size of your screen, but it takes into account how you really could use it, according the size of your screen. If your screen does not show a large area (e.g., your mobile), then the so-called responsiveness comes. That's the monthly view on a mobile. Yes, it's not just scaled, it's different to fit your needs. The activities are shown as \"dots\" and now you have agenda. Click (more specifically \"touch\") on a day and the agenda will show your activities as a list. Additionally, you may notice that the calendar's toolbar is refactored. Now you have header and footer toolbars. Mobile touch gestures support Mobile touch gestures are also supported. You can swipe left or right on your screen and as a result, you will nive the calendar backward or forward. I am a widget This is not something new for a My App, but rather a key functionality, but you can add a calendar wherever you want as a widget panel."
+  },
+  "introduction/my-apps/dashboard.html": {
+    "href": "introduction/my-apps/dashboard.html",
+    "title": "| ERP.net Web Client",
+    "keywords": ""
+  },
+  "introduction/my-apps/index.html": {
+    "href": "introduction/my-apps/index.html",
+    "title": "Overview | ERP.net Web Client",
+    "keywords": "Overview My apps is a generic name for a special kind of functionality in ERP.net Web Client. These are interactive applications that can \"live independently\"- i.e., you can use them as standalone apps. In most cases, they present aggregated or more complex data in a convenient way. My apps are directly related and are also a key extension of the Social ERP concept . They can be accessed through their section in the main menu. A classic example of one \"My app\" is the calendar. It's a standalone application that visualizes a calendar, taking up the entire page. Of course, this is not just a calendar :) You can read more about it in the separate topic . Widgets A specific feature of each My App is that it can be visualized not only independently, as given above, but also in its own panel . Note Panels that host My apps are called widget panels or simply widgets. So what do you think you can do with widget panels? You can visualize them anywhere . Yes, literally everywhere. In any form in ERP.net Web Client. What's more, they are smart - ie. they take into account the context in which they are displayed and show only relevant content. See, for example, My Tiles. How much information it displays in its main screen: And see now what it visualizes if placed in Crm -> Common: Or even more specifically - Crm -> Common -> Price Lists: This is the idea - contextual information at your fingertips, easily accessible anywhere. Visualizing a widget panel Just go to the form where you want to add it. From the main settings, click \"Show/Hide panels\". Expand the \"Widget Panels\" category and just check the ones you want to include. Done. The widgets in the example were calendar and tiles . You can find more information about them, as well as all other widgets, through the menu section on the left."
+  },
+  "introduction/my-apps/object-follows.html": {
+    "href": "introduction/my-apps/object-follows.html",
+    "title": "| ERP.net Web Client",
+    "keywords": ""
+  },
+  "introduction/my-apps/tiles.html": {
+    "href": "introduction/my-apps/tiles.html",
+    "title": "| ERP.net Web Client",
+    "keywords": ""
+  },
+  "introduction/my-apps/timeline.html": {
+    "href": "introduction/my-apps/timeline.html",
+    "title": "Overview | ERP.net Web Client",
+    "keywords": "Overview As the calendar application the timeline is... a calendar. But in a more sophisticated way. The timeline displays not just your activities, but: All your mail messages Created documents Calls ...In a timeline. This is a convenient tool with which you can trace chronologically what happend. The timeline shows 15 days in a row and groups all events, according to the related party."
+  },
+  "introduction/social/index.html": {
+    "href": "introduction/social/index.html",
+    "title": "| ERP.net Web Client",
+    "keywords": ""
+  },
+  "introduction/terms.html": {
+    "href": "introduction/terms.html",
+    "title": "Most commonly used terms | ERP.net Web Client",
+    "keywords": "Most commonly used terms In ERP.net Web Client, there are some special terms. This topic briefly explains the most common ones. You can use it as a dictionary until you get used to them: Form Panel My app – a screen form in which you can fill out information. This is a general term for a document, a navigator, or a definition; Widget - a special panel, containing one, specific \"My app\". It could be placed in every ERP.net Web Client form."
   },
   "README.html": {
     "href": "README.html",
