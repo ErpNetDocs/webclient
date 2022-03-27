@@ -103,6 +103,226 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-cal-intro.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-cal-intro.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-activities-create.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-activities-create.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-activities.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-activities.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-responsive-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-responsive-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-responsive-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-responsive-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-responsive-3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-responsive-3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-view-type-monthly.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-view-type-monthly.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-view-type-workweek.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-view-type-workweek.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-view-types.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-view-types.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-widget-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-widget-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-widget-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar-widget-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-calendar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-context-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-context-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-context-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-context-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-no-context.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-no-context.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-sett-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-sett-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-sett-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-sett-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-sett-3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-sett-3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-timeline.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-timeline.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/logo.svg",
       "output": {
         "resource": {
