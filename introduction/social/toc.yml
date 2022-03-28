@@ -1,2 +1,6 @@
 - name: Overview
   href: index.md
+- name: Chatter
+  href: chatter/index.md
+- name: Social follows
+  href: social-follows.md

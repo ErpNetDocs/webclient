@@ -10,14 +10,14 @@ Of course, this is not just a calendar :) You can read more about it in [the sep
 
 # Widgets
 
-A specific feature of each My App is that it can be visualized not only independently, as given above, but also in its own [panel](../terms.md#panel).
+A specific feature of each "My app" is that it can be visualized not only independently, as given above, but also in its own [panel](../terms.md).
 
 > [!NOTE]
 > Panels that host My apps are called widget panels or simply widgets.
 
-So what do you think you can do with widget panels? You can visualize them **anywhere**. Yes, literally everywhere. In any form in @@webclient. What's more, they are smart - ie. they take into account the context in which they are displayed and show only relevant content.
+So what do you think you can do with widget panels? You can visualize them **anywhere**. Yes, literally everywhere. In any form in @@webclient. What's more, they are smart - i.e. they take into account the context in which they are displayed and show only relevant content.
 
-See, for example, My Tiles. How much information it displays in its main screen:
+See, for example, [My Tiles](./tiles.md). How much information it displays in its main screen:
 
 ![My apps - Tiles](./pictures/my-apps-no-context.png "My apps - Tiles")
 

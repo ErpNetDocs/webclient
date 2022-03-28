@@ -1,6 +1,6 @@
 # Overview
 
-As the name suggests, it's a calendar. More precisely, this is a versatile calendar control, fully (smart) responsive, visualizing your activities.
+As the name suggests, it's a calendar. "My Calendar". More precisely, this is a versatile calendar control, fully (smart) responsive, visualizing your activities.
 
 ![My apps - Calendar](./pictures/my-apps-calendar.png "My apps - Calendar")
 
@@ -8,7 +8,7 @@ We'll skip the description of the trivial calendar functionality- how you can na
 
 ## Activities
 
-This is the main goal of the calendar in the @@webclient. 
+This is the main goal of the calendar in the @@webclient.
 
 It will show in a convenient way all your activities. This way you can see them in a convenient, natural way, without the need to open navigators, apply filters, etc.
 
@@ -44,11 +44,11 @@ An alternative view, showing the five days of the selected work week as columns.
 
 Why smart? Because it doesn't just scale to the size of your screen, but it takes into account how you really could use it, according the size of your screen. 
 
-If your screen does not show a large area (e.g., your mobile), then the so-called responsiveness comes.
+If your screen doesn't show a large area (e.g., your mobile), then the so-called responsiveness comes.
 
 ![My apps - Responsiveness](./pictures/my-apps-calendar-responsive-1.png "My apps - Responsiveness")
 
-That's the monthly view on a mobile. Yes, it's not just scaled, it's different to fit your needs. The activities are shown as "dots" and now you have agenda. Click (more specifically "touch") on a day and the agenda will show your activities as a list.
+That's the monthly view on a mobile. Yes, it's not just scaled, it's a different layout to fit your needs. The activities are shown as "dots" and now you have agenda. Click (more specifically "touch") on a day and the agenda will show your activities as a list.
 
 ![My apps - Responsiveness](./pictures/my-apps-calendar-responsive-2.png "My apps - Responsiveness")
 
@@ -58,11 +58,11 @@ Additionally, you may notice that the calendar's toolbar is refactored. Now you 
 
 ## Mobile touch gestures support
 
-Mobile touch gestures are also supported. You can swipe left or right on your screen and as a result, you will nive the calendar backward or forward.
+Mobile touch gestures are also supported. You can swipe left or right on your screen and as a result, you will move the calendar backward or forward.
 
 ## I am a widget
 
-This is not something new for a My App, but rather a key functionality, but you can add a calendar wherever you want as a widget panel.
+This is not something new for a "My app", but rather a key functionality. You can add a calendar wherever you want as a widget panel.
 
 ![My apps - Widget 1](./pictures/my-apps-calendar-widget-1.png "My apps - Widget 1")
 
