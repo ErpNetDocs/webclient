@@ -79,39 +79,36 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="overview">Overview</h1>
 
-<p>My apps is a generic name for a special kind of functionality in ERP.net Web Client. These are interactive applications that can &quot;live independently&quot;- i.e., you can use them as standalone apps. In most cases, they present aggregated or more complex data in a convenient way. My apps are directly related and are also a key extension of the <a href="../social/index.html">Social ERP concept</a>. They can be accessed through their section in the main menu.</p>
-<p>A classic example of one &quot;My app&quot; is the calendar. It's a standalone application that visualizes a calendar, taking up the entire page.</p>
-<p><img src="pictures/my-apps-cal-intro.png" alt="My apps - Calendar" title="My apps - Calendar"></p>
-<p>Of course, this is not just a calendar :) You can read more about it in <a href="calendar.html">the separate topic</a>.</p>
-<h1 id="widgets">Widgets</h1>
-<p>A specific feature of each &quot;My app&quot; is that it can be visualized not only independently, as given above, but also in its own <a href="../terms.html">panel</a>.</p>
+<p>Social follows is a key aspect in the Social ERP.</p>
+<p>The &quot;following&quot; process means that you are &quot;subscribed&quot; to specific objects- i.e. that you want to know when something happens in their context. As a result, you will start receiving individual notifications. Another detail is that a new tile will be automatically created in the <a href="../my-apps/object-follows/index.html">My Object follows</a> app. It will visualize the number of new notifications concerning you, and will always stay as you are following the corresponding object.</p>
+<p>Starting an object follow can be done in two ways- manually and automatically.</p>
+<h2 id="unfollow-an-object-manually">(Un)follow an object manually</h2>
+<p>As the name suggests, this is done manually. To do this, open the object you want to follow and click on the star at the top right of the form.</p>
+<p><img src="pictures/follow-object.png" alt="Follow an object" title="Follow an object"></p>
+<p>When it's filled up, this indicates that you're already following the object. Accordingly, to stop following it, just click it again.</p>
+<p><img src="pictures/follow-object-done.png" alt="Follow an object" title="Follow an object"></p>
+<h2 id="auto-object-follow">Auto object follow</h2>
+<p>Automatic follow of an object is also possible. Such an example is when you are mentioned in a discussion of an object that you have not yet followed. The moment this happens, in addition to your new &quot;object follow&quot;, you will also receive a notification, containing who exactly mentioned you. More information can be found at <a href="chatter/index.html#user-mention">Chatter mentions</a>.</p>
+<h2 id="my-apps---object-follows">My apps - Object follows</h2>
+<p>&quot;My Object follows&quot; is the visualization of all objects, followed by you. Or in short your <a href="social-follows.html">social follows</a>. Like <a href="../my-apps/tiles.html">My Tiles</a>, the key visual component here is the tile, but it looks a little different. The caption of the tile is the <a href="https://docs.erp.net/tech/advanced/data-objects/display-format.html">display text</a> of the followed object, and the badge contains the number of your new notifications available.</p>
+<p><img src="../my-apps/object-follows/pictures/tile.png" alt="Object follows - Tile" title="Object follows - Tile"></p>
+<p>Accordingly, a sample overall view of &quot;My Object follows&quot; looks like this:</p>
+<p><img src="../my-apps/object-follows/pictures/overview.png" alt="Object follows - Overview" title="Object follows - Overview"></p>
+<p>The tiles are grouped according to the entity to which they belong.</p>
+<p>Also, if you click on a tile, the form of the followed object will be opened.</p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>Panels that host My apps are called widget panels or simply widgets.</p>
+<p>Although you have no notifications to the object you are following, its corresponding tile will be still displayed. The tile will disappear the moment the object is unfollowed.</p>
 </div>
-<p>So what do you think you can do with widget panels? You can visualize them <strong>anywhere</strong>. Yes, literally everywhere. In any form in ERP.net Web Client. What's more, they are smart - i.e. they take into account the context in which they are displayed and show only relevant content.</p>
-<p>See, for example, <a href="tiles.html">My Tiles</a>. How much information it displays in its main screen:</p>
-<p><img src="pictures/my-apps-no-context.png" alt="My apps - Tiles" title="My apps - Tiles"></p>
-<p>And see now what it visualizes if placed in Crm -&gt; Common:</p>
-<p><img src="pictures/my-apps-context-1.png" alt="Widget tile - Customers context" title="Widget tile - Customers context"></p>
-<p>Or even more specifically - Crm -&gt; Common -&gt; Price Lists:</p>
-<p><img src="pictures/my-apps-context-2.png" alt="Widget tile - Stores navigator context" title="Widget tile - Stores navigator context"></p>
-<p>This is the idea - contextual information at your fingertips, easily accessible anywhere.</p>
-<h2 id="visualizing-a-widget-panel">Visualizing a widget panel</h2>
-<ol>
-<li><p>Just go to the form where you want to add it.</p>
-</li>
-<li><p>From the main settings, click &quot;Show/Hide panels&quot;.
-<img src="pictures/my-apps-sett-1.png" alt="Widget tile - Stores navigator context" title="Widget tile - Stores navigator context"></p>
-</li>
-<li><p>Expand the &quot;Widget Panels&quot; category and just check the ones you want to include.
-<img src="pictures/my-apps-sett-2.png" alt="Widget tile - Stores navigator context" title="Widget tile - Stores navigator context"></p>
-</li>
-<li><p>Done.
-<img src="pictures/my-apps-sett-3.png" alt="Widget tile - Stores navigator context" title="Widget tile - Stores navigator context"></p>
-</li>
-</ol>
-<p>The widgets in the example were <a href="calendar.html">calendar</a> and <a href="tiles.html">tiles</a>. You can find more information about them, as well as all other widgets, through the menu section on the left.</p>
+<h2 id="object-follows-as-a-widget">Object follows as a widget</h2>
+<p>Like most My apps widgets object follows also supports their properties:</p>
+<ul>
+<li>You can show the object follows widget in each form of your choice.</li>
+<li>Only the object follows (i.e. the tiles), related to the form's context will be displayed.</li>
+</ul>
+<p>Below you can see example pictures showing the object follows widget on a menu page as well as in a navigator form.</p>
+<p><img src="../my-apps/object-follows/pictures/context-menupage.png" alt="Object follows - Context menu page" title="Object follows - Context menu page"></p>
+<p><img src="../my-apps/object-follows/pictures/context-navigator.png" alt="Object follows - Context navigator" title="Object follows - Context navigator"></p>
 </article>
           </div>
           
@@ -120,7 +117,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/my-apps/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/social/social-follows.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>

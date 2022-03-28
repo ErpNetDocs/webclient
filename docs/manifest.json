@@ -488,7 +488,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/calendar.html",
-          "hash": "E60N2sEsrCxSlitAq0bgQA=="
+          "hash": "5ZFSz5hgqObdoYrkN9DvqA=="
         }
       },
       "is_incremental": false,
@@ -500,7 +500,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/dashboard.html",
-          "hash": "vTiSHbAKNGD/f9rW/pe3zw=="
+          "hash": "jfLLXyYUNjrW25G+hXHfAw=="
         }
       },
       "is_incremental": false,
@@ -512,7 +512,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/index.html",
-          "hash": "l5jP7Rj9vwyJzuurr2iIew=="
+          "hash": "8eY1z/e8R49C8Jege1HuYw=="
         }
       },
       "is_incremental": false,
@@ -525,6 +525,74 @@
         ".html": {
           "relative_path": "introduction/my-apps/object-follows.html",
           "hash": "6xhSNJLASOyKyb+X/k56kQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/my-apps/object-follows/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/my-apps/object-follows/index.html",
+          "hash": "7d04of4wyNM5FXfHNAZL7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/my-apps/object-follows/object-follows.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/my-apps/object-follows/object-follows.html",
+          "hash": "Pdkj++IrGRDz+v+NMn4tAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/object-follows/pictures/context-menupage.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/object-follows/pictures/context-menupage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/object-follows/pictures/context-navigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/object-follows/pictures/context-navigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/object-follows/pictures/overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/object-follows/pictures/overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/object-follows/pictures/tile.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/object-follows/pictures/tile.png"
         }
       },
       "is_incremental": false,
@@ -686,10 +754,43 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-dashboard-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-dashboard-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-dashboard-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-dashboard-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/my-apps/pictures/my-apps-menu.png",
       "output": {
         "resource": {
           "relative_path": "introduction/my-apps/pictures/my-apps-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-new-tile-dialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-new-tile-dialog.png"
         }
       },
       "is_incremental": false,
@@ -741,6 +842,83 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-tile-structure.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-tile-structure.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-tiles-create-new.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-tiles-create-new.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-tiles-error.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-tiles-error.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-tiles-filtered-tile.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-tiles-filtered-tile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-tiles-generic-context.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-tiles-generic-context.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-tiles-new-dialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-tiles-new-dialog.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-tiles-specific-context.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-tiles-specific-context.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/my-apps/pictures/my-apps-timeline.png",
       "output": {
         "resource": {
@@ -756,7 +934,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/tiles.html",
-          "hash": "hLtWESkydSbmpQ3E3dXAuQ=="
+          "hash": "Tsnn7xzfIEnKe7XKs+B9rw=="
         }
       },
       "is_incremental": false,
@@ -768,7 +946,19 @@
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/timeline.html",
-          "hash": "XWSzJaZdip0Un9YRvIj5cw=="
+          "hash": "n1otwdEDwOSIXZ4b0+aNlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/social/chatter/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/social/chatter/index.html",
+          "hash": "eJwhzCHQMDm2pap+UGhFiQ=="
         }
       },
       "is_incremental": false,
@@ -780,7 +970,41 @@
       "output": {
         ".html": {
           "relative_path": "introduction/social/index.html",
-          "hash": "DUORHIo8zVDyAypeXBbafQ=="
+          "hash": "qjT/OHvXEarvcA+FQZSksQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/follow-object-done.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/follow-object-done.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/follow-object.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/follow-object.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/social/social-follows.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/social/social-follows.html",
+          "hash": "F5CXpBreW9afD3x8sC07RA=="
         }
       },
       "is_incremental": false,
@@ -792,7 +1016,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/terms.html",
-          "hash": "59ghnqaQESivs+ay/ifiGQ=="
+          "hash": "6xN95RWFv/qW1//geGPN3A=="
         }
       },
       "is_incremental": false,
@@ -804,7 +1028,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "rYqOF1PgA8R4R69Oa4iUNw=="
+          "hash": "gg698+xC0gVK+WDV1eP+Kw=="
         }
       },
       "is_incremental": false,
