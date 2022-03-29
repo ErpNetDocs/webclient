@@ -103,6 +103,50 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/object-follows/pictures/context-menupage.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/object-follows/pictures/context-menupage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/object-follows/pictures/context-navigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/object-follows/pictures/context-navigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/object-follows/pictures/overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/object-follows/pictures/overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/object-follows/pictures/tile.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/object-follows/pictures/tile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-cal-intro.png",
       "output": {
         "resource": {
@@ -257,10 +301,43 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-dashboard-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-dashboard-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-dashboard-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-dashboard-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-menu.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/my-apps/pictures/my-apps-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-new-tile-dialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-new-tile-dialog.png"
         }
       },
       "is_incremental": false,
@@ -312,10 +389,109 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-tile-structure.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-tile-structure.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-tiles-create-new.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-tiles-create-new.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-tiles-error.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-tiles-error.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-tiles-filtered-tile.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-tiles-filtered-tile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-tiles-generic-context.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-tiles-generic-context.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-tiles-new-dialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-tiles-new-dialog.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-tiles-specific-context.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-tiles-specific-context.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-timeline.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/my-apps/pictures/my-apps-timeline.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/social/pictures/follow-object-done.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/social/pictures/follow-object-done.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/social/pictures/follow-object.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/social/pictures/follow-object.png"
         }
       },
       "is_incremental": false,
