@@ -8,5 +8,5 @@
   href: timeline.md  
 - name: Tiles
   href: tiles.md  
-- name: Object follows
-  href: ./object-follows/index.md
+- name: Objects
+  href: ./objects/index.md
