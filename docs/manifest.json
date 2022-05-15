@@ -147,6 +147,50 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/objects/pictures/context-menupage.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/objects/pictures/context-menupage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/objects/pictures/context-navigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/objects/pictures/context-navigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/objects/pictures/overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/objects/pictures/overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/objects/pictures/tile.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/objects/pictures/tile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-cal-intro.png",
       "output": {
         "resource": {
