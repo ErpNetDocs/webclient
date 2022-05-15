@@ -696,11 +696,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/my-apps/object-follows.md",
+      "source_relative_path": "introduction/my-apps/objects/index.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/my-apps/object-follows.html",
-          "hash": "6xhSNJLASOyKyb+X/k56kQ=="
+          "relative_path": "introduction/my-apps/objects/index.html",
+          "hash": "FeYzm3KA7iQP4pZlG1WQ4w=="
         }
       },
       "is_incremental": false,
@@ -708,23 +708,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/my-apps/object-follows/index.md",
+      "source_relative_path": "introduction/my-apps/objects/objects.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/my-apps/object-follows/index.html",
-          "hash": "7d04of4wyNM5FXfHNAZL7g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/my-apps/object-follows/object-follows.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/my-apps/object-follows/object-follows.html",
-          "hash": "Pdkj++IrGRDz+v+NMn4tAw=="
+          "relative_path": "introduction/my-apps/objects/objects.html",
+          "hash": "M4ot0RlkgD7isIHDQMihIQ=="
         }
       },
       "is_incremental": false,
@@ -732,10 +720,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/my-apps/object-follows/pictures/context-menupage.png",
+      "source_relative_path": "introduction/my-apps/objects/pictures/context-menupage.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/my-apps/object-follows/pictures/context-menupage.png"
+          "relative_path": "introduction/my-apps/objects/pictures/context-menupage.png"
         }
       },
       "is_incremental": false,
@@ -743,10 +731,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/my-apps/object-follows/pictures/context-navigator.png",
+      "source_relative_path": "introduction/my-apps/objects/pictures/context-navigator.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/my-apps/object-follows/pictures/context-navigator.png"
+          "relative_path": "introduction/my-apps/objects/pictures/context-navigator.png"
         }
       },
       "is_incremental": false,
@@ -754,10 +742,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/my-apps/object-follows/pictures/overview.png",
+      "source_relative_path": "introduction/my-apps/objects/pictures/overview.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/my-apps/object-follows/pictures/overview.png"
+          "relative_path": "introduction/my-apps/objects/pictures/overview.png"
         }
       },
       "is_incremental": false,
@@ -765,10 +753,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/my-apps/object-follows/pictures/tile.png",
+      "source_relative_path": "introduction/my-apps/objects/pictures/tile.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/my-apps/object-follows/pictures/tile.png"
+          "relative_path": "introduction/my-apps/objects/pictures/tile.png"
         }
       },
       "is_incremental": false,
@@ -1180,7 +1168,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/social/social-follows.html",
-          "hash": "F5CXpBreW9afD3x8sC07RA=="
+          "hash": "OhZn5iRLsWWlMXxaGGwQoQ=="
         }
       },
       "is_incremental": false,
@@ -1204,7 +1192,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "K0OLHslCp4IZBO5zOg/xAg=="
+          "hash": "3KT1PKfKfyq2oIuzzfvxog=="
         }
       },
       "is_incremental": false,
