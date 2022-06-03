@@ -2,6 +2,8 @@
   href: index.md
 - name: Common terms
   href: terms.md
+- name: Searching in drop down lists
+  href: search-dropdown-lists.md
 - name: My apps
   href: my-apps/toc.yml
   topicHref: my-apps/index.md
