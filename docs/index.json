@@ -69,6 +69,11 @@
     "title": "Overview | ERP.net Web Client",
     "keywords": "Overview As the calendar application \"My Timeline\" is... a calendar. But in a more sophisticated way. The timeline displays not just your activities, but: All your mail messages Created documents Phone calls ...In a timeline. This is a convenient tool with which you can trace chronologically what happend. The timeline shows 15 days in a row and groups all events, according to the related party."
   },
+  "introduction/search-dropdown-lists.html": {
+    "href": "introduction/search-dropdown-lists.html",
+    "title": "How to search in drop down lists | ERP.net Web Client",
+    "keywords": "How to search in drop down lists DefaultSearchMembers Each repository defines its own DefaultSearchMembers - a collection of DataMembers which make searching possible. The default search members can be found within the \"Default Visualization\" section of every entity. Take a look at products . DisplayTextFormat Searching can also be accomplished with the help of fields that comprise the DisplayTextFormat . However, these fields are prioritized after the DefaultSearchMembers . Searching is initiated only if there isn't any match with the fields before them. This applies to dropdown lists as well. Results By default, DefaultSearchMembers in entities which have a code and name return the code and the name as part of the search results. Searching in dropdown lists and domain API returns only results which are based on the first field for which there are matches. Subsequent searches are not undertaken. If a search operation finds an exact match, the value is filled automatically in the corresponding field. Example Open the Invoicing module from the web client. Within the lines, in the Product field, type \"ser\". Different results respecting the search criteria will be listed."
+  },
   "introduction/social/chatter/index.html": {
     "href": "introduction/social/chatter/index.html",
     "title": "Overview | ERP.net Web Client",
