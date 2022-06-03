@@ -24,13 +24,11 @@ If a search operation finds an exact match, the value is filled automatically in
 ## Example 
 
 1. Open the Invoicing module from the web client.
-
-![Example](pictures/image-invoicing.jpg)
  
 2. Within the lines, in the _Product_ field, type "ser".
 
 3. Different results respecting the search criteria will be listed.
 
-![Example](pictures/image-ser.jpg)
+![Example](pictures/1212.jpg)
 
 
