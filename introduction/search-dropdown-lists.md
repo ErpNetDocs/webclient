@@ -14,7 +14,7 @@ This applies to **dropdown lists** as well.
 
 ### Results
 
-By default, _DefaultSearchMembers_ in entities which have a code and name return the code and the name as part of the search results. 
+By default, _DefaultSearchMembers_ are entities which have a code and name return the code and the name as part of the search results. 
 
 Searching in dropdown lists and domain API returns only results which are based on the first field for which there are matches. Subsequent searches are not undertaken.
 
