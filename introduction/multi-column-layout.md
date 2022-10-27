@@ -6,6 +6,12 @@ Setting this up happens through the Show/Hide panels menu:
 
 ![Show/hide panels](pictures/show-hide-panels.png)
 
+Go to the Reorder tab and click on the respective row under the Col column to set which column you would like to take the left side and which column you would like to take the right side:
+
+![Multiple columns](pictures/reorder.png)
+
+Close the Show/Hide panels menu when you are ready with your selection.
+
 As a result, the row in a view gets separated:
 
 ![Multiple columns](pictures/multiple-columns.png)
