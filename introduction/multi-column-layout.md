@@ -2,7 +2,7 @@
 
 This feature allows you to arrange two panels next to each another on the same row in specific VIEW. The separation line will always be exactly in the middle of the row.
 
-Setting this up happens through the Show/Hide panels menu:
+Setting this up happens through the Show/hide panels menu:
 
 ![Show/hide panels](pictures/show-hide-panels.png)
 
@@ -10,7 +10,7 @@ Go to the Reorder tab and click on the respective row under the Col column to se
 
 ![Multiple columns](pictures/reorder.png)
 
-Close the Show/Hide panels menu when you are ready with your selection.
+Close the Show/hide panels menu when you are ready with your selection.
 
 As a result, the row in a view gets separated:
 
