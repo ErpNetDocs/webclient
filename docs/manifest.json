@@ -521,6 +521,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/multiple-columns.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/multiple-columns.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/reorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/reorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/show-hide-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/show-hide-panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/social/pictures/follow-object-done.png",
       "output": {
         "resource": {
