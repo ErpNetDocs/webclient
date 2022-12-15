@@ -29,6 +29,6 @@ If a search operation finds an exact match, the value is filled automatically in
 
 3. Different results respecting the search criteria will be listed.
 
-![Example](pictures/search-result.jpg)
+![Pictures](pictures/search-result.jpg)
 
 
