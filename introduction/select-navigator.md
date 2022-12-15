@@ -1,8 +1,8 @@
-# How to use the Select by Navigator option
+# How to use the Select by navigator option
 
 Upon clicking a field that has а drop down option menu, for example the Sales Person field in Sales, a three point button will visualize and open the drop down menu itself.
 
-The **Select by Navigator** option allows you to easily access all data related to a certain field by clicking just a few buttons. 
+The **Select by navigator** option allows you to easily access all data related to a certain field by clicking just a few buttons. 
 
 In this way, you can complete a form just by choosing from a list of options the one that contains exactly what you need. 
 
@@ -10,10 +10,10 @@ Once you confirm the selection of the needed data, it will be **automatically** 
 
 ## Example use-case
 
-1. To begin the process, select a section from the menu (e.g. **CRM**).
+1. To begin the process, choose a section from the menu (e.g. **CRM**).
 
 
-2. From the sub-menu that appears underneath, choose a corresponding subsection (e.g. **Sales**).
+2. From the sub-menu that appears underneath, click on a corresponding subsection (e.g. **Sales**).
 
  
 3. We want to create a **direct sale order**. 
@@ -21,7 +21,7 @@ Once you confirm the selection of the needed data, it will be **automatically** 
 
 4. On the respective page, you can see one or more drop down fields. 
 
-To access the **Select by navigator** option and see the available features that come with it, click the **downward chevron** button.
+To access the **Select by navigator** option and the available features that come with it, click the **downward chevron** button.
 
 
 5. A vertical three-point button will appear right above the chevron button.
