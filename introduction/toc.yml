@@ -4,6 +4,8 @@
   href: terms.md
 - name: Searching in drop down lists
   href: search-dropdown-lists.md
+- name: Select by navigator
+  href: select-navigator.md
 - name: My apps
   href: my-apps/toc.yml
   topicHref: my-apps/index.md
