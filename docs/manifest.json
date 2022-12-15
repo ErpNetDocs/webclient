@@ -1207,10 +1207,76 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/chevron_store_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/chevron_store_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/crm_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/crm_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/direct_sale_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/direct_sale_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/field_visualized.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/field_visualized.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/final_button_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/final_button_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/multiple-columns.png",
       "output": {
         "resource": {
           "relative_path": "introduction/pictures/multiple-columns.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/options_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/options_select.png"
         }
       },
       "is_incremental": false,
@@ -1229,6 +1295,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/sales_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/sales_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/search-result.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/search-result.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/select_by_navigator_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/select_by_navigator_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/show-hide-panels.png",
       "output": {
         "resource": {
@@ -1239,15 +1338,35 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/store_threedot_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/store_threedot_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "introduction/search-dropdown-lists.md",
       "output": {
         ".html": {
           "relative_path": "introduction/search-dropdown-lists.html",
-          "hash": "HdbysHvoj/1ddix6Olm65A=="
+          "hash": "wfDielMBoLrxo3zPiPW1fw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/select-navigator.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/select-navigator.html",
+          "hash": "3BTpZtvqLIWBqGnb8SNrkg=="
         }
       },
       "is_incremental": false,
@@ -1329,7 +1448,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "LfN+coXcnzBHTidYs/6nEQ=="
+          "hash": "CI27ie/RvdwzhmdkGX4AWQ=="
         }
       },
       "is_incremental": false,
