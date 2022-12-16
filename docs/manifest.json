@@ -521,10 +521,76 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/chevron_store_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/chevron_store_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/crm_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/crm_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/direct_sale_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/direct_sale_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/field_visualized.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/field_visualized.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/final_button_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/final_button_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/multiple-columns.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/pictures/multiple-columns.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/options_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/options_select.png"
         }
       },
       "is_incremental": false,
@@ -543,10 +609,54 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/sales_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/sales_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/search-result.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/search-result.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/select_by_navigator_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/select_by_navigator_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/show-hide-panels.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/pictures/show-hide-panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/store_threedot_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/store_threedot_select.png"
         }
       },
       "is_incremental": false,
