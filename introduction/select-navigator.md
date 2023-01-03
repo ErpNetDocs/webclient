@@ -10,46 +10,40 @@ Once you confirm the selection of the needed data, it will be **automatically** 
 
 ## Example use-case
 
-1. To begin the process, choose a section from the menu (e.g. **CRM**).
+1. To begin the process, choose a section from the menu (e.g. **CRM**) and then a subsection (e.g. **Sales**).
 
-![Pictures](pictures/crm_select.png)
+![Pictures](pictures/crm-select.png)
 
-2. From the sub-menu that appears underneath, click on a corresponding subsection (e.g. **Sales**).
+2. We want to create a **direct sale order**. 
 
-![Pictures](pictures/sales_select.png)
+![Pictures](pictures/direct-sale-order-select2.png)
 
-3. We want to create a **direct sale order**. 
-
-![Pictures](pictures/direct_sale_select.png)
-
-4. On the respective page, you can see one or more drop down fields. 
+3. On the respective page, you can see one or more fields which can be filled manually or with the help of dropdown menus.
 
 To access the **Select by navigator** option and the available features that come with it, click the **downward chevron** button.
 
-![Pictures](pictures/chevron_store_select.png)
+![Pictures](pictures/store-down-button-select.png)
 
-5. A vertical three-point button will appear right above the chevron button.
+4. A vertical three-point button will appear right above the chevron button. 
 
-![Pictures](pictures/store_threedot_select.png)
+By clicking on it, you expand a menu from which you can choose **Select by navigator**.
+
+![Pictures](pictures/select-by-navigator-button2.png)
+
+This takes you to a separate page where you can see all of the field's available data. 
+
+The navigator responsible for containing it will be opened in **Select mode**.
+
+![Pictures](pictures/module-screen.png)
+
+5. The Select button text is dynamic and changes each time a different line gets marked. 
+
+After choosing an option, click on the button to confirm your choice. 
+
+![Pictures](pictures/module-screen2.png)
  
-6. By clicking on it, you expand a menu from which you can choose **Select by navigator**.
-
-![Pictures](pictures/select_by_navigator_select.png)
-
-This takes you to a new page where you can see all of the field's available data. 
-
-The navigator responsible for containing this type of data will be opened in **Select mode** and the button for selecting information will be visualized based on the option you select.
-
-![Pictures](pictures/options_select.png)
- 
-7. After choosing an option, click on the **Select** button which will match your choice. 
-
-The button is located on the bottom right side of the page. If you make a change to the selected option, the button's text will reflect it.
-
-![Pictures](pictures/final_button_select.png)
- 
-8. After selecting and confirming your choice, you will return to the original form (e.g. **direct sales order**). 
+After selecting and confirming your choice, you will return to the original form (e.g. **direct sales order**). 
 
 The data you've selected will be filled in the respective drop down field.
 
-![Pictures](pictures/field_visualized.png)
+![Pictures](pictures/choice-selected.png)
