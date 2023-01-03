@@ -1,12 +1,12 @@
-# How to use the Select by navigator option
+# How to use the Select by navigator feature
 
-Upon clicking a field that has а drop down option menu, for example the Sales Person field in Sales, a three point button will visualize and open the drop down menu itself.
+You can be more flexible and knowledgeable about the choices you need to make when creating different documents. 
 
-The **Select by navigator** option allows you to easily access all data related to a certain field by clicking just a few buttons. 
+For example, if you're filling out fields which use standard dropdown menus for making selections, you have the option to open these menus in a separate space.
 
-In this way, you can complete a form just by choosing from a list of options the one that contains exactly what you need. 
+This feature is known as **Select by navigator**. It allows you to complete a field by reviewing details about its associated options first and then making the final selection.
 
-Once you confirm the selection of the needed data, it will be **automatically** filled on the main page. 
+Once you confirm your choice, it will be **automatically** applied on the main document creation form. 
 
 ## Example use-case
 
@@ -18,32 +18,30 @@ Once you confirm the selection of the needed data, it will be **automatically** 
 
 ![Pictures](pictures/direct-sale-order-select2.png)
 
-3. On the respective page, you can see one or more fields which can be filled manually or with the help of dropdown menus.
+3. On the respective form, you can see multiple fields which can be filled with the help of dropdown menus.
 
-To access the **Select by navigator** option and the available features that come with it, click the **downward chevron** button.
+To access the **Select by navigator** option and the respective information which comes with it, click the **downward chevron** button.
 
 ![Pictures](pictures/store-down-button-select.png)
 
 4. A vertical three-point button will appear right above the chevron button. 
 
-By clicking on it, you expand a menu from which you can choose **Select by navigator**.
+By clicking on it, you expand a menu from which you need to choose **Select by navigator**.
 
 ![Pictures](pictures/select-by-navigator-button2.png)
 
-This takes you to a separate page where you can see all of the field's available data. 
+This takes you to the page of the dropdown menu where you can see all of the field's available options. 
 
-The navigator responsible for containing it will be opened in **Select mode**.
+The navigator responsible for containing it is opened in **Select mode** and allows for a record selection.
 
 ![Pictures](pictures/module-screen.png)
 
-5. The Select button text is dynamic and changes each time a different line gets marked. 
-
-After choosing an option, click on the button to confirm your choice. 
+5. The **Select** button text is dynamic and will change each time you select an option (line).
 
 ![Pictures](pictures/module-screen2.png)
  
-After selecting and confirming your choice, you will return to the original form (e.g. **direct sales order**). 
+After selecting and confirming your choice, you will return to the original document form.
 
-The data you've selected will be filled in the respective drop down field.
+The option you've chosen will be reflected in the respective dropdown field.
 
 ![Pictures](pictures/choice-selected.png)
