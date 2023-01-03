@@ -1328,10 +1328,54 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/choice-selected.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/choice-selected.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/crm-select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/crm-select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/crm_select.png",
       "output": {
         "resource": {
           "relative_path": "introduction/pictures/crm_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/direct-sale-order-select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/direct-sale-order-select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/direct-sale-order-select2.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/direct-sale-order-select2.png"
         }
       },
       "is_incremental": false,
@@ -1365,6 +1409,28 @@
       "output": {
         "resource": {
           "relative_path": "introduction/pictures/final_button_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/module-screen.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/module-screen.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/module-screen2.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/module-screen2.png"
         }
       },
       "is_incremental": false,
@@ -1427,6 +1493,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/select-by-navigator-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/select-by-navigator-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/select-by-navigator-button2.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/select-by-navigator-button2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/select_by_navigator_select.png",
       "output": {
         "resource": {
@@ -1442,6 +1530,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/pictures/show-hide-panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/store-down-button-select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/store-down-button-select.png"
         }
       },
       "is_incremental": false,
@@ -1476,7 +1575,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/select-navigator.html",
-          "hash": "3BTpZtvqLIWBqGnb8SNrkg=="
+          "hash": "x6q/pBcFAuLcoLWULwcu6Q=="
         }
       },
       "is_incremental": false,
