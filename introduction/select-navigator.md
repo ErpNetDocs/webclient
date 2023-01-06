@@ -10,19 +10,19 @@ The option is available for the fields whose values are records from another ent
 
 2. Click into the Store field and a three-point button of the context menu will appear. 
 
-![Pictures](pictures/direct-sale-order-select2.png)
+![Pictures](pictures/03_three_points_button.png)
 
 3. By clicking on it, you expand a menu from which you can choose Select by navigator option.
 
-![Pictures](pictures/store-down-button-select.png)
+![Pictures](pictures/02_select_by_navigator.png)
 
 4. The respective navigator for the field type opens up in Select mode and allows a record selection.  
 
 The Select button text is dynamic and changes each time a different line gets marked.
 
-![Pictures](pictures/select-by-navigator-button2.png)
+![Pictures](pictures/04_navigator_ith_select_button.png)
 
 5. Click the Select button. The system returns to the main form where the selected record’s value filled into the field.
 
-![Pictures](pictures/module-screen2.png)
+![Pictures](pictures/05_filled_selected_value.png)
  
