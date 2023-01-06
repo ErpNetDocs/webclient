@@ -521,6 +521,50 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/02_select_by_navigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/02_select_by_navigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/03_three_points_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/03_three_points_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/04_navigator_ith_select_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/04_navigator_ith_select_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/05_filled_selected_value.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/05_filled_selected_value.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/chevron_store_select.png",
       "output": {
         "resource": {
