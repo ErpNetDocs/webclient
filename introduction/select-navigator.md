@@ -1,47 +1,28 @@
-# How to use the Select by navigator feature
+# How to use the Select by navigator option
 
-You can be more flexible and knowledgeable about the choices you need to make when creating different documents. 
+The **Select by navigator** option allows you to easily select a value for a certain field, when creating or editing a document.  
 
-For example, if you're filling out fields which use standard dropdown menus for making selections, you have the option to open these menus in a separate space.
+The option is available for the fields whose values are records from another entity. It opens the entity navigator where you can use the navigator’s filters to find the desired value and select it into the field. 
 
-This feature is known as **Select by navigator**. It allows you to complete a field by reviewing details about its associated options first and then making the final selection.
+## Example: 
 
-Once you confirm your choice, it will be **automatically** applied on the main document creation form. 
+1. Create new Sales Order
 
-## Example use-case
-
-1. To begin the process, choose a section from the menu (e.g. **CRM**) and then a subsection (e.g. **Sales**).
-
-![Pictures](pictures/crm-select.png)
-
-2. We want to create a **direct sale order**. 
+2. Click into the Store field and a three-point button of the context menu will appear. 
 
 ![Pictures](pictures/direct-sale-order-select2.png)
 
-3. On the respective form, you can see multiple fields which can be filled with the help of dropdown menus.
-
-To access the **Select by navigator** option and the respective information which comes with it, click the **downward chevron** button.
+3. By clicking on it, you expand a menu from which you can choose Select by navigator option.
 
 ![Pictures](pictures/store-down-button-select.png)
 
-4. A vertical three-point button will appear right above the chevron button. 
+4. The respective navigator for the field type opens up in Select mode and allows a record selection.  
 
-By clicking on it, you expand a menu from which you need to choose **Select by navigator**.
+The Select button text is dynamic and changes each time a different line gets marked.
 
 ![Pictures](pictures/select-by-navigator-button2.png)
 
-This takes you to the page of the dropdown menu where you can see all of the field's available options. 
-
-The navigator responsible for containing it is opened in **Select mode** and allows for a record selection.
-
-![Pictures](pictures/module-screen.png)
-
-5. The **Select** button text is dynamic and will change each time you select an option (line).
+5. Click the Select button. The system returns to the main form where the selected record’s value filled into the field.
 
 ![Pictures](pictures/module-screen2.png)
  
-After selecting and confirming your choice, you will return to the original document form.
-
-The option you've chosen will be reflected in the respective dropdown field.
-
-![Pictures](pictures/choice-selected.png)
