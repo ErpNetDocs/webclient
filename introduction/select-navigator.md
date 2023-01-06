@@ -10,11 +10,11 @@ The option is available for the fields whose values are records from another ent
 
 2. Click into the Store field and a three-point button of the context menu will appear. 
 
-![Pictures](pictures/02_select_by_navigator.png)
+![Pictures](pictures/03_three_points_button.png)
 
 3. By clicking on it, you expand a menu from which you can choose Select by navigator option.
 
-![Pictures](pictures/03_three_points_button.png)
+![Pictures](pictures/02_select_by_navigator.png)
 
 4. The respective navigator for the field type opens up in Select mode and allows a record selection.  
 
