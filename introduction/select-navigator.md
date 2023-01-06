@@ -1,4 +1,4 @@
-# How to use the Select by navigator feature
+# How to use the Select by navigator option
 
 You can be more flexible and knowledgeable about the choices you need to make when creating different documents. 
 
