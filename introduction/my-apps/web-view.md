@@ -63,6 +63,18 @@ All sizes are relative to the viewport- the visible area of the web page.
 
 6. Done. Your web view is set.
 
+## String interpolation
+
+Above, it was explained how you can specify the URL for the web view.
+
+But there's one detail- this isn't just an URL, it's an interpolated string.
+
+If you paid attention earlier when we were setting up the URL for the web view, there was a button in the corresponding input. Here it is:
+
+![My apps - Web view](./pictures/my-apps-web-view-edit-mode-builder-focus.png "My apps - Web view - Builder focus")
+
+This will open the interpolated string builder, so you can easily set up your interpolated string.
+
 ## Remarks
 
 Internally, the web view presents its content via an [&lt;iframe/&gt;](https://www.w3schools.com/html/html_iframe.asp).
@@ -77,22 +89,10 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
 
 - The website (or service) requires authentication, managed by authentication cookies which are restricted to a first-party or same-site context.
 
-This means that the external website should explictly set that the auth cookies will be sent in cross-site requests.
+This means that the external website should explicitly set that the auth cookies will be sent in cross-site requests.
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite
 
 - If this is an external application, using @@erpnet Identity Site for authentication, the Id site must be the same one, as for @@webclient.
 
 The reason is simple. Actually, this is the same as the previous limitation. @@erpnet Identity Site's cookies are restricted to the `same-site` context.
-
-## String interpolation
-
-Above, it was explained how you can specify the URL for the web view.
-
-But there's one detail- this isn't just an URL, it's an interpolated string.
-
-If you paid attention earlier when we were setting up the URL for the web view, there was a button in the corresponding input. Here it is:
-
-![My apps - Web view](./pictures/my-apps-web-view-edit-mode-builder-focus.png "My apps - Web view - Builder focus")
-
-This will open the interpolated string builder, so you can easily set up your interpolated string.
