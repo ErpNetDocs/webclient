@@ -128,6 +128,12 @@
 <ol start="6">
 <li>Done. Your web view is set.</li>
 </ol>
+<h2 id="string-interpolation">String interpolation</h2>
+<p>Above, it was explained how you can specify the URL for the web view.</p>
+<p>But there's one detail- this isn't just an URL, it's an interpolated string.</p>
+<p>If you paid attention earlier when we were setting up the URL for the web view, there was a button in the corresponding input. Here it is:</p>
+<p><img src="pictures/my-apps-web-view-edit-mode-builder-focus.png" alt="My apps - Web view" title="My apps - Web view - Builder focus"></p>
+<p>This will open the interpolated string builder, so you can easily set up your interpolated string.</p>
 <h2 id="remarks">Remarks</h2>
 <p>Internally, the web view presents its content via an <a href="https://www.w3schools.com/html/html_iframe.asp">&lt;iframe/&gt;</a>.</p>
 <p>This means that there're some limitations:</p>
@@ -139,18 +145,12 @@
 <ul>
 <li>The website (or service) requires authentication, managed by authentication cookies which are restricted to a first-party or same-site context.</li>
 </ul>
-<p>This means that the external website should explictly set that the auth cookies will be sent in cross-site requests.</p>
+<p>This means that the external website should explicitly set that the auth cookies will be sent in cross-site requests.</p>
 <p><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite">https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite</a></p>
 <ul>
 <li>If this is an external application, using ERP.net Identity Site for authentication, the Id site must be the same one, as for ERP.net Web Client.</li>
 </ul>
 <p>The reason is simple. Actually, this is the same as the previous limitation. ERP.net Identity Site's cookies are restricted to the <code>same-site</code> context.</p>
-<h2 id="string-interpolation">String interpolation</h2>
-<p>Above, it was explained how you can specify the URL for the web view.</p>
-<p>But there's one detail- this isn't just an URL, it's an interpolated string.</p>
-<p>If you paid attention earlier when we were setting up the URL for the web view, there was a button in the corresponding input. Here it is:</p>
-<p><img src="pictures/my-apps-web-view-edit-mode-builder-focus.png" alt="My apps - Web view" title="My apps - Web view - Builder focus"></p>
-<p>This will open the interpolated string builder, so you can easily set up your interpolated string.</p>
 </article>
           </div>
           
