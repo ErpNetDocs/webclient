@@ -1106,6 +1106,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/customers-navigator-context-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/customers-navigator-context-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/my-apps/pictures/my-apps-cal-intro.png",
       "output": {
         "resource": {
@@ -1435,6 +1446,105 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-web-view-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-web-view-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-web-view-client-navigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-web-view-client-navigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-web-view-context-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-web-view-context-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-web-view-edit-mode-builder-focus.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-web-view-edit-mode-builder-focus.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-web-view-edit-mode-size.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-web-view-edit-mode-size.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-web-view-edit-mode.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-web-view-edit-mode.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-web-view-not-set.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-web-view-not-set.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-web-view-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-web-view-panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-web-view-sales-order.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-web-view-sales-order.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "introduction/my-apps/tiles.md",
       "output": {
@@ -1453,6 +1563,18 @@
         ".html": {
           "relative_path": "introduction/my-apps/timeline.html",
           "hash": "n1otwdEDwOSIXZ4b0+aNlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/my-apps/web-view.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/my-apps/web-view.html",
+          "hash": "wIWJIRsMzGmvFGMQ6i60hw=="
         }
       },
       "is_incremental": false,
@@ -1756,7 +1878,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "CI27ie/RvdwzhmdkGX4AWQ=="
+          "hash": "CIgwZbihnbHF0QAZ/+/ZjQ=="
         }
       },
       "is_incremental": false,
