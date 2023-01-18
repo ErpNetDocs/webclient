@@ -1,12 +1,12 @@
 # Overview
 
-The web view is a special type of app allowing you to show an external website or a service. 
+The web view is a special type of panel allowing you to show an external website or a service. 
 
 Inside the @@webclient, as a part of its layout.
 
 ![My apps - Web view](./pictures/my-apps-web-view-1.png "My apps - Web view")
 
-Besides being a standalone app, the web view can be plugged as a separate panel in any page, part of the @@webclient.
+The web view panel can be plugged as a separate panel in any page, part of the @@webclient.
 
 Here's an example of how it looks in the customers navigator,
 
