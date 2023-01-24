@@ -7,6 +7,15 @@ references:
 - uid: name
   name: name
   href: includes/name.html
+- uid: parcers
+  name: Barcode parcers
+  href: wms-worker/parcers.html
+- uid: suggest-warehouse-locations
+  name: Suggest warehouse locations
+  href: wms-worker/suggest-warehouse-locations.html
 - uid: webclient
   name: webclient
   href: includes/webclient.html
+- uid: wms-worker
+  name: WMS Worker
+  href: wms-worker/index.html
