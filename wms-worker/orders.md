@@ -1,7 +1,3 @@
----
-uid: wms-worker-orders
----
-
 # Orders
 
 The "Orders" menu provides information on upcoming warehouse orders. 
