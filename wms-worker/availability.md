@@ -1,7 +1,3 @@
----
-uid: wms-worker-availability
----
-
 # Availability
 
 The system provides quick and easy availability checks. A location or product should be selected to get the search engine up and running:
