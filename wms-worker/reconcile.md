@@ -1,7 +1,3 @@
----
-uid: wms-worker-reconcile
----
-
 # Reconcile
 
 The <b>Reconcile</b> menu allows you to make a comparison between the quantity of the product counted by the employees and the expected availability. This happens in real-time by Lots and Serial numbers. 
