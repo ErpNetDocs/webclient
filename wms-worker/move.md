@@ -1,3 +1,7 @@
+---
+uid: wms-worker-move
+---
+
 # Move
 
 The <b>Move</b> page allows you to make a warehouse transfer. To move products from one location to another, you must first select or scan:
