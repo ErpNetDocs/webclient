@@ -11,7 +11,7 @@ WMS worker allows the warehouse workers to complete their tasks such as receivin
 
 The algorithm of the application works in such a way that it can give instructions not only to humans but also to robots. Learn more about the WMS Worker in the following articles:
 
--	@wms-worker-orders
--	@wms-worker-availability
--	@wms-worker-move
--	@wms-worker-reconcile
+-	[Orders](orders.md)
+-	[Availability](availability.md)
+-	[Move](move.md)
+-	[Reconcile](reconcile.md)
