@@ -9,7 +9,7 @@ For information and deep dive in the business logic of @@name, check the [Techni
 - [Introduction to @@webclient](./introduction/index.md) - explanation of commonly used terms, concepts and commands.
 - Step by step guides
 - Specific functionality - forms, which are specific to the @@webclient
-- [WMS Worker](.wms-worker/index.md) - mobile warehouse management app 
+- [WMS Worker](.wms-worker/index.md) - mobile warehouse management application
 
 ## Other documentations
 
