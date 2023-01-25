@@ -983,6 +983,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/execute-order.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/execute-order.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/info-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/info-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/location.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/location.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/wms-worker/pictures/location_barcode.png",
       "output": {
         "resource": {
@@ -1262,6 +1295,39 @@
       "output": {
         "resource": {
           "relative_path": "docs/wms-worker/pictures/reconcile-summary.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/scan-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/scan-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/suggest-locations.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/suggest-locations.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/suggested-location.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/suggested-location.png"
         }
       },
       "is_incremental": false,
