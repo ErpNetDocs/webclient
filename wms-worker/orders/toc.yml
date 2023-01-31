@@ -2,5 +2,7 @@
   href: index.md
 - name: Lines execution
   href: lines-execution.md
+- name: Barcode parcers (TBD)
+  href: parcers.md
 - name: Picking routing
   href: picking-routing.md
