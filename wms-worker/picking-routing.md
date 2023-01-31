@@ -4,15 +4,17 @@ uid: picking-routing
 
 # Picking routing
 Workers who physically pick items for the warehouse orders use picking routes to guide them through the process.
-The route is calculated using the “Suggest warehouse locations” function that is available in the Orders menu of WMS worker. The picking route takes into account the different parameters that are set up for the warehouse, such as:
-- The Zones specified as picking zones through the Zone Type policy;
-- The Locations addresses that are used to calculate the best route through the warehouse.
+The route is calculated using the "Suggest warehouse locations" function that is available in the Orders menu of WMS worker. The picking route takes into account the different parameters that are set up for the warehouse, such as:
+- The Zones specified as picking zones through the "Zone Type" policy;
+- The Locations addresses that are used to calculate the best route through the warehouse;
+
 as well as other factors, such as:
--the availability in different locations – suggests the location with the smallest availability that is enough to fulfill the order
-- the lot’s Expiry Date
+
+- the availability in the different locations – suggests the location with the smallest availability that is enough to fulfill the order;
+- and the lot’s Expiry Date.
 
 > [!NOTE]
-> The Pick task type is not yet supported by the system. Instead, a Dispatch task type is used, which directly issues the product from the Warehousе.
+> The Pick task type is not yet supported by the system. Is is replaced by the Dispatch task type, which directly issues the product from the Warehousе.
 
 Currently, the function can only be used for dispatch Warehouse Orders i.e. Warehouse Orders whose lines are only with Dispatch or Comp-dispatch task type.
 
