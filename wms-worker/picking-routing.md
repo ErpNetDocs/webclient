@@ -52,5 +52,14 @@ Once the execution of the first line is finished, the system will bring the work
 
 ![Picture](pictures/next-line.png)
 
+### What if the function could not suggest a location for all lines?
+The order lines for which the system could not find a suitable Location to suggest will be sorted last - after all lines with succesfully sugested locations.
+
+![Picture](pictures/no-location.png)
+
+This way, when the worker finishes following the suggested route, can still execute the remainig lines without suggestions. 
+The system will not guide the worker to a particular location, but the Location screen during the line execution contains provides convenient panels e.g. the Availability panel, which the worker can use to find a location from where he can still pick the product.
+
+![Picture](pictures/location-availability.png)
 
  
