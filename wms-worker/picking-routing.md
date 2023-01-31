@@ -23,10 +23,12 @@ Currently, the function can only be used for dispatch Warehouse Orders i.e. Ware
 
 Open the **Orders** menu of WMS Worker.
 
-![Picture](pictures/orders.png)
- 
 This takes you to a list of the orders that are available for execution for the current worker.
 Click on the outbound order you would like to execute.
+
+![Picture](pictures/orders.png)
+ 
+This will open a screen containing the lines of the order and their details.
 
 ![Picture](pictures/open-order.png)
  
