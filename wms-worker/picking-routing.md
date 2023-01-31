@@ -32,20 +32,25 @@ At the bottom of the screen, you will find a three-dot button, from which you ca
 
 ![Picture](pictures/suggest-locations.png)
 
-This immediately starts the calculation of the function.
+This will start the processing of the lines and the calculation of the function.
 
-When the calculation is done, the function will load all Locations that were sucessfully determined in the **Loc** column and will automatically sort the lines ascending by the location's address. 
+![Picture](pictures/processing.png)
+
+When the processing is done, the function will load all Locations that were sucessfully determined in the **Loc** column and will automatically sort the lines ascending by the location's address. 
 
 This  will form the route that the worker needs to follow to sequentially collect all products from the order.
 
 ![Picture](pictures/location.png)
 
-You can start following the route by by clicking the **Execute** button. This will diplay the first screen which contains the information about the suggested Location and will lead the worker to it.
+The worker can start following the route by by clicking the **Execute** button. This will diplay the first screen which contains the information about the suggested Location and will lead the worker to it.
 
 ![Picture](pictures/execute-order.png)
 
 When the worker reaches the Location, he has to scan the Location and perform the rest of the line the execution as usual. 
-Once the execution of the first line is finished, the 
+
+Once the execution of the first line is finished, the system will bring the worker back to the lines menu and will automatically select the next line that is available for execution.
+
+![Picture](pictures/next-line.png)
 
 
  
