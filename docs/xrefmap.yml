@@ -9,7 +9,7 @@ references:
   href: includes/name.html
 - uid: parcers
   name: Barcode parcers
-  href: wms-worker/parcers.html
+  href: wms-worker/orders/parcers.html
 - uid: picking-routing
   name: Picking routing
   href: wms-worker/orders/picking-routing.html
