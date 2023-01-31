@@ -48,7 +48,7 @@ The worker can start following the route by by clicking the **Execute** button. 
 
 When the worker reaches the Location, he has to scan the Location and perform the rest of the line the execution as usual. 
 
-Once the execution of the first line is finished, the system will bring the worker back to the lines menu and will automatically select the next line that is available for execution.
+Once the execution of the first line is finished, the system will bring the worker back to the lines menu and will automatically select the next line that is available for execution and by this, will lead the worker to the next Location of the route.
 
 ![Picture](pictures/next-line.png)
 
