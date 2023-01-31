@@ -10,9 +10,9 @@ references:
 - uid: parcers
   name: Barcode parcers
   href: wms-worker/parcers.html
-- uid: suggest-warehouse-locations
-  name: Suggest warehouse locations
-  href: wms-worker/suggest-warehouse-locations.html
+- uid: picking-routing
+  name: Picking routing
+  href: wms-worker/orders/picking-routing.html
 - uid: webclient
   name: webclient
   href: includes/webclient.html
