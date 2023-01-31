@@ -4,5 +4,5 @@
   href: lines-execution.md
 - name: Barcode parcers (TBD)
   href: parcers.md
-- name: Picking routing
-  href: picking-routing.md
+- name: Picking routes
+  href: picking-routes.md
