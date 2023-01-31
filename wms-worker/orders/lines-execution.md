@@ -1,4 +1,4 @@
-# Line Execution
+# Lines Execution
 
 The line execution starts when we press the <b>Execute</b> button in the lines list or when we Scan a code and a matching line is found.
 The execution guides the worker trough the applicable screens. The applicable screens are .... 
