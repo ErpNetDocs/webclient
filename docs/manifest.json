@@ -950,6 +950,259 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/execute-order.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/execute-order.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/info-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/info-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/location-availability.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/location-availability.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/location.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/location.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/location_barcode.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/location_barcode.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/next-line.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/next-line.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/no-location.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/no-location.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/open-order.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/open-order.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/order-actions.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/order-actions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/order-availability.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/order-availability.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/order-complete.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/order-complete.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/order-details.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/order-details.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/order-location.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/order-location.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/order-lot.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/order-lot.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/order-product.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/order-product.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/order-quantity.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/order-quantity.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/order-serial.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/order-serial.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/orders.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/orders.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/processing.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/processing.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/product_barcode.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/product_barcode.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/scan-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/scan-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/suggest-locations.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/suggest-locations.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/suggested-location.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/suggested-location.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/wms-worker/pictures/availability-actions.png",
       "output": {
         "resource": {
@@ -2522,11 +2775,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "wms-worker/orders/picking-routing.md",
+      "source_relative_path": "wms-worker/orders/picking-routes.md",
       "output": {
         ".html": {
-          "relative_path": "wms-worker/orders/picking-routing.html",
-          "hash": "4l2b8qgJU/RLbQBTXT885Q=="
+          "relative_path": "wms-worker/orders/picking-routes.html",
+          "hash": "Q/HUnjci0DvC9tsehj6xYQ=="
         }
       },
       "is_incremental": false,
@@ -3005,7 +3258,7 @@
       "output": {
         ".html": {
           "relative_path": "wms-worker/toc.html",
-          "hash": "4QQnRBC8AsVcimZqJ3ISCg=="
+          "hash": "995CoSOqq5ElzwKWU5Iq6A=="
         }
       },
       "is_incremental": false,
