@@ -79,26 +79,17 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="how-to-search-in-drop-down-lists">How to search in drop down lists</h1>
 
-<h3 id="defaultsearchmembers">DefaultSearchMembers</h3>
-<p>Each repository defines its own <em>DefaultSearchMembers</em> - a collection of <em>DataMembers</em> which make <strong>searching</strong> possible.</p>
-<p>The default search members can be found within the &quot;Default Visualization&quot; section of every entity. Take a look at <a href="https://docs.erp.net/model/entities/General.Products.Products.html">products</a>.</p>
-<h3 id="displaytextformat">DisplayTextFormat</h3>
-<p>Searching can also be accomplished with the help of fields that comprise the <em>DisplayTextFormat</em>. However, these fields are prioritized after the <em>DefaultSearchMembers</em>. Searching is initiated only if there isn't any match with the fields before them.</p>
-<p>This applies to <strong>dropdown lists</strong> as well.</p>
-<h3 id="results">Results</h3>
-<p><em>DefaultSearchMembers</em> are entities which have a code and name and which return these code and name as part of the search results.</p>
-<p>Searching in dropdown lists and domain API returns only results which are based on the first field for which there are matches. Subsequent searches are not undertaken.</p>
-<p>If a search operation finds an exact match, the value is filled automatically in the corresponding field.</p>
-<h2 id="example">Example</h2>
-<ol>
-<li><p>Open the Invoicing module from the web client.</p>
-</li>
-<li><p>Within the lines, in the <em>Product</em> field, type &quot;ser&quot;.</p>
-</li>
-<li><p>Different results respecting the search criteria will be listed.</p>
-</li>
-</ol>
-<p><img src="pictures/search-result.png" alt="Pictures"></p>
+<p>The search in the the drow down lists that show records from another entity works with specific values. Generally, you can search by the fields that are included in the entity's Default Search Members or the entity's Display Text.</p>
+<h3 id="default-search-members">Default Search Members</h3>
+<p>For each entity are specified particular <em>Default Search Members</em> - a collection of <em>Fields</em> which make <strong>searching</strong> possible.</p>
+<p>Which are the default search members of a specific entity, can be seen &quot;Default Visualization&quot; section of the entity's documentation. Take a look at <a href="https://docs.erp.net/model/entities/General.Products.Products.html">products</a>.</p>
+<h3 id="display-format">Display Format</h3>
+<p>Searching can also be accomplished with the help of fields that comprise the <em>Display Text</em>. However, these fields are prioritized after the <em>Default Search Members</em>. Searching is initiated only if there isn't any match with the fields before them.</p>
+<blockquote>
+<p><strong><em>NOTE:</em></strong>  Searching in dropdown lists and domain API returns only results which are based on the first field for which there are matches. Subsequent searches are not undertaken. If a search operation finds an exact match, the value is filled automatically in the corresponding field.</p>
+</blockquote>
+<p>Each entity has a <em>Default Display Text Format</em>. The <em>Default Display Text Format</em> for each entity is specified in the entity's documentation. Take a look at <a href="https://docs.erp.net/model/entities/General.Products.Products.html">products</a>.</p>
+<p>A different <em>Display Text Format</em> can be explicitly set for the entity in the <em>Display Text Format</em> field of the Entities navigator in the particular database. If no <em>Display Text Format</em> is specified, then the system apllies the <em>Default Display Text Format</em>.</p>
 </article>
           </div>
           
