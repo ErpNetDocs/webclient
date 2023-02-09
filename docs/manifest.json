@@ -1809,7 +1809,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/calendar.html",
-          "hash": "5ZFSz5hgqObdoYrkN9DvqA=="
+          "hash": "LqLTYHTWJIKn8bt1Nk5j6A=="
         }
       },
       "is_incremental": false,
@@ -1913,6 +1913,50 @@
       "output": {
         "resource": {
           "relative_path": "introduction/my-apps/pictures/customers-navigator-context-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-cal-control-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-cal-control-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-cal-control-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-cal-control-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-cal-control-3.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-cal-control-3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/my-apps-cal-control-4.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/my-apps-cal-control-4.png"
         }
       },
       "is_incremental": false,
