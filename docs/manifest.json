@@ -202,6 +202,50 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-cal-control-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-cal-control-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-cal-control-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-cal-control-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-cal-control-3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-cal-control-3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-cal-control-4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/my-apps-cal-control-4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/my-apps-cal-intro.png",
       "output": {
         "resource": {
