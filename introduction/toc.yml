@@ -8,6 +8,8 @@
   href: select-navigator.md
 - name: Create New
   href: create-new.md
+- name: Multi-column layout
+  href: multi-column-layout.md
 - name: My apps
   href: my-apps/toc.yml
   topicHref: my-apps/index.md

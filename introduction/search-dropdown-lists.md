@@ -1,34 +1,22 @@
 # How to search in drop down lists
 
-### DefaultSearchMembers
+The search in the the drow down lists that show records from another entity works with specific values. Generally, you can search by the fields that are included in the entity's Default Search Members or the entity's Display Text.
 
-Each repository defines its own _DefaultSearchMembers_ - a collection of _DataMembers_ which make **searching** possible. 
+### Default Search Members
 
-The default search members can be found within the "Default Visualization" section of every entity. Take a look at [products](https://docs.erp.net/model/entities/General.Products.Products.html). 
+For each entity are specified particular _Default Search Members_ - a collection of _Fields_ which make **searching** possible. 
 
-### DisplayTextFormat
+Which are the default search members of a specific entity, can be seen "Default Visualization" section of the entity's documentation. Take a look at [products](https://docs.erp.net/model/entities/General.Products.Products.html). 
 
-Searching can also be accomplished with the help of fields that comprise the _DisplayTextFormat_. However, these fields are prioritized after the _DefaultSearchMembers_. Searching is initiated only if there isn't any match with the fields before them. 
+### Display Format
 
-This applies to **dropdown lists** as well.
+Searching can also be accomplished with the help of fields that comprise the _Display Text_. However, these fields are prioritized after the _Default Search Members_. Searching is initiated only if there isn't any match with the fields before them. 
 
-### Results
+> **_NOTE:_**  Searching in dropdown lists and domain API returns only results which are based on the first field for which there are matches. Subsequent searches are not undertaken. If a search operation finds an exact match, the value is filled automatically in the corresponding field. 
 
-_DefaultSearchMembers_ are entities which have a code and name and which return these code and name as part of the search results. 
+Each entity has a _Default Display Text Format_. The _Default Display Text Format_ for each entity is specified in the entity's documentation. Take a look at [products](https://docs.erp.net/model/entities/General.Products.Products.html). 
 
-Searching in dropdown lists and domain API returns only results which are based on the first field for which there are matches. Subsequent searches are not undertaken.
+A different _Display Text Format_ can be explicitly set for the entity in the _Display Text Format_ field of the Entities navigator in the particular database. If no _Display Text Format_ is specified, then the system apllies the _Default Display Text Format_.
 
-If a search operation finds an exact match, the value is filled automatically in the corresponding field. 
-
-
-## Example 
-
-1. Open the Invoicing module from the web client.
- 
-2. Within the lines, in the _Product_ field, type "ser".
-
-3. Different results respecting the search criteria will be listed.
-
-![Pictures](pictures/search-result.png)
 
 

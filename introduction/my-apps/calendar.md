@@ -67,3 +67,55 @@ This is not something new for a "My app", but rather a key functionality. You ca
 ![My apps - Widget 1](./pictures/my-apps-calendar-widget-1.png "My apps - Widget 1")
 
 ![My apps - Widget 2](./pictures/my-apps-calendar-widget-2.png "My apps - Widget 2")
+
+## My Calendar as an inline control
+
+My Calendar is also present as an inline control anywhere in @@webclient where you need to enter a date.
+
+Here's an example when creating a new [activity](https://docs.erp.net/model/entities/General.Contacts.Activities.html) where you need to set the [document's date](https://docs.erp.net/model/entities/General.Contacts.Activities.html#documentdate).
+
+![My apps - Calendar control - Date](./pictures/my-apps-cal-control-1.png "My apps - Calendar control - Date")
+
+
+In addition to date, time input is also supported.
+
+![My apps - Calendar control - DateTime](./pictures/my-apps-cal-control-2.png "My apps - Calendar control - DateTime")
+
+The calendar will automatically allow time input when the property you're editing requires it. As in the example from above - when specifying the date and **time** for a reminder in [to do task](https://docs.erp.net/model/entities/Projects.Todo.Tasks.html#remindtimeutc).
+
+Here's what the same control looks like, but in mobile view:
+
+![My apps - Calendar control - DateTime Mobile](./pictures/my-apps-cal-control-3.png "My apps - Calendar control - DateTime Mobile")
+
+
+Of course, sometimes you only need to enter an exact time. The calendar will adapt and display only the time:
+
+![My apps - Calendar control - Time](./pictures/my-apps-cal-control-4.png "My apps - Calendar control - Time")
+
+### Time presets
+
+The time seletion in the control is presented as a list of convenient predefined times:
+
+- 10:00 / Morning
+- 12:30 / Lunch
+- 14:00 / Early afternoon
+- 16:00 / Late afternoon
+- 19:00 / Dinner
+
+If you want to set another time, you can do it manually via the input at the bottom.
+
+### Customizing time presets
+
+It's also possible to completely redefine the time presets to suit your needs.
+
+This can be done via the global configuration options via the key [`Calendar/TimePresets`](https://docs.erp.net/tech/reference/config-options-reference.html#49-calendartimepresets).
+
+When this key has value, conforming to the format below, it overrides the default time presets.
+
+```
+<PresetName1>=<H>:<M>;<PresetName2>=<H>:<M>;...
+```
+e.g.,
+```
+Morning=10:00;Lunch=12:30;Afternoon=15:00;Dinner=19:00
+```
