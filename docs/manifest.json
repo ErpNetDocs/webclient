@@ -1735,6 +1735,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/create-new.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/create-new.html",
+          "hash": "ajcXu/Z1fgIy9lF4rYnljQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/index.md",
       "output": {
         ".html": {
@@ -2517,6 +2529,61 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/1-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/1-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/2-create-new.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/2-create-new.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/3-object-type.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/3-object-type.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/4-breadcrumb.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/4-breadcrumb.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/5-filled-in.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/5-filled-in.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/chevron_store_select.png",
       "output": {
         "resource": {
@@ -2769,7 +2836,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "TKKBQZFr6+PgqdoOmnTCMw=="
+          "hash": "v1D8z5iRCscoJL6fNzefRg=="
         }
       },
       "is_incremental": false,

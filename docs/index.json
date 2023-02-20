@@ -19,6 +19,11 @@
     "title": "Welcome to the ERP.net Web Client Documentation | ERP.net Web Client",
     "keywords": "Welcome to the ERP.net Web Client Documentation This documentation contains information about the user interface and how to use the ERP.net Web Client. For information and deep dive in the business logic of ERP.net, check the Technical Documentation . Topics Introduction to ERP.net Web Client - explanation of commonly used terms, concepts and commands. Step by step guides Specific functionality - forms, which are specific to the ERP.net Web Client WMS Worker - mobile warehouse management application Other documentations All docs - root container for all ERP.net documentations. Technical Documentation - business logic and implementation information. Domain Model - reference information about the business entities. Developer Documentation - information for developers."
   },
+  "introduction/create-new.html": {
+    "href": "introduction/create-new.html",
+    "title": "How to use the Create New option | ERP.net Web Client",
+    "keywords": "How to use the Create New option The Create New option allows you to easily create a value for a certain field. It opens a new form, where you can create a new item, then the system returns to the main form with the created record filled in. Example: Create new Sales Order Click into the End Customer Party field and a three-point button of the context menu will appear. By clicking on it, you expand a menu where you can choose Create New option. Select the type of the object (if it is necessary) and the respective form for the field type opens up and allows a record creation. The new form appears in the breadcrumb as a subitem of the current. Click the Save button and the system returns to the main form with the created record filled in."
+  },
   "introduction/index.html": {
     "href": "introduction/index.html",
     "title": "Introduction to ERP.net Web Client | ERP.net Web Client",
