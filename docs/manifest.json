@@ -719,6 +719,61 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/1-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/1-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/2-create-new.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/2-create-new.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/3-object-type.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/3-object-type.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/4-breadcrumb.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/4-breadcrumb.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/5-filled-in.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/5-filled-in.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/chevron_store_select.png",
       "output": {
         "resource": {
