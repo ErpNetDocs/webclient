@@ -2639,6 +2639,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/aadd_roles_new.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/aadd_roles_new.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/chevron_store_select.png",
       "output": {
         "resource": {
@@ -2694,6 +2705,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/edit_mode.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/edit_mode.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/field_visualized.png",
       "output": {
         "resource": {
@@ -2727,6 +2749,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/new_role.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/new_role.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/options_select.png",
       "output": {
         "resource": {
@@ -2742,6 +2775,39 @@
       "output": {
         "resource": {
           "relative_path": "introduction/pictures/reorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/role_panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/role_panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/role_set.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/role_set.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/role_win.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/role_win.png"
         }
       },
       "is_incremental": false,
@@ -2891,7 +2957,19 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "v1D8z5iRCscoJL6fNzefRg=="
+          "hash": "dEpIrTMIPStXCft7or8HLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/user-roles.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/user-roles.html",
+          "hash": "Ut/hie1pq3GKutCuWx1AKg=="
         }
       },
       "is_incremental": false,

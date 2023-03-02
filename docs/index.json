@@ -114,6 +114,11 @@
     "title": "Most commonly used terms | ERP.net Web Client",
     "keywords": "Most commonly used terms In ERP.net Web Client, there are some special terms. This topic briefly explains the most common ones. You can use it as a dictionary until you get used to them: Form - the topmost core component. Each page has a single form, containing multiple panels. Allows you to rearrange, hide and show panels. Panel - a core component, displaying a specific type of information. Each panel is hosted in a form. My apps – a group of specific standalone applications, integral part of the ERP.net Web Client; Widget - a special panel, containing one, specific \"My app\". It could be placed in every ERP.net Web Client form;"
   },
+  "introduction/user-roles.html": {
+    "href": "introduction/user-roles.html",
+    "title": "How to define user roles | ERP.net Web Client",
+    "keywords": "How to define user roles You can assign roles to security users and link them to specific enterprise companies and company locations . This option grants different permissions and responsibilities based on an employee’s workplace and department. However, the roles you’re allowed to define will vary . When companies are matched with locations, you can choose only the most suitable entries per combination. By default, users without predefined enterprise company and company location have role access to all of them. Prerequisites Make sure the Roles panel is part of the user’s standard settings definition. Open the list of default panel and toggle the Roles slider. This will add the panel to the user’s settings and allow you to define and change custom roles. Role definition In the Roles panel, you can link one or more roles to a user. Their scope can be configured to cover that user’s enterprise company and company location. Enter Edit Mode to be able to change settings. Navigate to the Roles panel and click the plus button to add a new role. Within the expanded side tab on the right, choose values for the Role , Enterprise Company and Company Location fields. The latter two will determine which roles will appear on the list. Apply your settings."
+  },
   "README.html": {
     "href": "README.html",
     "title": "Welcome to the ERP.net Web Client Documentation | ERP.net Web Client",
