@@ -2,11 +2,9 @@
 
 You can assign roles to security users which are linked to their specific **enterprise company** and **company location**. 
 
-This option grants different permissions and responsibilities based on an employee’s workplace and department. 
+This option grants different permissions and responsibilities based on an employee’s workplace and department. However, the roles you’re allowed to define will **vary**. When enterprise companies are matched with company locations, you can choose only the most suitable entries per combination. 
 
-However, the roles you’re allowed to define will **vary**. When enterprise companies are matched with company locations, you can choose only from the most suitable entries. 
-
-By default, users without predefined enterprise company and company location have access to **all** workplaces and departments.
+By default, users without predefined enterprise company and company location have role access to **all** of them.
 
 ## Prerequisites 
 
@@ -32,7 +30,7 @@ Their scope can be configured to cover that user’s enterprise company and comp
 
 ![Pictures](pictures/role_set.png)
  
-3.	Within the expanded side tab on the right, choose values for the **Role**, **Enterprise Company** and **Company Location** fields. <br> The latter two will determine which roles are most suitable to appear on the list.  
+3.	Within the expanded side tab on the right, choose values for the **Role**, **Enterprise Company** and **Company Location** fields. <br> The latter two will determine which roles will appear on the list.  
 
 ![Pictures](pictures/aadd_roles_new.png) 
 
