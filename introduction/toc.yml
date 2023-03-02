@@ -10,6 +10,8 @@
   href: create-new.md
 - name: Multi-column layout
   href: multi-column-layout.md
+- name: User role definition
+  href: user-roles.md
 - name: My apps
   href: my-apps/toc.yml
   topicHref: my-apps/index.md
