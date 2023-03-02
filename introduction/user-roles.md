@@ -1,6 +1,6 @@
 # How to define user roles for “Enterprise Company” and “Company Location”
 
-You can assign roles to security users which are linked to their specific **enterprise company** and **company location**. 
+You can assign roles to security users and link them to their specific **enterprise company** and **company location**. 
 
 This option grants different permissions and responsibilities based on an employee’s workplace and department. However, the roles you’re allowed to define will **vary**. When companies are matched with locations, you can choose only the most suitable entries per combination. 
 
