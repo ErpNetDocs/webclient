@@ -1,4 +1,4 @@
-# How to define user roles for “Enterprise Company” and “Company Location”
+# How to define user roles
 
 You can assign roles to security users and link them to specific **enterprise companies** and **company locations**. 
 
