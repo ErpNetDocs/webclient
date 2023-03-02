@@ -2,7 +2,7 @@
 
 You can assign roles to security users which are linked to their specific **enterprise company** and **company location**. 
 
-This option grants different permissions and responsibilities based on an employee’s workplace and department. However, the roles you’re allowed to define will **vary**. When enterprise companies are matched with company locations, you can choose only the most suitable entries per combination. 
+This option grants different permissions and responsibilities based on an employee’s workplace and department. However, the roles you’re allowed to define will **vary**. When companies are matched with locations, you can choose only the most suitable entries per combination. 
 
 By default, users without predefined enterprise company and company location have role access to **all** of them.
 
