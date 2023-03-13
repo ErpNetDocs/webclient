@@ -7,9 +7,6 @@ references:
 - uid: name
   name: name
   href: includes/name.html
-- uid: parcers
-  name: Barcode parcers
-  href: wms-worker/orders/parcers.html
 - uid: picking-routes
   name: Picking routes
   href: wms-worker/orders/picking-routes.html
