@@ -55,7 +55,7 @@ If the line already has an execution, the Info screen contains more details abou
 
 ![Info button](pictures/info-button.png)
 
-At the top of the screen there is a general <b>Scan field</b>. When scanning a value in this field, a matching unexecuted line is searched through the lines list. If such a line is found, its execution of the line is started automatically. The scanned value recognition is done by @parcers (e.g. Product Code parcer, GS1-128 Single Product parcer). The list of currently enabled parsers can be seen in the question mark button.
+At the top of the screen there is a general <b>Scan field</b>. When scanning a value in this field, a matching unexecuted line is searched through the lines list. If such a line is found, its execution of the line is started automatically. The scanned value recognition is done by [Barcode Parsers](xref:parsers) (e.g. Product Code parcer, GS1-128 Single Product parcer). The list of currently enabled parsers can be seen in the question mark button.
 
 ![Scan field](pictures/scan-field.png)
 
