@@ -10,6 +10,9 @@ references:
 - uid: picking-routes
   name: Picking routes
   href: wms-worker/orders/picking-routes.html
+- uid: reconcile-menu
+  name: Reconcile
+  href: wms-worker/reconcile.html
 - uid: webclient
   name: webclient
   href: includes/webclient.html
