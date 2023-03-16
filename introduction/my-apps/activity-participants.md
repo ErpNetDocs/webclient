@@ -28,7 +28,7 @@ If not, create a new one from scratch by providing all necessary information.
 
 2. Create a new activity directly from **My Calendar** or from the **General -> Contacts -> Activities** module.
 
-If the Participants panel is absent, enable it through the **Show/Hide panels** button.
+If the **Participants** panel is absent, enable it through the **Show/Hide panels** button.
 
 ![Pictures](pictures/partic_creat.png)
 
