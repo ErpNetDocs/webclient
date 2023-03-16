@@ -4,6 +4,8 @@
   href: dashboard.md
 - name: Calendar
   href: calendar.md
+- name: Activity participants
+  href: activity-participants.md
 - name: Timeline
   href: timeline.md  
 - name: Tiles
@@ -12,3 +14,4 @@
   href: ./objects/index.md
 - name: Web view
   href: ./web-view.md
+  
