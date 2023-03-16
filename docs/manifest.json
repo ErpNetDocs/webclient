@@ -1982,6 +1982,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/my-apps/activity-participants.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/my-apps/activity-participants.html",
+          "hash": "XLhAsj2UVmJbNmeCmtlyRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/my-apps/calendar.md",
       "output": {
         ".html": {
@@ -2086,10 +2098,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/aact_partic.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/aact_partic.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/my-apps/pictures/customers-navigator-context-menu.png",
       "output": {
         "resource": {
           "relative_path": "introduction/my-apps/pictures/customers-navigator-context-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/dataurlimage.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/dataurlimage.png"
         }
       },
       "is_incremental": false,
@@ -2569,6 +2603,50 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/partic_act.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/partic_act.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/partic_add.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/partic_add.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/partic_creat.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/partic_creat.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/test_activity.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/test_activity.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "introduction/my-apps/tiles.md",
       "output": {
@@ -3023,7 +3101,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "dEpIrTMIPStXCft7or8HLQ=="
+          "hash": "pyHMQqNbjA5gDZ6QU1EOGQ=="
         }
       },
       "is_incremental": false,
@@ -3097,7 +3175,7 @@
       "output": {
         ".html": {
           "relative_path": "wms-worker/orders/index.html",
-          "hash": "QKP5cEuT6AOdrp1hYD1wZg=="
+          "hash": "AGkXBk40X3hduzHgmQhvdQ=="
         }
       },
       "is_incremental": false,
@@ -3210,6 +3288,17 @@
       "output": {
         "resource": {
           "relative_path": "wms-worker/orders/pictures/open-order.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/orders/pictures/open-order1.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/orders/pictures/open-order1.png"
         }
       },
       "is_incremental": false,
@@ -3353,6 +3442,17 @@
       "output": {
         "resource": {
           "relative_path": "wms-worker/orders/pictures/scan-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/orders/pictures/scan-field1.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/orders/pictures/scan-field1.png"
         }
       },
       "is_incremental": false,
