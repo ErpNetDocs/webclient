@@ -37,7 +37,6 @@ If the Participants panel is absent, enable it through the **Show/Hide panels** 
 Participants will now be able to see and access it from within their own personal calendars.
 
 ![Pictures](pictures/partic_act.png)
-![Pictures](pictures/aact_partic.png)
 
 #### Note!
 
