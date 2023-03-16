@@ -40,6 +40,6 @@ Participants will now be able to see and access it from within their own persona
 
 #### Note!
 
-If you’re both an owner and a participant of the same activity, you **won’t** have a duplicate of it in your calendar. 
+If you’re both an owner and a participant of the same activity, you **won’t** get a duplicate of it in your calendar. 
 
 The same is true for participants accidentally added more than once in the activity. 
