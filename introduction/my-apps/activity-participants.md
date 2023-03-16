@@ -4,8 +4,6 @@ Your calendar is capable of displaying both the activities that you **own** and 
 
 This allows for better task management and increases the level of interaction you can achieve on the **My Calendar** application.
 
-![Pictures](pictures/test_activity.png)
-
 ### How it works
 
 A person of type "Owner" is capable of defining up to **two** entities of type "User". 
@@ -13,6 +11,8 @@ A person of type "Owner" is capable of defining up to **two** entities of type "
 By default, whenever owners create a new activity, their related entities have it automatically added in their personal calendars.
 
 The same logic can be applied to an activity's **participants**.
+
+![Pictures](pictures/test_activity.png)
 
 ## Process
 
