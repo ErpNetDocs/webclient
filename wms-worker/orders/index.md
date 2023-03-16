@@ -37,7 +37,7 @@ Click the <b>Open</b> button to open the order.
 
 A summary of the order lines shows up:
 
-![Open order](pictures/open-order.png)
+![Open order](pictures/open-order1.png)
 
 The screen has three tabs:
 
@@ -61,7 +61,7 @@ If the line already has an execution, the Info screen contains more details abou
 
 At the top of the screen there is a general <b>Scan field</b>. When scanning a value in this field, a matching unexecuted line is searched through the lines list. If such a line is found, its execution of the line is started automatically. The scanned value recognition is done by [Barcode Parsers](xref:parsers) (e.g. Product Code parcer, GS1-128 Single Product parcer). The list of currently enabled parsers can be seen in the question mark button.
 
-![Scan field](pictures/scan-field.png)
+![Scan field](pictures/scan-field1.png)
 
 At the bottom of the screen, there are buttons that help complete the order. On the left side is the button to terminate the order (<b>Stop</b>), on the right is the button that indicates that the employee is ready to start the execution of the order (<b>Execute</b>), and in the middle there is a <b>Menu button</b> that allows access to all functions:
 
