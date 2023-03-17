@@ -191,10 +191,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/aact_partic.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/aact_partic.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/customers-navigator-context-menu.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/my-apps/pictures/customers-navigator-context-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/dataurlimage.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/dataurlimage.png"
         }
       },
       "is_incremental": false,
@@ -668,6 +690,50 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/my-apps/pictures/my-apps-web-view-sales-order.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/partic_act.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/partic_act.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/partic_add.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/partic_add.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/partic_creat.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/partic_creat.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/test_activity.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/test_activity.png"
         }
       },
       "is_incremental": false,
@@ -1203,6 +1269,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/open-order1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/open-order1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/wms-worker/orders/pictures/order-actions.png",
       "output": {
         "resource": {
@@ -1339,6 +1416,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/wms-worker/orders/pictures/scan-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/orders/pictures/scan-field1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/orders/pictures/scan-field1.png"
         }
       },
       "is_incremental": false,
