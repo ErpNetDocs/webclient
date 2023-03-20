@@ -46,7 +46,7 @@ Logistics / Procurement: Supplier - Supplier Type
 
 ![Pictures](pictures/plus_add.png)
 
-2. Enable the new OC for the respective panel by clicking the **settings button** at the top-right corner. <br> For most document types, it's possible to reveal or hide existing object categories for the **Create** and other sections.
+2. Enable the new OC for the  respective panel by clicking the **settings button** at the top-right corner. <br> For most document types, it's possible to reveal or hide existing object categories for the **Create** and other sections.
 
 ![Pictures](pictures/add_panel.png)
  
