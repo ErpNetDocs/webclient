@@ -2882,6 +2882,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/add_panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/add_panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/chevron_store_select.png",
       "output": {
         "resource": {
@@ -2970,6 +2981,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/intro_category.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/intro_category.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/intro_panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/intro_panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/intropanels.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/intropanels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/multiple-columns.png",
       "output": {
         "resource": {
@@ -2996,6 +3040,28 @@
       "output": {
         "resource": {
           "relative_path": "introduction/pictures/options_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/plus_add.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/plus_add.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/read_only.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/read_only.png"
         }
       },
       "is_incremental": false,
@@ -3058,6 +3124,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/save_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/save_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/search-result.png",
       "output": {
         "resource": {
@@ -3108,6 +3185,18 @@
         ".html": {
           "relative_path": "introduction/select-navigator.html",
           "hash": "9OtJjTuaI4Uc4d4dqDidTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/separate-views.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/separate-views.html",
+          "hash": "+HtkpDn2RWtquiutDybdcw=="
         }
       },
       "is_incremental": false,

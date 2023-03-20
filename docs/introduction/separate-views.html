@@ -1,0 +1,157 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>How to separate views by object category | ERP.net Web Client </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="How to separate views by object category | ERP.net Web Client ">
+    <meta name="generator" content="docfx 2.56.9.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    <meta property="docfx:rel" content="../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="how-to-separate-views-by-object-category">How to separate views by object category</h1>
+
+<p><strong>Object categories (OCs)</strong> can be accessed from within the panels of bigger entities such as Customer, Asset and Document.</p>
+<p>You can integrate them into different creation forms and make the views of these forms <strong>distinguishable</strong> from one another.</p>
+<p><img src="pictures/intro_category.png" alt="Pictures"></p>
+<h3 id="example">Example</h3>
+<p>Some forms prioritise certain fields over others.</p>
+<p>When issuing a return of a product, for instance, you may want to request the original price but not the birth date of a client.</p>
+<p>Depending on its use-case, an object category will represent one or more <strong>types</strong> - Customer Type, Asset Type and Document Type.</p>
+<p>If you enable an OC for a panel, it will be possible to start creating a document or an entity from there with that OC <strong>already</strong> selected for it.</p>
+<p><img src="pictures/intropanels.png" alt="Pictures"></p>
+<h4 id="heres-a-list-of-data-types-and-supported-object-categories">Here's a list of data types and supported object categories:</h4>
+<p>Applications / Asset Мanagement: Managed Asset - Managed Asset Type</p>
+<p>Applications  / Rental: Asset - Asset Type</p>
+<p>Applications / Service: Service Object - Service Object Type</p>
+<p>CRM / Common: Customer - Customer Type</p>
+<p>Finance / Assets: Asset - Asset Category</p>
+<p>General / Common: Parties - Party Type (exception, because it is an Entity Type specifier)</p>
+<p>General / Common: Document - Document Type (exception, because documents are also separated by leaf entity type)</p>
+<p>General / Products: Products - Product Type</p>
+<p>Logistics / Common: Logistic Units - Logistic Unit Type</p>
+<p>Logistics / Procurement: Supplier - Supplier Type</p>
+<h2 id="process">Process</h2>
+<ol>
+<li>You need to create or have at least one object category in advance. <br> Not all entities have OCs, so you’ll need to add them manually by clicking the <strong>circular plus button</strong> found on the respective panel.</li>
+</ol>
+<p><img src="pictures/plus_add.png" alt="Pictures"></p>
+<ol start="2">
+<li>Enable the new OC for the  respective panel by clicking the <strong>settings button</strong> at the top-right corner. <br> For most document types, it's possible to reveal or hide existing object categories for the <strong>Create</strong> and other sections.</li>
+</ol>
+<p><img src="pictures/add_panel.png" alt="Pictures"></p>
+<ol start="3">
+<li>Click the object category visualized on your panel. <br> This will take you to the creation form of the document or entity where the OC is already applied. <br> Keep in mind that the field will be <strong>read-only</strong> and unable to be changed.</li>
+</ol>
+<p><img src="pictures/read_only.png" alt="Pictures"></p>
+<ol start="4">
+<li>Customize the view of the form through the <strong>Show/hide panels</strong> window. This allows you to enable or disable certain fields. <br> If you click <strong>Save as default view</strong>, the form's new view will be applied and associated with a particular object category. <br> To bring back the standard settings, click <strong>Restore default settings</strong>.</li>
+</ol>
+<p><img src="pictures/save_default.png" alt="Pictures"></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/separate-views.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
