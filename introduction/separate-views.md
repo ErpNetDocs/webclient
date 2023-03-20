@@ -16,7 +16,7 @@ Depending on its use-case, an object category will represent one or more **types
 
 If you enable an OC for a panel, it will be possible to start creating a document or an entity from there with that OC **already** selected for it.
 
-![Pictures](pictures/intro_panels.png)
+![Pictures](pictures/intropanels.png)
 
 #### Here's a list of data types and supported object categories:
 
