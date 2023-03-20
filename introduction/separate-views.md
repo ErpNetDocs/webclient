@@ -54,6 +54,6 @@ Logistics / Procurement: Supplier - Supplier Type
 
 ![Pictures](pictures/read_only.png)
 
-4. Customize the view of the form through the three-dot **Show/hide panels** button. This allows you to enable or disable the available fields. <br> If you click **Save as default view**, the form's new view will be applied and associated with a particular object category. <br> To bring back the standard settings, click **Restore default settings**. 
+4. Customize the view of the form through the **Show/hide panels** window. This allows you to enable or disable certain fields. <br> If you click **Save as default view**, the form's new view will be applied and associated with a particular object category. <br> To bring back the standard settings, click **Restore default settings**. 
  
 ![Pictures](pictures/save_default.png)
