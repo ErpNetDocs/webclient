@@ -851,6 +851,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/add_panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/add_panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/chevron_store_select.png",
       "output": {
         "resource": {
@@ -961,6 +972,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/intro_category.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/intro_category.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/intro_panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/intro_panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/intropanels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/intropanels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/module-screen.png",
       "output": {
         "resource": {
@@ -1016,6 +1060,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/plus_add.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/plus_add.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/read_only.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/read_only.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/reorder.png",
       "output": {
         "resource": {
@@ -1064,6 +1130,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/pictures/sales_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/save_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/save_default.png"
         }
       },
       "is_incremental": false,
