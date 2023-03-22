@@ -10,12 +10,18 @@ references:
 - uid: orders-menu
   name: Orders
   href: wms-worker/orders/index.html
+- uid: pack-menu
+  name: Pack
+  href: wms-worker/pack.html
 - uid: picking-routes
   name: Picking routes
   href: wms-worker/orders/picking-routes.html
 - uid: reconcile-menu
   name: Reconcile
   href: wms-worker/reconcile.html
+- uid: unpack-menu
+  name: Unpack
+  href: wms-worker/unpack.html
 - uid: webclient
   name: webclient
   href: includes/webclient.html

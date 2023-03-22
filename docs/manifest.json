@@ -3735,6 +3735,18 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "wms-worker/pack.md",
+      "output": {
+        ".html": {
+          "relative_path": "wms-worker/pack.html",
+          "hash": "7c3X+8um+Kb0lQyhW3AMlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "wms-worker/pictures/availability-actions.png",
       "output": {
@@ -3857,6 +3869,83 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/pack-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/pack-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/pack-destination.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/pack-destination.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/pack-existing-lu.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/pack-existing-lu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/pack-location.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/pack-location.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/pack-lu.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/pack-lu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/pack-new-lu.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/pack-new-lu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/pack-product.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/pack-product.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "wms-worker/pictures/reconcile-differences.png",
       "output": {
         "resource": {
@@ -3912,6 +4001,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/unpack-availability.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/unpack-availability.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/unpack-destination.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/unpack-destination.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/unpack-lu.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/unpack-lu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "wms-worker/pictures/wms-worker.png",
       "output": {
         "resource": {
@@ -3954,7 +4076,19 @@
       "output": {
         ".html": {
           "relative_path": "wms-worker/toc.html",
-          "hash": "kmr1BeBMemSEVir9v/cxzg=="
+          "hash": "kg4dERt69Q0UgHG+WXuuyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wms-worker/unpack.md",
+      "output": {
+        ".html": {
+          "relative_path": "wms-worker/unpack.html",
+          "hash": "bAgQEEqo78fQwmd+roub1g=="
         }
       },
       "is_incremental": false,
