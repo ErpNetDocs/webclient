@@ -12,7 +12,7 @@ To Unpack a LU, first, select or scan the desired Logistic Unit:
 
 ![LU selection](pictures/unpack-lu.png)
 
-The system will open a screen with a list of the availability in this LU.
+The system will list of the availability in this LU.
 
 ![LU availability](pictures/unpack-availability.png)
 
