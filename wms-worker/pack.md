@@ -27,14 +27,17 @@ This will show a screen where you need to choose the logistic unit you want to p
 
 ![Logistic Unit](pictures/pack-lu.png)
 
-You can create a new LU using the **Create logistic unit now** button. 
-This will automatically assign/create a new LU with a new SSCC code, and fill in the Contents and the applicable Specifications.
+- You can create a **new LU using** the **Create logistic unit now** button. 
 
-The SSCC code is calculated according to the algorithm specified [here.](https://docs.erp.net/tech/modules/logistics/wms/logistic-units/index.html#serial-shipping-container-code-sscc)
+![New LU](pictures/pack-new-lu.png) 
 
-The Contents panel of the new LU is filled in with the selected content during the Pack, which can be reviewed in the Contents table on the current screen.
+This will automatically assign/create a new LU with a new **SSCC code**, and fill in the **Contents** and the applicable **Specifications**.
 
-The Specifications are filled in according to the following criteria:
+The **SSCC code** is calculated according to the algorithm specified [here.](https://docs.erp.net/tech/modules/logistics/wms/logistic-units/index.html#serial-shipping-container-code-sscc)
+
+The **Contents** panel of the new LU is filled in with the selected content during the Pack, which can be reviewed in the Contents table on the current screen.
+
+The **Specifications** are filled in according to the following criteria:
 
 | Code | Name | Value | Applicable |
 | ------ | ------ | ------ | ---------- |
@@ -48,9 +51,13 @@ The Specifications are filled in according to the following criteria:
 
 \*Product’s GTIN – If there is a CodingSystem with the Name “GTIN” and it contains a Product Code for this product, then it is taken. Else take the CONTENT.Product.PartNumber.
 
-The last step is to select the new destination location of the LU and press the Finish button to complete the process.
+- If you want to select an **existing LU** you can scan it in the Logistic Unit field or to choose it from the dropdown list. Note that in this case the LU's Contents and Specifications will not be updated automatically.
 
 ![Destination](pictures/pack-destination.png) 
+
+The last step is to select the new destination location of the LU and press the Finish button to complete the process.
+
+![Existing LU](pictures/pack-existing-lu.png) 
 
 ![Finish](pictures/move-finish.png) 
 
