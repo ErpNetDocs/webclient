@@ -14,4 +14,6 @@ The algorithm of the application works in such a way that it can give instructio
 -	[Orders](orders/index.md)
 -	[Availability](availability.md)
 -	[Move](move.md)
+-	[Pack](pack.md)
+-	[Unpack](unpack.md)
 -	[Reconcile](reconcile.md)
