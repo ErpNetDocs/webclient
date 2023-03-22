@@ -1852,6 +1852,83 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/pack-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/pack-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/pack-destination.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/pack-destination.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/pack-existing-lu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/pack-existing-lu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/pack-location.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/pack-location.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/pack-lu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/pack-lu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/pack-new-lu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/pack-new-lu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/pack-product.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/pack-product.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/wms-worker/pictures/processing.png",
       "output": {
         "resource": {
@@ -1955,6 +2032,39 @@
       "output": {
         "resource": {
           "relative_path": "docs/wms-worker/pictures/suggested-location.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/unpack-availability.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/unpack-availability.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/unpack-destination.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/unpack-destination.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/unpack-lu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/unpack-lu.png"
         }
       },
       "is_incremental": false,
@@ -3402,7 +3512,7 @@
       "output": {
         ".html": {
           "relative_path": "wms-worker/index.html",
-          "hash": "vZty1ZPIxG4SCBUz9LYQ0Q=="
+          "hash": "D/qt9P+MHz9GJ7ypmXTXLA=="
         }
       },
       "is_incremental": false,
@@ -4088,7 +4198,7 @@
       "output": {
         ".html": {
           "relative_path": "wms-worker/unpack.html",
-          "hash": "bAgQEEqo78fQwmd+roub1g=="
+          "hash": "+MNbCJMTcGVA6pjTOeSdCQ=="
         }
       },
       "is_incremental": false,

@@ -142,7 +142,7 @@
   "wms-worker/index.html": {
     "href": "wms-worker/index.html",
     "title": "WMS Worker | ERP.net Web Client",
-    "keywords": "WMS Worker WMS Worker is a warehouse management application with a contemporary and intuitive easy to use design. WMS worker allows the warehouse workers to complete their tasks such as receiving and order picking in a more efficient, more productive, and more accurate manner... all synchronized in real-time with your ERP.net system. The algorithm of the application works in such a way that it can give instructions not only to humans but also to robots. Learn more about the WMS Worker in the following articles: Orders Availability Move Reconcile"
+    "keywords": "WMS Worker WMS Worker is a warehouse management application with a contemporary and intuitive easy to use design. WMS worker allows the warehouse workers to complete their tasks such as receiving and order picking in a more efficient, more productive, and more accurate manner... all synchronized in real-time with your ERP.net system. The algorithm of the application works in such a way that it can give instructions not only to humans but also to robots. Learn more about the WMS Worker in the following articles: Orders Availability Move Pack Unpack Reconcile"
   },
   "wms-worker/move.html": {
     "href": "wms-worker/move.html",
@@ -182,6 +182,6 @@
   "wms-worker/unpack.html": {
     "href": "wms-worker/unpack.html",
     "title": "Unpack | ERP.net Web Client",
-    "keywords": "Unpack The Unpack menu allows you to unpack the Contents of an Logistic Unit (LU) . NOTE: Note that this menu is used to unpack the entire LU. If you want to unpack only part of the LU contents, you can use the Move menu, where you can uncheck the „Move the whole logistic unit” option. To Unpack a LU, first, select or scan the desired Logistic Unit: The system will open a screen with a list of the availability in this LU. The last step is to select the new Destination location of thе unpacked contents and press the Finish button to complete the process. If all the steps are performed correctly, a message will appear confirming that the operation was successful:"
+    "keywords": "Unpack The Unpack menu allows you to unpack the Contents of an Logistic Unit (LU) . Note that this menu is used to unpack the entire LU. If you want to unpack only part of the LU contents, you can use the Move menu, where you can uncheck the \"Move the whole logistic unit\" option. To Unpack a LU, first, select or scan the desired Logistic Unit: The system will list of the availability in this LU. The last step is to select the new Destination location of thе unpacked contents and press the Finish button to complete the process. If all the steps are performed correctly, a message will appear confirming that the operation was successful:"
   }
 }
