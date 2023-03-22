@@ -15,7 +15,7 @@ The system will open a screen with a list of the Location’s content that is av
 ![Product](pictures/pack-product.png)
 
 There you can:
-* Scan each product you want to pack and specify its Lot, Variant, Serial (if applicable), and Quantity
+* Scan each Product you want to pack and specify its Lot, Variant, Serial (if applicable), and Quantity
 * Click on any of the lines of the content to select it and specify the quantity you want to pack
 * or if you want to pack all of the Location’s contents, you can simply choose the **Select All** option in the buttons menu.
 
@@ -53,13 +53,12 @@ The **Specifications** are filled in according to the following criteria:
 
 - If you want to select an **existing LU** you can scan it in the Logistic Unit field or to choose it from the dropdown list. Note that in this case the LU's Contents and Specifications will not be updated automatically.
 
-![Destination](pictures/pack-destination.png) 
-
-The last step is to select the new destination location of the LU and press the Finish button to complete the process.
-
 ![Existing LU](pictures/pack-existing-lu.png) 
+ 
+The last step is to select the new **Destination** location of the LU and press the **Finish** button to complete the process.
 
-![Finish](pictures/move-finish.png) 
+![Destination](pictures/pack-destination.png)
+
 
 If all the steps are performed correctly, a message will appear confirming that the operation was successful:
 
