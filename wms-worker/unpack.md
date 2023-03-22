@@ -16,7 +16,7 @@ The system will open a screen with a list of the availability in this LU.
 
 ![LU availability](pictures/unpack-availability.png)
 
-The last step is to select the new **Destination** location of the LU and press the **Finish** button to complete the process.
+The last step is to select the new **Destination** location of thе unpacked contents and press the **Finish** button to complete the process.
 
 ![Destination](pictures/unpack-destination.png)
 
