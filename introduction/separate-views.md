@@ -68,6 +68,3 @@ Clicking outside the window once will save the view for the current document, bu
 
 Every time you're creating a direct sales order, your experience will be unique from, say, creating a return order. 
 
-Use the **Save as default view** option in case you want to apply a common view for **all** types of a document.
- 
-![Pictures](pictures/save_as_def.png)
