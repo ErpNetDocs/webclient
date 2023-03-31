@@ -64,10 +64,10 @@ Keep in mind that the field will be **read-only** and unable to be changed.
 
 ![Pictures](pictures/add_show_fields.png)
 
-Clicking outside the window once will save the view for the current document, but the settings will be reset for the next such document.
-
-Use the **Save as default view** option to apply a new view for the form. 
+Clicking outside the window once will save the view for the current document, but the settings will be reset for another document.
 
 Every time you're creating a direct sales order, your experience will be unique from, say, creating a return order. 
+
+Use the **Save as default view** option in case you want to apply a common view for **all** types of a document.
  
 ![Pictures](pictures/save_as_def.png)
