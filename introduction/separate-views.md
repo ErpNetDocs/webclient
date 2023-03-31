@@ -58,7 +58,7 @@ This will take you to the creation form of the document where an **object catego
 
 Keep in mind that the field will be **read-only** and unable to be changed.
 
-![Pictures](pictures/object_cat_applied.png)
+![Pictures](pictures/objectcat_applied.png)
 
 3. Customize the view of the form through the **Show/hide fields** window. This allows you to enable or disable specific fields. 
 
@@ -70,4 +70,4 @@ Use the **Save as default view** option to apply a new view for the form.
 
 Every time you're creating a direct sales order, your experience will be unique from, say, creating a return order. 
  
-![Pictures](pictures/save_def.png)
+![Pictures](pictures/save_as_def.png)
