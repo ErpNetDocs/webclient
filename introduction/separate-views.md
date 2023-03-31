@@ -4,8 +4,6 @@
 
 You can enable or disable them for different creation forms and make the views of these forms **distinguishable** from one another.
 
-![Pictures](pictures/intro_category.png)
-
 ### Example
 
 Different document forms will prioritise certain fields over others. 
@@ -16,7 +14,7 @@ Depending on its use-case, an object category can represent one or more **types*
 
 Thus, it's possible to start creating a document or an entity with an object category **already** selected for it.
 
-![Pictures](pictures/intropanels.png)
+![Pictures](pictures/intropanels_corrected.png)
 
 #### Here's a list of data types and supported object categories:
 
