@@ -862,6 +862,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/add_show_fields.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/add_show_fields.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/asset_types.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/asset_types.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/chevron_store_select.png",
       "output": {
         "resource": {
@@ -1005,6 +1027,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/intropanels_corrected.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/intropanels_corrected.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/module-screen.png",
       "output": {
         "resource": {
@@ -1049,6 +1082,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/object_cat_applied.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/object_cat_applied.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/objectcat_applied.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/objectcat_applied.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/options_select.png",
       "output": {
         "resource": {
@@ -1064,6 +1119,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/pictures/plus_add.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/plus_add_corrected.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/plus_add_corrected.png"
         }
       },
       "is_incremental": false,
@@ -1126,10 +1192,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/sales_order_types.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/sales_order_types.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/sales_select.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/pictures/sales_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/save_as_def.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/save_as_def.png"
         }
       },
       "is_incremental": false,
