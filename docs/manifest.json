@@ -2231,6 +2231,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/filter-row-in-navigators.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/filter-row-in-navigators.html",
+          "hash": "mH9XZVYLhtQ1TO67G19KOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/index.md",
       "output": {
         ".html": {
@@ -3267,6 +3279,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/filter-row.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/filter-row.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/final_button_select.png",
       "output": {
         "resource": {
@@ -3641,7 +3664,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "F5vwdIlK3/0wldO/kLQMPA=="
+          "hash": "ZZUovx7LQEjBu7kR0E6LRg=="
         }
       },
       "is_incremental": false,
