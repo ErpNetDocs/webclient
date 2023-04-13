@@ -1,27 +1,11 @@
-# How to use the Create New option
+# Filter row in navigators
 
-The **Create New** option allows you to easily create a value for a certain field. It opens a new form, where you can create a new item, then the system returns to the main form with the created record filled in.
+By using the filter row in navigators, it is possible to filter document lists by setting values in almost all kind of fields, including text, true/false and date.
 
-## Example:
+The filter row can be expanded and collapsed on-demand using the respective filter button. 
 
-1.	Create new Sales Order
+Specific values can be set for multiple fields at a time. The more rules you set, the more precise the final filtering on the page will be.
 
-2.	Click into the End Customer Party field and a three-point button of the context menu will appear.
+![Pictures](pictures/filter-row.png)
 
-![Pictures](pictures/1-button.png)
-
-3.	By clicking on it, you expand a menu where you can choose Create New option.
-
-![Pictures](pictures/2-create-new.png)
-
-4.	Select the type of the object (if it is necessary) and the respective form for the field type opens up and allows a record creation.
-
-![Pictures](pictures/3-object-type.png)
-
-5.	The new form appears in the breadcrumb as a subitem of the current.
-
-![Pictures](pictures/4-breadcrumb.png)
-
-6.	Click the Save button and the system returns to the main form with the created record filled in.
-
-![Pictures](pictures/5-filled-in.png)
+Sorting is possible for the fields that support it, by clicking in the field header.
