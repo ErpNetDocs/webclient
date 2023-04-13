@@ -6,6 +6,6 @@ The filter row can be expanded and collapsed on-demand using the respective filt
 
 Specific values can be set for multiple fields at a time. The more rules you set, the more precise the final filtering on the page will be.
 
-![Pictures](pictures/filter-row.png)
-
 Sorting is possible for the fields that support it, by clicking in the field header.
+
+![Pictures](pictures/filter-row.png)
