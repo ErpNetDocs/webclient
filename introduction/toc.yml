@@ -14,6 +14,8 @@
   href: separate-views.md
 - name: User role definition
   href: user-roles.md
+- name: Filter row in navigators
+  href: filter-row-in-navigators.md
 - name: My apps
   href: my-apps/toc.yml
   topicHref: my-apps/index.md
