@@ -12,7 +12,7 @@ By default, whenever owners create a new activity, their related entities have i
 
 The same logic can be applied to an activity's **participants**.
 
-![Pictures](pictures/test_activity.png)
+![Pictures](pictures/activity_participant.png)
 
 ## Process
 
