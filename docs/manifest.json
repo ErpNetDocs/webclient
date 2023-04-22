@@ -202,6 +202,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/activity_participant.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/activity_participant.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/customers-navigator-context-menu.png",
       "output": {
         "resource": {
@@ -697,6 +708,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/part_added.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/part_added.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/partic_act.png",
       "output": {
         "resource": {
@@ -723,6 +745,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/my-apps/pictures/partic_creat.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/participant_added.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/participant_added.png"
         }
       },
       "is_incremental": false,
