@@ -20,7 +20,7 @@ If the **Participants** panel is absent, enable it through the **Show/Hide panel
 
 ![Pictures](pictures/partic_creat.png)
 
-2. Add the user(s) and then **finish** the creation of the activity.
+2. Add the participant(s) you need and then **finish** the creation of the activity.
 
 ![Pictures](pictures/participant_added.png)
 
