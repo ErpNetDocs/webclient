@@ -26,8 +26,8 @@ If the **Participants** panel is absent, enable it through the **Show/Hide panel
 
 The participant will now be able to see and access it from within their own **My Calendar** application.
 
-#### Note!
 
-If you’re both an owner and a participant of the same activity, you **won’t** get a duplicate of it in your Calendar. 
 
-The same is true if you're accidentally added more than once in the activity. 
+> [!Note]
+> If you’re both an owner and a participant of the same activity, you **won’t** get a duplicate of it in your Calendar. 
+> The same is true if you're accidentally added more than once in the activity. 
