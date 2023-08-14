@@ -1,25 +1,25 @@
 # Overview
 
-Social follows is a key aspect in the Social ERP. 
+Social follows is a key aspect in Social ERP.
 
-The "following" process means that you are "subscribed" to specific objects- i.e. that you want to know when something happens in their context. As a result, you will start receiving individual notifications. Another detail is that a new tile will be automatically created in the [My Object follows](../my-apps/objects/index.md) app. It will visualize the number of new notifications concerning you, and will always stay as you are following the corresponding object. 
+The act of 'following' an object is akin to subscribing to updates for that specific item. In essence, it signifies that you want to know when something happens within its context, making it one of your 'favorite' objects. As a result of following, you'll receive individual notifications related to this object. Furthermore, this action automatically triggers the creation of a new tile within the [My Favorites](../my-apps/favorites/index.md) app. This tile visually displays the count of new notifications relevant to the object you're following. Importantly, the tile remains present as long as you continue following the corresponding object.
 
-Starting an object follow can be done in two ways- manually and automatically.
+Adding an object to your favorites (i.e., following it) can happen in two ways: either by doing it manually or having it done automatically.
 
 ## (Un)follow an object manually
 
-As the name suggests, this is done manually. To do this, open the object you want to follow and click on the star at the top right of the form.
+Just as the name implies, this process is manual. To achieve it, open the object you wish to follow and click on the star icon located at the upper right corner of the form.
 
-![Follow an object](./pictures/follow-object.png "Follow an object")
+![Follow an object](./pictures/follow-object.png "Add an object to your favorites")
 
-When it's filled up, this indicates that you're already following the object. Accordingly, to stop following it, just click it again.
+When the star icon is filled, it means the object is already in your favorites. To unfollow it, simply click the star icon again.
 
-![Follow an object](./pictures/follow-object-done.png "Follow an object")
+![Follow an object](./pictures/follow-object-done.png "Add an object to your favorites")")
 
 ## Auto object follow
 
-Automatic follow of an object is also possible. Such an example is when you are mentioned in a discussion of an object that you have not yet followed. The moment this happens, in addition to your new "object follow", you will also receive a notification, containing who exactly mentioned you. More information can be found at [Chatter mentions](./chatter/index.md#user-mention).
+Automatically following an object is also an option. For instance, if you're mentioned in a discussion about an object you haven't followed yet, it will be automatically added to your favorites. When this occurs, along with the new 'object follow,' you'll receive a notification specifying who mentioned you. You can find further details in the [Chatter mentions](./chatter/index.md#user-mention).
 
-## My apps - Objects
+## My apps - Favorites
 
-[!include[objects](../my-apps/objects/objects.md)]
+[!include[favorites](../my-apps/favorites/favorites.md)]

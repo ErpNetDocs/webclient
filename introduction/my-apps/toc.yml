@@ -10,8 +10,8 @@
   href: timeline.md  
 - name: Tiles
   href: tiles.md  
-- name: Objects
-  href: ./objects/index.md
+- name: Favorites
+  href: ./favorites/index.md
 - name: Web view
   href: ./web-view.md
   
