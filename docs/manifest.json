@@ -2437,6 +2437,74 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/my-apps/favorites/favorites.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/my-apps/favorites/favorites.html",
+          "hash": "L0O270LdbKXhsDwgCIoEeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/my-apps/favorites/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/my-apps/favorites/index.html",
+          "hash": "CDk5koLI1RVaSr50TksR9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/favorites/pictures/context-menupage.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/favorites/pictures/context-menupage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/favorites/pictures/context-navigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/favorites/pictures/context-navigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/favorites/pictures/overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/favorites/pictures/overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/favorites/pictures/tile.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/favorites/pictures/tile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/my-apps/index.md",
       "output": {
         ".html": {
@@ -2453,7 +2521,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/objects/index.html",
-          "hash": "FeYzm3KA7iQP4pZlG1WQ4w=="
+          "hash": "hCNId1ElmRaSemwJJhHPzQ=="
         }
       },
       "is_incremental": false,
@@ -2465,51 +2533,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/objects/objects.html",
-          "hash": "M4ot0RlkgD7isIHDQMihIQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/my-apps/objects/pictures/context-menupage.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/my-apps/objects/pictures/context-menupage.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/my-apps/objects/pictures/context-navigator.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/my-apps/objects/pictures/context-navigator.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/my-apps/objects/pictures/overview.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/my-apps/objects/pictures/overview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/my-apps/objects/pictures/tile.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/my-apps/objects/pictures/tile.png"
+          "hash": "QGpSvwSK9cD9oSRILZ48JA=="
         }
       },
       "is_incremental": false,
@@ -3717,7 +3741,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/social/social-follows.html",
-          "hash": "OhZn5iRLsWWlMXxaGGwQoQ=="
+          "hash": "EE8gOcfm1ut6x7OMZvEFqg=="
         }
       },
       "is_incremental": false,
@@ -3741,7 +3765,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "ZZUovx7LQEjBu7kR0E6LRg=="
+          "hash": "rGypQ1BGNE8LO1U5QzHEdg=="
         }
       },
       "is_incremental": false,
