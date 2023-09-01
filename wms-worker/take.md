@@ -11,7 +11,7 @@ The <b>“Take”</b> function allows the warehouse worker to select a Warehouse
 
 From the order navigator, by pressing the <b>“Take”</b> button in the bottom left corner of the screen of the corresponding WO, the warehouse worker takes the chosen unassigned order.
 
-![Product](
+![Product](pictures/take-pic0.png)
 ![Product](
 
 After confirmation, the window for execution the order automatically opens, allowing him to start working on it immediately.
