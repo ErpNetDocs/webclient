@@ -9,6 +9,8 @@
   href: move.md
 - name: Pack
   href: pack.md
+- name: Take
+  href: take.md
 - name: Unpack
   href: unpack.md
 - name: Reconcile
