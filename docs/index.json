@@ -192,7 +192,7 @@
   "wms-worker/start.html": {
     "href": "wms-worker/start.html",
     "title": "Start | ERP.net Web Client",
-    "keywords": "Start The \"Start\" function allows the warehouse worker to initiate work on a selected Warehouse Order (WO) from his „ASSIGNED TO ME“ task list. Note All Warehouse Orders in the \"ASSIGNED TO ME\" list are in \"Released\" state. After clicking on the WO, a window containing general information about it opens, and in the lower right corner of the window, you will find the \"Start\" button. By clicking the \"Start\" button, the order execution window is automatically loaded, enabling work to begin immediately."
+    "keywords": "Start The \"Start\" function allows the warehouse worker to initiate work on a selected Warehouse Order (WO) from his „ASSIGNED TO ME“ task list. After clicking on the WO, a window containing general information about it opens, and in the lower right corner of the window, you will find the \"Start\" button. By clicking the \"Start\" button, the order execution window is automatically loaded, enabling work to begin immediately."
   },
   "wms-worker/system-requirements.html": {
     "href": "wms-worker/system-requirements.html",
@@ -202,7 +202,7 @@
   "wms-worker/take.html": {
     "href": "wms-worker/take.html",
     "title": "Take | ERP.net Web Client",
-    "keywords": "Take In the \"Orders\" menu of the WMS Worker, two categories are displayed: „ASSIGNED TO ME“ and “UNASSIGNED”. The “Take” function allows the warehouse worker to select a Warehouse Order (WO) from the “UNASSIGNED” list and assign it to himself. The WO will quickly and easily appear in their „ASSIGNED TO ME“ task list for execution. Note All Warehouse Orders in the „ASSIGNED TO ME“ list are in \"Released\" state, while those in the \"UNASSIGNED\" list are in \"Planned\" or \"Firm planned\" state. From the order navigator, by pressing the “Take” button in the bottom left corner of the screen of the corresponding WO, the warehouse worker takes the chosen unassigned order. After confirmation, the window for execution the order automatically opens, allowing him to start working on it immediately. The \"Assigned to\" field is automatically filled with his own name, the state of the Warehouse Order is changed to \"Released\", and it becomes visible in his \"ASSIGNED TO ME\" tasks list."
+    "keywords": "Take In the \"Orders\" menu of the WMS Worker, two categories are displayed: „ASSIGNED TO ME“ and “UNASSIGNED”. The “Take” function allows the warehouse worker to select a Warehouse Order (WO) from the “UNASSIGNED” list and assign it to himself. The WO will quickly and easily appear in their „ASSIGNED TO ME“ task list for execution. Note All Warehouse Orders in the \"UNASSIGNED\" list are in \"Planned\" or \"Firm planned\" state. From the order navigator, by pressing the “Take” button in the bottom left corner of the screen of the corresponding WO, the warehouse worker takes the chosen unassigned order. After confirmation, the window for execution the order automatically opens, allowing him to start working on it immediately. The \"Assigned to\" field is automatically filled with his own name, the state of the Warehouse Order is changed to \"Released\", and it becomes visible in his \"ASSIGNED TO ME\" tasks list."
   },
   "wms-worker/unpack.html": {
     "href": "wms-worker/unpack.html",

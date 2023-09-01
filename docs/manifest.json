@@ -2193,6 +2193,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/start-pic1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/start-pic1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/start-pic2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/start-pic2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/start-pic3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/start-pic3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/wms-worker/pictures/suggest-locations.png",
       "output": {
         "resource": {
@@ -2208,6 +2241,61 @@
       "output": {
         "resource": {
           "relative_path": "docs/wms-worker/pictures/suggested-location.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/take-pic0.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/take-pic0.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/take-pic1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/take-pic1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/take-pic2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/take-pic2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/take-pic3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/take-pic3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/wms-worker/pictures/take-pic4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/wms-worker/pictures/take-pic4.png"
         }
       },
       "is_incremental": false,
@@ -4603,7 +4691,7 @@
       "output": {
         ".html": {
           "relative_path": "wms-worker/start.html",
-          "hash": "F0PC6XWUDcwHYJqBVv9R6Q=="
+          "hash": "UfJBCqq52eHYK2EPjgLySQ=="
         }
       },
       "is_incremental": false,
@@ -4630,7 +4718,7 @@
       "output": {
         ".html": {
           "relative_path": "wms-worker/take.html",
-          "hash": "FVU2vnBx5o5HmWOauZx+hA=="
+          "hash": "SrjnI6rUmipXcB0MRC78CQ=="
         }
       },
       "is_incremental": false,
