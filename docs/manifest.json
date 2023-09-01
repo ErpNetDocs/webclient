@@ -4455,6 +4455,94 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/start-pic1.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/start-pic1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/start-pic2.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/start-pic2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/start-pic3.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/start-pic3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/take-pic0.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/take-pic0.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/take-pic1.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/take-pic1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/take-pic2.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/take-pic2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/take-pic3.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/take-pic3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wms-worker/pictures/take-pic4.png",
+      "output": {
+        "resource": {
+          "relative_path": "wms-worker/pictures/take-pic4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "wms-worker/pictures/unpack-availability.png",
       "output": {
         "resource": {
@@ -4510,6 +4598,18 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "wms-worker/start.md",
+      "output": {
+        ".html": {
+          "relative_path": "wms-worker/start.html",
+          "hash": "F0PC6XWUDcwHYJqBVv9R6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "log_codes": [
         "InvalidFileLink"
       ],
@@ -4525,12 +4625,24 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "wms-worker/take.md",
+      "output": {
+        ".html": {
+          "relative_path": "wms-worker/take.html",
+          "hash": "FVU2vnBx5o5HmWOauZx+hA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "wms-worker/toc.yml",
       "output": {
         ".html": {
           "relative_path": "wms-worker/toc.html",
-          "hash": "kg4dERt69Q0UgHG+WXuuyA=="
+          "hash": "i9Kfgkf8AKzrHhxCfEyywA=="
         }
       },
       "is_incremental": false,
