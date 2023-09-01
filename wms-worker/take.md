@@ -6,7 +6,7 @@ The <b>“Take”</b> function allows the warehouse worker to select a Warehouse
 
 
 > [!NOTE]
-> All Warehouse Orders in the „ASSIGNED TO ME“ list are in  "Released" state, while those in the "UNASSIGNED" list are in "Planned" or "Firm planned" state.
+> All Warehouse Orders in the "UNASSIGNED" list are in "Planned" or "Firm planned" state.
 
 
 From the order navigator, by pressing the <b>“Take”</b> button in the bottom left corner of the screen of the corresponding WO, the warehouse worker takes the chosen unassigned order.
