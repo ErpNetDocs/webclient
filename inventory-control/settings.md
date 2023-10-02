@@ -17,4 +17,4 @@ It's possible to link any template to either the receive, issue, scrap or reconc
 
 One and the same template can be used for **multiple** operations.
 
-![Settings](pictures/change-document.png)
+![Settings](pictures/change-documents.png)
