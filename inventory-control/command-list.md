@@ -1,6 +1,6 @@
 # Command list
 
-Here, you can find various **barcodes** which help you add quantities and apply different commands automatically.
+Here, you can find various **barcodes** which help you add quantities and apply different commands **automatically**.
 
 This can be handy for adding multiple instances of a product or performing certain operations like creating a document.
 
@@ -12,6 +12,6 @@ While quantity barcodes immediately scan a fixed amount of **instances** of a pr
 
 ![Command list](pictures/commands1.png)
 
-At any time, you can get this sheet externally by clicking the **Print** button.
+At any time, you can get this sheet externally with the help of the **Print** button.
 
 ![Command list](pictures/print.png)
