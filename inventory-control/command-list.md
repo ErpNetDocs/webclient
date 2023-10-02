@@ -6,12 +6,14 @@ This can be handy for adding multiple instances of a product or performing certa
 
 ![Command list](pictures/command-list.png)
 
-All available barcodes are grouped into **Quantities** and **Commands**, and each group has a short introductory description.
+All barcodes are grouped into **Quantities** and **Commands**, and each group features short explanations on what its barcodes will achieve.
 
 While quantity barcodes immediately scan a fixed amount of **instances** of a product, commands execute specific **operations**.
 
 ![Command list](pictures/commands1.png)
 
 At any time, you can get this sheet externally with the help of the **Print** button.
+
+Simply scan a barcode and your desired operation will be reflected immediately, without the need to type anything.
 
 ![Command list](pictures/print.png)
