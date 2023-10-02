@@ -144,6 +144,41 @@
     "title": "How to define user roles | ERP.net Web Client",
     "keywords": "How to define user roles You can assign roles to security users and link them to specific enterprise companies and company locations . This option grants different permissions and responsibilities based on an employee’s workplace and department. However, the roles you’re allowed to define will vary . When companies are matched with locations, you can choose only the most suitable entries per combination. By default, users without predefined enterprise company and company location have role access to all of them. Prerequisites Make sure the Roles panel is part of the user’s standard settings definition. Open the list of default panel and toggle the Roles slider. This will add the panel to the user’s settings and allow you to define and change custom roles. Role definition In the Roles panel, you can link one or more roles to a user. Their scope can be configured to cover that user’s enterprise company and company location. Enter Edit Mode to be able to change settings. Navigate to the Roles panel and click the plus button to add a new role. Within the expanded side tab on the right, choose values for the Role , Enterprise Company and Company Location fields. The latter two will determine which roles will appear on the list. Apply your settings."
   },
+  "inventory-control/command-list.html": {
+    "href": "inventory-control/command-list.html",
+    "title": "Command list | ERP.net Web Client",
+    "keywords": "Command list Here, you can find various barcodes which help you add quantities and apply different commands automatically . This can be handy for adding multiple instances of a product or performing certain operations like creating a document. All barcodes are grouped into Quantities and Commands , and each group features short explanations on what its barcodes will achieve. While quantity barcodes immediately scan a fixed amount of instances of a product, commands execute specific operations . At any time, you can get this sheet externally with the help of the Print button. Simply scan a barcode and your desired operation will be reflected immediately, without the need to type anything."
+  },
+  "inventory-control/index.html": {
+    "href": "inventory-control/index.html",
+    "title": "Introduction | ERP.net Web Client",
+    "keywords": "In progress. Introduction Inventory Control is a warehouse management application with a contemporary and intuitive easy to use design. It allows warehouse workers to complete their tasks quickly, without going through the complex procedures required by the WMS module. You can receive, issue, scrap and reconcile orders in just a few steps. These actions are not synchronized in real-time with the ERP.net system."
+  },
+  "inventory-control/issue.html": {
+    "href": "inventory-control/issue.html",
+    "title": "Introduction | ERP.net Web Client",
+    "keywords": "In progress. Introduction Issue is the second action you can perform in Inventory Control."
+  },
+  "inventory-control/receive.html": {
+    "href": "inventory-control/receive.html",
+    "title": "Introduction | ERP.net Web Client",
+    "keywords": "In progress. Introduction Receive is the first action you can perform in Inventory Control."
+  },
+  "inventory-control/reconcile.html": {
+    "href": "inventory-control/reconcile.html",
+    "title": "Reconcile | ERP.net Web Client",
+    "keywords": "Reconcile This section allows you to update the available quantities of your warehouse or shop's products, and generate reconciliation documents. By occasionally counting everything, it may turn out that some products have fewer or higher quantities, or are no longer present. The reverse could also be true: new products are identified but haven't been entered into the system. Inventory Control allows you to reflect any of these changes within its Reconcile section. Overview As with Receive, Issue and Scrap, Reconcile is composed of three tabs and one Scan field: Availability Counted Info Availability This is where all of your products are listed, together with their current quantities and lots, if present. Counted Here, you can find how many quantities of the products have been counted as opposed to being available in total. For example, out of 150pcs, only 131 may be present. This will be reflected in the reconciliation document. Info If you tap on a product from the Availability tab, you'll be shown further information about it here. This includes revealing its unique ID, barcode and GTIN, if present, as well as how many instances of it have been counted . If more lots are present, the available-counted ratio will be distributed based on the FEFO principle. Scanning In order to update the currently available quantities of your products, you need to use the Scan field. It lets you quickly insert the instances of a product you want to count either manually or through barcode commands . Individual count Simply type in a product's ID once (e.g. \"0000001\") in order to count only one pcs of it. Tap the blue arrow to confirm. Every time you scan, you'll be taken to the Info tab for the respective product. Successfully counted pcs are painted in green . If more lots are present for a product, the FEFO principle determines which lot has pcs counted first. Multiple counts To count more pcs or the exact number of pcs for a product, specify it first (e.g. \"50*\") and then provide the product ID. This can be done on one line, or on two separate lines for each input. Tap the blue arrow to confirm. The trash bin button allows you to remove the latest count, which will restore the previous Counted value. Higher count The currently available pcs of a product may be more than what is set as available in the system. You can update the number by providing the higher counted value, which will be reflected in the final reconciliation document. Zero count In case you've made a mistake and want to start counting from scratch, type in \"0*\" followed by the affected product ID. If the counted bar is left with zero, this will be interpreted as the product having \"0 pcs\" (unavailable) in the final reconciliation document. Generate a reconciliation document Once you're done counting the product quantities, you can go back to the Counted tab to see if you've made a mistake in the process. The Available value will be positioned above the Counted one, making it easy to compare past and present values. Tap the blue Finish button to generate your reconciliation document. This will take you to a separate space with direct access to the document template for this operation. By tapping on it, you'll access the Inventory module from where you can release and complete the document."
+  },
+  "inventory-control/scrap.html": {
+    "href": "inventory-control/scrap.html",
+    "title": "Introduction | ERP.net Web Client",
+    "keywords": "In progress. Introduction Scrapt is the third action you can perform in Inventory Control."
+  },
+  "inventory-control/settings.html": {
+    "href": "inventory-control/settings.html",
+    "title": "Settings | ERP.net Web Client",
+    "keywords": "Settings This section lets you decide what kind of document will be generated following each of these actions: Receive Issue Scrap Reconcile It's crucial to link the right template to its respective action before beginning to do anything within Inventory Control. If you tap on the downward arrows of any of the available options, you'll be taken to a list of your existing document templates. It's possible to link any template to either the receive, issue, scrap or reconcile operation. One and the same template can be used for multiple operations."
+  },
   "README.html": {
     "href": "README.html",
     "title": "Welcome to the ERP.net Web Client Documentation | ERP.net Web Client",

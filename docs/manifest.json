@@ -3916,6 +3916,332 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "inventory-control/command-list.md",
+      "output": {
+        ".html": {
+          "relative_path": "inventory-control/command-list.html",
+          "hash": "R/qx4BY6rn46+nzDy3hylw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "inventory-control/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "inventory-control/index.html",
+          "hash": "oIaVLXiZgq4I5no0DogD8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "inventory-control/issue.md",
+      "output": {
+        ".html": {
+          "relative_path": "inventory-control/issue.html",
+          "hash": "weHhtZ/rL1aXTrktnGvbRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/availability_reconcile.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/availability_reconcile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/change-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/change-document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/change-documents.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/change-documents.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/command-list.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/command-list.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/commands1.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/commands1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/commands2.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/commands2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/commands_list.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/commands_list.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/count_fifty_reconcile.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/count_fifty_reconcile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/count_higher_reconcile.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/count_higher_reconcile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/count_one_reconcile.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/count_one_reconcile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/count_zero_reconcile.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/count_zero_reconcile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/counted_reconcile.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/counted_reconcile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/info_reconcile.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/info_reconcile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/info_reconcile_final.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/info_reconcile_final.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/info_reconciles_final.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/info_reconciles_final.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inventory-control.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inventory-control.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/print-commands.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/print-commands.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/print.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/print.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/reconcile-section.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/reconcile-section.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/reconcile_document.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/reconcile_document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/reconciled_document.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/reconciled_document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/settings-module.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/settings-module.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "inventory-control/receive.md",
+      "output": {
+        ".html": {
+          "relative_path": "inventory-control/receive.html",
+          "hash": "6BSdWLfDfPbTPTPHBa4UEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "inventory-control/reconcile.md",
+      "output": {
+        ".html": {
+          "relative_path": "inventory-control/reconcile.html",
+          "hash": "PkbxxA5piBiXVfhKnOU4bg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "inventory-control/scrap.md",
+      "output": {
+        ".html": {
+          "relative_path": "inventory-control/scrap.html",
+          "hash": "NvtEdKbBq7pWmfZKGnhwGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "inventory-control/settings.md",
+      "output": {
+        ".html": {
+          "relative_path": "inventory-control/settings.html",
+          "hash": "T0NqGDL4UpiCuIYYr5itqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "logo.svg",
       "output": {
