@@ -1,6 +1,6 @@
 # Reconcile
 
-This module allows you to **update** your warehouse or shop's current available quantities and **generate** reconciliation documents.
+This section allows you to **update** your warehouse or shop's current available quantities and **generate** reconciliation documents.
 
 By occasionally counting everything, it may turn out that some products have fewer or higher quantities, or are no longer present.
 
