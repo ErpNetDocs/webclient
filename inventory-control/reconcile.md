@@ -98,6 +98,6 @@ This will take you to a separate space with direct access to the document templa
 
 ![Reconcile](pictures/reconcile_document.png)
 
-By tapping on it, you'll access the **Inventory** module from where you can apply additional changes before updating the document's status.
+By tapping on it, you'll access the **Inventory** module from where you can release and complete the document.
 
 ![Reconcile](pictures/reconciled_document.png)
