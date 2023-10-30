@@ -4163,19 +4163,22 @@
       "output": {
         ".html": {
           "relative_path": "inventory-control/command-list.html",
-          "hash": "R/qx4BY6rn46+nzDy3hylw=="
+          "hash": "GW9lAhPCDsIh8O0BeAHhAQ=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "inventory-control/index.md",
       "output": {
         ".html": {
           "relative_path": "inventory-control/index.html",
-          "hash": "oIaVLXiZgq4I5no0DogD8w=="
+          "hash": "VR0RE9uAHlpZQ2q4vh0DqA=="
         }
       },
       "is_incremental": false,
@@ -4360,6 +4363,160 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_com_list.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_com_list.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_scrap.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_scrap.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_scrap_availability.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_scrap_availability.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_scrap_doc.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_scrap_doc.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_scrap_documen.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_scrap_documen.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_scrap_document.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_scrap_document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_scrap_error.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_scrap_error.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_scrap_finish.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_scrap_finish.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_scrap_individual.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_scrap_individual.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_scrap_info.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_scrap_info.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_scrap_multi.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_scrap_multi.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_scrap_scrap.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_scrap_scrap.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_scrap_zero.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_scrap_zero.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_set.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_set.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "inventory-control/pictures/inventory-control.png",
       "output": {
         "resource": {
@@ -4453,7 +4610,7 @@
       "output": {
         ".html": {
           "relative_path": "inventory-control/reconcile.html",
-          "hash": "PkbxxA5piBiXVfhKnOU4bg=="
+          "hash": "IX+npZnSy4P7s/iBjF7OTQ=="
         }
       },
       "is_incremental": false,
@@ -4465,7 +4622,7 @@
       "output": {
         ".html": {
           "relative_path": "inventory-control/scrap.html",
-          "hash": "NvtEdKbBq7pWmfZKGnhwGw=="
+          "hash": "URtYQl7kbauP+oSV/f27Ig=="
         }
       },
       "is_incremental": false,
@@ -4477,7 +4634,7 @@
       "output": {
         ".html": {
           "relative_path": "inventory-control/settings.html",
-          "hash": "T0NqGDL4UpiCuIYYr5itqQ=="
+          "hash": "WpkN0DZdAUS8CnyBxGPszA=="
         }
       },
       "is_incremental": false,

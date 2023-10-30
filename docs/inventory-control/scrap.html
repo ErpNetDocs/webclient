@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Introduction | ERP.net Web Client </title>
+    <title>Scrap | ERP.net Web Client </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Introduction | ERP.net Web Client ">
+    <meta name="title" content="Scrap | ERP.net Web Client ">
     <meta name="generator" content="docfx 2.56.9.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
@@ -70,10 +70,58 @@
         <div class="article row grid">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
+<h1 id="scrap">Scrap</h1>
 
-<p>In progress.</p>
-<h1 id="introduction">Introduction</h1>
-<p>Scrapt is the third action you can perform in Inventory Control.</p>
+<p>This section allows you to <strong>deduct</strong> available quantities from your warehouse or shop's products, and generate issue store documents.</p>
+<p>Scrapping is done when a product's expiry date is reached (respecting the FEFO rule) or the store no longer needs product quantities.</p>
+<p><img src="pictures/inv_con_scrap.png" alt="Scrap"></p>
+<h2 id="overview">Overview</h2>
+<p>Scrap is composed of three tabs:</p>
+<ul>
+<li><strong>Availability</strong></li>
+<li><strong>Scrap</strong></li>
+<li><strong>Info</strong></li>
+</ul>
+<h3 id="availability">Availability</h3>
+<p>This is where all of your store products are listed, together with their current quantities and lots, if present.</p>
+<p><img src="pictures/inv_con_scrap_availability.png" alt="Scrap"></p>
+<h3 id="scrap-1">Scrap</h3>
+<p>Here, you can find how many quantities of the products are selected for <strong>scrap</strong> as opposed to being <strong>available</strong> in total.</p>
+<p>For example, out of 30pcs, only 15 may be scrapped. This will be reflected in the issue store document.</p>
+<p><img src="pictures/inv_con_scrap_scrap.png" alt="Scrap"></p>
+<h3 id="info">Info</h3>
+<p>If you tap on a product from the <strong>Availability</strong> tab, you'll be shown further information about it here.</p>
+<p>This includes revealing its unique ID, barcode and GTIN, if present, as well as how many instances of it will be scrapped.</p>
+<p>If more lots are present, the <strong>available-scrap</strong> ratio will be distributed based on the FEFO principle.</p>
+<p><img src="pictures/inv_con_scrap_info.png" alt="Scrap"></p>
+<h2 id="scanning">Scanning</h2>
+<p>In order to scrap currently available quantities of your products, you need to use the <strong>Scan</strong> field.</p>
+<p>It lets you quickly insert the instances of a product you want to scrap either manually or through barcode commands.</p>
+<h3 id="individual-scrap">Individual scrap</h3>
+<p>Simply type in a product's ID once (e.g. &quot;0000001&quot;) in order to scrap only one pcs of it. Tap the <strong>blue arrow</strong> to confirm.</p>
+<p><img src="pictures/inv_con_scrap_individual.png" alt="Scrap"></p>
+<p>Every time you scan, you'll be taken to the <strong>Info</strong> tab for the respective product. Successfully scrapped pcs are painted in <strong>green</strong>.</p>
+<p>If more lots are present for a product, the FEFO principle determines which lot has pcs scrapped first.</p>
+<h3 id="multiple-scraps">Multiple scraps</h3>
+<p>To scrap more pcs or the exact number of pcs for a product, specify it first (e.g. &quot;50*&quot;) and then provide the product ID.</p>
+<p>This can be done on one line, or on two separate lines for each input. Tap the <strong>blue arrow</strong> to confirm.</p>
+<p><img src="pictures/inv_con_scrap_multi.png" alt="Scrap"></p>
+<p>The <strong>trash bin button</strong> allows you to remove the latest scrap, which will restore the previous Scrap value.</p>
+<p>The desired scrapped pcs of a product <strong>cannot</strong> be more than what is set as available in the system.</p>
+<p><img src="pictures/inv_con_scrap_error.png" alt="Scrap"></p>
+<h3 id="zero-count">Zero count</h3>
+<p>In case you've made a mistake and want to start the scrap process from scratch, type in &quot;0*&quot; followed by the affected product ID.</p>
+<p>If the <strong>Scrap</strong> bar is left with zero, this will be interpreted as the product having &quot;0 pcs&quot; for scrap in the final store order document.</p>
+<p><img src="pictures/inv_con_scrap_zero.png" alt="Scrap"></p>
+<h2 id="generate-an-issue-order-document">Generate an issue order document</h2>
+<p>Once you're done scrapping the desired product quantities, you can go back to the <strong>Scrap</strong> tab to see if you've made any mistakes.</p>
+<p>The <strong>Available</strong> value will be positioned above the <strong>Scrap</strong> one, making it easy to these values.</p>
+<p><img src="pictures/inv_con_scrap_finish.png" alt="Scrap"></p>
+<p>Tap the blue <strong>Finish</strong> button to generate your issue order document.</p>
+<p>This will take you to a separate space with direct access to the document template for this operation.</p>
+<p><img src="pictures/inv_con_scrap_doc.png" alt="Scrap"></p>
+<p>By tapping on it, you'll access the <strong>Inventory</strong> module from where you can release and complete the document.</p>
+<p><img src="pictures/inv_con_scrap_documen.png" alt="Scrap"></p>
 </article>
           </div>
           
