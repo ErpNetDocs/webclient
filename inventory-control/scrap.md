@@ -92,4 +92,4 @@ This will take you to a separate space with direct access to the document templa
 
 By tapping on it, you'll access the **Inventory** module from where you can release and complete the document.
 
-![Scrap](pictures/inv_con_scrap_document.png)
+![Scrap](pictures/inv_con_scrap_documen.png)
