@@ -4,7 +4,7 @@ This section allows you to **update** the available quantities of your warehouse
 
 By occasionally counting everything, it may turn out that some products have fewer or higher quantities, or are no longer present.
 
-The reverse could also be true: new products are identified but haven't been entered into the system.
+The reverse could also be true: new products may be identified but not entered into the system.
 
 **Inventory Control** allows you to reflect any of these changes within its **Reconcile** section.
 
