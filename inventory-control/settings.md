@@ -4,6 +4,7 @@ This section lets you decide what kind of **document** will be generated followi
 
 * **Receive**
 * **Issue**
+* **Transfer**
 * **Scrap**
 * **Reconcile**
 
