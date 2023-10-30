@@ -10,7 +10,7 @@ This section lets you decide what kind of **document** will be generated followi
 
 It's crucial to link the right template to its respective action **before** beginning to do anything within Inventory Control.
 
-![Settings](pictures/settings-module.png)
+![Settings](pictures/inv_con_set.png)
 
 If you tap on the **downward arrows** of any of the available options, you'll be taken to a list of your existing document templates.
 
