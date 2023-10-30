@@ -4,8 +4,6 @@ Here, you can find various **barcodes** which help you add quantities and apply 
 
 This can be handy for adding multiple instances of a product or performing certain operations like creating a document.
 
-![Command list](pictures/command-list.png)
-
 In order to access the Command list, tap on the **three-dot button** at the bottom of the screen and select **Command List**.
 
 ![Command list](pictures/inv_con_com_list.png)
