@@ -18,8 +18,6 @@ As with Receive, Issue and Scrap, Reconcile is composed of three tabs:
 * Counted
 * Info
 
-and one **Scan** field.
-
 ### Availability
 
 This is where all of your products are listed, together with their current quantities and lots, if present.
