@@ -86,7 +86,7 @@ If the counted bar is left with zero, this will be interpreted as the product ha
 
 ## Generate a reconciliation document
 
-Once you're done counting the product quantities, you can go back to the **Counted** tab to see if you've made a mistake in the process.
+Once you're done counting the product quantities, you can go back to the **Counted** tab to see if you've made any mistakes.
 
 The **Available** value will be positioned above the **Counted** one, making it easy to compare past and present values.
 
