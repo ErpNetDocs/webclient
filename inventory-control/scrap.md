@@ -64,7 +64,7 @@ If the **Scrap** bar is left with zero, this will be interpreted as the product 
 
 ## Generate an issue order document
 
-Once you're done scrapping the desired product quantities, you can go back to the **Scrap** tab to see if you've made a mistake in the process.
+Once you're done scrapping the desired product quantities, you can go back to the **Scrap** tab to see if you've made any mistakes.
 
 The **Available** value will be positioned above the **Scrap** one, making it easy to these values.
 
