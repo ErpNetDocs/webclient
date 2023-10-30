@@ -12,5 +12,6 @@ Learn more about Inventory Control in the following articles:
 -	[Receive](receive.md)
 -	[Issue](issue.md)
 -	[Reconcile](reconcile.md)
+-	[Transfer](transfer.md)
 -	[Scrap](scrap.md)
 -	[Command list](command-list.md)
