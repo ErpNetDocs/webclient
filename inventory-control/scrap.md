@@ -2,7 +2,7 @@
 
 This section allows you to **deduct** available quantities from your warehouse or shop's products, and generate issue store documents.
 
-Scrapping is done when a product's expiry date is reached (respecting the FEFO rule) or the store simply no longer needs product quantities.
+Scrapping is done when a product's expiry date is reached (respecting the FEFO rule) or the store no longer needs product quantities.
 
 ![Scrap](pictures/inv_con_scrap.png)
 
