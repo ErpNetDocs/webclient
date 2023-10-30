@@ -26,6 +26,8 @@ Here, you can find how many quantities of the products are selected for **scrap*
 
 For example, out of 30pcs, only 15 may be scrapped. This will be reflected in the issue store document.
 
+![Scrap](pictures/inv_con_scrap_scrap.png)
+
 ### Info
 
 If you tap on a product from the **Availability** tab, you'll be shown further information about it here.
@@ -33,6 +35,8 @@ If you tap on a product from the **Availability** tab, you'll be shown further i
 This includes revealing its unique ID, barcode and GTIN, if present, as well as how many instances of it will be scrapped.
 
 If more lots are present, the **available-scrap** ratio will be distributed based on the FEFO principle.
+
+![Scrap](pictures/inv_con_scrap_info.png)
 
 ## Scanning
 
