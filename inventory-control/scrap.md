@@ -60,7 +60,7 @@ To scrap more pcs or the exact number of pcs for a product, specify it first (e.
 
 This can be done on one line, or on two separate lines for each input. Tap the **blue arrow** to confirm.
 
-![Scrap](pictures/inv_con_scrap_multiple.png)
+![Scrap](pictures/inv_con_scrap_multi.png)
 
 The **trash bin button** allows you to remove the latest scrap, which will restore the previous Scrap value.
 
