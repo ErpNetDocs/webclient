@@ -6,6 +6,10 @@ This can be handy for adding multiple instances of a product or performing certa
 
 ![Command list](pictures/command-list.png)
 
+In order to access the Command list, tap on the **three-dot button** at the bottom of the screen and select **Command List**.
+
+![Command list](pictures/inv_con_com_list.png)
+
 All barcodes are grouped into **Quantities** and **Commands**, and each group features short explanations on what its barcodes will achieve.
 
 While quantity barcodes immediately scan a fixed amount of **instances** of a product, commands execute specific **operations**.
