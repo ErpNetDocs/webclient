@@ -18,6 +18,8 @@ Scrap is composed of three tabs:
 
 This is where all of your store products are listed, together with their current quantities and lots, if present.
 
+![Scrap](pictures/inv_con_scrap_availability.png)
+
 ### Scrap
 
 Here, you can find how many quantities of the products are selected for **scrap** as opposed to being **available** in total.
