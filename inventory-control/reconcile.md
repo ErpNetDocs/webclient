@@ -60,13 +60,15 @@ If more lots are present for a product, the FEFO principle determines which lot 
 
 ### Multiple counts
 
-To count more pcs or the exact number of pcs for a product, specify it first (e.g. "50*") and then provide the product ID. 
+To count more pcs or the exact number of pcs for a product, specify it first (e.g. "50"), add a "*", and then provide the product ID. 
 
 This can be done on one line, or on two separate lines for each input. Tap the **blue arrow** to confirm.
 
 ![Reconcile](pictures/count_fifty_reconcile.png)
 
 The **trash bin button** allows you to remove the latest count, which will restore the previous **Counted** value.
+
+Any one, two or three-number combination is automatically counted as a **multiplier**. You can insert it without adding "*" in the end.
 
 ### Higher count
 
