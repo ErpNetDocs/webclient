@@ -8,7 +8,7 @@ Upon every transfer, the sending store must issue a separate **issue order** to 
 
 ### Prerequisites
 
-Before you begin, you'll be prompted to select the correct store **from** which you want to transfer, and the store **to** which you want to transfer.
+You'll be prompted to select the correct store **from** which you want to transfer, and the store **to** which you want to transfer.
 
 ![Transfer](pictures/inv_con_transfer.png)
 
