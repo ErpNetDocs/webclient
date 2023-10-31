@@ -58,6 +58,7 @@ It lets you quickly insert the instances of a product you want to transfer eithe
 
 Simply type in a product's ID once (e.g. "0000001") in order to transfer only one pcs of it. Tap the **blue arrow** to confirm.
 
+![Transfer](pictures/inv_con_transfer_single.png)
 
 Every time you scan, you'll be taken to the **Info** tab for the respective product. Successfully transferred pcs are painted in **green**.
 
@@ -69,6 +70,7 @@ To transfer more pcs or the exact number of pcs for a product, specify it first 
 
 This can be done on one line (e.g. 50*1001150), or on two separate lines for each input. Tap the **blue arrow** to confirm.
 
+![Transfer](pictures/inv_con_transfer_multiple.png)
 
 **NOTE!**
 
@@ -78,6 +80,7 @@ This can be done on one line (e.g. 50*1001150), or on two separate lines for eac
 
 3. The desired transferred pcs of a product **cannot** be more than what is set as available in the system.
 
+![Transfer](pictures/inv_con_transfer_error.png)
 
 ### Zero count
 
@@ -85,6 +88,7 @@ In case you've made a mistake and want to start the transfer process from scratc
 
 If the **Transfer** bar is left with zero, this will be interpreted as the product having "0 pcs" for transfer in the final transfer order document.
 
+![Transfer](pictures/inv_con_transfer_zero.png)
 
 ## Generate a transfer order document
 
@@ -92,6 +96,7 @@ Once you're done transferring the desired product quantities, you can go back to
 
 The **Available** value will be positioned above the **Transfer** one, making it easy to these values.
 
+![Transfer](pictures/inv_con_transfer_finish.png)
 
 Tap the blue **Finish** button to generate your transfer order document.
 
