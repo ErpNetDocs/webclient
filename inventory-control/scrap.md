@@ -62,9 +62,13 @@ This can be done on one line (e.g. 50*1001150), or on two separate lines for eac
 
 ![Scrap](pictures/inv_con_scrap_multi.png)
 
-The **trash bin button** allows you to remove the latest scrap, which will restore the previous Scrap value.
+**NOTE!**
 
-The desired scrapped pcs of a product **cannot** be more than what is set as available in the system.
+1. The **trash bin button** allows you to remove the latest scrap, which will restore the previous Scrap value.
+
+2. Any one, two or three-number combination is automatically counted as a **multiplier**. You can insert it without adding "*" in the end.
+
+3. The desired scrapped pcs of a product **cannot** be more than what is set as available in the system.
 
 ![Scrap](pictures/inv_con_scrap_error.png)
 
