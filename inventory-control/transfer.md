@@ -83,7 +83,7 @@ This can be done on one line (e.g. 50*1001150), or on two separate lines for eac
 
 In case you've made a mistake and want to start the transfer process from scratch, type in "0*" followed by the affected product ID.
 
-If the **Transfer** bar is left with zero, this will be interpreted as the product having "0 pcs" for transfer in the final store order document.
+If the **Transfer** bar is left with zero, this will be interpreted as the product having "0 pcs" for transfer in the final transfer order document.
 
 
 ## Generate a transfer order document
