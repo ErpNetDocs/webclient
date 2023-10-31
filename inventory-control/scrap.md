@@ -56,9 +56,9 @@ If more lots are present for a product, the FEFO principle determines which lot 
 
 ### Multiple scraps
 
-To scrap more pcs or the exact number of pcs for a product, specify it first (e.g. "50*") and then provide the product ID.
+To scrap more pcs or the exact number of pcs for a product, specify it first (e.g. "50"), add a "*", and then provide the product ID.
 
-This can be done on one line, or on two separate lines for each input. Tap the **blue arrow** to confirm.
+This can be done on one line (e.g. 50*1001150), or on two separate lines for each input. Tap the **blue arrow** to confirm.
 
 ![Scrap](pictures/inv_con_scrap_multi.png)
 
