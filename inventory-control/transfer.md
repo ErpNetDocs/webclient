@@ -10,9 +10,11 @@ Upon every transfer, the sending store must issue a separate **issue order** to 
 
 You'll be prompted to select the correct store **from** which you want to transfer, and the store **to** which you want to transfer.
 
-![Transfer](pictures/inv_con_transfer.png)
+![Transfer](pictures/inv_con_selectedstore_transfer.png)
 
 When done, tap **Ok**. You'll be taken to the **Transfer** module.
+
+![Transfer](pictures/inv_con_transfer_module.png)
 
 ## Overview
 
@@ -26,6 +28,7 @@ Transfer is composed of three tabs:
 
 This is where all of your store products are listed, together with their current quantities and lots, if present.
 
+![Transfer](pictures/inv_con_transfer_availability.png)
 
 ### Transfer
 
@@ -33,6 +36,7 @@ Here, you can find how many quantities of the products are selected for **transf
 
 For example, out of 30pcs, only 15 may be transferred. This will be reflected in the issue store document.
 
+![Transfer](pictures/inv_con_transfer_transfer.png)
 
 ### Info
 
