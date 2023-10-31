@@ -12,11 +12,11 @@ The reverse could also be true: new products may be identified but not entered i
 
 ## Overview
 
-As with Receive, Issue and Scrap, Reconcile is composed of three tabs:
+Reconcile is composed of three tabs:
 
-* Availability
-* Counted
-* Info
+* **Availability**
+* **Counted**
+* **Info**
 
 ### Availability
 
