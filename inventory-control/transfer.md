@@ -34,7 +34,7 @@ This is where all of your store products are listed, together with their current
 
 Here, you can find how many quantities of the products are selected for **transfer** as opposed to being **available** in total.
 
-For example, out of 30pcs, only 15 may be transferred. This will be reflected in the issue store document.
+For example, out of 20pcs, only 10 may need to be transferred. This will be reflected in the transfer order document.
 
 ![Transfer](pictures/inv_con_transfer_transfer.png)
 
@@ -46,6 +46,7 @@ This includes revealing its unique ID, barcode and GTIN, if present, as well as 
 
 If more lots are present, the **available-transfer** ratio will be distributed based on the FEFO principle.
 
+![Transfer](pictures/inv_con_transfer_info.png)
 
 ## Scanning
 
