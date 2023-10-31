@@ -4,9 +4,7 @@ This section allows you to **transfer** available product quantities from one of
 
 Transfering is useful when a particular store no longer needs certain quantities and has requested to move them to a different one.
 
-Upon every transfer, the sending store must issue a separate **issue order** to reflect the transferred quantities, while the recipient store must issue a **receive order**. 
-
-Both documents can be generated through **Inventory Control**.
+Upon every transfer, the sending store must issue a separate **issue order** to reflect the transferred quantities, while the recipient store must issue a **receive order**. Both documents can be generated through **Inventory Control**.
 
 ### Prerequisites
 
