@@ -80,7 +80,7 @@ In case you've made a mistake and want to start the execution process from scrat
 
 If the **Executed** bar is left with zero, this will be interpreted as the product having received "0 pcs" in the final receipt store document.
 
-## Generate a receive order document
+## Generate a receipt order document
 
 Once you're done executing the desired product quantities, you can go back to the **Executed** tab to see if you've made any mistakes.
 
