@@ -4,7 +4,7 @@ This section allows you to **confirm** product quantities received by your wareh
 
 ### Prerequisites
 
-You'll be prompted to select the released receive order for which you want to confirm ordered product quantities.
+You'll be prompted to select the order document for which you want to confirm ordered product quantities.
 
 ![Receive](pictures/inv_con_receive.png)
 
@@ -40,7 +40,11 @@ If you tap on a product from the **Ordered** tab, you'll be shown further inform
 
 This includes revealing its unique ID, barcode and GTIN, if present, as well as how many instances of it will be executed.
 
-If more lots are present, the **available-scrap** ratio will be distributed based on the FEFO principle.
+If more lots are present, the **available-scrap** ratio will be distributed based on the FEFO (first expire - first out) principle.
+
+For example, 250 product quantities may be distributed across 3 lots with 100, 80 and 70 each. 
+
+The lot with quantities whose date is closest to its expiration point will be prioritised in the execution process.
 
 ![Receive](pictures/inv_con_receive_info.png)
 
