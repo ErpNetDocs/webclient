@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Introduction | ERP.net Web Client </title>
+    <title>Receive | ERP.net Web Client </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Introduction | ERP.net Web Client ">
+    <meta name="title" content="Receive | ERP.net Web Client ">
     <meta name="generator" content="docfx 2.56.9.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
@@ -70,10 +70,63 @@
         <div class="article row grid">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
+<h1 id="receive">Receive</h1>
 
-<p>In progress.</p>
-<h1 id="introduction">Introduction</h1>
-<p>Receive is the first action you can perform in Inventory Control.</p>
+<p>This section allows you to <strong>confirm</strong> product quantities received by your warehouse or shop's store, and generate receipt store documents.</p>
+<h3 id="prerequisites">Prerequisites</h3>
+<p>You'll be prompted to select the order document for which you want to confirm ordered product quantities.</p>
+<p><img src="pictures/inv_con_receive.png" alt="Receive"></p>
+<p>When you tap on one, you'll be taken to the <strong>Receive</strong> module.</p>
+<p><img src="pictures/inv_con_receive_module.png" alt="Receive"></p>
+<h2 id="overview">Overview</h2>
+<p>Receieve is composed of three tabs:</p>
+<ul>
+<li><strong>Ordered</strong></li>
+<li><strong>Executed</strong></li>
+<li><strong>Info</strong></li>
+</ul>
+<h3 id="ordered">Ordered</h3>
+<p>This is where all of your ordered product quantities are listed, together with their lots and product lines, if present.</p>
+<p><img src="pictures/inv_con_receive_ordered.png" alt="Receive"></p>
+<h3 id="executed">Executed</h3>
+<p>Here, you can find how many quantities of the products are confirmed as received as opposed to being <strong>ordered</strong>.</p>
+<p>For example, out of 30 ordered pcs, only 15 may be received. This will be reflected in the receipt store document.</p>
+<p><img src="pictures/inv_con_receive_executed.png" alt="Receive"></p>
+<h3 id="info">Info</h3>
+<p>If you tap on a product from the <strong>Ordered</strong> tab, you'll be shown further information about it here.</p>
+<p>This includes revealing its unique ID, barcode and GTIN, if present, as well as how many instances of it will be executed.</p>
+<p>If more lots are present, the <strong>available-scrap</strong> ratio will be distributed based on the FEFO (first expire - first out) principle.</p>
+<p>For example, 250 product quantities may be distributed across 3 lots with 100, 80 and 70 each.</p>
+<p>The lot with quantities whose date is closest to its expiration point will be prioritised in the execution process.</p>
+<p><img src="pictures/inv_con_receive_info.png" alt="Receive"></p>
+<h2 id="scanning">Scanning</h2>
+<p>In order to execute ordered quantities, you need to use the <strong>Scan</strong> field.</p>
+<p>It lets you quickly insert the instances of a product you want to confirm as received either manually or through barcode commands.</p>
+<h3 id="individual-execution">Individual execution</h3>
+<p>Simply type in a product's ID once (e.g. &quot;0000001&quot;) in order to receive only one pcs of it. Tap the <strong>blue arrow</strong> to confirm.</p>
+<p>Every time you scan, you'll be taken to the <strong>Info</strong> tab for the respective product. Successfully executed pcs are painted in <strong>green</strong>.</p>
+<p>If more lots are present for a product, the FEFO principle determines which lot has pcs received first.</p>
+<h3 id="multiple-executions">Multiple executions</h3>
+<p>To execute more pcs or the exact number of pcs for a product, specify it first (e.g. &quot;50&quot;), add a &quot;*&quot;, and then provide the product ID.</p>
+<p>This can be done on one line (e.g. 50*1001150), or on two separate lines for each input. Tap the <strong>blue arrow</strong> to confirm.</p>
+<p><strong>NOTE!</strong></p>
+<ol>
+<li><p>The <strong>trash bin button</strong> allows you to remove the latest execution, which will restore the previous Executed value.</p>
+</li>
+<li><p>Any one, two or three-number combination is automatically counted as a <strong>multiplier</strong>. You can insert it without adding &quot;*&quot; in the end.</p>
+</li>
+</ol>
+<h3 id="higher-count">Higher count</h3>
+<p>The received pcs of a product <strong>can</strong> be more than what is ordered.</p>
+<h3 id="zero-count">Zero count</h3>
+<p>In case you've made a mistake and want to start the execution process from scratch, type in &quot;0*&quot; followed by the affected product ID.</p>
+<p>If the <strong>Executed</strong> bar is left with zero, this will be interpreted as the product having received &quot;0 pcs&quot; in the final receipt store document.</p>
+<h2 id="generate-a-receipt-order-document">Generate a receipt order document</h2>
+<p>Once you're done executing the desired product quantities, you can go back to the <strong>Executed</strong> tab to see if you've made any mistakes.</p>
+<p>The <strong>Ordered</strong> value will be positioned above the <strong>Executed</strong> one, making it easy to compare these values.</p>
+<p>Tap the blue <strong>Finish</strong> button to generate your receipt store document.</p>
+<p>This will take you to a separate space with direct access to the document template for this operation.</p>
+<p>By tapping on it, you'll access the <strong>Inventory</strong> module from where you can release and complete the document.</p>
 </article>
           </div>
           
