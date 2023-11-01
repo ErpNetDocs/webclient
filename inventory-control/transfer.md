@@ -96,12 +96,14 @@ Once you're done transferring the desired product quantities, you can go back to
 
 The **Available** value will be positioned above the **Transfer** one, making it easy to these values.
 
-![Transfer](pictures/inv_con_transfer_finish.png)
+![Transfer](pictures/inv_con_transfer_done.png)
 
 Tap the blue **Finish** button to generate your transfer order document.
 
 This will take you to a separate space with direct access to the document template for this operation.
 
+![Transfer](pictures/inv_con_transfer_doc.png)
 
 By tapping on it, you'll access the **Inventory** module from where you can release and complete the document.
 
+![Transfer](pictures/inv_con_transfer_doc_finish.png)
