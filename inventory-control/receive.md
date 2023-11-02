@@ -4,7 +4,7 @@ This section allows you to **confirm** product quantities received by your wareh
 
 ### Prerequisites
 
-Make sure you've set the correct document type for this operation within the Inventory Control **[Settings](settings.md)**.
+Make sure you've set the correct document type for this operation within the **[Settings](settings.md)**.
 
 You'll then be prompted to select the document for which you want to confirm received product quantities.
 
