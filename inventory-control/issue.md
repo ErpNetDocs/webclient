@@ -6,11 +6,11 @@ This section allows you to **confirm** product quantities issued by your warehou
 
 You'll be prompted to select the order document for which you want to confirm ordered product quantities.
 
-![Issue](pictures/inv_con_issue.png)
+![Issue](pictures/inv_con_issuenew.png)
 
 When you tap on one, you'll be taken to the **Issue** module.
 
-![Issue](pictures/inv_con_issue_module.png)
+![Issue](pictures/inv_con_issue_modulenew.png)
 
 ## Overview
 
