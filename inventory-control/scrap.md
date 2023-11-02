@@ -6,6 +6,10 @@ Scrapping is done when a product's expiry date is reached (respecting the FEFO r
 
 ![Scrap](pictures/inv_con_scrap.png)
 
+### Prerequisites 
+
+Make sure you've set the correct document type for this operation within the **[Settings](settings.md)**.
+
 ## Overview
 
 Scrap is composed of three tabs:
