@@ -20,10 +20,10 @@ The current store can easily be switched to a different one with the help of the
 
 Learn more about Inventory Control in the following articles:
 
-* [Settings](settings.md) - start from here to determine which kinds of documents will be generated for each operation
-*	[Receive](receive.md)
-*	[Issue](issue.md)
-*	[Reconcile](reconcile.md)
-*	[Transfer](transfer.md)
-*	[Scrap](scrap.md)
-*	[Command list](command-list.md) - commonly used barcode combinations for scanning
+* **[Settings](settings.md)** - start from here to determine which kinds of documents will be generated for each operation
+*	**[Receive](receive.md)**
+*	**[Issue](issue.md)**
+*	**[Reconcile](reconcile.md)**
+*	**[Transfer](transfer.md)**
+*	**[Scrap](scrap.md)**
+*	**[Command list](command-list.md)** - commonly used barcode combinations for scanning
