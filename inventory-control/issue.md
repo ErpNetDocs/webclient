@@ -24,7 +24,7 @@ Receieve is composed of three tabs:
 
 This is where all of your ordered product quantities are listed, together with their lots and product lines, if present.
 
-![Issue](pictures/inv_con_issue_ordered.png)
+![Issue](pictures/inv_con_issue_orderednew.png)
 
 ### Executed
 
@@ -32,7 +32,7 @@ Here, you can find how many quantities of the products are confirmed as issued a
 
 For example, out of 30 ordered pcs, only 15 may be issued. This will be reflected in the receipt store document.
 
-![Issue](pictures/inv_con_issue_executed.png)
+![Issue](pictures/inv_con_issue_executednew.png)
 
 ### Info
 
@@ -42,7 +42,7 @@ This includes revealing its unique ID, barcode and GTIN, if present, as well as 
 
 If more lots are present, the **available-scrap** ratio will be distributed based on the FEFO (first expire - first out) principle.
 
-![Issue](pictures/inv_con_issue_info.png)
+![Issue](pictures/inv_con_issue_infonew.png)
 
 ## Scanning
 
