@@ -56,7 +56,9 @@ In order to execute ordered quantities, you need to use the **Scan** field.
 
 It lets you quickly insert the instances of a product you want to confirm as received either manually or through barcode commands.
 
-### Individual execution
+For a list of available barcode templates, check out the **[Command list](command-list.md)**.
+
+### Individual scan
 
 Simply type in a product's ID once (e.g. "0000001") in order to receive only one pcs of it. Tap the **blue arrow** to confirm.
 
@@ -66,7 +68,7 @@ Every time you scan, you'll be taken to the **Info** tab for the respective prod
 
 If more lots are present for a product, the FEFO principle determines which lot has pcs received first.
 
-### Multiple executions
+### Multiple scans
 
 To execute more pcs or the exact number of pcs for a product, specify it first (e.g. "50"), add a "*", and then provide the product ID.
 
@@ -80,9 +82,7 @@ This can be done on one line (e.g. 50*1001150), or on two separate lines for eac
 
 2. Any one, two or three-number combination is automatically counted as a **multiplier**. You can insert it without adding "*" in the end.
 
-### Higher count
-
-The received pcs of a product **cannot** be more than what is ordered.
+3. The received pcs of a product **cannot** be more than what is ordered.
 
 ![Receive](pictures/inv_con_receive_error.png)
 
