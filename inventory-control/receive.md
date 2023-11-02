@@ -6,7 +6,7 @@ This section allows you to **confirm** product quantities received by your wareh
 
 You'll be prompted to select the order document for which you want to confirm ordered product quantities.
 
-![Receive](pictures/inv_con_receive.png)
+![Receive](pictures/inv_con_receivenew.png)
 
 When you tap on one, you'll be taken to the **Receive** module.
 
