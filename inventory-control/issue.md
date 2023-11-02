@@ -1,6 +1,6 @@
 # Issue
 
-This section allows you to **confirm** product quantities issued by your warehouse or shop's store, and generate receipt store documents.
+This section allows you to **confirm** product quantities issued by your warehouse or shop's store, and generate issue order documents.
 
 ### Prerequisites
 
@@ -51,6 +51,8 @@ If more lots are present, the **available-scrap** ratio will be distributed base
 In order to execute ordered quantities, you need to use the **Scan** field.
 
 It lets you quickly insert the instances of a product you want to confirm as issued either manually or through barcode commands.
+
+For a list of available barcode templates, check out the **[Command list](command-list.md)**.
 
 ### Individual execution
 
