@@ -90,9 +90,15 @@ Once you're done executing the desired product quantities, you can go back to th
 
 The **Ordered** value will be positioned above the **Executed** one, making it easy to compare these values.
 
+![Receive](pictures/inv_con_receive_final.png)
+
 Tap the blue **Finish** button to generate your receipt store document.
 
 This will take you to a separate space with direct access to the document template for this operation.
 
+![Receive](pictures/inv_con_receive_finaldoc.png)
+
 By tapping on it, you'll access the **Inventory** module from where you can release and complete the document.
+
+![Receive](pictures/inv_con_receive_fixeddoc.png)
 
