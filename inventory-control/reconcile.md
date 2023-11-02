@@ -52,7 +52,9 @@ In order to update the currently available quantities of your products, you need
 
 It lets you quickly insert the instances of a product you want to count either manually or through **barcode commands**.
 
-### Individual count
+For a list of available barcode templates, check out the **[Command list](command-list.md)**.
+
+### Individual scan
 
 Simply type in a product's **ID** once (e.g. "0000001") in order to count only one pcs of it. Tap the **blue arrow** to confirm.
 
@@ -62,7 +64,7 @@ Every time you scan, you'll be taken to the **Info** tab for the respective prod
 
 If more lots are present for a product, the FEFO principle determines which lot has pcs counted first.
 
-### Multiple counts
+### Multiple scans
 
 To count more pcs or the exact number of pcs for a product, specify it first (e.g. "50"), add a "*", and then provide the product ID. 
 
