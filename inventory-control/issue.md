@@ -4,11 +4,13 @@ This section allows you to **confirm** product quantities issued by your warehou
 
 ### Prerequisites
 
-You'll be prompted to select the order document for which you want to confirm ordered product quantities.
+Make sure you've set the correct document type for this operation within the **[Settings](settings.md)**.
+
+You'll then be prompted to select the document for which you want to confirm issued product quantities.
 
 ![Issue](pictures/inv_con_issuenew.png)
 
-When you tap on one, you'll be taken to the **Issue** module.
+If you tap on one, you'll be taken to the **Issue** module.
 
 ![Issue](pictures/inv_con_issue_modulenew.png)
 
