@@ -56,6 +56,8 @@ In order to transfer currently available quantities of your products, you need t
 
 It lets you quickly insert the instances of a product you want to transfer either manually or through barcode commands.
 
+For a list of available barcode templates, check out the **[Command list](command-list.md)**.
+
 ### Individual transfer
 
 Simply type in a product's ID once (e.g. "0000001") in order to transfer only one pcs of it. Tap the **blue arrow** to confirm.
