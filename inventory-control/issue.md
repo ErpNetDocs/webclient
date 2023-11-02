@@ -100,9 +100,9 @@ Tap the blue **Finish** button to generate your receipt store document.
 
 This will take you to a separate space with direct access to the document template for this operation.
 
-![Issue](pictures/inv_con_issue_order.png)
+![Issue](pictures/inv_con_issue_docrelease.png)
 
 By tapping on it, you'll access the **Inventory** module from where you can release and complete the document.
 
-![Issue](pictures/inv_con_issue_document.png)
+![Issue](pictures/inv_con_issuedoc.png)
 
