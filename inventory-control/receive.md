@@ -96,19 +96,20 @@ If the **Executed** bar is left with zero, this will be interpreted as the produ
 
 ## Generate a receipt order document
 
-Once you're done executing the desired product quantities, you can go back to the **Executed** tab to see if you've made any mistakes.
+Once you're done executing the ordered product quantities, you can go back to the **Executed** tab to see if you've made any mistakes.
 
 The **Ordered** value will be positioned above the **Executed** one, making it easy to compare these values.
 
-![Receive](pictures/inv_con_receive_final.png)
+![Receive](pictures/inv_con_receive_greenfinish.png)
 
-Tap the blue **Finish** button to generate your receipt store document.
+If all ordered product quantities have been received, the **Finish** button will be painted in green.
+
+**Tap** on it once to generate your receipt store document.
 
 This will take you to a separate space with direct access to the document template for this operation.
 
-![Receive](pictures/inv_con_receive_finaldoc.png)
+![Receive](pictures/inv_con_receive_greendoc.png)
 
 By tapping on it, you'll access the **Inventory** module from where you can release and complete the document.
 
-![Receive](pictures/inv_con_receive_fixeddoc.png)
-
+![Receive](pictures/inv_con_receive_greendocument.png)
