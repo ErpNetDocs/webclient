@@ -10,7 +10,7 @@ You'll be prompted to select the order document for which you want to confirm or
 
 When you tap on one, you'll be taken to the **Receive** module.
 
-![Receive](pictures/inv_con_receive_module.png)
+![Receive](pictures/inv_con_receive_modulenew.png)
 
 ## Overview
 
@@ -24,7 +24,7 @@ Receieve is composed of three tabs:
 
 This is where all of your ordered product quantities are listed, together with their lots and product lines, if present.
 
-![Receive](pictures/inv_con_receive_ordered.png)
+![Receive](pictures/inv_con_receive_orderednew.png)
 
 ### Executed
 
@@ -32,7 +32,7 @@ Here, you can find how many quantities of the products are confirmed as received
 
 For example, out of 30 ordered pcs, only 15 may be received. This will be reflected in the receipt store document.
 
-![Receive](pictures/inv_con_receive_executed.png)
+![Receive](pictures/inv_con_receive_executednew.png)
 
 ### Info
 
@@ -46,7 +46,7 @@ For example, 250 product quantities may be distributed across 3 lots with 100, 8
 
 The lot with quantities whose date is closest to its expiration point will be prioritised in the execution process.
 
-![Receive](pictures/inv_con_receive_info.png)
+![Receive](pictures/inv_con_receive_infonew.png)
 
 ## Scanning
 
