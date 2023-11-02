@@ -8,7 +8,7 @@ You can **receive**, **issue**, **reconcile**, **transfer** and **scrap** orders
 
 These actions are **not** synchronized in real-time with the ERP.net system.
 
-![Inventory Control](pictures/inventory-control.png)
+![Inventory Control](pictures/inv_con.png)
 
 ### Prerequisites
 
