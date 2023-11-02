@@ -94,7 +94,7 @@ Once you're done executing the desired product quantities, you can go back to th
 
 The **Ordered** value will be positioned above the **Executed** one, making it easy to compare these values.
 
-![Issue](pictures/inv_con_issue_finish.png)
+![Issue](pictures/inv_con_issue_docfin.png)
 
 Tap the blue **Finish** button to generate your receipt store document.
 
