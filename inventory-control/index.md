@@ -12,9 +12,9 @@ These actions are **not** synchronized in real-time with the ERP.net system.
 
 ### Prerequisites
 
-Before you start using Inventory Control, you'll have to select the **store** for which you want to perform warehouse management operations.
+Before you start using Inventory Control, you'll be prompted to select the **store** for which you want to perform warehouse management operations.
 
-The current store can easily be switched to a different one with the help of the **Change** button.
+That store will be saved for follow-up operations but can easily be switched to a different one with the help of the **Change** button.
 
 ![Inventory Control](pictures/inventory-control_store.png)
 
