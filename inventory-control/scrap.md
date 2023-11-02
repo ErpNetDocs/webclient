@@ -4,6 +4,10 @@ This section allows you to **deduct** available quantities from your warehouse o
 
 Scrapping is done when a product's expiry date is reached (respecting the FEFO rule) or the store no longer needs product quantities.
 
+You don't need to select an existing document in advance.
+
+Successfully scrapped quantities are counted out of your store's overall availability.
+
 ![Scrap](pictures/inv_con_scrap.png)
 
 ### Prerequisites 
