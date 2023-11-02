@@ -6,7 +6,7 @@ uid: wms-worker
 
 WMS Worker is a warehouse management application with a contemporary and intuitive easy to use design. 
 
-It allows warehouse workers to complete their tasks such as receiving and order picking in a more efficient, more productive, and more accurate manner.
+It allows warehouse workers to complete tasks such as order receiving and picking in a more efficient, productive, and accurate manner.
 
 This is all synchronized in real-time with your ERP.net system.
 
