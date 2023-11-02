@@ -4,11 +4,13 @@ This section allows you to **confirm** product quantities received by your wareh
 
 ### Prerequisites
 
-You'll be prompted to select the order document for which you want to confirm ordered product quantities.
+Make sure you've set the correct document type for this operation within the Inventory Control **[Settings](settings.md)**.
+
+You'll then be prompted to select the document for which you want to confirm received product quantities.
 
 ![Receive](pictures/inv_con_receivenew.png)
 
-When you tap on one, you'll be taken to the **Receive** module.
+If you tap on one, you'll be taken to the **Receive** module.
 
 ![Receive](pictures/inv_con_receive_modulenew.png)
 
