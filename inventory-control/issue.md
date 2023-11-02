@@ -1,6 +1,6 @@
 # Issue
 
-This section allows you to **confirm** product quantities received by your warehouse or shop's store, and generate receipt store documents.
+This section allows you to **confirm** product quantities issued by your warehouse or shop's store, and generate receipt store documents.
 
 ### Prerequisites
 
@@ -8,7 +8,7 @@ You'll be prompted to select the order document for which you want to confirm or
 
 ![Issue](pictures/inv_con_issue.png)
 
-When you tap on one, you'll be taken to the **Receive** module.
+When you tap on one, you'll be taken to the **Issue** module.
 
 ![Issue](pictures/inv_con_issue_module.png)
 
@@ -28,9 +28,9 @@ This is where all of your ordered product quantities are listed, together with t
 
 ### Executed
 
-Here, you can find how many quantities of the products are confirmed as received as opposed to being **ordered**.
+Here, you can find how many quantities of the products are confirmed as issued as opposed to being **ordered**.
 
-For example, out of 30 ordered pcs, only 15 may be received. This will be reflected in the receipt store document.
+For example, out of 30 ordered pcs, only 15 may be issued. This will be reflected in the receipt store document.
 
 ![Issue](pictures/inv_con_issue_executed.png)
 
@@ -48,17 +48,17 @@ If more lots are present, the **available-scrap** ratio will be distributed base
 
 In order to execute ordered quantities, you need to use the **Scan** field.
 
-It lets you quickly insert the instances of a product you want to confirm as received either manually or through barcode commands.
+It lets you quickly insert the instances of a product you want to confirm as issued either manually or through barcode commands.
 
 ### Individual execution
 
-Simply type in a product's ID once (e.g. "0000001") in order to receive only one pcs of it. Tap the **blue arrow** to confirm.
+Simply type in a product's ID once (e.g. "0000001") in order to issue only one pcs of it. Tap the **blue arrow** to confirm.
 
 ![Issue](pictures/inv_con_issue_singlescan.png)
 
 Every time you scan, you'll be taken to the **Info** tab for the respective product. Successfully executed pcs are painted in **green**.
 
-If more lots are present for a product, the FEFO principle determines which lot has pcs received first.
+If more lots are present for a product, the FEFO principle determines which lot has pcs issued first.
 
 ### Multiple executions
 
@@ -76,7 +76,7 @@ This can be done on one line (e.g. 50*1001150), or on two separate lines for eac
 
 ### Higher count
 
-The received pcs of a product **cannot** be more than what is ordered.
+The issued pcs of a product **cannot** be more than what is ordered.
 
 ![Issue](pictures/inv_con_issue_error.png)
 
@@ -84,7 +84,7 @@ The received pcs of a product **cannot** be more than what is ordered.
 
 In case you've made a mistake and want to start the execution process from scratch, type in "0*" followed by the affected product ID.
 
-If the **Executed** bar is left with zero, this will be interpreted as the product having received "0 pcs" in the final receipt store document.
+If the **Executed** bar is left with zero, this will be interpreted as the product having issued "0 pcs" in the final receipt store document.
 
 ![Issue](pictures/inv_con_issue_zero.png)
 
