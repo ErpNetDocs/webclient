@@ -14,6 +14,8 @@ The reverse could also be true: new products may be identified but not entered i
 
 Make sure you've set the correct document type for this operation within the **[Settings](settings.md)**.
 
+You don't need an existing order to use this module. All of your store's product quantities will be listed.
+
 ## Overview
 
 Reconcile is composed of three tabs:
