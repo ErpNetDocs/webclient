@@ -48,6 +48,8 @@ In order to scrap currently available quantities of your products, you need to u
 
 It lets you quickly insert the instances of a product you want to scrap either manually or through barcode commands.
 
+For a list of available barcode templates, check out the **[Command list](command-list.md)**.
+
 ### Individual scrap
 
 Simply type in a product's ID once (e.g. "0000001") in order to scrap only one pcs of it. Tap the **blue arrow** to confirm.
