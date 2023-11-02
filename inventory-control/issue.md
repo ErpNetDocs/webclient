@@ -1,6 +1,8 @@
 # Issue
 
-This section allows you to **confirm** product quantities issued by your warehouse or shop's store, and generate issue store documents.
+This section allows you to **deduct** product quantities from your warehouse or shop's store, and **generate** issue store documents.
+
+Issued quantities which are successfully executed are counted out of your store's overall availability.
 
 ### Prerequisites
 
