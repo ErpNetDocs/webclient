@@ -90,7 +90,9 @@ You can update the number by providing the higher counted value, which will be r
 
 In case you've made a mistake and want to start counting from scratch, type in "0*" followed by the affected product ID.
 
-If the counted bar is left with zero, this will be interpreted as the product having "0 pcs" (unavailable) in the final reconciliation document.
+If previously available product quantities are now non-existent, make sure to count them (or their lots) with zeroes.
+
+Each zero count is interpreted as the product or lot having "0 pcs" in the final reconciliation document.
 
 ![Reconcile](pictures/count_zero_reconcile.png)
 
