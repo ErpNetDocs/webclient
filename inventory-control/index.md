@@ -10,12 +10,20 @@ These actions are **not** synchronized in real-time with the ERP.net system.
 
 ![Inventory Control](pictures/inventory-control.png)
 
+### Prerequisites
+
+Before you start using Inventory Control, you'll have to select the **store** for which you want to perform warehouse management operations.
+
+The current store can easily be switched to a different one with the help of the **Change** button.
+
+![Inventory Control](pictures/inventory-control_store.png)
+
 Learn more about Inventory Control in the following articles:
 
-- [Settings](settings.md)
--	[Receive](receive.md)
--	[Issue](issue.md)
--	[Reconcile](reconcile.md)
--	[Transfer](transfer.md)
--	[Scrap](scrap.md)
--	[Command list](command-list.md)
+* [Settings](settings.md) - start from here to determine which kinds of documents will be generated for each operation
+*	[Receive](receive.md)
+*	[Issue](issue.md)
+*	[Reconcile](reconcile.md)
+*	[Transfer](transfer.md)
+*	[Scrap](scrap.md)
+*	[Command list](command-list.md) - commonly used barcode combinations for scanning
