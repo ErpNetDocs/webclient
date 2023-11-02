@@ -54,7 +54,7 @@ It lets you quickly insert the instances of a product you want to confirm as iss
 
 Simply type in a product's ID once (e.g. "0000001") in order to issue only one pcs of it. Tap the **blue arrow** to confirm.
 
-![Issue](pictures/inv_con_issue_singlescan.png)
+![Issue](pictures/inv_con_issue_singlescannew.png)
 
 Every time you scan, you'll be taken to the **Info** tab for the respective product. Successfully executed pcs are painted in **green**.
 
@@ -66,7 +66,7 @@ To execute more pcs or the exact number of pcs for a product, specify it first (
 
 This can be done on one line (e.g. 50*1001150), or on two separate lines for each input. Tap the **blue arrow** to confirm.
 
-![Issue](pictures/inv_con_issue_multiscan.png)
+![Issue](pictures/inv_con_issue_multiscannew.png)
 
 **NOTE!**
 
@@ -78,7 +78,7 @@ This can be done on one line (e.g. 50*1001150), or on two separate lines for eac
 
 The issued pcs of a product **cannot** be more than what is ordered.
 
-![Issue](pictures/inv_con_issue_error.png)
+![Issue](pictures/inv_con_issue_errornew.png)
 
 ### Zero count
 
@@ -86,7 +86,7 @@ In case you've made a mistake and want to start the execution process from scrat
 
 If the **Executed** bar is left with zero, this will be interpreted as the product having issued "0 pcs" in the final receipt store document.
 
-![Issue](pictures/inv_con_issue_zero.png)
+![Issue](pictures/inv_con_issue_zeronew.png)
 
 ## Generate a receipt order document
 
