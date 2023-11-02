@@ -4,11 +4,13 @@ This section allows you to **transfer** available product quantities from one of
 
 Transfering is useful when a particular store no longer needs certain quantities and has requested to move them to a different one.
 
-Upon every transfer, the sending store must issue a separate **issue order** to reflect the transferred quantities, while the recipient store must issue a **receive order**. Both documents can be generated through **Inventory Control**.
+Upon every transfer, the sending store must generate a separate **issue order** to reflect the transferred quantities, while the recipient store must generate a **receive order**. Both documents can be generated through **Inventory Control** or similar modules.
 
 ### Prerequisites
 
-You'll be prompted to select the correct store **from** which you want to transfer, and the store **to** which you want to transfer.
+Make sure you've set the correct document type for this operation within the **[Settings](settings.md)**.
+
+You'll then be prompted to select the correct store **from** which you want to transfer, and the store **to** which you want to transfer.
 
 ![Transfer](pictures/inv_con_selectedstore_transfer.png)
 
