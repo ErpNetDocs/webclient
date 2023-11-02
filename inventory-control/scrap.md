@@ -4,15 +4,15 @@ This section allows you to **remove** available quantities from your warehouse o
 
 Scrapping is done when a product's expiry date is reached (respecting the FEFO rule) or the store no longer needs product quantities.
 
-You don't need to select an existing document in advance.
-
-Successfully scrapped quantities are counted out of your store's overall availability.
+Successfully scrapped quantities are counted **out** of your store's overall availability.
 
 ![Scrap](pictures/inv_con_scrap.png)
 
 ### Prerequisites 
 
 Make sure you've set the correct document type for this operation within the **[Settings](settings.md)**.
+
+You don't need an existing order to use this module. All of your store's product quantities will be listed.
 
 ## Overview
 
