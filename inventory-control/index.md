@@ -1,4 +1,4 @@
-# Introduction
+# Inventory Control
 
 Inventory Control is a warehouse management application designed to speed up and simplify basic operations with warehouse orders. 
 
