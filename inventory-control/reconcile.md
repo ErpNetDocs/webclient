@@ -10,6 +10,10 @@ The reverse could also be true: new products may be identified but not entered i
 
 ![Reconcile](pictures/reconcile-section.png)
 
+### Prerequisites
+
+Make sure you've set the correct document type for this operation within the **[Settings](settings.md)**.
+
 ## Overview
 
 Reconcile is composed of three tabs:
