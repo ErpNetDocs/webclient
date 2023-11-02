@@ -1,6 +1,6 @@
 # Issue
 
-This section allows you to **confirm** product quantities issued by your warehouse or shop's store, and generate issue order documents.
+This section allows you to **confirm** product quantities issued by your warehouse or shop's store, and generate issue store documents.
 
 ### Prerequisites
 
@@ -16,7 +16,7 @@ If you tap on one, you'll be taken to the **Issue** module.
 
 ## Overview
 
-Receieve is composed of three tabs:
+Issue is composed of three tabs:
 
 * **Ordered**
 * **Executed**
@@ -32,7 +32,7 @@ This is where all of your ordered product quantities are listed, together with t
 
 Here, you can find how many quantities of the products are confirmed as issued as opposed to being **ordered**.
 
-For example, out of 30 ordered pcs, only 15 may be issued. This will be reflected in the receipt store document.
+For example, out of 30 ordered pcs, only 15 may be issued. This will be reflected in the issue store document.
 
 ![Issue](pictures/inv_con_issue_executednew.png)
 
@@ -88,11 +88,11 @@ The issued pcs of a product **cannot** be more than what is ordered.
 
 In case you've made a mistake and want to start the execution process from scratch, type in "0*" followed by the affected product ID.
 
-If the **Executed** bar is left with zero, this will be interpreted as the product having issued "0 pcs" in the final receipt store document.
+If the **Executed** bar is left with zero, this will be interpreted as the product having issued "0 pcs" in the final issue store document.
 
 ![Issue](pictures/inv_con_issue_zeronew.png)
 
-## Generate a receipt order document
+## Generate an issue store document
 
 Once you're done executing the desired product quantities, you can go back to the **Executed** tab to see if you've made any mistakes.
 
@@ -100,7 +100,7 @@ The **Ordered** value will be positioned above the **Executed** one, making it e
 
 ![Issue](pictures/inv_con_issue_docfin.png)
 
-Tap the blue **Finish** button to generate your receipt store document.
+Tap the blue **Finish** button to generate your issue store document.
 
 This will take you to a separate space with direct access to the document template for this operation.
 
