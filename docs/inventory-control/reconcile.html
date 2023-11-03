@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../styles/docfx.css">
     <link rel="stylesheet" href="../styles/main.css">
     <meta property="docfx:navrel" content="">
-    <meta property="docfx:tocrel" content="">
+    <meta property="docfx:tocrel" content="toc.html">
     
     <meta property="docfx:rel" content="../">
     
@@ -67,7 +67,14 @@
         </div>
       </div>
       <div role="main" class="container body-content hide-when-search">
-        <div class="article row grid">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="reconcile">Reconcile</h1>
@@ -108,27 +115,40 @@
 <p><img src="pictures/count_one_reconcile.png" alt="Reconcile"></p>
 <p>Every time you scan, you'll be taken to the <strong>Info</strong> tab for the respective product. Successfully counted pcs are painted in <strong>green</strong>.</p>
 <p>If more lots are present for a product, the FEFO principle determines which lot has pcs counted first.</p>
+<p>Incorrect or non-existent product IDs will generate an error.</p>
+<p><img src="pictures/inv_con_reconcile_err.png" alt="Reconcile"></p>
 <h3 id="multiple-scans">Multiple scans</h3>
 <p>To count more pcs or the exact number of pcs for a product, specify it first (e.g. &quot;50&quot;), add a &quot;*&quot;, and then provide the product ID.</p>
 <p>This can be done on one line, or on two separate lines for each input. Tap the <strong>blue arrow</strong> to confirm.</p>
 <p><img src="pictures/count_fifty_reconcile.png" alt="Reconcile"></p>
 <p><strong>NOTE!</strong></p>
-<p>The <strong>trash bin button</strong> allows you to remove the latest count, which will restore the previous <strong>Counted</strong> value.</p>
-<p>Any one, two or three-number combination is automatically counted as a <strong>multiplier</strong>. You can insert it without adding &quot;*&quot; in the end.</p>
+<ol>
+<li><p>The <strong>trash bin button</strong> allows you to remove the latest count, which will restore the previous <strong>Counted</strong> value.</p>
+</li>
+<li><p>Any one, two or three-number combination is automatically counted as a <strong>multiplier</strong>. You can insert it without adding &quot;*&quot; in the end.</p>
+</li>
+<li><p>You can remove inserted multipliers by tapping the <strong>Clear button (X)</strong>.</p>
+</li>
+</ol>
 <h3 id="higher-count">Higher count</h3>
 <p>The currently available pcs of a product may be <strong>more</strong> than what is set as available in the system.</p>
 <p>You can update the number by providing the higher counted value, which will be reflected in the final reconciliation document.</p>
 <p><img src="pictures/count_higher_reconcile.png" alt="Reconcile"></p>
+<h3 id="new-count">New count</h3>
+<p>If a product previously absent from the system is now available, you can <strong>add</strong> it by scanning it.</p>
+<p>Its pcs will be reflected immediately, and once a reconciliation document is released, the <strong>Available</strong> bar will be updated with the new quantity.</p>
+<p><img src="pictures/inv_con_reconcile_newproduct.png" alt="Reconcile"></p>
 <h3 id="zero-count">Zero count</h3>
 <p>In case you've made a mistake and want to start counting from scratch, type in &quot;0*&quot; followed by the affected product ID.</p>
 <p>If previously available product quantities are now non-existent, make sure to count them (or their lots) with zeroes.</p>
 <p>Each zero count is interpreted as the product or lot having &quot;0 pcs&quot; in the final reconciliation document.</p>
 <p><img src="pictures/count_zero_reconcile.png" alt="Reconcile"></p>
 <h2 id="generate-a-reconciliation-document">Generate a reconciliation document</h2>
-<p>Once you're done counting the product quantities, you can go back to the <strong>Counted</strong> tab to see if you've made any mistakes.</p>
+<p>Once you're done scanning the product quantities, you can go back to the <strong>Counted</strong> tab to see if you've made any mistakes.</p>
 <p>The <strong>Available</strong> value will be positioned above the <strong>Counted</strong> one, making it easy to compare past and present values.</p>
-<p><img src="pictures/info_reconciles_final.png" alt="Reconcile"></p>
-<p>Tap the blue <strong>Finish</strong> button to generate your reconciliation document.</p>
+<p><img src="pictures/inv_con_reconcile_finishgreen.png" alt="Reconcile"></p>
+<p>If the counted number is greater than or equal to the available number, the <strong>Finish</strong> button will be painted in green.</p>
+<p>Tap on it once to generate your reconciliation document.</p>
 <p>This will take you to a separate space with direct access to the document template for this operation.</p>
 <p><img src="pictures/reconcile_document.png" alt="Reconcile"></p>
 <p>By tapping on it, you'll access the <strong>Inventory</strong> module from where you can release and complete the document.</p>

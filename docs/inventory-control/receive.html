@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../styles/docfx.css">
     <link rel="stylesheet" href="../styles/main.css">
     <meta property="docfx:navrel" content="">
-    <meta property="docfx:tocrel" content="">
+    <meta property="docfx:tocrel" content="toc.html">
     
     <meta property="docfx:rel" content="../">
     
@@ -67,7 +67,14 @@
         </div>
       </div>
       <div role="main" class="container body-content hide-when-search">
-        <div class="article row grid">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="receive">Receive</h1>
@@ -76,7 +83,8 @@
 <p>Ordered quantities which are successfully confirmed and executed are counted towards your store's overall availability.</p>
 <h3 id="prerequisites">Prerequisites</h3>
 <p>Make sure you've set the correct document type for this operation within the <strong><a href="settings.html">Settings</a></strong>.</p>
-<p>You'll then be prompted to select the document for which you want to confirm received product quantities.</p>
+<p>You'll then be prompted to select the <strong>released order</strong> for which you want to confirm received product quantities.</p>
+<p>Available orders are filtered by <strong>enterprise company</strong> and <strong>location</strong>.</p>
 <p><img src="pictures/inv_con_receivenew.png" alt="Receive"></p>
 <p>If you tap on one, you'll be taken to the <strong>Receive</strong> module.</p>
 <p><img src="pictures/inv_con_receive_modulenew.png" alt="Receive"></p>
@@ -89,15 +97,16 @@
 </ul>
 <h3 id="ordered">Ordered</h3>
 <p>This is where all of your ordered product quantities are listed, together with their lots and product lines, if present.</p>
+<p>One and the same document can have its quantities spread across multiple lots.</p>
 <p><img src="pictures/inv_con_receive_orderednew.png" alt="Receive"></p>
 <h3 id="executed">Executed</h3>
-<p>Here, you can find how many quantities of the products are confirmed as received as opposed to being <strong>ordered</strong>.</p>
+<p>Here, you can find how many quantities of the products are <strong>executed</strong> as opposed to being <strong>ordered</strong>.</p>
 <p>For example, out of 30 ordered pcs, only 15 may be received. This will be reflected in the receipt store document.</p>
 <p><img src="pictures/inv_con_receive_executednew.png" alt="Receive"></p>
 <h3 id="info">Info</h3>
 <p>If you tap on a product from the <strong>Ordered</strong> tab, you'll be shown further information about it here.</p>
 <p>This includes revealing its unique ID, barcode and GTIN, if present, as well as how many instances of it will be executed.</p>
-<p>If more lots are present, the <strong>available-scrap</strong> ratio will be distributed based on the FEFO (first expire - first out) principle.</p>
+<p>If more lots are present, the <strong>ordered-executed</strong> ratio is distributed based on the <strong>FEFO</strong> (first expire - first out) principle.</p>
 <p>For example, 250 product quantities may be distributed across 3 lots with 100, 80 and 70 each.</p>
 <p>The lot with quantities whose date is closest to its expiration point will be prioritised in the execution process.</p>
 <p><img src="pictures/inv_con_receive_infonew.png" alt="Receive"></p>
@@ -106,10 +115,12 @@
 <p>It lets you quickly insert the instances of a product you want to confirm as received either manually or through barcode commands.</p>
 <p>For a list of available barcode templates, check out the <strong><a href="command-list.html">Command list</a></strong>.</p>
 <h3 id="individual-scan">Individual scan</h3>
-<p>Simply type in a product's ID once (e.g. &quot;0000001&quot;) in order to receive only one pcs of it. Tap the <strong>blue arrow</strong> to confirm.</p>
+<p>Simply type in a product's ID once (e.g. &quot;0000001&quot;) in order to execute only one pcs of it. Tap the <strong>blue arrow</strong> to confirm.</p>
 <p><img src="pictures/inv_con_receive_singlescan.png" alt="Receive"></p>
 <p>Every time you scan, you'll be taken to the <strong>Info</strong> tab for the respective product. Successfully executed pcs are painted in <strong>green</strong>.</p>
-<p>If more lots are present for a product, the FEFO principle determines which lot has pcs received first.</p>
+<p>If more lots are present for a product, the <strong>FEFO principle</strong> determines which lot has pcs received first.</p>
+<p>Incorrect product IDs will generate an error.</p>
+<p><img src="pictures/inv_con_receive_err.png" alt="Receive"></p>
 <h3 id="multiple-scans">Multiple scans</h3>
 <p>To execute more pcs or the exact number of pcs for a product, specify it first (e.g. &quot;50&quot;), add a &quot;*&quot;, and then provide the product ID.</p>
 <p>This can be done on one line (e.g. 50*1001150), or on two separate lines for each input. Tap the <strong>blue arrow</strong> to confirm.</p>
@@ -120,7 +131,9 @@
 </li>
 <li><p>Any one, two or three-number combination is automatically counted as a <strong>multiplier</strong>. You can insert it without adding &quot;*&quot; in the end.</p>
 </li>
-<li><p>The received pcs of a product <strong>cannot</strong> be more than what is ordered.</p>
+<li><p>You can remove inserted multipliers by tapping the <strong>Clear</strong> <strong>button</strong> <strong>(X)</strong>.</p>
+</li>
+<li><p>The executed pcs of a product <strong>cannot</strong> be more than what is ordered.</p>
 </li>
 </ol>
 <p><img src="pictures/inv_con_receive_error.png" alt="Receive"></p>
@@ -129,7 +142,7 @@
 <p>If the <strong>Executed</strong> bar is left with zero, this will be interpreted as the product having received &quot;0 pcs&quot; in the final receipt store document.</p>
 <p><img src="pictures/inv_con_receive_zero.png" alt="Receive"></p>
 <h2 id="generate-a-receipt-order-document">Generate a receipt order document</h2>
-<p>Once you're done executing the ordered product quantities, you can go back to the <strong>Executed</strong> tab to see if you've made any mistakes.</p>
+<p>Once you're done scanning the ordered product quantities, you can go back to the <strong>Executed</strong> tab to see if you've made any mistakes.</p>
 <p>The <strong>Ordered</strong> value will be positioned above the <strong>Executed</strong> one, making it easy to compare these values.</p>
 <p><img src="pictures/inv_con_receive_greenfinish.png" alt="Receive"></p>
 <p>If all ordered product quantities have been received, the <strong>Finish</strong> button will be painted in green.</p>

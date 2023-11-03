@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../styles/docfx.css">
     <link rel="stylesheet" href="../styles/main.css">
     <meta property="docfx:navrel" content="">
-    <meta property="docfx:tocrel" content="">
+    <meta property="docfx:tocrel" content="toc.html">
     
     <meta property="docfx:rel" content="../">
     
@@ -67,15 +67,21 @@
         </div>
       </div>
       <div role="main" class="container body-content hide-when-search">
-        <div class="article row grid">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="inventory-control">Inventory Control</h1>
 
-<p>Inventory Control is a warehouse management application designed to speed up and simplify basic operations with warehouse orders.</p>
-<p>It follows a similar logic to the <strong>BarCodeCommand</strong> pannel from within the <strong>Desktop Client</strong>, and allows workers to complete their tasks quickly, without going through the more complex procedures of the WMS module.</p>
-<p>You can <strong>receive</strong>, <strong>issue</strong>, <strong>reconcile</strong>, <strong>transfer</strong> and <strong>scrap</strong> orders in just a few steps.</p>
-<p>These actions are <strong>not</strong> synchronized in real-time with the ERP.net system.</p>
+<p>Inventory Control is a mobile warehouse management application designed to speed up and simplify basic operations with warehouse orders. It's perfectly suitable for shops and smaller stores.</p>
+<p>It follows a similar logic to the <strong>BarCodeCommand</strong> pannel from within the <strong>Desktop Client</strong> and allows workers to complete their daily tasks quickly, without going through the more complex procedures of the <strong><a href="../wms-worker/index.html">WMS module</a></strong>.</p>
+<p>You can <strong>receive</strong>, <strong>issue</strong>, <strong>reconcile</strong>, <strong>transfer</strong> and <strong>scrap</strong> orders in just a few steps. These actions are <strong>not</strong> synchronized in real-time with the ERP.net system - you need to generate the respective receipt store, issue store and reconciliation documents in order to reflect them.</p>
 <p><img src="pictures/inv_con.png" alt="Inventory Control"></p>
 <h3 id="prerequisites">Prerequisites</h3>
 <p>Before you start using Inventory Control, you'll be prompted to select the <strong>store</strong> for which you want to perform different operations.</p>

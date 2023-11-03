@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../styles/docfx.css">
     <link rel="stylesheet" href="../styles/main.css">
     <meta property="docfx:navrel" content="">
-    <meta property="docfx:tocrel" content="">
+    <meta property="docfx:tocrel" content="toc.html">
     
     <meta property="docfx:rel" content="../">
     
@@ -67,7 +67,14 @@
         </div>
       </div>
       <div role="main" class="container body-content hide-when-search">
-        <div class="article row grid">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="transfer">Transfer</h1>
@@ -109,6 +116,8 @@
 <p><img src="pictures/inv_con_transfer_single.png" alt="Transfer"></p>
 <p>Every time you scan, you'll be taken to the <strong>Info</strong> tab for the respective product. Successfully transferred pcs are painted in <strong>green</strong>.</p>
 <p>If more lots are present for a product, the FEFO principle determines which lot has pcs transferred first.</p>
+<p>Incorrect product IDs will generate an error.</p>
+<p><img src="pictures/inv_con_transfer_err.png" alt="Transfer"></p>
 <h3 id="multiple-transfers">Multiple transfers</h3>
 <p>To transfer more pcs or the exact number of pcs for a product, specify it first (e.g. &quot;50&quot;), add a &quot;*&quot;, and then provide the product ID.</p>
 <p>This can be done on one line (e.g. 50*1001150), or on two separate lines for each input. Tap the <strong>blue arrow</strong> to confirm.</p>
@@ -119,6 +128,8 @@
 </li>
 <li><p>Any one, two or three-number combination is automatically counted as a <strong>multiplier</strong>. You can insert it without adding &quot;*&quot; in the end.</p>
 </li>
+<li><p>You can remove inserted multipliers by tapping the <strong>Clear button (X)</strong>.</p>
+</li>
 <li><p>The desired transferred pcs of a product <strong>cannot</strong> be more than what is set as available in the system.</p>
 </li>
 </ol>
@@ -128,10 +139,11 @@
 <p>If the <strong>Transfer</strong> bar is left with zero, this will be interpreted as the product having &quot;0 pcs&quot; for transfer in the final transfer order document.</p>
 <p><img src="pictures/inv_con_transfer_zero.png" alt="Transfer"></p>
 <h2 id="generate-a-transfer-order-document">Generate a transfer order document</h2>
-<p>Once you're done transferring the desired product quantities, you can go back to the <strong>Transfer</strong> tab to see if you've made any mistakes.</p>
-<p>The <strong>Available</strong> value will be positioned above the <strong>Transfer</strong> one, making it easy to these values.</p>
-<p><img src="pictures/inv_con_transfer_done.png" alt="Transfer"></p>
-<p>Tap the blue <strong>Finish</strong> button to generate your transfer order document.</p>
+<p>Once you're done scanning the desired product quantities, you can go back to the <strong>Transfer</strong> tab to see if you've made any mistakes.</p>
+<p>The <strong>Available</strong> value will be positioned above the <strong>Transfer</strong> one, making it easy to compare these values.</p>
+<p><img src="pictures/inv_con_transfer_finishgreen.png" alt="Transfer"></p>
+<p>If all available product quantities are transferred, the <strong>Finish</strong> button will be painted in green.</p>
+<p>Tap on it once to generate your transfer order document.</p>
 <p>This will take you to a separate space with direct access to the document template for this operation.</p>
 <p><img src="pictures/inv_con_transfer_doc.png" alt="Transfer"></p>
 <p>By tapping on it, you'll access the <strong>Inventory</strong> module from where you can release and complete the document.</p>
