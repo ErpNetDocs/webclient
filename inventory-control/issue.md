@@ -102,7 +102,7 @@ If the **Executed** bar is left with zero, this will be interpreted as the produ
 
 ## Generate an issue store document
 
-Once you're done executing the desired product quantities, you can go back to the **Executed** tab to see if you've made any mistakes.
+Once you're done scanning the desired product quantities, you can go back to the **Executed** tab to see if you've made any mistakes.
 
 The **Ordered** value will be positioned above the **Executed** one, making it easy to compare these values.
 
