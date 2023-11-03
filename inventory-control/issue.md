@@ -106,9 +106,11 @@ Once you're done executing the desired product quantities, you can go back to th
 
 The **Ordered** value will be positioned above the **Executed** one, making it easy to compare these values.
 
-![Issue](pictures/inv_con_issue_docfin.png)
+![Issue](pictures/inv_con_issue_finishgreen.png)
 
-Tap the blue **Finish** button to generate your issue store document.
+If all ordered product quantities have been issued, the **Finish** button will be painted in green.
+
+Tap on it once to generate your issue store document.
 
 This will take you to a separate space with direct access to the document template for this operation.
 
