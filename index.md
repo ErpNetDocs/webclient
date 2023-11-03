@@ -2,15 +2,15 @@
 
 This documentation contains information about the user interface and how to use the @@webclient.
 
-For information and deep dive in the business logic of @@name, check the [Technical Documentation](https://docs.erp.net/tech).
+For information and deep dive in the business logic of @@name, check the **[Technical Documentation](https://docs.erp.net/tech)**.
 
 ## Topics
  
 - **[Introduction to @@webclient](./introduction/index.md)** - explanation of commonly used terms, concepts and commands.
 - **Step-by-step guides**
 - **Specific functionality** - forms which are specific to the @@webclient
-- **[WMS Worker](./wms-worker/index.md)** - mobile warehouse management application
-- **[Inventory Control](./inventory-control/index.md)** - mobile warehouse management application
+- **[WMS Worker](./wms-worker/index.md)** - mobile real-time warehouse management application
+- **[Inventory Control](./inventory-control/index.md)** - mobile warehouse management application for shops and smaller stores
 
 
 ## Other documentations
