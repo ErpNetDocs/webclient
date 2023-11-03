@@ -66,6 +66,10 @@ Every time you scan, you'll be taken to the **Info** tab for the respective prod
 
 If more lots are present for a product, the FEFO principle determines which lot has pcs counted first.
 
+Incorrect or non-existent product IDs will generate an error.
+
+![Reconcile](pictures/inv_con_reconcile_err.png)
+
 ### Multiple scans
 
 To count more pcs or the exact number of pcs for a product, specify it first (e.g. "50"), add a "*", and then provide the product ID. 
@@ -76,9 +80,11 @@ This can be done on one line, or on two separate lines for each input. Tap the *
 
 **NOTE!**
 
-The **trash bin button** allows you to remove the latest count, which will restore the previous **Counted** value.
+1. The **trash bin button** allows you to remove the latest count, which will restore the previous **Counted** value.
 
-Any one, two or three-number combination is automatically counted as a **multiplier**. You can insert it without adding "*" in the end.
+2. Any one, two or three-number combination is automatically counted as a **multiplier**. You can insert it without adding "*" in the end.
+
+3. You can remove inserted multipliers by tapping the **Clear button (X)**.
 
 ### Higher count
 
@@ -92,7 +98,7 @@ You can update the number by providing the higher counted value, which will be r
 
 If a product previously absent from the system is now available, you can **add** it by scanning it.
 
-Its pcs will be reflected immediately, and once a reconciliation document is released, the Available bar will be updated with the new quantity.
+Its pcs will be reflected immediately, and once a reconciliation document is released, the **Available** bar will be updated with the new quantity.
 
 ![Reconcile](pictures/inv_con_reconcile_newproduct.png)
 
@@ -112,9 +118,11 @@ Once you're done counting the product quantities, you can go back to the **Count
 
 The **Available** value will be positioned above the **Counted** one, making it easy to compare past and present values.
 
-![Reconcile](pictures/info_reconciles_final.png)
+![Reconcile](pictures/inv_con_reconcile_finishgreen.png)
 
-Tap the blue **Finish** button to generate your reconciliation document.
+If all the available number is equal to the counted number, the **Finish** button will be painted in green.
+
+Tap on it once to generate your reconciliation document.
 
 This will take you to a separate space with direct access to the document template for this operation.
 
