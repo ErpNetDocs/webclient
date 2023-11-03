@@ -8,7 +8,7 @@ Issued quantities which are successfully executed are counted out of your store'
 
 Make sure you've set the correct document type for this operation within the **[Settings](settings.md)**.
 
-You'll then be prompted to select the **released order** for which you want to confirm issued product quantities.
+You'll then be prompted to select the **released order** for which you want to issue product quantities.
 
 Available orders are filtered by **enterprise company** and **location**.
 
@@ -34,7 +34,7 @@ This is where all of your ordered product quantities are listed, together with t
 
 ### Executed
 
-Here, you can find how many quantities of the products are confirmed as issued as opposed to being **ordered**.
+Here, you can find how many quantities of the products are **issued** as opposed to being **ordered**.
 
 For example, out of 30 ordered pcs, only 15 may be issued. This will be reflected in the issue store document.
 
@@ -46,7 +46,7 @@ If you tap on a product from the **Ordered** tab, you'll be shown further inform
 
 This includes revealing its unique ID, barcode and GTIN, if present, as well as how many instances of it will be executed.
 
-If more lots are present, the **available-scrap** ratio will be distributed based on the FEFO (first expire - first out) principle.
+If more lots are present, the **ordered-executed** ratio will be distributed based on the **FEFO** (first expire - first out) principle.
 
 ![Issue](pictures/inv_con_issue_infonew.png)
 
@@ -58,17 +58,21 @@ It lets you quickly insert the instances of a product you want to confirm as iss
 
 For a list of available barcode templates, check out the **[Command list](command-list.md)**.
 
-### Individual execution
+### Individual scan
 
-Simply type in a product's ID once (e.g. "0000001") in order to issue only one pcs of it. Tap the **blue arrow** to confirm.
+Simply type in a product's ID once (e.g. "0000001") in order to execute only one pcs of it. Tap the **blue arrow** to confirm.
 
 ![Issue](pictures/inv_con_issue_singlescannew.png)
 
 Every time you scan, you'll be taken to the **Info** tab for the respective product. Successfully executed pcs are painted in **green**.
 
-If more lots are present for a product, the FEFO principle determines which lot has pcs issued first.
+If more lots are present for a product, the FEFO principle determines which lot has pcs executed first.
 
-### Multiple executions
+Incorrect product IDs will generate an error.
+
+![Issue](pictures/inv_con_issue_err.png)
+
+### Multiple scans
 
 To execute more pcs or the exact number of pcs for a product, specify it first (e.g. "50"), add a "*", and then provide the product ID.
 
@@ -84,9 +88,7 @@ This can be done on one line (e.g. 50*1001150), or on two separate lines for eac
 
 3. You can remove inserted multipliers by tapping the **Clear** button (X).
 
-### Higher count
-
-The issued pcs of a product **cannot** be more than what is ordered.
+4. The issued pcs of a product **cannot** be more than what is ordered.
 
 ![Issue](pictures/inv_con_issue_errornew.png)
 
@@ -94,7 +96,7 @@ The issued pcs of a product **cannot** be more than what is ordered.
 
 In case you've made a mistake and want to start the execution process from scratch, type in "0*" followed by the affected product ID.
 
-If the **Executed** bar is left with zero, this will be interpreted as the product having issued "0 pcs" in the final issue store document.
+If the **Executed** bar is left with zero, this will be interpreted as the product being issued "0 pcs" in the final issue store document.
 
 ![Issue](pictures/inv_con_issue_zeronew.png)
 
