@@ -114,7 +114,7 @@ Each zero count is interpreted as the product or lot having "0 pcs" in the final
 
 ## Generate a reconciliation document
 
-Once you're done counting the product quantities, you can go back to the **Counted** tab to see if you've made any mistakes.
+Once you're done scanning the product quantities, you can go back to the **Counted** tab to see if you've made any mistakes.
 
 The **Available** value will be positioned above the **Counted** one, making it easy to compare past and present values.
 
