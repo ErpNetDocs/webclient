@@ -88,6 +88,14 @@ You can update the number by providing the higher counted value, which will be r
 
 ![Reconcile](pictures/count_higher_reconcile.png)
 
+### New count
+
+If a product previously absent from the system is now available, you can **add** it by scanning it.
+
+Its pcs will be reflected immediately, and once a reconciliation document is released, the Available bar will be updated with the new quantity.
+
+![Reconcile](pictures/inv_con_reconcile_newproduct.png)
+
 ### Zero count
 
 In case you've made a mistake and want to start counting from scratch, type in "0*" followed by the affected product ID.
