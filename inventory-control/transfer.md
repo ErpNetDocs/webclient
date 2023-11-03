@@ -68,6 +68,10 @@ Every time you scan, you'll be taken to the **Info** tab for the respective prod
 
 If more lots are present for a product, the FEFO principle determines which lot has pcs transferred first.
 
+Incorrect product IDs will generate an error. 
+
+![Transfer](pictures/inv_con_transfer_err.png)
+
 ### Multiple transfers
 
 To transfer more pcs or the exact number of pcs for a product, specify it first (e.g. "50"), add a "*", and then provide the product ID.
@@ -82,7 +86,9 @@ This can be done on one line (e.g. 50*1001150), or on two separate lines for eac
 
 2. Any one, two or three-number combination is automatically counted as a **multiplier**. You can insert it without adding "*" in the end.
 
-3. The desired transferred pcs of a product **cannot** be more than what is set as available in the system.
+3. You can remove inserted multipliers by tapping the **Clear button (X)**.
+
+4. The desired transferred pcs of a product **cannot** be more than what is set as available in the system.
 
 ![Transfer](pictures/inv_con_transfer_error.png)
 
@@ -96,13 +102,15 @@ If the **Transfer** bar is left with zero, this will be interpreted as the produ
 
 ## Generate a transfer order document
 
-Once you're done transferring the desired product quantities, you can go back to the **Transfer** tab to see if you've made any mistakes.
+Once you're done scanning the desired product quantities, you can go back to the **Transfer** tab to see if you've made any mistakes.
 
-The **Available** value will be positioned above the **Transfer** one, making it easy to these values.
+The **Available** value will be positioned above the **Transfer** one, making it easy to compare these values.
 
-![Transfer](pictures/inv_con_transfer_done.png)
+![Transfer](pictures/inv_con_transfer_finishgreen.png)
 
-Tap the blue **Finish** button to generate your transfer order document.
+If all available product quantities are transferred, the **Finish** button will be painted in green.
+
+Tap on it once to generate your transfer order document.
 
 This will take you to a separate space with direct access to the document template for this operation.
 
