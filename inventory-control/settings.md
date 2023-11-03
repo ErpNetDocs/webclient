@@ -20,7 +20,7 @@ In order to access the Inventory Control Settings, tap on the **three-dot button
 
 If you tap on the **downward arrows** of any of the available options, you'll be taken to a list of your existing document templates.
 
-It's possible to link any template to either the receive, issue, scrap or reconcile operation. 
+It's possible to link any template to either the receive, issue, scrap, transfer or reconcile operation. 
 
 One and the same template can be used for **multiple** operations.
 
