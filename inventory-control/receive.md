@@ -8,7 +8,7 @@ Ordered quantities which are successfully confirmed and executed are counted tow
 
 Make sure you've set the correct document type for this operation within the **[Settings](settings.md)**.
 
-You'll then be prompted to select the **order** for which you want to confirm received product quantities.
+You'll then be prompted to select the **released order** for which you want to confirm received product quantities.
 
 Available orders are filtered by **enterprise company** and **location**.
 
@@ -86,7 +86,9 @@ This can be done on one line (e.g. 50*1001150), or on two separate lines for eac
 
 2. Any one, two or three-number combination is automatically counted as a **multiplier**. You can insert it without adding "*" in the end.
 
-3. The received pcs of a product **cannot** be more than what is ordered.
+3. You can remove inserted multipliers by tapping the **Clear** button (X).
+
+4. The received pcs of a product **cannot** be more than what is ordered.
 
 ![Receive](pictures/inv_con_receive_error.png)
 
