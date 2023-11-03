@@ -1,6 +1,6 @@
 # Inventory Control
 
-Inventory Control is a warehouse management application designed to speed up and simplify basic operations with warehouse orders. 
+Inventory Control is a warehouse management application designed to speed up and simplify basic operations with warehouse orders. It's perfectly suitable for shops and smaller stores.
 
 It follows a similar logic to the **BarCodeCommand** pannel from within the **Desktop Client**, and allows workers to complete their tasks quickly, without going through the more complex procedures of the WMS module. 
 
