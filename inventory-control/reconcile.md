@@ -120,7 +120,7 @@ The **Available** value will be positioned above the **Counted** one, making it 
 
 ![Reconcile](pictures/inv_con_reconcile_finishgreen.png)
 
-If all the available number is equal to the counted number, the **Finish** button will be painted in green.
+If the counted number is greater than or equal to the available number, the **Finish** button will be painted in green.
 
 Tap on it once to generate your reconciliation document.
 
