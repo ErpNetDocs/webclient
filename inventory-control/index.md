@@ -2,7 +2,7 @@
 
 Inventory Control is a mobile warehouse management application designed to speed up and simplify basic operations with warehouse orders. It's perfectly suitable for shops and smaller stores.
 
-It follows a similar logic to the **BarCodeCommand** pannel from within the **Desktop Client**, and allows workers to complete their tasks quickly, without going through the more complex procedures of the **[WMS module](../wms-worker/index.md)**. 
+It follows a similar logic to the **BarCodeCommand** pannel from within the **Desktop Client** and allows workers to complete their daily tasks quickly, without going through the more complex procedures of the **[WMS module](../wms-worker/index.md)**. 
 
 You can **receive**, **issue**, **reconcile**, **transfer** and **scrap** orders in just a few steps, thereby generating receipt store transactions, issue store transactions and reconciliation documents in no time. Тhese actions are **not** synchronized in real-time with the ERP.net system.
 
