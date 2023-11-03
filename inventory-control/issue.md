@@ -8,7 +8,9 @@ Issued quantities which are successfully executed are counted out of your store'
 
 Make sure you've set the correct document type for this operation within the **[Settings](settings.md)**.
 
-You'll then be prompted to select the document for which you want to confirm issued product quantities.
+You'll then be prompted to select the **order** for which you want to confirm issued product quantities.
+
+Available orders are filtered by **enterprise company** and **location**.
 
 ![Issue](pictures/inv_con_issuenew.png)
 
