@@ -8,7 +8,7 @@ Issued quantities which are successfully executed are counted out of your store'
 
 Make sure you've set the correct document type for this operation within the **[Settings](settings.md)**.
 
-You'll then be prompted to select the **order** for which you want to confirm issued product quantities.
+You'll then be prompted to select the **released order** for which you want to confirm issued product quantities.
 
 Available orders are filtered by **enterprise company** and **location**.
 
@@ -81,6 +81,8 @@ This can be done on one line (e.g. 50*1001150), or on two separate lines for eac
 1. The **trash bin button** allows you to remove the latest execution, which will restore the previous Executed value.
 
 2. Any one, two or three-number combination is automatically counted as a **multiplier**. You can insert it without adding "*" in the end.
+
+3. You can remove inserted multipliers by tapping the **Clear** button (X).
 
 ### Higher count
 
