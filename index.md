@@ -15,7 +15,7 @@ For information and deep dive in the business logic of @@name, check the [Techni
 
 ## Other documentations
 
-- [All docs](https://docs.erp.net) - root container for all @@name documentations.
-- [Technical Documentation](https://docs.erp.net/tech) - business logic and implementation information.
-- [Domain Model](https://erpnetdocs.github.io/model) - reference information about the business entities.
-- [Developer Documentation](https://erpnetdocs.github.io/dev) - information for developers.
+- **[All docs](https://docs.erp.net)** - root container for all @@name documentations.
+- **[Technical Documentation](https://docs.erp.net/tech)** - business logic and implementation information.
+- **[Domain Model](https://erpnetdocs.github.io/model)** - reference information about the business entities.
+- **[Developer Documentation](https://erpnetdocs.github.io/dev)** - information for developers.
