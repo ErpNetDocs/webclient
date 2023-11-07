@@ -6,7 +6,7 @@ It follows a similar logic to the **BarCodeCommand** pannel from within the **De
 
 You can **receive**, **issue**, **reconcile**, **transfer** and **scrap** orders in just a few steps. These actions are **not** synchronized in real-time with the ERP.net system - you need to generate the respective receipt store, issue store and reconciliation documents in order to reflect them. 
 
-![Inventory Control](pictures/inv_con.png)
+![Inventory Control](pictures/inv_con_official.png)
 
 ### Prerequisites
 
