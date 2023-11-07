@@ -5098,7 +5098,7 @@
       "output": {
         ".html": {
           "relative_path": "inventory-control/command-list.html",
-          "hash": "FZ44nM/ANen/3htWBbMB2A=="
+          "hash": "LPmmaeR3MpC8ywAgtNRMlA=="
         }
       },
       "is_incremental": false,
@@ -5110,7 +5110,7 @@
       "output": {
         ".html": {
           "relative_path": "inventory-control/index.html",
-          "hash": "BFT55EkIdINy/Y8MwJDwAA=="
+          "hash": "4VNrHMdO+01GzFkuDNxjrg=="
         }
       },
       "is_incremental": false,
@@ -5167,6 +5167,17 @@
       "output": {
         "resource": {
           "relative_path": "inventory-control/pictures/command-list.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/command_list_click.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/command_list_click.png"
         }
       },
       "is_incremental": false,
@@ -5596,6 +5607,17 @@
       "output": {
         "resource": {
           "relative_path": "inventory-control/pictures/inv_con_issuenew.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/inv_con_official.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/inv_con_official.png"
         }
       },
       "is_incremental": false,
@@ -6306,6 +6328,17 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "inventory-control/pictures/settings_click.png",
+      "output": {
+        "resource": {
+          "relative_path": "inventory-control/pictures/settings_click.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "inventory-control/receive.md",
       "output": {
@@ -6347,22 +6380,19 @@
       "output": {
         ".html": {
           "relative_path": "inventory-control/settings.html",
-          "hash": "q9vkhqC8W5cqk7pZ/IvLiA=="
+          "hash": "/X2g1dEnQSHckZlJ4f+hYA=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "inventory-control/toc.yml",
       "output": {
         ".html": {
           "relative_path": "inventory-control/toc.html",
-          "hash": "2tol/C8I2EpPJ5ipqW/XUw=="
+          "hash": "GUYw9AYwqVH3Koe2UrPwcA=="
         }
       },
       "is_incremental": false,
