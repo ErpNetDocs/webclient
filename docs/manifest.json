@@ -1467,6 +1467,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/inventory-control/pictures/command_list_click.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/inventory-control/pictures/command_list_click.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/inventory-control/pictures/commands1.png",
       "output": {
         "resource": {
@@ -1889,6 +1900,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/inventory-control/pictures/inv_con_issuenew.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/inventory-control/pictures/inv_con_official.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/inventory-control/pictures/inv_con_official.png"
         }
       },
       "is_incremental": false,
@@ -2593,6 +2615,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/inventory-control/pictures/settings-module.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/inventory-control/pictures/settings_click.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/inventory-control/pictures/settings_click.png"
         }
       },
       "is_incremental": false,
