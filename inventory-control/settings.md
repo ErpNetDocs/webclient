@@ -20,7 +20,7 @@ In order to access the Inventory Control Settings, tap on the context menu at th
 
 ### Configuration
 
-If you tap on the **downward arrows** of any of the available options, you'll be taken to a list of your existing document templates.
+If you tap on the **downward arrows** of any of the available options, you'll be taken to a list of your existing document types.
 
 It's possible to link any template to either the receive, issue, scrap, transfer or reconcile operation. 
 
