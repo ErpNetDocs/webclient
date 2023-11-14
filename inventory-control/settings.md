@@ -14,7 +14,7 @@ It's crucial to link the right template to its respective action **before** begi
 
 ### Navigation
 
-In order to access the Inventory Control Settings, tap on the **three-dot button** at the bottom of the screen and select **Settings**.
+In order to access the Inventory Control Settings, tap on the context menu at the bottom of the screen and select **Settings**.
 
 ![Settings](pictures/settings_click.png)
 
