@@ -1,6 +1,6 @@
 # Settings
 
-This section lets you decide what kind of **document** will be generated following each of these actions:
+This section lets you decide what kind of **document** will be created following each of these actions:
 
 * **Receive**
 * **Issue**
