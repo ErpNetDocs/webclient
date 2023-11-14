@@ -24,6 +24,6 @@ If you tap on the **downward arrows** of any of the available options, you'll be
 
 It's possible to link any template to either the receive, issue, scrap, transfer or reconcile operation. 
 
-One and the same template can be used for **multiple** operations.
+One and the same document type can be used for **multiple** operations.
 
 ![Settings](pictures/change-documents.png)
