@@ -1,4 +1,4 @@
-# Multi-Column Layout
+# How to use the Multi-Column Layout
 
 This feature allows you to arrange two panels next to each another on the same row in specific VIEW. The separation line will always be exactly in the middle of the row.
 
