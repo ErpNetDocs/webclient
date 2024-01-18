@@ -4,7 +4,7 @@ Here, you will find guides that can help you better navigate and use the @@name 
 
 - **["Create new" option](create-new.md)**
   
-- **[Filter rows in navigators](filter-rows-in-navigators.md)**
+- **[Filter rows in navigators](filter-row-in-navigators.md)**
   
 - **[Multi-column layout](multi-column-layout.md)**
   
