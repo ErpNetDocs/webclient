@@ -3592,15 +3592,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "sPVFIjMEbi0NuXmj6eXAEg=="
+          "hash": "L0pH4krkOIXyOoD1WPMQ0A=="
         }
       },
       "is_incremental": false,
@@ -3608,11 +3605,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/create-new.md",
+      "source_relative_path": "introduction/how-to/create-new.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/create-new.html",
-          "hash": "ajcXu/Z1fgIy9lF4rYnljQ=="
+          "relative_path": "introduction/how-to/create-new.html",
+          "hash": "6paLh3Cp5jQQREXzc0r9JQ=="
         }
       },
       "is_incremental": false,
@@ -3620,11 +3617,590 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/filter-row-in-navigators.md",
+      "source_relative_path": "introduction/how-to/filter-row-in-navigators.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/filter-row-in-navigators.html",
-          "hash": "vdmmIS+Z7eBbA2VFnXaHeg=="
+          "relative_path": "introduction/how-to/filter-row-in-navigators.html",
+          "hash": "dFJaBHctpo+6YoiK4Ny6FA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/index.html",
+          "hash": "X8F+qApLxDWrMpE4wzFOLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/multi-column-layout.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/multi-column-layout.html",
+          "hash": "ZapkoQ8cVwjB9HTJoVk+Ow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/02_select_by_navigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/02_select_by_navigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/03_three_points_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/03_three_points_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/04_navigator_ith_select_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/04_navigator_ith_select_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/05_filled_selected_value.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/05_filled_selected_value.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/1-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/1-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/2-create-new.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/2-create-new.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/3-object-type.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/3-object-type.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/4-breadcrumb.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/4-breadcrumb.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/5-filled-in.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/5-filled-in.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/aadd_roles_new.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/aadd_roles_new.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/add_panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/add_panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/add_show_fields.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/add_show_fields.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/asset_types.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/asset_types.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/chevron_store_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/chevron_store_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/choice-selected.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/choice-selected.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/crm_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/crm_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/direct-sale-order-select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/direct-sale-order-select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/direct_sale_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/direct_sale_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/edit_mode.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/edit_mode.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/field_visualized.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/field_visualized.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/filter-row.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/filter-row.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/final_button_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/final_button_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/intro_category.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/intro_category.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/intro_panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/intro_panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/intropanels.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/intropanels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/intropanels_corrected.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/intropanels_corrected.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/multiple-columns.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/multiple-columns.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/new_role.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/new_role.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/object_cat_applied.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/object_cat_applied.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/objectcat_applied.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/objectcat_applied.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/options_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/options_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/plus_add.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/plus_add.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/plus_add_corrected.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/plus_add_corrected.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/read_only.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/read_only.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/reorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/reorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/role_panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/role_panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/role_set.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/role_set.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/role_win.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/role_win.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/sales_order_types.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/sales_order_types.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/sales_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/sales_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/save_as_def.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/save_as_def.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/save_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/save_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/search-result.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/search-result.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/show-hide-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/show-hide-panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/store_threedot_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/store_threedot_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/search-dropdown-lists.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/search-dropdown-lists.html",
+          "hash": "898gn1I3mcptcIBgZVGs8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/select-navigator.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/select-navigator.html",
+          "hash": "lBpj4tYnPjD3Ijo8LzJzoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/separate-views.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/separate-views.html",
+          "hash": "dMlmIBcy08C2zXUpT5KhQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/ui-customization/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/ui-customization/index.html",
+          "hash": "9goQaHSjwZVDq6KyB3mZTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/user-roles.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/user-roles.html",
+          "hash": "BIRZqQE2KWzWihgla1n/lw=="
         }
       },
       "is_incremental": false,
@@ -3636,7 +4212,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/index.html",
-          "hash": "08wdmH5Y3NnKQKQoza0zDw=="
+          "hash": "SQFzOGuG2ARd0qsVgH9Yjg=="
         }
       },
       "is_incremental": false,
@@ -3660,7 +4236,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/keyboard-data-entry/index.html",
-          "hash": "ZxuXSt1RVZameKvbcAAY6w=="
+          "hash": "OcaIwClRClq+J8Wmwj+2xQ=="
         }
       },
       "is_incremental": false,
@@ -3727,18 +4303,6 @@
       "output": {
         "resource": {
           "relative_path": "introduction/keyboard-data-entry/pictures/panels-settings.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/multi-column-layout.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/multi-column-layout.html",
-          "hash": "gCG6QPz1ypgeOW6/ItEV+g=="
         }
       },
       "is_incremental": false,
@@ -4504,537 +5068,6 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/02_select_by_navigator.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/02_select_by_navigator.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/03_three_points_button.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/03_three_points_button.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/04_navigator_ith_select_button.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/04_navigator_ith_select_button.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/05_filled_selected_value.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/05_filled_selected_value.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/1-button.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/1-button.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/2-create-new.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/2-create-new.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/3-object-type.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/3-object-type.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/4-breadcrumb.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/4-breadcrumb.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/5-filled-in.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/5-filled-in.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/aadd_roles_new.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/aadd_roles_new.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/add_panel.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/add_panel.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/add_show_fields.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/add_show_fields.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/asset_types.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/asset_types.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/chevron_store_select.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/chevron_store_select.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/choice-selected.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/choice-selected.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/crm_select.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/crm_select.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/direct-sale-order-select.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/direct-sale-order-select.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/direct_sale_select.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/direct_sale_select.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/edit_mode.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/edit_mode.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/field_visualized.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/field_visualized.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/filter-row.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/filter-row.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/final_button_select.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/final_button_select.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/intro_category.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/intro_category.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/intro_panels.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/intro_panels.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/intropanels.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/intropanels.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/intropanels_corrected.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/intropanels_corrected.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/multiple-columns.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/multiple-columns.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/new_role.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/new_role.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/object_cat_applied.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/object_cat_applied.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/objectcat_applied.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/objectcat_applied.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/options_select.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/options_select.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/plus_add.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/plus_add.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/plus_add_corrected.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/plus_add_corrected.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/read_only.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/read_only.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/reorder.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/reorder.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/role_panel.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/role_panel.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/role_set.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/role_set.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/role_win.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/role_win.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/sales_order_types.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/sales_order_types.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/sales_select.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/sales_select.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/save_as_def.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/save_as_def.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/save_default.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/save_default.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/search-result.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/search-result.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/show-hide-panels.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/show-hide-panels.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/pictures/store_threedot_select.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/pictures/store_threedot_select.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/search-dropdown-lists.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/search-dropdown-lists.html",
-          "hash": "9pfz06V4xnjt5u0mOIrovA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/select-navigator.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/select-navigator.html",
-          "hash": "9OtJjTuaI4Uc4d4dqDidTA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/separate-views.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/separate-views.html",
-          "hash": "kWrANHFXFMVzL0yiXLKJLA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "introduction/social/chatter/index.md",
       "output": {
@@ -5105,24 +5138,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "introduction/toc.yml",
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "rGypQ1BGNE8LO1U5QzHEdg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/user-roles.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/user-roles.html",
-          "hash": "Ut/hie1pq3GKutCuWx1AKg=="
+          "hash": "RVHHlADYV5b6C8ufjwpwog=="
         }
       },
       "is_incremental": false,

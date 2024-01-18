@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Keyboard data entries | ERP.net Web Client </title>
+    <title>How to search in drop down lists | ERP.net Web Client </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Keyboard data entries | ERP.net Web Client ">
+    <meta name="title" content="How to search in drop down lists | ERP.net Web Client ">
     <meta name="generator" content="docfx 2.56.9.0">
     
     <link rel="shortcut icon" href="../../favicon.ico">
@@ -77,11 +77,19 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="keyboard-data-entries">Keyboard data entries</h1>
+<h1 id="how-to-search-in-drop-down-lists">How to search in drop down lists</h1>
 
-<ul>
-<li><strong><a href="enter-stops.html">Enter Stops</a></strong></li>
-</ul>
+<p>The search in the the drow down lists that show records from another entity works with specific values. Generally, you can search by the fields that are included in the entity's Default Search Members or the entity's Display Text.</p>
+<h3 id="default-search-members">Default Search Members</h3>
+<p>For each entity are specified particular <em>Default Search Members</em> - a collection of <em>Fields</em> which make <strong>searching</strong> possible.</p>
+<p>Which are the default search members of a specific entity, can be seen &quot;Default Visualization&quot; section of the entity's documentation. Take a look at <a href="https://docs.erp.net/model/entities/General.Products.Products.html">products</a>.</p>
+<h3 id="display-format">Display Format</h3>
+<p>Searching can also be accomplished with the help of fields that comprise the <em>Display Text</em>. However, these fields are prioritized after the <em>Default Search Members</em>. Searching is initiated only if there isn't any match with the fields before them.</p>
+<blockquote>
+<p><strong><em>NOTE:</em></strong>  Searching in dropdown lists and domain API returns only results which are based on the first field for which there are matches. Subsequent searches are not undertaken. If a search operation finds an exact match, the value is filled automatically in the corresponding field.</p>
+</blockquote>
+<p>Each entity has a <em>Default Display Text Format</em>. The <em>Default Display Text Format</em> for each entity is specified in the entity's documentation. Take a look at <a href="https://docs.erp.net/model/entities/General.Products.Products.html">products</a>.</p>
+<p>A different <em>Display Text Format</em> can be explicitly set for the entity in the <em>Display Text Format</em> field of the Entities navigator in the particular database. If no <em>Display Text Format</em> is specified, then the system apllies the <em>Default Display Text Format</em>.</p>
 </article>
           </div>
           
@@ -90,7 +98,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/keyboard-data-entry/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/how-to/search-dropdown-lists.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
