@@ -37,6 +37,501 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/02_select_by_navigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/02_select_by_navigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/03_three_points_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/03_three_points_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/04_navigator_ith_select_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/04_navigator_ith_select_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/05_filled_selected_value.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/05_filled_selected_value.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/1-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/1-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/2-create-new.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/2-create-new.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/3-object-type.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/3-object-type.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/4-breadcrumb.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/4-breadcrumb.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/5-filled-in.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/5-filled-in.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/aadd_roles_new.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/aadd_roles_new.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/add_panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/add_panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/add_show_fields.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/add_show_fields.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/asset_types.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/asset_types.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/chevron_store_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/chevron_store_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/choice-selected.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/choice-selected.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/crm_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/crm_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/direct-sale-order-select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/direct-sale-order-select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/direct_sale_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/direct_sale_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/edit_mode.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/edit_mode.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/field_visualized.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/field_visualized.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/filter-row.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/filter-row.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/final_button_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/final_button_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/intro_category.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/intro_category.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/intro_panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/intro_panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/intropanels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/intropanels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/intropanels_corrected.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/intropanels_corrected.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/multiple-columns.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/multiple-columns.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/new_role.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/new_role.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/object_cat_applied.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/object_cat_applied.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/objectcat_applied.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/objectcat_applied.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/options_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/options_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/plus_add.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/plus_add.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/plus_add_corrected.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/plus_add_corrected.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/read_only.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/read_only.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/reorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/reorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/role_panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/role_panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/role_set.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/role_set.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/role_win.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/role_win.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/sales_order_types.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/sales_order_types.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/sales_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/sales_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/save_as_def.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/save_as_def.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/save_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/save_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/search-result.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/search-result.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/show-hide-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/show-hide-panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/store_threedot_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/store_threedot_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/keyboard-data-entry/pictures/document-settings.png",
       "output": {
         "resource": {
