@@ -6,7 +6,7 @@ Use this feature to tailor the table according to your specific requirements.
 
 ## Example:
 
-Head to the **Sales** page in the CR****M menu and access the **Orders** panel.
+Head to the **Sales** page in the **CRM** menu and access the **Orders** panel.
 
 ![Pictures](pictures/Order_navigate_20_01.png)
 
