@@ -532,6 +532,281 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization-Rename_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization-Rename_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization_Rename_icon_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization_Rename_icon_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization_add_items_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization_add_items_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization_drop_down_menu_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization_drop_down_menu_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization_menu_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization_menu_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization_navigation_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization_navigation_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization_renamed_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Customization_renamed_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Customzation_multiple_menu_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Customzation_multiple_menu_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Add_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Add_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Navigation_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Navigation_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Order_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Order_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Order_menu_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Order_menu_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Save_Reload_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Save_Reload_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_attributes_21_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_attributes_21_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_Undo_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_Undo_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_clear_OK_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_clear_OK_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_navigate_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_navigate_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_new_name_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_new_name_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_original_name_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_original_name_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_rename_button_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_rename_button_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_reorder_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_reorder_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Orders_Customize_panel_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Orders_Customize_panel_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Reorder_Clear_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Reorder_Clear_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Reorder_Rename_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Reorder_Rename_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Reorder_drag_20_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Reorder_drag_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/keyboard-data-entry/pictures/document-settings.png",
       "output": {
         "resource": {
@@ -4679,35 +4954,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/how-to/ui-customization/Customizing-table.md",
+      "source_relative_path": "introduction/how-to/ui-customization/customize-fields.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/how-to/ui-customization/Customizing-table.html",
-          "hash": "Bd5n81TJ/eQXyPvht5ab9A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/how-to/ui-customization/Multiple-instances.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/how-to/ui-customization/Multiple-instances.html",
-          "hash": "3osXjdoOTgrTXBwlZRdAHg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/how-to/ui-customization/New-attributes.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/how-to/ui-customization/New-attributes.html",
-          "hash": "4lgoZ62CAsX9ZRs2gpANjA=="
+          "relative_path": "introduction/how-to/ui-customization/customize-fields.html",
+          "hash": "lTgxsFdaxyokBkow9mJmWw=="
         }
       },
       "is_incremental": false,
@@ -4719,7 +4970,31 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/ui-customization/index.html",
-          "hash": "9goQaHSjwZVDq6KyB3mZTQ=="
+          "hash": "8M5br2JUHmksSLCEtGM0xQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/ui-customization/multiple-instances.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/ui-customization/multiple-instances.html",
+          "hash": "rPdr1CxHjkFSTOAzBTeRgQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/ui-customization/new-attributes.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/ui-customization/new-attributes.html",
+          "hash": "FGyGHWR0dmanYcefJxJhzA=="
         }
       },
       "is_incremental": false,
@@ -5944,15 +6219,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "introduction/toc.yml",
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "RVHHlADYV5b6C8ufjwpwog=="
+          "hash": "qLIZq+3Qfk02PVb75/IEMQ=="
         }
       },
       "is_incremental": false,
