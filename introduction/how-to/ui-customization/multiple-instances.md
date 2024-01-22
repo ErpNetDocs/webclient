@@ -1,4 +1,4 @@
-# A Step-by-Step walkthrough for adding multiple instances of a panel type in ERP
+# How to add multiple instances of a panel type
 
 Customizing the UI for a form enables you to personalize it by displaying certain panels
 multiple times. Each added panel in the form is assigned a unique name, which can be modified
