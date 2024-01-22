@@ -6,7 +6,7 @@ The addition of these fields will be automatically reflected in the form you are
 
 ## Example 
 
-Within an invoice order, click the **button** at the top-right corner and select **Customize panel**.
+While creating an invoice order, you can click the **button** at the top-right corner of a panel and select **Customize panel** to customize it.
 
 ![Pictures](pictures/Invoice_Order_menu_20_01.png)
 
@@ -22,7 +22,7 @@ When you fill all the necessary details, click **Save and Reload** to apply the 
 
 ![Pictures](pictures/Invoice_Save_Reload_20_01.png)
 
-The new attribute will be automatically added to its respective list within the **Items** tab. 
+The new attribute will be automatically added to its respective list within the panel's customization window.
 
 Enable or disable the attributes you need by clicking their slider buttons.
 
