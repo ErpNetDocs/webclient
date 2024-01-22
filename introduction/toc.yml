@@ -2,20 +2,9 @@
   href: index.md
 - name: Common terms
   href: terms.md
-- name: Searching in drop down lists
-  href: search-dropdown-lists.md
-- name: Select by navigator
-  href: select-navigator.md
-- name: Create New
-  href: create-new.md
-- name: Multi-column layout
-  href: multi-column-layout.md
-- name: Separate views
-  href: separate-views.md
-- name: User role definition
-  href: user-roles.md
-- name: Filter row in navigators
-  href: filter-row-in-navigators.md
+- name: How To
+  href: how-to/toc.yml
+  topicHref: how-to/index.md
 - name: My apps
   href: my-apps/toc.yml
   topicHref: my-apps/index.md
