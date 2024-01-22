@@ -1,0 +1,20 @@
+- name: Overview
+  href: index.md
+- name: Create new
+  href: create-new.md
+- name: Use Filter row in navigators
+  href: filter-row-in-navigators.md
+- name: Use multi-column layout
+  href: multi-column-layout.md
+- name: Search in dropdown lists
+  href: search-dropdown-lists.md
+- name: Use select navigators
+  href: select-navigator.md
+- name: Separate views
+  href: separate-views.md
+- name: Define user roles
+  href: user-roles.md
+- name: UI customization
+  href: ui-customization/toc.yml
+  topicHref: ui-customization/index.md
+  
