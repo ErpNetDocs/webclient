@@ -1,6 +1,6 @@
 - name: Overview
   href: index.md
-- name: Create new
+- name: Use the Create new option
   href: create-new.md
 - name: Use Filter row in navigators
   href: filter-row-in-navigators.md
