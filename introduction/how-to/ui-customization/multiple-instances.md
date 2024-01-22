@@ -1,42 +1,31 @@
 # How to add multiple instances of a panel type
 
-Customizing the UI for a form enables you to personalize it by displaying certain panels
-multiple times. Each added panel in the form is assigned a unique name, which can be modified
-as necessary. A panel cannot be displayed more than five times within a single form.
+While customizing a form, you can add certain panels in it **multiple** times. 
+
+Each added panel is assigned a unique name, which can be modified when necessary. 
+
+One and the same panel **cannot** be displayed more than **five** times within a single form.
 
 ## Example
 
-Head to the **Contacts** section and within the **Activities** creation area, access the **Meeting** option.
-
-![Pictures](pictures/Customization_navigation_20_01.png)
-
-After selecting **Meeting**, a window will appear, presenting a form for creating a new meeting. To tailor the form to your preferences, access the menu and choose **Customize form**.
+You can customize the form for a new meeting by clicking on the **Menu** button and choosing **Customize form**.
 
 ![Pictures](pictures/Customization_menu_20_01.png)
 
-This action will open a window with two tabs. Navigate to the **Items** tab, revealing a list with dropdown menus.
+In the window, navigate to the **Items** tab аnd click on **Show multiple times** to expand a menu with slider buttons.
 
-![Pictures](pictures/Customization_drop_down_menu_20_01.png)
-
-Click on **Show multiple times** to open a menu with slide buttons.
-
-![Pictures](pictures/Customzation_multiple_menu_20_01.png)
-
-By sliding a button, you can add an item to the form. Each item can be added multiple times using the four sliders available.
+By clicking on a slider, you can add or remove the same panel from the form no more than five times.
 
 ![Pictures](pictures/Customization_add_items_20_01.png)
 
-If necessary, you can rename each item on the form. To do so, navigate to the **Reorder** tab, displaying all items currently added to the form. Click on the **Rename** icon for the specific item you wish to rename.
+### Rename a panel
+
+If necessary, you can **rename** each panel to better customize it for your form. 
+
+To do so, navigate to the **Reorder** tab and click the **Rename** button for the specific panel you wish to rename.
 
 ![Pictures](pictures/Customization_Rename_icon_20_01.png)
 
-Enter the desired name and click the **OK** button to save the changes.
+Enter the desired name and click **OK** to save the changes.
 
 ![Pictures](pictures/Customization-Rename_20_01.png)
-
-After you do that, the item's name will be permanently changed. 
-
-![Pictures](pictures/Customization-Rename_20_01.png)
-
-
-
