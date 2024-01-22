@@ -8,7 +8,7 @@ One and the same panel **cannot** be displayed more than **five** times within a
 
 ### Add panels
 
-You can customize the form for a new meeting by clicking on the **Menu** button and choosing **Customize form**.
+You can customize a form by clicking on the **Menu** button and choosing **Customize form**.
 
 ![Pictures](pictures/Customization_menu_20_01.png)
 
