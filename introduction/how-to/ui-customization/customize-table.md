@@ -1,4 +1,4 @@
-# A Step-by-Step walkthrough for customizing a table in ERP
+# How to customize tables
 
 When customizing the sales columns, you have the flexibility to
 rearrange the columns within a table and also assign new names to them.
