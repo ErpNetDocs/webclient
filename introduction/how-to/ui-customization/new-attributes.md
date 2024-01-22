@@ -1,4 +1,4 @@
-# A Step-by-Step walkthrough for creating new stored or calculated attribute in ERP
+# How to create new stored or calculated attributes
 
 While customizing a form, you have the option to introduce either a new stored attribute 
 or a new calculated attribute. The inclusion of these fields will be automatically reflected in the form you are currently customizing. 
