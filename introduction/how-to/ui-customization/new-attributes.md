@@ -4,9 +4,9 @@ While customizing a form, you have the option to introduce a new stored attribut
 
 The addition of these fields will be automatically reflected in the form you are customizing. 
 
-## Example 
+### Add attributes 
 
-While creating an invoice order, you can click the **button** at the top-right corner of a panel and select **Customize panel** to customize it.
+Click the **button** at the top-right corner of a panel and select **Customize panel** to customize it.
 
 ![Pictures](pictures/Invoice_Order_menu_20_01.png)
 
