@@ -6,7 +6,7 @@ Each added panel is assigned a unique name, which can be modified when necessary
 
 One and the same panel **cannot** be displayed more than **five** times within a single form.
 
-## Example
+## Add panels
 
 You can customize the form for a new meeting by clicking on the **Menu** button and choosing **Customize form**.
 
