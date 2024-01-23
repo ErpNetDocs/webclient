@@ -30,6 +30,10 @@ Enter the desired name and click **OK** to save the changes.
 
 ![Pictures](pictures/Customization-Rename_20_01.png)
 
-You can supply a translation in a language of your choice with the translate button in the Rename window.
+### Translate a panel
+
+You can also add a **translation** in a language of your choice with the **Translate** button.
+
+When the language of the platform is changed, it will reflect this translation automatically.
 
 ![Pictures](pictures/Panels_transalate_23_01.png)
