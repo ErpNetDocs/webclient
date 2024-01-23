@@ -20,11 +20,11 @@ You'll be taken to a separate form for the creation of the attribute.
 
 When you fill all the necessary details, click **Save and Reload** to apply the changes.
 
-![Pictures](pictures/Invoice_Save_Reload_20_01.png)
+![Pictures](pictures/Invoice_Save_23_01.png)
 
 The new attribute will be automatically added to its respective list within the panel's customization window.
 
 Enable or disable the attributes you need by clicking their slider buttons.
 
-![Pictures](pictures/Invoice_attributes_21_01.png)
+![Pictures](pictures/Invoice_Activate_slider_23_01.png)
 
