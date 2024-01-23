@@ -3,7 +3,7 @@
 - name: Customize fields
   href: customize-fields.md
 - name: Create multiple panels
-  href: multiple-instances.md
+  href: create-multiple-panels.md
 - name: Create new attributes
-  href: new-attributes.md
+  href: create-new-attributes.md
   
