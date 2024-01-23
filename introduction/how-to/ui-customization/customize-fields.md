@@ -26,6 +26,10 @@ To reset the name back to its original state, use the **Clear** button.
 
 ![Pictures](pictures/Reorder_Rename_20_01.png)
 
-You can supply a translation in a language of your choice with the translate button in the **Rename** window.
+### Translate a column
+
+You can also add a **translation** in a language of your choice with the **Translate** button.
+
+When the language of the platform is changed, it will reflect this translation automatically.
 
 ![Pictures](pictures/Rename_Translation_23_01.png)
