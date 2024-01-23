@@ -28,4 +28,4 @@ To reset the name back to its original state, use the **Clear** button.
 
 You can supply a translation in a language of your choice with the translate button in the **Rename** window.
 
-![Pictures](pictures/Order_Change_Language_23_01.png)
+![Pictures](pictures/Rename_Translation_23_01.png)
