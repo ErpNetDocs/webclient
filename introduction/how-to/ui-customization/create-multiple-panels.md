@@ -29,3 +29,7 @@ To do so, navigate to the **Reorder** tab and click the **Rename** button for th
 Enter the desired name and click **OK** to save the changes.
 
 ![Pictures](pictures/Customization-Rename_20_01.png)
+
+You can supply a translation in a language of your choice with the translate button in the Rename window.
+
+![Pictures](pictures/Panels_transalate_23_01.png)
