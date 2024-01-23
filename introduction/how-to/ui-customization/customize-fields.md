@@ -25,3 +25,7 @@ Enter the desired name for your column and click **OK** to save the changes.
 To reset the name back to its original state, use the **Clear** button.
 
 ![Pictures](pictures/Reorder_Rename_20_01.png)
+
+You can give an translation in a language of your choice with the translate button in the **Rename** window.
+
+![Pictures](pictures/Order_Change_Language_23_01.png)
