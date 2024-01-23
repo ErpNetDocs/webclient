@@ -4954,47 +4954,50 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/how-to/ui-customization/customize-fields.md",
+      "source_relative_path": "introduction/how-to/ui-customization/create-multiple-panels.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/how-to/ui-customization/customize-fields.html",
-          "hash": "lTgxsFdaxyokBkow9mJmWw=="
+          "relative_path": "introduction/how-to/ui-customization/create-multiple-panels.html",
+          "hash": "J8j3z1eYLQ0pPgdaRMK5cw=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/ui-customization/create-new-attributes.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/ui-customization/create-new-attributes.html",
+          "hash": "k/+5gjH5DGsif/Tc/UHzcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/ui-customization/customize-fields.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/ui-customization/customize-fields.html",
+          "hash": "Gwo5iC9ejK4GUrDytuuNuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/how-to/ui-customization/index.md",
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/ui-customization/index.html",
-          "hash": "8M5br2JUHmksSLCEtGM0xQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/how-to/ui-customization/multiple-instances.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/how-to/ui-customization/multiple-instances.html",
-          "hash": "rPdr1CxHjkFSTOAzBTeRgQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/how-to/ui-customization/new-attributes.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/how-to/ui-customization/new-attributes.html",
-          "hash": "FGyGHWR0dmanYcefJxJhzA=="
+          "hash": "QxsWTIXQ2LuAx3GH8M5aEw=="
         }
       },
       "is_incremental": false,
@@ -5090,6 +5093,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/how-to/ui-customization/pictures/Invoice_Activate_slider_23_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/ui-customization/pictures/Invoice_Activate_slider_23_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/how-to/ui-customization/pictures/Invoice_Add_20_01.png",
       "output": {
         "resource": {
@@ -5134,6 +5148,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/how-to/ui-customization/pictures/Invoice_Save_23_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/ui-customization/pictures/Invoice_Save_23_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/how-to/ui-customization/pictures/Invoice_Save_Reload_20_01.png",
       "output": {
         "resource": {
@@ -5149,6 +5174,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/how-to/ui-customization/pictures/Invoice_attributes_21_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/ui-customization/pictures/Order_Change_Language_23_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/ui-customization/pictures/Order_Change_Language_23_01.png"
         }
       },
       "is_incremental": false,
@@ -5237,6 +5273,28 @@
       "output": {
         "resource": {
           "relative_path": "introduction/how-to/ui-customization/pictures/Orders_Customize_panel_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/ui-customization/pictures/Panels_transalate_23_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/ui-customization/pictures/Panels_transalate_23_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/ui-customization/pictures/Rename_Translation_23_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/ui-customization/pictures/Rename_Translation_23_01.png"
         }
       },
       "is_incremental": false,
@@ -6224,7 +6282,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "qLIZq+3Qfk02PVb75/IEMQ=="
+          "hash": "NciGYrq4T8tx+MZ8DWAj9g=="
         }
       },
       "is_incremental": false,
