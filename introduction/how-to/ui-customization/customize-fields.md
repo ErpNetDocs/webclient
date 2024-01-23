@@ -26,6 +26,6 @@ To reset the name back to its original state, use the **Clear** button.
 
 ![Pictures](pictures/Reorder_Rename_20_01.png)
 
-You can give an translation in a language of your choice with the translate button in the **Rename** window.
+You can supply a translation in a language of your choice with the translate button in the **Rename** window.
 
 ![Pictures](pictures/Order_Change_Language_23_01.png)
