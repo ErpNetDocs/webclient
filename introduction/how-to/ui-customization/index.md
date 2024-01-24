@@ -6,6 +6,6 @@ You can learn how to rename fields and columns, reorder panels and show or hide 
 
 * **[Customize fields](customize-fields.md)**
 
-* **[Create multiple panels](multiple-instances.md)**
+* **[Create multiple panels](create-multiple-panels.md)**
 
-* **[Create new attributes](new-attributes.md)**
+* **[Create new attributes](create-new-attributes.md)**
