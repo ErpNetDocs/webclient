@@ -620,6 +620,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Activate_slider_23_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Activate_slider_23_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Add_20_01.png",
       "output": {
         "resource": {
@@ -664,6 +675,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Save_23_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Save_23_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_Save_Reload_20_01.png",
       "output": {
         "resource": {
@@ -679,6 +701,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/how-to/ui-customization/pictures/Invoice_attributes_21_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_Change_Language_23_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Order_Change_Language_23_01.png"
         }
       },
       "is_incremental": false,
@@ -767,6 +800,28 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/how-to/ui-customization/pictures/Orders_Customize_panel_20_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Panels_transalate_23_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Panels_transalate_23_01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/Rename_Translation_23_01.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/Rename_Translation_23_01.png"
         }
       },
       "is_incremental": false,
@@ -4989,15 +5044,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/how-to/ui-customization/index.md",
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/ui-customization/index.html",
-          "hash": "QxsWTIXQ2LuAx3GH8M5aEw=="
+          "hash": "t011KBiCCGo7QCXFqiG/EA=="
         }
       },
       "is_incremental": false,
