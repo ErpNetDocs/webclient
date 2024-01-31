@@ -14,7 +14,8 @@
   href: separate-views.md
 - name: Define user roles
   href: user-roles.md
+- name: Enter keyboard data
+  href: enter-stops.md
 - name: UI customization
   href: ui-customization/toc.yml
   topicHref: ui-customization/index.md
-  
