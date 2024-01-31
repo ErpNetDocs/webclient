@@ -33,3 +33,8 @@ You can also add a **translation** in a language of your choice with the **Trans
 When the language of the platform is changed, it will reflect this translation automatically.
 
 ![Pictures](pictures/Rename_Translation_23_01.png)
+
+
+
+> [!NOTE]
+> The screenshots taken for this article are from v24 of the **Web Client**.
