@@ -13,8 +13,10 @@ In Edit mode, you can choose which data fields work with enter stops by clicking
 ![Document settings](pictures/document-settings.png) 
  
 From there, navigate to the <b>Reorder</b> tab. Take a note of the boxes under <b>Enter Stop</b>. 
-During editing, fields with checkmarks are <b>prioritized</b> while empty ones are <b>skipped</b>. 
-This setting won’t delete them from the database. Select the ones you <b>will more likely need</b> to fill out every time you create a sales order, and close the window. 
+
+During editing, fields with checkmarks are <b>prioritized</b> while empty ones are <b>skipped</b>. This setting won’t delete them from the database. 
+
+Select the ones you <b>will more likely need</b> to fill out every time you create a sales order, and close the window. 
 
 ![Fields reorder](pictures/fields-reorder.png) 
 
