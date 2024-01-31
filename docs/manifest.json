@@ -4442,6 +4442,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/enter-stops.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/enter-stops.html",
+          "hash": "TAPy/aD9tzrJVfDcxKWjAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/how-to/filter-row-in-navigators.md",
       "output": {
         ".html": {
@@ -4676,6 +4688,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/document-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/document-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/how-to/pictures/edit_mode.png",
       "output": {
         "resource": {
@@ -4687,10 +4710,43 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/enterstops-usage-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/enterstops-usage-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/enterstops-usage-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/enterstops-usage-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/how-to/pictures/field_visualized.png",
       "output": {
         "resource": {
           "relative_path": "introduction/how-to/pictures/field_visualized.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/fields-reorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/fields-reorder.png"
         }
       },
       "is_incremental": false,
@@ -4812,6 +4868,28 @@
       "output": {
         "resource": {
           "relative_path": "introduction/how-to/pictures/options_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/panels-reorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/panels-reorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/panels-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/panels-settings.png"
         }
       },
       "is_incremental": false,
@@ -5013,7 +5091,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/ui-customization/create-multiple-panels.html",
-          "hash": "J8j3z1eYLQ0pPgdaRMK5cw=="
+          "hash": "xHbgrdoBH/1yfVYqtPru5A=="
         }
       },
       "is_incremental": false,
@@ -5025,7 +5103,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/ui-customization/create-new-attributes.html",
-          "hash": "k/+5gjH5DGsif/Tc/UHzcg=="
+          "hash": "TgPTfTfwaV2m60IIJtTEbg=="
         }
       },
       "is_incremental": false,
@@ -5037,7 +5115,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/ui-customization/customize-fields.html",
-          "hash": "Gwo5iC9ejK4GUrDytuuNuw=="
+          "hash": "+Li4wdaHL8+/z/AJTBc2Dg=="
         }
       },
       "is_incremental": false,
@@ -5403,97 +5481,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/index.html",
-          "hash": "SQFzOGuG2ARd0qsVgH9Yjg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/keyboard-data-entry/enter-stops.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/keyboard-data-entry/enter-stops.html",
-          "hash": "ez+yXSVxSBmOzyAGgeA0MQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/keyboard-data-entry/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/keyboard-data-entry/index.html",
-          "hash": "OcaIwClRClq+J8Wmwj+2xQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/keyboard-data-entry/pictures/document-settings.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/keyboard-data-entry/pictures/document-settings.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/keyboard-data-entry/pictures/enterstops-usage-1.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/keyboard-data-entry/pictures/enterstops-usage-1.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/keyboard-data-entry/pictures/enterstops-usage-2.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/keyboard-data-entry/pictures/enterstops-usage-2.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/keyboard-data-entry/pictures/fields-reorder.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/keyboard-data-entry/pictures/fields-reorder.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/keyboard-data-entry/pictures/panels-reorder.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/keyboard-data-entry/pictures/panels-reorder.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/keyboard-data-entry/pictures/panels-settings.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/keyboard-data-entry/pictures/panels-settings.png"
+          "hash": "YoEFrQhoHN1Icn6LkjZSdA=="
         }
       },
       "is_incremental": false,
@@ -6334,7 +6322,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "NciGYrq4T8tx+MZ8DWAj9g=="
+          "hash": "CWZ2IZ8/UFq7w/V135eCTw=="
         }
       },
       "is_incremental": false,
