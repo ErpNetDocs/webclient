@@ -28,3 +28,8 @@ Enable or disable the attributes you need by clicking their slider buttons.
 
 ![Pictures](pictures/Invoice_Activate_slider_23_01.png)
 
+
+
+> [!NOTE]
+> The screenshots taken for this article are from v24 of the **Web Client**.
+
