@@ -235,6 +235,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/document-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/document-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/how-to/pictures/edit_mode.png",
       "output": {
         "resource": {
@@ -246,10 +257,43 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/enterstops-usage-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/enterstops-usage-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/enterstops-usage-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/enterstops-usage-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/how-to/pictures/field_visualized.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/how-to/pictures/field_visualized.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/fields-reorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/fields-reorder.png"
         }
       },
       "is_incremental": false,
@@ -371,6 +415,28 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/how-to/pictures/options_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/panels-reorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/panels-reorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/panels-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/panels-settings.png"
         }
       },
       "is_incremental": false,
