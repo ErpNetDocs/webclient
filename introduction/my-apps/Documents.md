@@ -8,6 +8,16 @@ This application offers customization options to tailor the display of document 
 
 ![Pictures](pictures/Documents_view_07_02.png)
 
+## Prerequisite
+
+Upon creation, each document features a field labeled **Assigned To User**. This field determines which documents are displayed in **My Documents**.
+
+By default, the document is assigned to the person creating it, but they have the option to assign it to someone else.
+
+![Pictures](pictures/Documents_Assign_to_User_07_02.png)
+
+**Note**: In the **Assigned To User** field, only the username of the user is entered, not the name.
+
 ## Navigation
 
 To open the **Documents** application, access the main menu and select the **My** section. 
