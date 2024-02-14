@@ -84,15 +84,13 @@ If you add a **Document Type** column header first, then a **Document Date** col
 
 Like most **My** apps, the **Documents** application can be freely customized to your preferences. 
 
-Simply click the Customize panel option from the three-dot actions menu.
-
-This will open a window with two tabs: 
+Simply click the **Customize panel** option from the **three-dot** actions menu. This will open a window with two tabs: 
 
 **Items**
 
 You can **hide** or **reveal** columns in the documents table from the **System** section of this tab. 
 
-Toggle the slider button next to the desired column to trigger the respective action.
+Toggle the **slider** button next to the desired column to trigger the respective action.
 
 ![Pictures](pictures/Documents_customize_system_07_02.png)
   
@@ -166,6 +164,6 @@ This allows you to have readily available configurations which can **alter** the
     
 **Reorder**
 
-You can change the order of the items on the page by dragging them up and down.
+You can change the order of the items on the page by dragging them up and down until they form the desired hierarchy.
 
 ![Pictures](pictures/Documents_menu_reorder_07_02.png)
