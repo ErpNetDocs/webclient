@@ -30,7 +30,7 @@ By default, new documents are assigned to the person creating them (e.g. you), b
 
 ## Features
 
-**My Documents** allows you to take advantage of various buttons, fields, customization features, and menus to navigate and organize your documents.
+You can take advantage of various buttons, fields, customization features, and menus to better navigate and organize your documents.
 
 ### Documents table
 
