@@ -132,7 +132,7 @@ If a document is released as part of another, the entire chain will show up here
 
 You can save a specific configuration of the **My documents** page and create a **tile** for it.
 
-Whenever you visit the your personalized **Tiles** environment, the respective **Documents** tile will be available to access directly from there.
+Whenever you visit the your personalized **[Tiles](https://docs.erp.net/webclient/introduction/my-apps/tiles.html)** environment, the respective **Documents** tile will be available to access directly from there.
 
 ![Pictures](pictures/Documents_widgets_07_02.png)
 
