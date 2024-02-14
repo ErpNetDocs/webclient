@@ -136,7 +136,7 @@ Whenever you visit the your personalized **Tiles** environment, the respective *
 
 ![Pictures](pictures/Documents_widgets_07_02.png)
 
-### Customize Form
+### Customize form
 
 Last but not least, you can **customize** the look and feel of your **Documents** application.
 
