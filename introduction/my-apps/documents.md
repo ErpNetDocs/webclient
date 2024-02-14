@@ -1,218 +1,171 @@
 # Documents
 
-In the **My** menu, the **Documents** application is dedicated to organizing documents linked to your personal account. 
+**My Documents** is an application dedicated to storing and organizing all @@name documents with which you are somehow involved.
 
-It conveniently gathers all files authored by you or assigned to you by others. 
+These could be the ones you created and assigned to yourself, or those which colleagues assigned to you instead.
 
-This application offers customization options to tailor the display of document details according to your preferences.
-
-![Pictures](pictures/Documents_view_07_02.png)
-
-## Prerequisite
-
-Upon creation, each document features a field labeled **Assigned To User**. This field determines which documents are displayed in **My Documents**.
-
-By default, the document is assigned to the person creating it, but they have the option to assign it to someone else.
-
-![Pictures](pictures/Documents_Assign_to_User_07_02.png)
-
-**Note**: In the **Assigned To User** field, only the username of the user is entered, not the name.
-
-## Navigation
-
-To open the **Documents** application, access the main menu and select the **My** section. 
-
-From there, locate the option labeled **Documents** and click on it to launch it.
+Apart from offering **instant access** to each document, the application gives you various ways of **customizing** how they are displayed.
 
 ![Pictures](pictures/Documents_navigation_07_02.png)
 
-## My Document Layout
+You no longer need to search across different modules and dozens of system navigators in order the find the document that you need.
 
-Here, you will find details about the primary layout of the **My Documents** page. 
-This includes insights into the various buttons, fields, customization features, and menus available to you for navigating and organizing your documents.
+In **My Documents**, they are all in one place.
 
-![Pictures](pictures/Documents_main_07_02.png)
+### Important prerequisites
 
-**Note**: After making any modifications, a **Save Layout** icon will appear, providing you with the option to permanently save the changes to the layout.
+Upon creation, most @@name documents feature a field titled **Assigned To User** that determines in which personalized environment they will appear.
 
-![Pictures](pictures/Documents_Save_Layout_07_02.png)
+By default, new documents are assigned to the person creating them (e.g. you), but you have the option to assign them to someone else.
 
-### Documents Table
+![Pictures](pictures/assignedtouser.png)
 
-The primary focus of the screen is a table presenting all documents linked to your account.
+**NOTE!** 
+
+**1.** Currently, you always provide the **login** of the user (as defined in **Setup - Security - Users**), not their actual name.
+
+**2.** If the **Assigned To User** field is not visible, you need to reveal it manually by **customizing** the document creation panel.
+
+**3.** Once a user is specified and the document is saved, it will appear in the user's respective **My Documents** environment
+
+## Features
+
+The application allows you to take advantage of various buttons, fields, customization features, and menus to better navigate and organize your documents.
+
+### Documents table
+
+At the very center of **My Documents** is a table presenting all the documents which are somehow related to your account.
+
+You can not only **preview**, but also **interact** with this table, starting from simple operations such as accessing and sorting your documents, and going to more feature-heavy options like grouping the documents by column headers.
 
 ![Pictures](pictures/Documents_documents_selected_07_02.png)
 
-You can hide and show it from the drop-down menu labeled **Documents**.
+### Search
 
-![Pictures](pictures/Documents_drop_down_07_02.png)
+There's a search bar above the table allowing you to find a specific document.
 
-#### Search
-
-You can use the search bar within the table to browse through the documents.
+Simply provide its name or another related detail.
 
 ![Pictures](pictures/Documents_search_07_02.png)
 
-#### Maximize
+### Actions menu
 
-Maximize the table by clicking on the maximize icon.
+You can click the vertical **three-dot button** to expand a menu containing a list of actions.
 
-![Pictures](pictures/Documents_maximize_07_02.png)
-
-#### Panel Menu
-
-You can use the **Panel menu** to add widgets to the table and also apply them for enhanced functionality.
+It allows you to perform all sorts of operations, such as **reloading** the page, **exporting** the table, and even using column headers to **group** your documents.
 
 ![Pictures](pictures/Documents_panel_menu_07_02.png)
 
-##### Show Grouping Panel
+## Show grouping panel
 
-The **Grouping panel** arranged the documents based on a certain parameter.
+You can use the **Show grouping panel** feature to arrange your documents based on a certain **column header**.
 
-![Pictures](pictures/Documents_grouping_panel_07_02.png)
-
-To add the **Grouping panel**, click on the **Grouping panel** button in  the **Panel menu**.
+For instance, you may want to filter your existing documents by the month they were created, the number they were assigned, their type, and so on.
 
 ![Pictures](pictures/Documents_grouping_panel_Drag_07_02.png)
 
-You can drag and drop a column header to the **Grouping panel**, and the documents will be arranged based on that column. 
+To begin, click on **Show grouping panel**, then **drag and drop** a column header right into the field that appears above the table
 
-**Example**: If you drag and drop the **Document Type** column, the documents will be arranged by type.
+Once you do that, the documents will be arranged based on that column (e.g. Document Type). 
 
 ![Pictures](pictures/Documents_grouping_panel_type_07_02.png)
 
-You can group the documents by more than one parameter. 
+If needed, you can continue to group your documents by providing **multiple** column headers.
 
-In that case, the documents will be arranged in two menus where the second parameter’s menu is inside the first one.
+In that case, the documents will be further categorized based on which column goes first and what order all the others follow next.
 
 ![Pictures](pictures/Documents_grouping_panel_multiple_07_02.png)
 
-**Note**: To change the sequence of the parameters, drag and drop them on the **Grouping panel**.
+By adding more groups, you configure the table to visualize the documents in a more structured and completely unique way.
 
-##### Show Filter Row
+If you add a **Document Type** column header first, then a **Document Date** column header second, your documents will first be grouped by their types and then additionally based on the date they were released on.
 
-To search for a document based on information in a specific column, you can display the Filter row from the **Panel menu**.
+## Panel customization
 
-![Pictures](pictures/Documents_filter_row_07_02.png)
+Like most **My** apps, the **Documents** application can be freely customized to your preferences. 
 
-Enter a keyword or number in the column's filter cell to filter the documents accordingly.
+Simply click the Customize panel option from the three-dot actions menu.
 
-![Pictures](pictures/Documents_filter_row_example_07_02.png)
+This will open a window with two tabs: 
 
-##### Multi-select
+**Items**
 
-With **Multiple select**, you can select more than one document.
+You can **hide** or **reveal** columns in the documents table from the **System** section of this tab. 
 
-![Pictures](pictures/Documents_multi_select_07_02.png)
+Toggle the slider button next to the desired column to trigger the respective action.
 
-To select one or more documents, simply check the box next to each document you wish to select. Alternatively, you can check the box at the top of the column to select all documents.
-
-![Pictures](pictures/Documents_multi_select_example_07_02.png)
-
-##### Export to Excel
-
-With **Export to Excel**, you can download all of the files in **My Documents** in **xlsx** format.
-
-![Pictures](pictures/Documents_export_to_excel_07_02.png)
-
-##### Set a Maximum Row Count
-
-You can set a maximum number of rows for the table within **Maximum row count**.
-
-![Pictures](pictures/Documents_maximum_rows_07_02.png)
-
-##### Customize Panel
-
-When you open it, a window with two tabs will open. **Items** and **Reorder**.
-
-- **Items**: You can add columns to the table from the **System menu** of the **Items** tab. To do that, click on the slider button next to the desired one.
-
-  ![Pictures](pictures/Documents_customize_system_07_02.png)
-
-  When you do that a column will show on the table.
-
-  ![Pictures](pictures/Documents_customize_panel_add_column_07_02.png)
+![Pictures](pictures/Documents_customize_system_07_02.png)
   
-- **Reorder**: Reorder the columns by your preferences by dragging them up and down.
+**Reorder**
 
-  ![Pictures](pictures/Documents_Customize_panel_Reorder_07_02.png)
+You can **change** the order of the table column headers to better fit your preferences.
 
-  **Note**: You can also reorder the columns by dragging and dropping them in the table.
+Drag them up and down until they form the desired hierarchy.
 
-  ![Pictures](pictures/Documents_Reorder_dragging_07_02.png)
+![Pictures](pictures/Documents_Customize_panel_Reorder_07_02.png)
 
-### Reload
+**NOTE!** 
 
-You can refresh the table as needed by using the **Reload** button.
+You can reorder your columns by dragging and dropping them across the table itself.
 
-![Pictures](pictures/Documents_Reload_07_02.png)
+## Menu
 
-### Menu
+There's an additional Menu **button** that allows you to interact with the entire **My Documents** application.
 
-In the **Menu**, you can add and open **Side panels** and **Widgets** to your screen.
+You can take advantage of more global features, such as opening **side panels**, adding **widgets**, creating different **tiles** and showing them **multiple times**.
 
 ![Pictures](pictures/Documents_menu_07_02.png)
 
-#### Side Panels
+### Side panels
 
-You can add **Side panels** to the screen to help you with your work while you are working with your documents.
+These can provide invaluable information for each of your documents, as well as allow you to apply additional **filters** to the table.
 
-![Pictures](pictures/Documents_side_panel_07_02.png)
-
-##### Chats 
-
-Opens a chat next to the table with documents.
-
-![Pictures](pictures/Documents_chat_07_02.png)
-
-##### Details 
-
-Open a new window displaying details about the selected document.
+For instance, you can include a **Details** panel to display additional information about each of your documents.
 
 ![Pictures](pictures/Documents_details_07_02.png)
 
-##### Document Flow 
+Having the **Document flow** panel at your disposal, on the other hand, gives you direct access to all documents related to the current one.
 
-Open a new window displaying information about the document flow.
+If a document is released as part of another, the entire chain will show up here.
 
 ![Pictures](pictures/Documents_document_flow_07_02.png)
 
-##### Detail Panels
+### Tiles
 
-Choose from the drop-down menu a panel to add to the screen.
+You can save a specific configuration of the **My documents** page and create a **tile** for it.
 
-![Pictures](pictures/Documents_detail_panels_07_02.png)
-
-#### Widgets
-
-Use the available **Widgets** by clicking them in the menu.
+Whenever you visit the your personalized **Tiles** environment, the respective **Documents** tile will be available to access directly from there.
 
 ![Pictures](pictures/Documents_widgets_07_02.png)
 
-##### Create a New Tile
+### Customize Form
 
-You can add a new tile to **Tiles**, that will show the **Documents** in **My**.
+Last but not least, you can **customize** the look and feel of your **Documents** application.
 
-##### Customize Form
-
-You can customize the view of your Documents application.
+Simply select **Customize form** from the **Menu** dropdown.
 
 ![Pictures](pictures/Documents_menu_customize_form_07_02.png)
 
-When you open it, a window with two tabs will open. Items and Reorder.
+A window with two tabs will open:
 
-- **Items**: From the Items tab, you can add and remove items from your form.
-  
-  - **Main Panels**: The Documents panel is the only option available, and additional panels cannot be added.
-    
-  - **Widgets**: Activate the buttons adjacent to Favorites, Tiles, and Web views to add them.
-    
-    ![Pictures](pictures/Documents_add_widgets_07_02.png)
-    
-  - **Show Multiple Times**: You can display a tile up to five times by toggling the buttons next to them.
+**Items**
 
-    ![Pictures](pictures/Documents_show_multiple_times_07_02.png)
+Here, you can **hide** or **reveal** certain panels, widgets and items from the main page.
+
+Toggle their sliders **off** or **on**, respectively, to achieve the desired action.
     
-- **Reorder**: Reorder the items by your preferences by dragging them up and down.
+It is here that you can also include additional widget panels dedicated to your **favorite** documents, document-related **tiles** and different **web views**.
+    
+![Pictures](pictures/Documents_add_widgets_07_02.png)
+    
+You can include up to **five** tile panels in your **Documents** application.
+
+This allows you to have readily available configurations which can **alter** the appearance of the page when clicked, based on the filters and grouping configurations applied.
+
+![Pictures](pictures/Documents_show_multiple_times_07_02.png)
+    
+**Reorder**
+
+You can change the order of the items on the page by dragging them up and down.
 
 ![Pictures](pictures/Documents_menu_reorder_07_02.png)
