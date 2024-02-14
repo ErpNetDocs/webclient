@@ -5991,7 +5991,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/documents.html",
-          "hash": "mtkriSQCQUHQTr1oxbzNsA=="
+          "hash": "ZkrY82Hn5m1KdQP0ZiwPxw=="
         }
       },
       "is_incremental": false,
@@ -6514,6 +6514,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/my-apps/pictures/activity_participant.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/assignedtouser.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/assignedtouser.png"
         }
       },
       "is_incremental": false,
