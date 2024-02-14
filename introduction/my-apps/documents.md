@@ -14,7 +14,7 @@ In **My Documents**, they are all in one place.
 
 ### Important prerequisites
 
-Upon creation, most @@name documents feature a field titled **Assigned To User** that determines in which personalized environment they will appear.
+Upon creation, most @@name documents feature an **Assigned To User** field that determines in which personalized environment they appear.
 
 By default, new documents are assigned to the person creating them (e.g. you), but you have the option to assign them to someone else.
 
