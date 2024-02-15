@@ -1544,6 +1544,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/assignedtouser.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/assignedtouser.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/customers-navigator-context-menu.png",
       "output": {
         "resource": {
