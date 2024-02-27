@@ -1,32 +1,33 @@
 # Documents
 
-**My Documents** is an application dedicated to storing and organizing all @@name documents with which you are somehow involved.
+**My Documents** is an application dedicated to organizing all @@name documents with which you are somehow involved.  
 
-These could be the ones you created and assigned to yourself, or those which colleagues assigned to you instead.
+These could be the ones you created and assigned to yourself, along with those which your colleagues created and assigned to you afterwards.  
 
-Apart from offering **instant access** to each document, the application gives you various ways of **customizing** how they are displayed.
+Apart from offering **instant access** to each document, the application gives you various ways of **customizing** how they are displayed.  
 
 ![Pictures](pictures/Documents_navigation_07_02.png)
 
-You no longer need to search across different modules and dozens of system navigators in order the find the document that you need.
+You no longer need to search across different modules and dozens of system navigators in order to find the document that you need.  
 
-In **My Documents**, they are all in one place.
+In **My Documents**, they are all conveniently unified in one place.  
 
 ### Important prerequisites
 
-Upon creation, most @@name documents have an **Assigned To User** field that determines in which personalized environment they appear.
+Upon creation, all @@name documents have an **Assigned To User** field that determines the person whose personalized environment they appear in.  
 
-By default, new documents are assigned to the person creating them (e.g. you), but you have the option to assign them to someone else.
+By default, new documents are automatically assigned to the person creating them (e.g. you). 
+You also have the option to assign them to someone else.  
 
 ![Pictures](pictures/assignedtouser.png)
 
-**NOTE!** 
-
-**1.** Currently, you always provide the **login** of the user (as defined in **Setup - Security - Users**), not their actual name.
-
-**2.** If the **Assigned To User** field is not visible, you need to reveal it manually by **customizing** the document creation panel.
-
-**3.** Once a user is specified and the document is saved, it will appear in the user's respective **My Documents** environment
+> [!Note]
+> **1.** Currently, you always provide the **login** of the user (as defined in **Setup -> Security -> Users**), and not their actual name.  
+> 
+> **2.** If the **Assigned To User** field is not visible, you need to reveal it manually by **customizing** the document creation panel. 
+> This will enable you to **change the person** the document is assigned to.  
+> 
+> **3.** Once a user is specified and the document is saved, it will appear in the user's respective **My Documents** environment.  
 
 ## Features
 
@@ -36,7 +37,9 @@ You can take advantage of various buttons, fields, customization features, and m
 
 At the very center of **My Documents** is a table presenting all the documents which are somehow related to your account.
 
-You can not only **preview**, but also **interact** with this table, starting from simple operations such as accessing and sorting your documents, and going to more feature-heavy options like grouping the documents by column headers.
+You can not only **preview**, but also **interact** with this table, starting from simple operations, such as **filtering**, **sorting**, and **accessing your documents**.  
+
+The app also empowers users to go to more advanced options like **grouping documents by column headers** and **displaying summarized data** about the documents.  
 
 ![Pictures](pictures/Documents_documents_selected_07_02.png)
 
@@ -44,7 +47,7 @@ You can not only **preview**, but also **interact** with this table, starting fr
 
 There's a search bar above the table allowing you to find a specific document.
 
-Simply provide its name or another related detail.
+Simply provide a detail related to it, like its **number**, **date**, or the **type of document** you are looking for - a meeting, appointment, offer, sales order, etc.
 
 ![Pictures](pictures/Documents_search_07_02.png)
 
@@ -52,19 +55,20 @@ Simply provide its name or another related detail.
 
 You can click the vertical **three-dot button** to expand a menu containing a list of actions.
 
-It allows you to perform all sorts of operations, such as **reloading** the page, **exporting** the table, and even using column headers to **group** your documents.
+It allows you to perform a wide variety of operations, such as **reloading** your records, **exporting** the table with its data, and even **grouping** your documents by one or more parameters.
 
 ![Pictures](pictures/Documents_panel_menu_07_02.png)
 
 ## Show grouping panel
 
-You can use the **Show grouping panel** feature to arrange your documents based on a certain **column header**.
+You can use the **Show grouping panel** feature to arrange your documents in groups based on a certain **parameter**, visualized by its respective **column header**.
 
-For instance, you may want to filter your existing documents by the month they were created, the number they were assigned, their type, and so on.
+For instance, you may want to separate the full list of your existing documents in several groups. 
+These groups could organize documents by the month they were created, the number they were assigned, their type, and so on.
 
 ![Pictures](pictures/Documents_grouping_panel_Drag_07_02.png)
 
-To begin, click on **Show grouping panel**, then **drag and drop** a column header right into the field that appears above the table
+To begin, click on **Show grouping panel**, then **drag and drop** a column header right into the field that appears above the table.
 
 Once you do that, the documents will be arranged based on that column (e.g. Document Type). 
 
@@ -78,7 +82,7 @@ In that case, the documents will be further categorized based on which column go
 
 By adding more groups, you configure the table to visualize the documents in a more structured and completely unique way.
 
-If you add a **Document Type** column header first, then a **Document Date** column header second, your documents will first be grouped by their types and then additionally based on the date they were released on.
+If you add a **Document Type** column header first, then a **Document Date** column header second, your documents will first be grouped by their types and then additionally based on the date they were issued on.
 
 ## Panel customization
 
