@@ -14,7 +14,7 @@ You can customize a form by clicking on the **Menu** button and choosing **Custo
 
 In the window, navigate to the **Items** tab аnd click on **Show multiple times** to expand a menu with slider buttons.
 
-By clicking on a slider, you can add or remove the same panel from the form no more than five times.
+By clicking on the slider, you can add or remove the panel from the form. Each panel can be displayed **up to 5 times** in a single form.
 
 ![Pictures](pictures/Customization_add_items_20_01.png)
 
