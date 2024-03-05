@@ -6,7 +6,7 @@ These could be the ones you created and assigned to yourself, along with those w
 
 Apart from offering **instant access** to each document, the application gives you various ways of **customizing** how they are displayed.  
 
-![Pictures](pictures/Documents_navigation_07_02.png)
+![Pictures](pictures/Documents_view_05_03.png)
 
 You no longer need to search across different modules and dozens of system navigators in order to find the document that you need.  
 
@@ -41,7 +41,7 @@ You can not only **preview**, but also **interact** with this table, starting fr
 
 The app also empowers users to go to more advanced options like grouping documents by **column headers** and displaying **summarized data** about the documents.  
 
-![Pictures](pictures/Documents_documents_selected_07_02.png)
+![Pictures](pictures/Documents_Table_04_03.png)
 
 ### Search
 
@@ -51,7 +51,7 @@ Simply provide a detail related to it, like its **number**, **date**, or the **t
 
 The search will return a list of all the documents that contain the **detail you searched for**.  
 
-![Pictures](pictures/Documents_search_07_02.png)
+![Pictures](pictures/Documents_search_bar_04_03.png)
 
 ### Actions menu
 
@@ -59,7 +59,7 @@ You can click the vertical **three-dot button** to expand a menu containing a li
 
 It allows you to perform a wide variety of operations, such as **reloading** your records, **exporting** the table with its data, and even **grouping** your documents by one or more parameters.  
 
-![Pictures](pictures/Documents_panel_menu_07_02.png)
+![Pictures](pictures/Documents_menu_panel_04_03.png)
 
 ## Show grouping panel
 
@@ -68,7 +68,7 @@ You can use the **Show grouping panel** feature to arrange your documents in gro
 For instance, you may want to separate the full list of your existing documents into several groups. 
 These groups could organize documents by **their type**, **their state**, **the month** they were created on, and so on.  
 
-![Pictures](pictures/Documents_grouping_panel_Drag_07_02.png)
+![Pictures](pictures/Documents_grouping_panels_04_03.png)
 
 To begin, click on **Show grouping panel**, then **drag and drop** a column header right into the field (the space) that appeared above the table.  
 
@@ -76,13 +76,13 @@ Once you do that, the documents will be arranged in groups based on that column 
 
 Documents having the same value in the column header you grouped by will appear under the same group.  
 
-![Pictures](pictures/Documents_grouping_panel_type_07_02.png)
+![Pictures](pictures/Documents_panels_types_04_03.png)
 
 You can also group your documents in a multi-level, hierarchical order by providing **multiple column headers**.  
 
 In that case, the documents will be further categorized in groups based on the column that goes first, followed by the rest of the grouped columns in a consecutive order.  
 
-![Pictures](pictures/Documents_grouping_panel_multiple_07_02.png)
+![Pictures](pictures/Documents_two_panels_04_03.png)
 
 By adding more groups, you configure the table to visualize the documents in a more structured and navigation friendly way.  
 
@@ -94,6 +94,20 @@ For example, let's say you add a **Document Type** column header first, then a *
 
 > [!Tip]  
 > You can gain insight into your data from different points of view by changing what column headers you group or even just by switching their order.  
+
+### Summary
+
+To gather insights about each column, simply **right-click** on the column header and select "Summary" from the menu. This will open a list of available functions.
+
+![Pictures](pictures/Summary_navigation_05_03.png)
+
+Choose the function you need:
+
+- **Count**: It tallies the number of instances where a specific value is present in a field.
+- **Count Distinct**: Calculates the unique values within a field in the current navigator form.
+- For fields with a **number** data type, you can extract details such as **Max** or **Min** values.
+
+![Pictures](pictures/Documents_summary_05_03.png)
 
 ## Panel customization
 
@@ -126,7 +140,7 @@ There's an additional Menu **button** in the ribbon that allows you to interact 
 
 You can take advantage of more global features, such as opening **side panels**, adding **widgets**, creating different **tiles**, and showing them **multiple times**.  
 
-![Pictures](pictures/Documents_menu_07_02.png)
+![Pictures](pictures/Documents_menu_04_03.png)
 
 ### Side panels
 
@@ -140,7 +154,7 @@ This enables you to preview the document's data in a fast and easy way, without 
 > The Details panel will visualize the data of a document as soon as you select its row.  
 > You can **rapidly preview** the data of a number of documents - simply **switch between the rows** of the primary table when ready.  
 
-![Pictures](pictures/Documents_details_07_02.png)
+![Pictures](pictures/Documents_Activity_04_03.png)
 
 Oftentimes, a document is issued as part of a sequence of documents, called a document chain.  
 
@@ -148,7 +162,7 @@ Having the **Document flow** panel at your disposal gives you an easy way to tra
 
 If a document is released as part of other documents, the entire chain will show up here.  
 
-![Pictures](pictures/Documents_document_flow_07_02.png)
+![Pictures](pictures/Documents_Flow_04_03.png)
 
 ### Tiles
 
@@ -158,7 +172,7 @@ In case you have set a combination of filters, the tile will store them as well.
 
 Whenever you visit your personalized **[Tiles](https://docs.erp.net/webclient/introduction/my-apps/tiles.html)** environment, the respective **Documents** tile will be available to access directly from there.
 
-![Pictures](pictures/Documents_widgets_07_02.png)
+![Pictures](pictures/Documents_widgets_04_03.png)
 
 ### Customize form
 
@@ -166,7 +180,7 @@ Last but not least, you can **customize** the look and feel of your **Documents*
 
 Simply select **Customize form** from the **Menu** button's dropdown.
 
-![Pictures](pictures/Documents_menu_customize_form_07_02.png)
+![Pictures](pictures/Documents_customize_form_04_03.png)
 
 A window with two tabs will open:
 
