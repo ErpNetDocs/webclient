@@ -22,16 +22,16 @@ You also have the option to assign them to **someone else**.
 ![Pictures](pictures/assignedtouser.png)
 
 > [!Note]
-> **1.** Currently, you always provide the **login** of the user (as defined in **Setup -> Security -> Users**), and not their actual name.  
+> 1. Currently, you always provide the **login** of the user (as defined in **Setup -> Security -> Users**), and not their actual name.  
 > 
-> **2.** If the **Assigned To User** field is not visible, you need to reveal it manually by **customizing** the document creation panel. 
+> 2. If the **Assigned To User** field is not visible, you need to reveal it manually by **customizing** the document creation panel. 
 > This will enable you to change the **person** the document is assigned to.  
 > 
-> **3.** Once a user is specified and the document is saved, it will appear in the user's respective **My Documents** environment.  
+> 3. Once a user is specified and the document is saved, it will appear in the user's respective **My Documents** environment.  
 
 ## Features
 
-You can take advantage of various **buttons**, **fields**, **customization features**, and **menus** to better navigate and organize your documents.  
+You can take advantage of various buttons, fields, customization features, and menus to better navigate and organize your documents.  
 
 ### Documents table
 
@@ -41,15 +41,15 @@ You can not only **preview**, but also **interact** with this table, starting fr
 
 The app also empowers users to go to more advanced options like grouping documents by **column headers** and displaying **summarized data** about the documents.  
 
-![Pictures](pictures/Documents_Table_04_03.png)
+![Pictures](pictures/Documents_tables_06_03.png)
 
 ### Search
 
 The **search bar** above the table is intended to help you find a specific document.
 
-Simply provide a detail related to it, like its **number**, **date**, or the **type of document** you are looking for - a meeting, appointment, offer, sales order, etc.  
+Simply provide a detail related to it, like its **number**, **date**, or the **type** of document you are looking for - a meeting, appointment, offer, sales order, etc.  
 
-The search will return a list of all the documents that contain the **detail you searched for**.  
+The search will return a list of all the documents that contain the **detail** you searched for.  
 
 ![Pictures](pictures/Documents_search_bar_04_03.png)
 
@@ -66,46 +66,49 @@ It allows you to perform a wide variety of operations, such as **reloading** you
 You can use the **Show grouping panel** feature to arrange your documents in groups based on a certain **parameter**, visualized by its respective **column header**.
 
 For instance, you may want to separate the full list of your existing documents into several groups. 
-These groups could organize documents by **their type**, **their state**, **the month** they were created on, and so on.  
+These groups could organize documents by their **type**, **state**, the **month** they were created on, and so on.  
 
 ![Pictures](pictures/Documents_grouping_panels_04_03.png)
 
-To begin, click on **Show grouping panel**, then **drag and drop** a column header right into the field (the space) that appeared above the table.  
+To begin, click on the **Show grouping panel**, then **drag and drop** a column header right into the field (space) that appears above the table.  
 
-Once you do that, the documents will be arranged in groups based on that column (e.g. Document Type).  
+Once you do that, the documents will be arranged in **groups** based on that column (e.g. Document Type).  
 
-Documents having the same value in the column header you grouped by will appear under the same group.  
+Documents having the same value determined by a column header will appear under it.  
 
 ![Pictures](pictures/Documents_panels_types_04_03.png)
 
 You can also group your documents in a multi-level, hierarchical order by providing **multiple column headers**.  
 
-In that case, the documents will be further categorized in groups based on the column that goes first, followed by the rest of the grouped columns in a consecutive order.  
+In that case, the documents will be further categorized in groups based on the column that was placed first, followed by the rest of the grouped columns in a consecutive order.  
 
 ![Pictures](pictures/Documents_two_panels_04_03.png)
 
-By adding more groups, you configure the table to visualize the documents in a more structured and navigation friendly way.  
+By adding more groups, you configure the table to visualize the documents in a more structured and navigation-friendly way.  
 
 For example, let's say you add a **Document Type** column header first, then a **Document Date** column header second:  
 
-1. **Two levels** of groups will show up.  
-2. The **first-level groups** will indicate what **type of documents** each of them contains - for example, activities, offers, sales orders, etc.  
-3. While the **second-level groups** will further narrow the range of documents down to **the date** they were issued on - for example, only the offers issued for a specific year, month, or date.  
+1. **Two** levels of groups will show up.  
+2. The **first-level groups** will indicate what **type** of documents each of them contains - for example, activities, offers, sales orders, etc.  
+3. The **second-level groups** will further narrow the range of documents down to **the date** they were issued on - for example, only the offers issued for a specific year, month, or date.  
 
-> [!Tip]  
-> You can gain insight into your data from different points of view by changing what column headers you group or even just by switching their order.  
+> [!Tip]
+> 
+> You can gain insights into your data from different points of view by changing the column headers that you group or simply by switching their order.  
 
 ### Summary
 
-To gather insights about each column, simply **right-click** on the column header and select "Summary" from the menu. This will open a list of available functions.
+You can gather useful statistical information about each column by taking advantage of My Documents' Sumamary feature.
+
+Summary allows you to narrow down your documents to just the ones containing a specific value in them, or the ones containing entirely unique values.  
+
+Simply **right-click** on a column header and select **Summary** from the menu. This will open a list of available **functions**.
 
 ![Pictures](pictures/Summary_navigation_05_03.png)
 
-Choose the function you need:
-
-- **Count**: It tallies the number of instances where a specific value is present in a field.
-- **Count Distinct**: Calculates the unique values within a field in the current navigator form.
-- For fields with a **number** data type, you can extract details such as **Max** or **Min** values.
+* **Count** - It calculates the number of documents where a specific value in a field is present.
+* **Distinct** - It counts all the unique values within a field in the current navigator form.
+* For fields with a **number data type**, you can see other details such as **Max** or **Min** values.
 
 ![Pictures](pictures/Documents_summary_05_03.png)
 
@@ -113,7 +116,9 @@ Choose the function you need:
 
 Like most **My** apps, the **Documents** application can be freely customized to your preferences.  
 
-Simply go to the band with the "Documents" title at the top of the table panel and click the **Customize panel** option from the **three-dot** actions menu. This will open a window with two tabs:  
+Simply click the **Customize panel** option from the **three-dot** actions menu found at the top-right corner of the table. 
+
+This will open a window with two tabs: 
 
 **Items**
 
@@ -136,27 +141,28 @@ Drag them up and down until they form the desired sequence.
 
 ## Menu
 
-There's an additional Menu **button** in the ribbon that allows you to interact with the entire **My Documents** application.  
+There's an additional **Menu** **button** in the ribbon above the table that allows you to interact with the entire **My Documents** application.  
 
-You can take advantage of more global features, such as opening **side panels**, adding **widgets**, creating different **tiles**, and showing them **multiple times**.  
+You can take advantage of more global features, such as opening **detail panels**, adding **widgets**, creating different **tiles**, and showing them **multiple times**.  
 
 ![Pictures](pictures/Documents_menu_04_03.png)
 
-### Side panels
+#### Detail panels
 
 These can provide invaluable information for each of your documents, as well as allow you to apply additional **filters** to the table.  
 
-For instance, you can show the **Details** panel to view additional information about each of your documents.  
+For instance, you can add a **Detail panel** to view additional information about each of your documents.  
 
 This enables you to preview the document's data in a fast and easy way, without even having to open the document's form.  
 
 > [!Tip]  
-> The Details panel will visualize the data of a document as soon as you select its row.  
-> You can **rapidly preview** the data of a number of documents - simply **switch between the rows** of the primary table when ready.  
+> Each **Detail panel** will visualize data for the respective document as soon as you select its row.
+> 
+> You can **rapidly preview** the data of a number of documents - simply **switch** between the rows of the primary table when ready.  
 
 ![Pictures](pictures/Documents_Activity_04_03.png)
 
-Oftentimes, a document is issued as part of a sequence of documents, called a document chain.  
+Oftentimes, a document is issued as part of a sequence of documents, called a **document chain**.  
 
 Having the **Document flow** panel at your disposal gives you an easy way to traverse the whole document chain and quickly access all documents related to the current one.  
 
