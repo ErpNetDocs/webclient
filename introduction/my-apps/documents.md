@@ -168,7 +168,7 @@ Having the **Document flow** panel at your disposal gives you an easy way to tra
 
 If a document is released as part of other documents, the entire chain will show up here.  
 
-![Pictures](pictures/Documents_Documents_Flow_06_03.png)
+![Pictures](pictures/Documents_Document_flow_06_03.png)
 
 ### Tiles
 
