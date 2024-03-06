@@ -1126,6 +1126,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_Activity_04_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_Activity_04_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/Documents_Assign_to_User_07_02.png",
       "output": {
         "resource": {
@@ -1141,6 +1152,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/my-apps/pictures/Documents_Customize_panel_Reorder_07_02.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_Flow_04_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_Flow_04_03.png"
         }
       },
       "is_incremental": false,
@@ -1181,6 +1203,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_Table_04_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_Table_04_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/Documents_add_widgets_07_02.png",
       "output": {
         "resource": {
@@ -1196,6 +1229,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/my-apps/pictures/Documents_chat_07_02.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_customize_form_04_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_customize_form_04_03.png"
         }
       },
       "is_incremental": false,
@@ -1357,6 +1401,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_grouping_panels_04_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_grouping_panels_04_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/Documents_main_07_02.png",
       "output": {
         "resource": {
@@ -1390,6 +1445,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_menu_04_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_menu_04_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/Documents_menu_07_02.png",
       "output": {
         "resource": {
@@ -1405,6 +1471,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/my-apps/pictures/Documents_menu_customize_form_07_02.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_menu_panel_04_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_menu_panel_04_03.png"
         }
       },
       "is_incremental": false,
@@ -1467,10 +1544,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_panels_types_04_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_panels_types_04_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/Documents_search_07_02.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/my-apps/pictures/Documents_search_07_02.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_search_bar_04_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_search_bar_04_03.png"
         }
       },
       "is_incremental": false,
@@ -1500,6 +1599,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_summary_05_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_summary_05_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_two_panels_04_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_two_panels_04_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_view_05_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_view_05_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/Documents_view_07_02.png",
       "output": {
         "resource": {
@@ -1511,10 +1643,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_widgets_04_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_widgets_04_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/Documents_widgets_07_02.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/my-apps/pictures/Documents_widgets_07_02.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Summary_navigation_05_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Summary_navigation_05_03.png"
         }
       },
       "is_incremental": false,
@@ -6002,7 +6156,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/documents.html",
-          "hash": "OGk1e7V4hP0XCGQ6bW23sw=="
+          "hash": "Ddr1GPN/HeoBYRtKJEFAGA=="
         }
       },
       "is_incremental": false,
@@ -6125,6 +6279,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/Documents_Activity_06_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/Documents_Activity_06_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/my-apps/pictures/Documents_Assign_to_User_07_02.png",
       "output": {
         "resource": {
@@ -6147,10 +6312,43 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/Documents_Document_flow_06_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/Documents_Document_flow_06_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/Documents_Documents_Flow_06_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/Documents_Documents_Flow_06_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/my-apps/pictures/Documents_Flow_04_03.png",
       "output": {
         "resource": {
           "relative_path": "introduction/my-apps/pictures/Documents_Flow_04_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/Documents_Flow_06_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/Documents_Flow_06_03.png"
         }
       },
       "is_incremental": false,
@@ -6591,6 +6789,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/my-apps/pictures/Documents_summary_05_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/pictures/Documents_tables_06_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/pictures/Documents_tables_06_03.png"
         }
       },
       "is_incremental": false,
