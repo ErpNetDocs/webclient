@@ -160,7 +160,7 @@ This enables you to preview the document's data in a fast and easy way, without 
 > 
 > You can **rapidly preview** the data of a number of documents - simply **switch** between the rows of the primary table when ready.  
 
-![Pictures](pictures/Documents_Activity_04_03.png)
+![Pictures](pictures/Documents_Activity_06_03.png)
 
 Oftentimes, a document is issued as part of a sequence of documents, called a **document chain**.  
 
@@ -168,7 +168,7 @@ Having the **Document flow** panel at your disposal gives you an easy way to tra
 
 If a document is released as part of other documents, the entire chain will show up here.  
 
-![Pictures](pictures/Documents_Flow_04_03.png)
+![Pictures](pictures/Documents_Flow_06_03.png)
 
 ### Tiles
 
