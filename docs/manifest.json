@@ -1137,6 +1137,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_Activity_06_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_Activity_06_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/Documents_Assign_to_User_07_02.png",
       "output": {
         "resource": {
@@ -1159,10 +1170,43 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_Document_flow_06_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_Document_flow_06_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_Documents_Flow_06_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_Documents_Flow_06_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/pictures/Documents_Flow_04_03.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/my-apps/pictures/Documents_Flow_04_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_Flow_06_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_Flow_06_03.png"
         }
       },
       "is_incremental": false,
@@ -1603,6 +1647,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/my-apps/pictures/Documents_summary_05_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/pictures/Documents_tables_06_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/pictures/Documents_tables_06_03.png"
         }
       },
       "is_incremental": false,
