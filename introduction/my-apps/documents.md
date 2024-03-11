@@ -98,17 +98,34 @@ For example, let's say you add a **Document Type** column header first, then a *
 
 ### Summary
 
-You can gather useful statistical information about each column by taking advantage of My Documents' Summary feature.
+You can gather useful statistical information about each column and use it for operational and analytical purposes by taking advantage of My Documents' **Summary** feature.  
 
-Summary allows you to narrow down your documents to just the ones containing a specific value in them, or the ones containing entirely unique values.  
+Summary allows you to gain an overview of your documents by enabling you to automatically perform arithmetic and logical operations to the list of documents assigned to you.  
 
-Simply **right-click** on a column header and select **Summary** from the menu. This will open a list of available **functions**.
+Using Summary, you can find out the number of documents (in a group or in total) containing a specific value in them or the number of documents containing entirely unique values.  
+
+Simply **right-click** on a column header and select **Summary** from the menu. This will open a list of available **functions**.  
 
 ![Pictures](pictures/Summary_navigation_05_03.png)
 
 * **Count** - It calculates the number of documents where a specific value in a field is present.
-* **Distinct** - It counts all the unique values within a field in the current navigator form.
+* **Distinct** - It counts all the unique instances of all values within a field in the current navigator form.
 * For fields with a **number data type**, you can see other details such as **Max** or **Min** values.
+
+> [!Note]
+> The **Distinct** option sums up the number of values that are present in your documents, taking into account only the first repetition for repetitive values.  
+
+To illustrate how these options work, imagine the following situation.  
+
+1. You want to find out the total number of documents you have in different states. 
+2. You want to consider how many states you have documents in.  
+
+Let's say you have three documents in **New**, one in **Firm Planned**, and two in **Released** state.  
+
+* If you use **Count** on the **State** column header, the option will display the result of 6.
+This is the total number of instances where the state value is present in your documents.  
+* Using **Distinct**, however, will total at the number 3, as these are all the distinct states you have documents in.
+The rest of the values for state are just repetitions of some value that is already present.  
 
 ![Pictures](pictures/Documents_summary_05_03.png)
 
@@ -143,24 +160,28 @@ Drag them up and down until they form the desired sequence.
 
 There's an additional **Menu** **button** in the ribbon above the table that allows you to interact with the entire **My Documents** application.  
 
-You can take advantage of more global features, such as opening **detail panels**, adding **widgets**, creating different **tiles**, and showing them **multiple times**.  
+You can take advantage of more global features, such as opening a document's **Details**, viewing more **Detail panels**, adding **widgets**, creating different **tiles**, and showing them **multiple times**.  
 
 ![Pictures](pictures/Documents_menu_04_03.png)
 
-#### Detail panels
+### Side panel
 
-These can provide invaluable information for each of your documents, as well as allow you to apply additional **filters** to the table.  
+The panel available in the **Side panel** section can provide invaluable information for your documents, as well as allow you to apply additional **filters** to the table.  
 
-For instance, you can add a **Detail panel** to view additional information about each of your documents.  
+For instance, you can display the **Details** panel, allowing you to view in-depth information about each of your documents.  
 
 This enables you to preview the document's data in a fast and easy way, without even having to open the document's form.  
 
-> [!Tip]  
-> Each **Detail panel** will visualize data for the respective document as soon as you select its row.
-> 
-> You can **rapidly preview** the data of a number of documents - simply **switch** between the rows of the primary table when ready.  
-
 ![Pictures](pictures/Documents_Activity_06_03.png)
+
+In addition, you can select some of the **Detail panels** - these panels carry data related to the primary document you are reviewing.  
+
+> [!Tip]  
+> The **Details** panel and each **Detail panel** (related to the document currently at view) will visualize data for the respective document as soon as you select its row.
+> 
+> You can **rapidly preview** such data for a number of documents - simply **switch** between the rows of the primary table when ready.  
+
+### Document flow
 
 Oftentimes, a document is issued as part of a sequence of documents, called a **document chain**.  
 
