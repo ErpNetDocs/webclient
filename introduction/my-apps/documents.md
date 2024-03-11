@@ -98,7 +98,7 @@ For example, let's say you add a **Document Type** column header first, then a *
 
 ### Summary
 
-You can gather useful statistical information about each column by taking advantage of My Documents' Sumamary feature.
+You can gather useful statistical information about each column by taking advantage of My Documents' Summary feature.
 
 Summary allows you to narrow down your documents to just the ones containing a specific value in them, or the ones containing entirely unique values.  
 
