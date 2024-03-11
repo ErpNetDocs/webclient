@@ -142,14 +142,31 @@ These groups could organize documents by their <strong>type</strong>, <strong>st
 <p>You can gain insights into your data from different points of view by changing the column headers that you group or simply by switching their order.</p>
 </div>
 <h3 id="summary">Summary</h3>
-<p>You can gather useful statistical information about each column by taking advantage of My Documents' Sumamary feature.</p>
-<p>Summary allows you to narrow down your documents to just the ones containing a specific value in them, or the ones containing entirely unique values.</p>
+<p>You can gather useful statistical information about each column and use it for operational and analytical purposes by taking advantage of My Documents' <strong>Summary</strong> feature.</p>
+<p>Summary allows you to gain an overview of your documents by enabling you to automatically perform arithmetic and logical operations to the list of documents assigned to you.</p>
+<p>Using Summary, you can find out the number of documents (in a group or in total) containing a specific value in them or the number of documents containing entirely unique values.</p>
 <p>Simply <strong>right-click</strong> on a column header and select <strong>Summary</strong> from the menu. This will open a list of available <strong>functions</strong>.</p>
 <p><img src="pictures/Summary_navigation_05_03.png" alt="Pictures"></p>
 <ul>
 <li><strong>Count</strong> - It calculates the number of documents where a specific value in a field is present.</li>
-<li><strong>Distinct</strong> - It counts all the unique values within a field in the current navigator form.</li>
+<li><strong>Distinct</strong> - It counts all the unique instances of all values within a field in the current navigator form.</li>
 <li>For fields with a <strong>number data type</strong>, you can see other details such as <strong>Max</strong> or <strong>Min</strong> values.</li>
+</ul>
+<div class="NOTE">
+<h5>Note</h5>
+<p>The <strong>Distinct</strong> option sums up the number of values that are present in your documents, taking into account only the first repetition for repetitive values.</p>
+</div>
+<p>To illustrate how these options work, imagine the following situation.</p>
+<ol>
+<li>You want to find out the total number of documents you have in different states.</li>
+<li>You want to consider how many states you have documents in.</li>
+</ol>
+<p>Let's say you have three documents in <strong>New</strong>, one in <strong>Firm Planned</strong>, and two in <strong>Released</strong> state.</p>
+<ul>
+<li>If you use <strong>Count</strong> on the <strong>State</strong> column header, the option will display the result of 6.
+This is the total number of instances where the state value is present in your documents.</li>
+<li>Using <strong>Distinct</strong>, however, will total at the number 3, as these are all the distinct states you have documents in.
+The rest of the values for state are just repetitions of some value that is already present.</li>
 </ul>
 <p><img src="pictures/Documents_summary_05_03.png" alt="Pictures"></p>
 <h2 id="panel-customization">Panel customization</h2>
@@ -170,18 +187,20 @@ These groups could organize documents by their <strong>type</strong>, <strong>st
 </div>
 <h2 id="menu">Menu</h2>
 <p>There's an additional <strong>Menu</strong> <strong>button</strong> in the ribbon above the table that allows you to interact with the entire <strong>My Documents</strong> application.</p>
-<p>You can take advantage of more global features, such as opening <strong>detail panels</strong>, adding <strong>widgets</strong>, creating different <strong>tiles</strong>, and showing them <strong>multiple times</strong>.</p>
+<p>You can take advantage of more global features, such as opening a document's <strong>Details</strong>, viewing more <strong>Detail panels</strong>, adding <strong>widgets</strong>, creating different <strong>tiles</strong>, and showing them <strong>multiple times</strong>.</p>
 <p><img src="pictures/Documents_menu_04_03.png" alt="Pictures"></p>
-<h4 id="detail-panels">Detail panels</h4>
-<p>These can provide invaluable information for each of your documents, as well as allow you to apply additional <strong>filters</strong> to the table.</p>
-<p>For instance, you can add a <strong>Detail panel</strong> to view additional information about each of your documents.</p>
+<h3 id="side-panel">Side panel</h3>
+<p>The panel available in the <strong>Side panel</strong> section can provide invaluable information for your documents, as well as allow you to apply additional <strong>filters</strong> to the table.</p>
+<p>For instance, you can display the <strong>Details</strong> panel, allowing you to view in-depth information about each of your documents.</p>
 <p>This enables you to preview the document's data in a fast and easy way, without even having to open the document's form.</p>
+<p><img src="pictures/Documents_Activity_06_03.png" alt="Pictures"></p>
+<p>In addition, you can select some of the <strong>Detail panels</strong> - these panels carry data related to the primary document you are reviewing.</p>
 <div class="TIP">
 <h5>Tip</h5>
-<p>Each <strong>Detail panel</strong> will visualize data for the respective document as soon as you select its row.</p>
-<p>You can <strong>rapidly preview</strong> the data of a number of documents - simply <strong>switch</strong> between the rows of the primary table when ready.</p>
+<p>The <strong>Details</strong> panel and each <strong>Detail panel</strong> (related to the document currently at view) will visualize data for the respective document as soon as you select its row.</p>
+<p>You can <strong>rapidly preview</strong> such data for a number of documents - simply <strong>switch</strong> between the rows of the primary table when ready.</p>
 </div>
-<p><img src="pictures/Documents_Activity_06_03.png" alt="Pictures"></p>
+<h3 id="document-flow">Document flow</h3>
 <p>Oftentimes, a document is issued as part of a sequence of documents, called a <strong>document chain</strong>.</p>
 <p>Having the <strong>Document flow</strong> panel at your disposal gives you an easy way to traverse the whole document chain and quickly access all documents related to the current one.</p>
 <p>If a document is released as part of other documents, the entire chain will show up here.</p>
