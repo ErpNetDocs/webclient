@@ -1,6 +1,6 @@
 # Documents
 
-**My Documents** is an application dedicated to organizing all documents in @@name which **you are somehow involved with**.  
+**My Documents** is an application dedicated to organizing all documents in @@name **which you are somehow involved with**.  
 
 These could be the ones you created and assigned to yourself, along with those which your colleagues created and assigned to you afterwards.  
 
@@ -10,13 +10,14 @@ Apart from offering **instant access** to each document, the application gives y
 
 You no longer need to search across different modules and dozens of system navigators in order to find the document that you need.  
 
-In **My Documents**, they are all conveniently **unified** in one place.  
+In **My Documents**, they are all conveniently **united** in one place.  
 
 ### Important prerequisites
 
 Upon creation, all @@name documents have an **Assigned To User** field that determines the person whose personalized environment they appear in.  
 
 By default, new documents are automatically assigned to the **person creating them** (e.g. you). 
+
 You also have the option to assign them to **someone else**.  
 
 ![Pictures](pictures/assignedtouser.png)
