@@ -1,6 +1,6 @@
 # Web Client navigator – filtering expressions 
 
-In the ERP Web Client platform, filtering expressions within the data filters of navigators allow you to access various time periods as needed.
+In the **ERP Web Client** platform, filtering expressions within the data filters of navigators allow you to access various time periods as needed.
 
 ## How to use filtering expressions 
 
