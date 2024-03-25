@@ -48,7 +48,9 @@ Custom time periods can be designated, for instance, (feb)..(today) representing
 
 > [!NOTE]
 > Zero without brackets represents today as both the beginning and end of the period.
+
 > If no dimension is specified, the default dimension is days: "-7" is equivalent to "-7d" and "0" represents today.
+
 > When specifying a period in days, it can be written with or without brackets.
 
 
