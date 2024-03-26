@@ -12,7 +12,7 @@ If filtering rows are not visible, you can **enable** them through the respectiv
 
 Within the **Orders** panel of the **Sales** module, you input "(today)" in the filtering row of the **Document date** column.
 
-This results in only items created on the current day being displayed in the table.
+This results in only items created on the current day to be displayed in the table.
 
 ![picture](pictures/Filtering_expressions_today_25_03.png)
 
