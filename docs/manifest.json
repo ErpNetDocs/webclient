@@ -5148,6 +5148,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/filtering-expresions.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/filtering-expresions.html",
+          "hash": "G97lFu2jrfmIcRtjg6Mmng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/how-to/index.md",
       "output": {
         ".html": {
@@ -5264,6 +5276,83 @@
       "output": {
         "resource": {
           "relative_path": "introduction/how-to/pictures/5-filled-in.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/Filtering_expressions_+2d_25_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/Filtering_expressions_+2d_25_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/Filtering_expressions_-1m_25_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/Filtering_expressions_-1m_25_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/Filtering_expressions_custom_25_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/Filtering_expressions_custom_25_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/Filtering_expressions_last_month_25_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/Filtering_expressions_last_month_25_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/Filtering_expressions_q1_25_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/Filtering_expressions_q1_25_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/Filtering_expressions_row_25_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/Filtering_expressions_row_25_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/Filtering_expressions_today_25_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/Filtering_expressions_today_25_03.png"
         }
       },
       "is_incremental": false,
