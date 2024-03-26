@@ -1,12 +1,14 @@
 # How to use filtering expressions 
 
-Filtering expressions within data filters of navigators allow you to access various time periods as needed.
+Filtering expressions can be specified within different navigators' rows to limit the scope of what is being shown. 
 
-To use a filtering expression, start by accessing a navigator such as **Orders** within **Sales**. If the filter row is not currently visible, you can make it appear by accessing the navigators menu and selecting **Show filter row** from the dropdown options.
+If these rows are not visible, you need to enable them by accessing the respective navigator's menu and selecting **Show filter row**.
 
 ![picture](pictures/Filtering_expressions_row_25_03.png)
 
-In the filter row of a column containing data, you can input filtering expressions. For instance, you may input (today) in the **document date** column. By doing so, only items created today will be displayed on the table.
+In the filter row of a column that contains data, you can input a variety of filtering expressions. 
+
+For instance, you may input "(today)" in the **Document date** column. By doing so, only items created on the current day will be displayed in the table.
 
 ![picture](pictures/Filtering_expressions_today_25_03.png)
 
