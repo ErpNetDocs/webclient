@@ -1,20 +1,24 @@
-# How to use filtering expressions 
+# How to use period expressions 
 
-Filtering expressions can be specified within different navigators' rows to limit the scope of what is being shown. 
+You can use period expressions to narrow down the scope of what is displayed in a particular navigator.
 
-If these rows are not visible, you need to enable them by accessing the respective navigator's menu and selecting **Show filter row**.
+They are specified in the **filter row** found under the column that displays the data you want to limit.
+
+If filtering rows are not visible, you can enable them by accessing the respective navigator's menu and selecting **Show filter row**.
 
 ![picture](pictures/Filtering_expressions_row_25_03.png)
 
 In the filter row of a column that contains data, you can input a variety of filtering expressions. 
 
-For instance, you may input "(today)" in the **Document date** column. By doing so, only items created on the current day will be displayed in the table.
+For instance, if "(today)" is placed in the **Document date** column, only items created on the current day will be displayed in the table.
 
 ![picture](pictures/Filtering_expressions_today_25_03.png)
 
-## Rules for using filtering expressions 
+## Rules and syntax
 
-The expressions have constraints, and their syntax can impact their functionality. It's crucial to ensure their proper formulation to achieve desired results. 
+Filtering expressions have constraints and their syntax can influence the final result. 
+
+It's crucial to ensure their proper formulation to achieve desired results. 
 
 ### Relative time expressions 
 
