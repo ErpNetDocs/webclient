@@ -64,10 +64,10 @@ If there is no notation before or after "..", it implies infinity. Thus, "..(las
 
 ![picture](pictures/Filtering_expressions_custom_25_03.png)
 
-> [!NOTE]
-> - Zero without brackets represents today as both the beginning and end of the period.
-> - If no dimension is specified, the default dimension is days: "-7" is equivalent to "-7d" and "0" represents today.
-> - When specifying a period in days, it can be written with or without brackets.
+> [!WARNING]
+> - Zero as a number (0) or word (zero) specified **without** brackets represents today regardless of whether it's used as a beginning or end.
+> - If no indicating letter is specified next to a number, the default convention is **days**, e.g. "-7" is equivalent to "-7d" and "0" represents today.
+> - When specifying a period in days, it can be written with or without brackets, e.g. "-7" is equivalent to "(-7)".
 
 > [!NOTE]
 > 
