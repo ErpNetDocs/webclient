@@ -4,13 +4,15 @@ You can use period expressions to narrow down the scope of what is displayed in 
 
 They are specified in the **filter row** found under the column that displays the data you want to limit.
 
-If filtering rows are not visible, you can enable them by accessing the respective navigator's menu and selecting **Show filter row**.
+If filtering rows are not visible, you can **enable** them through the respective panel's menu.
 
 ![picture](pictures/Filtering_expressions_row_25_03.png)
 
-In the filter row of a column that contains data, you can input a variety of filtering expressions. 
+**Example:**
 
-For instance, if "(today)" is placed in the **Document date** column, only items created on the current day will be displayed in the table.
+Within the **Orders** panel of the **Sales** module, you input "(today)" in the filtering row of the **Document date** column.
+
+This results in only items created on the current day being displayed in the table.
 
 ![picture](pictures/Filtering_expressions_today_25_03.png)
 
