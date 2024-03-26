@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Web Client navigator &#8211; filtering expressions | ERP.net Web Client </title>
+    <title>How to use period expressions | ERP.net Web Client </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Web Client navigator &#8211; filtering expressions | ERP.net Web Client ">
+    <meta name="title" content="How to use period expressions | ERP.net Web Client ">
     <meta name="generator" content="docfx 2.56.9.0">
     
     <link rel="shortcut icon" href="../../favicon.ico">
@@ -77,37 +77,46 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="web-client-navigator--filtering-expressions">Web Client navigator – filtering expressions</h1>
+<h1 id="how-to-use-period-expressions">How to use period expressions</h1>
 
-<p>In the <strong>ERP Web Client</strong> platform, filtering expressions within the data filters of navigators allow you to access various time periods as needed.</p>
-<h2 id="how-to-use-filtering-expressions">How to use filtering expressions</h2>
-<p>To use a filtering expression, start by accessing a navigator such as <strong>Orders</strong> within <strong>Sales</strong>. If the filter row is not currently visible, you can make it appear by accessing the navigators menu and selecting <strong>Show filter row</strong> from the dropdown options.</p>
+<p>You can use period expressions to narrow down the scope of what is displayed in a particular navigator.</p>
+<p>They are specified in the <strong>filter row</strong> found under the column that displays the data you want to limit.</p>
+<p>If filtering rows are not visible, you can <strong>enable</strong> them through the respective panel's menu.</p>
 <p><img src="pictures/Filtering_expressions_row_25_03.png" alt="picture"></p>
-<p>In the filter row of a column containing data, you can input filtering expressions. For instance, you may input (today) in the <strong>document date</strong> column. By doing so, only items created today will be displayed on the table.</p>
+<p><strong>Example:</strong></p>
+<p>Within the <strong>Orders</strong> panel of the <strong>Sales</strong> module, you input &quot;(today)&quot; in the filtering row of the <strong>Document date</strong> column.</p>
+<p>This results in only items created on the current day to be displayed in the table.</p>
 <p><img src="pictures/Filtering_expressions_today_25_03.png" alt="picture"></p>
-<h2 id="rules-for-using-filtering-expressions">Rules for using filtering expressions</h2>
-<p>The expressions have constraints, and their syntax can impact their functionality. It's crucial to ensure their proper formulation to achieve desired results.</p>
+<h2 id="rules-and-syntax">Rules and syntax</h2>
+<p>Period expressions follow a fixed syntax that can influence the outcome they produce.</p>
+<p>It's therefore crucial to write them down exactly as they are if you want to achieve the desired effect.</p>
 <h3 id="relative-time-expressions">Relative time expressions</h3>
-<p>These expressions refer to time periods relative to the current moment, rather than specifying exact dates. Examples include (yesterday) or (last month). These expressions, enclosed within brackets, are used to define time periods relative to the current date without specifying specific dates.</p>
+<p>These expressions are word-based and surrounded by brackets. You can use them to define specific days which are always relative to the current one.</p>
+<p>Examples include &quot;(yesterday)&quot; or &quot;(last month)&quot;.</p>
 <p><img src="pictures/Filtering_expressions_last_month_25_03.png" alt="picture"></p>
-<h3 id="relative-date-expressions">Relative date expressions</h3>
-<p>These expressions refer to specific dates relative to the current date. For example, &quot;-7d&quot; denotes a date seven days before the current date, while &quot;+2d&quot; represents a date two days ahead of the current date. These expressions, written without brackets, are used to specify exact points in time relative to the present moment.</p>
-<p><img src="pictures/Filtering_expressions_%2B2d_25_03.png" alt="picture"></p>
 <h3 id="relative-period-expressions">Relative period expressions</h3>
-<p>These expressions refer to specific periods relative to the current date. For example, (-1m) denotes the month that was before the current month, while (+2m) represents the month that is ahead of the current month. Enclosed within brackets, these expressions are used to specify time periods relative to the present moment.</p>
+<p>These expressions consist of symbols, numbers and letters. You can use them without brackets to limit the scope of a table's results to <strong>specific dates</strong> which are always relative to the current one.</p>
+<p>For example, &quot;-7d&quot; denotes the date exactly seven days before the current one, while &quot;+2d&quot; represents a date exactly two days ahead of the current one.</p>
+<p><img src="pictures/Filtering_expressions_%2B2d_25_03.png" alt="picture"></p>
+<p>If surrounded by brackets, relative period expressions can be used to specify <strong>rounded calendar periods</strong> relative to the present moment.</p>
+<p>For example, &quot;(-1m)&quot; denotes the entire month that was before the current month, while &quot;(+2m)&quot; represents the entire month that is ahead of the current month.</p>
 <p><img src="pictures/Filtering_expressions_-1m_25_03.png" alt="picture"></p>
-<h4 id="expressions-for-large-relative-time-periods">Expressions for large relative time periods</h4>
-<p>These expressions establish time periods relative to specific intervals or divisions within a broader timeframe. For example, &quot;q1,&quot; &quot;q2,&quot; and &quot;h1&quot; mark these periods. &quot;q1&quot; signifies the first quarter of the year, &quot;q2&quot; represents the second quarter, and &quot;h1&quot; denotes the first half of the year.</p>
+<h3 id="expressions-for-quarters-and-half-years">Expressions for quarters and half years</h3>
+<p>These expressions establish specific intervals or time periods within a broader timeframe.</p>
+<p>For example, &quot;q1&quot; signifies the first quarter of the year, &quot;q2&quot; represents the second quarter, and &quot;h1&quot; denotes the first half of the year.</p>
 <p><img src="pictures/Filtering_expressions_q1_25_03.png" alt="picture"></p>
-<h4 id="assign-custom-time-periods">Assign custom time periods</h4>
-<p>Custom time periods can be designated, for instance, (feb)..(today) representing the timeframe spanning from month February up to and including today. (yesterday) specifically denotes yesterday's date. Additionally, (yesterday)..+2d extends from yesterday to two days ahead, ensuring a comprehensive scope within your data analysis.</p>
+<h3 id="custom-time-periods">Custom time periods</h3>
+<p>You can set custom time periods to limit the results of a table into a specific timeframe. This is achieved by adding &quot;..&quot; between two period expressions.</p>
+<p>For instance, &quot;(feb)..(today)&quot; represents the period spanning from the month of February up to and including today.</p>
+<p>&quot;(yesterday)..+2d&quot; extends from yesterday to two days onward relative to the current day.</p>
+<p>If there is no notation before or after &quot;..&quot;, it implies infinity. Thus, &quot;..(last month)&quot; would result in a navigator showing all existing records up until the final day of the last month.</p>
 <p><img src="pictures/Filtering_expressions_custom_25_03.png" alt="picture"></p>
-<div class="NOTE">
-<h5>Note</h5>
+<div class="WARNING">
+<h5>Warning</h5>
 <ul>
-<li>Zero without brackets represents today as both the beginning and end of the period.</li>
-<li>If no dimension is specified, the default dimension is days: &quot;-7&quot; is equivalent to &quot;-7d&quot; and &quot;0&quot; represents today.</li>
-<li>When specifying a period in days, it can be written with or without brackets.</li>
+<li>Zero as a number (0) or word (zero) specified <strong>without</strong> brackets represents today regardless of whether it's used as a beginning or end.</li>
+<li>If no indicating letter is specified next to a number, the default convention is <strong>days</strong>, e.g. &quot;-7&quot; is equivalent to &quot;-7d&quot; and &quot;0&quot; represents today.</li>
+<li>When specifying a period in days, it can be written with or without brackets, e.g. &quot;-7&quot; is equivalent to &quot;(-7)&quot;.</li>
 </ul>
 </div>
 <div class="NOTE">
