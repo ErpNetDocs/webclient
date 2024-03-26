@@ -1,8 +1,6 @@
-# Web Client navigator – filtering expressions 
+# How to use filtering expressions 
 
-In the **ERP Web Client** platform, filtering expressions within the data filters of navigators allow you to access various time periods as needed.
-
-## How to use filtering expressions 
+Filtering expressions within data filters of navigators allow you to access various time periods as needed.
 
 To use a filtering expression, start by accessing a navigator such as **Orders** within **Sales**. If the filter row is not currently visible, you can make it appear by accessing the navigators menu and selecting **Show filter row** from the dropdown options.
 
