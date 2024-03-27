@@ -4,6 +4,8 @@
   href: create-new.md
 - name: Use Filter row in navigators
   href: filter-row-in-navigators.md
+- name: Use period expressions
+  href: period-expressions.md
 - name: Use multi-column layout
   href: multi-column-layout.md
 - name: Search in dropdown lists
