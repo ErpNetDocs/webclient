@@ -10,9 +10,9 @@ If the filtering row is not visible, you can **enable** it through the panel's m
 
 **Example:**
 
-Within the **Orders** panel of the **Sales** module, you input "(today)" in the filtering row of the **Document Date** column.
+Within the Orders panel of the Sales module, you input **"(today)"** in the filtering row of the **Document Date** column.
 
-This results in only items created on the current date to be displayed in the table.
+This results in only items created on the **current date** to be displayed in the table.
 
 ![picture](pictures/Filtering_expressions_today_25_03.png)
 
