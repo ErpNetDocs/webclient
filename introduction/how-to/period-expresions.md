@@ -2,17 +2,17 @@
 
 You can use period expressions to narrow down the scope of what is displayed in a particular navigator.
 
-They are specified in the **filter row** found under the column that displays the data you want to limit.
+They are specified in the **filter row** found under the **Document Date** column of the respective navigator.
 
-If filtering rows are not visible, you can **enable** them through the respective panel's menu.
+If the filtering row is not visible, you can **enable** it through the panel's menu.
 
 ![picture](pictures/Filtering_expressions_row_25_03.png)
 
 **Example:**
 
-Within the **Orders** panel of the **Sales** module, you input "(today)" in the filtering row of the **Document date** column.
+Within the **Orders** panel of the **Sales** module, you input "(today)" in the filtering row of the **Document Date** column.
 
-This results in only items created on the current day to be displayed in the table.
+This results in only items created on the current date to be displayed in the table.
 
 ![picture](pictures/Filtering_expressions_today_25_03.png)
 
