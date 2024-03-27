@@ -5225,18 +5225,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/how-to/filtering-expresions.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/how-to/filtering-expresions.html",
-          "hash": "4OEJLK5qbgWFv05tUySr4g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "introduction/how-to/index.md",
       "output": {
         ".html": {
@@ -5254,6 +5242,18 @@
         ".html": {
           "relative_path": "introduction/how-to/multi-column-layout.html",
           "hash": "ZapkoQ8cVwjB9HTJoVk+Ow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/period-expresions.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/period-expresions.html",
+          "hash": "9BNxNcqwTtJN6y8pX7hUlQ=="
         }
       },
       "is_incremental": false,
@@ -7798,7 +7798,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "CWZ2IZ8/UFq7w/V135eCTw=="
+          "hash": "0mDeeCdlbP+fADOznJo5Hg=="
         }
       },
       "is_incremental": false,
