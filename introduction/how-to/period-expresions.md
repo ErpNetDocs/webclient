@@ -2,11 +2,9 @@
 
 You can use period expressions to narrow down the scope of what is displayed in a particular navigator.
 
-They are specified in the **filter row** found under the **Document Date** column of the respective navigator.
+They are specified in the **filter row** found under the **Document Date** column of the respective navigator as well as in the **Advanced filter** panel using the **Contains** operator.
 
-If the filtering row is not visible, you can **enable** it through the panel's menu.
-
-![picture](pictures/Filtering_expressions_row_25_03.png)
+If the filtering row is not visible, you can **enable** it through the panel's menu or by clicking on the **filter icon** on the far-left of the columns.
 
 **Example:**
 
@@ -31,6 +29,22 @@ Examples include "**(yesterday)**" and "**(last month)**". They always take into
 While (yesterday) will list results only from the date before today, (last month) will show results from across the entire month previous to the current one. 
 
 ![picture](pictures/Filtering_expressions_last_month_25_03.png)
+
+Here's a list of relative time expressions:
+
+| Expression | Begin | End | Notes |
+| ---------- | ----- | --- | ----- |
+| (today)    | 2023-11-27 | 2023-11-27 | |
+| (yesterday) | 2023-11-26 | 2023-11-26 | |
+| (last month) | 2023-10-01 | 2023-10-31 | |
+| (this month) | 2023-11-01 | 2023-11-30 | |
+| (next month) | 2023-12-01 | 2023-12-31 | |
+| (last year) | 2022-01-01 | 2022-12-31 | |
+| (this year) | 2023-01-01 | 2023-12-31 | |
+| (next year) | 2024-01-01 | 2024-12-31 | |
+| (ytd) | 2023-01-01 | 2023-11-27 | Year-to-date |
+| (jan) | 2023-01-01 | 2023-01-31 | |
+| (jan last year | 2022-01-01 | 2022-01-31 | |
 
 ### Relative period expressions
 
@@ -59,9 +73,18 @@ To see records only for the duration of the **current month**, you can specify "
 ![picture](pictures/Filtering_expressions_-1m_25_03.png)
 
 > [!WARNING]
-> - Zero as a number (0) or a word (zero) specified **without** brackets represents **the current date** regardless of whether it's used as a beginning or end.
+> - 0 specified **without** brackets represents **the current date** regardless of whether it's used as a beginning or end.
 > - If no indicating letter is specified next to a number, the default convention is **days**, e.g. "-7" is equivalent to "-7d" and "0" represents today.
 > - When specifying a period in **days**, it can be written with or **without** brackets, e.g. "-7" is equivalent to "(-7)".
+
+| Expression | Begin | End | Notes |
+| ---------- | ----- | --- | ----- |
+| 0m | 2024-02-27 | 2024-02-27 | today |
+| +0m | 2024-02-27 | 2024-02-27 | today |
+| -0m | 2024-02-27 | 2024-02-27 | today |
+| -0d | 2024-02-27 | 2024-02-27 | today |
+| -0y | 2024-02-27 | 2024-02-27 | today |
+| 0 | 2024-02-27 | 2024-02-27 | today |
 
 ### Expressions for quarters and half years
 
@@ -73,9 +96,9 @@ For example, "**q1**" points to the entire first quarter of the year, "**q2**" r
 
 ### Custom time periods
 
-You can set custom time periods to fit the results of a table into a specific timeframe. This is achieved by adding "**..**" between two period expressions.
+You can set custom time periods to fit the results of a table into a specific timeframe. This is achieved by adding "**..**" between two period expressions or fixed dates.
 
-For instance, "**(feb)..(today)**" represents the entire time period spanning from the month of February up until and including the current date.
+For instance, "**(feb)..(today)**" represents the entire time period spanning from the beginning of February up until and including the current date.
 
 Similarly, "**(yesterday)..+2d**" starts from yesterday and includes the two dates following the current date.
 
