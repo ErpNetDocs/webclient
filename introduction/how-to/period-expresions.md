@@ -2,7 +2,7 @@
 
 You can use period expressions to narrow down the scope of what is displayed in a particular navigator.
 
-They are specified in the **filter row** found under the **Document Date** column of the respective navigator as well as in the **Advanced filter** panel using the **Contains** operator.
+They are specified in the **filter row** found under the **Document Date** column of the respective navigator as well as in the **Advanced filter** panel using the **contains** operator.
 
 If the filtering row is not visible, you can **enable** it through the panel's menu or by clicking on the **filter icon** on the far-left of the columns.
 
