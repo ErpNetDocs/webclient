@@ -2,7 +2,7 @@
 
 You can use period expressions to narrow down the scope of what is displayed in a particular navigator.
 
-They are specified in the **filter row** found under the **Document Date** column of the respective navigator as well as in the **Advanced filter** panel using the **contains** operator.
+They are specified in the **filter row** found under the **Date** columns of the respective navigator as well as in the **Advanced filter** panel using the **contains** operator.
 
 If the filtering row is not visible, you can **enable** it through the panel's menu or by clicking on the **filter icon** on the far-left of the columns.
 
@@ -44,7 +44,7 @@ Here's a list of relative time expressions:
 | (next year) | 2024-01-01 | 2024-12-31 | |
 | (ytd) | 2023-01-01 | 2023-11-27 | Year-to-date |
 | (jan) | 2023-01-01 | 2023-01-31 | |
-| (jan last year | 2022-01-01 | 2022-01-31 | |
+| (jan last year) | 2022-01-01 | 2022-01-31 | |
 
 ### Relative period expressions
 
@@ -73,7 +73,7 @@ To see records only for the duration of the **current month**, you can specify "
 ![picture](pictures/Filtering_expressions_-1m_25_03.png)
 
 > [!WARNING]
-> - 0 specified **without** brackets represents **the current date** regardless of whether it's used as a beginning or end.
+> - "0" specified **without** brackets represents **the current date** regardless of whether it's used as a beginning or end.
 > - If no indicating letter is specified next to a number, the default convention is **days**, e.g. "-7" is equivalent to "-7d" and "0" represents today.
 > - When specifying a period in **days**, it can be written with or **without** brackets, e.g. "-7" is equivalent to "(-7)".
 
