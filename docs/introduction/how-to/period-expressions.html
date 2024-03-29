@@ -1,0 +1,297 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>How to use period expressions | ERP.net Web Client </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="How to use period expressions | ERP.net Web Client ">
+    <meta name="generator" content="docfx 2.56.9.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    <meta property="docfx:rel" content="../../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="how-to-use-period-expressions">How to use period expressions</h1>
+
+<p>You can use period expressions to narrow down the scope of what is displayed in a particular navigator.</p>
+<p>They are specified in the <strong>filter row</strong> found under the <strong>date</strong> columns of the respective navigator as well as in the <strong>Advanced filter</strong> panel using the <strong>contains</strong> operator.</p>
+<p>If the filtering row is not visible, you can <strong>enable</strong> it through the panel's menu or by clicking on the <strong>filter icon</strong> on the far-left of the columns.</p>
+<p><strong>Example:</strong></p>
+<p>Within the Orders panel of the Sales module, you input &quot;<strong>(today)</strong>&quot; in the filtering row of the <strong>Document Date</strong> column.</p>
+<p>This results in only items created on the <strong>current date</strong> to be displayed in the table.</p>
+<p><img src="pictures/Filtering_expressions_today_25_03.png" alt="picture"></p>
+<h2 id="rules-and-syntax">Rules and syntax</h2>
+<p>Period expressions follow a fixed syntax that can influence the outcome they produce.</p>
+<p>It's therefore crucial to write them down exactly as they are if you want to achieve the desired effect.</p>
+<h3 id="relative-time-expressions">Relative time expressions</h3>
+<p>These expressions are <strong>word-based</strong> and surrounded by <strong>brackets</strong>. You can use them to define specific dates or broader date ranges which are always relative to the current one.</p>
+<p>Examples include &quot;<strong>(yesterday)</strong>&quot; and &quot;<strong>(last month)</strong>&quot;. They always take into consideration today as a reference point.</p>
+<p>While (yesterday) will list results only from the date before today, (last month) will show results from across the entire month previous to the current one.</p>
+<p><img src="pictures/Filtering_expressions_last_month_25_03.png" alt="picture"></p>
+<p>Here's a list of relative time expressions:</p>
+<table>
+<thead>
+<tr>
+<th>Expression</th>
+<th>Begin</th>
+<th>End</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>(today)</td>
+<td>2023-11-27</td>
+<td>2023-11-27</td>
+<td></td>
+</tr>
+<tr>
+<td>(yesterday)</td>
+<td>2023-11-26</td>
+<td>2023-11-26</td>
+<td></td>
+</tr>
+<tr>
+<td>(last month)</td>
+<td>2023-10-01</td>
+<td>2023-10-31</td>
+<td></td>
+</tr>
+<tr>
+<td>(this month)</td>
+<td>2023-11-01</td>
+<td>2023-11-30</td>
+<td></td>
+</tr>
+<tr>
+<td>(next month)</td>
+<td>2023-12-01</td>
+<td>2023-12-31</td>
+<td></td>
+</tr>
+<tr>
+<td>(last year)</td>
+<td>2022-01-01</td>
+<td>2022-12-31</td>
+<td></td>
+</tr>
+<tr>
+<td>(this year)</td>
+<td>2023-01-01</td>
+<td>2023-12-31</td>
+<td></td>
+</tr>
+<tr>
+<td>(next year)</td>
+<td>2024-01-01</td>
+<td>2024-12-31</td>
+<td></td>
+</tr>
+<tr>
+<td>(ytd)</td>
+<td>2023-01-01</td>
+<td>2023-11-27</td>
+<td>Year-to-date</td>
+</tr>
+<tr>
+<td>(jan)</td>
+<td>2023-01-01</td>
+<td>2023-01-31</td>
+<td></td>
+</tr>
+<tr>
+<td>(jan last year)</td>
+<td>2022-01-01</td>
+<td>2022-01-31</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="relative-period-expressions">Relative period expressions</h3>
+<p>These expressions consist of <strong>symbols</strong>, <strong>numbers</strong> and <strong>letters</strong> and can be used in two ways:</p>
+<h4 id="without-brackets">Without brackets</h4>
+<p>If a period expression is used without brackets, it limits the scope of a table's records to only the ones created on <strong>specific dates</strong> relative to the current one.</p>
+<p>For example, &quot;<strong>-7d</strong>&quot; denotes the date exactly seven days before the current one, while &quot;<strong>+2d</strong>&quot; represents a date exactly two days ahead of the current one.</p>
+<p>Similarly, &quot;<strong>-1m</strong>&quot; indicates the date exactly one month before the current date, while &quot;<strong>+1y</strong>&quot; denotes the date exactly a year after the current one.</p>
+<p>To see records only for <strong>today</strong>, you can specify &quot;<strong>0</strong>&quot;. Even if you add &quot;+&quot; or &quot;-&quot; before &quot;0&quot; or any letter after &quot;0&quot;, the final effect will be the same.</p>
+<p><img src="pictures/Filtering_expressions_%2B2d_25_03.png" alt="picture"></p>
+<h4 id="with-brackets">With brackets</h4>
+<p>If surrounded by brackets, relative period expressions can be used to specify <strong>rounded calendar periods</strong> relative to the present moment.</p>
+<p>For example, &quot;<strong>(-1m)</strong>&quot; denotes the entire month that was before the current month, while &quot;<strong>(+1y)</strong>&quot; represents the entire year that follows the current one.</p>
+<p>To see records only for the duration of the <strong>current month</strong>, you can specify &quot;<strong>(0m)</strong>&quot;. Even if you add &quot;+&quot; or &quot;-&quot; before &quot;0m&quot;, the final effect will be the same.</p>
+<p><img src="pictures/Filtering_expressions_-1m_25_03.png" alt="picture"></p>
+<div class="WARNING">
+<h5>Warning</h5>
+<ul>
+<li>&quot;0&quot; specified <strong>without</strong> brackets represents <strong>the current date</strong> regardless of whether it's used as a beginning or end.</li>
+<li>If no indicating letter is specified next to a number, the default convention is <strong>days</strong>, e.g. &quot;-7&quot; is equivalent to &quot;-7d&quot; and &quot;0&quot; represents today.</li>
+<li>When specifying a period in <strong>days</strong>, it can be written with or <strong>without</strong> brackets, e.g. &quot;-7&quot; is equivalent to &quot;(-7)&quot;.</li>
+</ul>
+</div>
+<table>
+<thead>
+<tr>
+<th>Expression</th>
+<th>Begin</th>
+<th>End</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0m</td>
+<td>2024-02-27</td>
+<td>2024-02-27</td>
+<td>today</td>
+</tr>
+<tr>
+<td>+0m</td>
+<td>2024-02-27</td>
+<td>2024-02-27</td>
+<td>today</td>
+</tr>
+<tr>
+<td>-0m</td>
+<td>2024-02-27</td>
+<td>2024-02-27</td>
+<td>today</td>
+</tr>
+<tr>
+<td>-0d</td>
+<td>2024-02-27</td>
+<td>2024-02-27</td>
+<td>today</td>
+</tr>
+<tr>
+<td>-0y</td>
+<td>2024-02-27</td>
+<td>2024-02-27</td>
+<td>today</td>
+</tr>
+<tr>
+<td>0</td>
+<td>2024-02-27</td>
+<td>2024-02-27</td>
+<td>today</td>
+</tr>
+</tbody>
+</table>
+<h3 id="expressions-for-quarters-and-half-years">Expressions for quarters and half years</h3>
+<p>These expressions establish specific intervals within a <strong>broader</strong> timeframe.</p>
+<p>For example, &quot;<strong>q1</strong>&quot; points to the entire first quarter of the year, &quot;<strong>q2</strong>&quot; represents the second quarter, and &quot;<strong>h1</strong>&quot; denotes the first half of the year.</p>
+<p><img src="pictures/Filtering_expressions_q1_25_03.png" alt="picture"></p>
+<h3 id="custom-time-periods">Custom time periods</h3>
+<p>You can set custom time periods to fit the results of a table into a specific timeframe. This is achieved by adding &quot;<strong>..</strong>&quot; between two period expressions or fixed dates.</p>
+<p>For instance, &quot;<strong>(feb)..(today)</strong>&quot; represents the entire time period spanning from the beginning of February up until and including the current date.</p>
+<p>Similarly, &quot;<strong>(yesterday)..+2d</strong>&quot; starts from yesterday and includes the two dates following the current date.</p>
+<p>If there is no notation before or after &quot;..&quot;, it implies <strong>infinity</strong>. Thus, &quot;..(last month)&quot; would result in a navigator showing all existing records up until the final day of the last month.</p>
+<p><img src="pictures/Filtering_expressions_custom_25_03.png" alt="picture"></p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>The screenshots taken for this article are from v24 of the platform.</p>
+</div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/how-to/period-expressions.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>
