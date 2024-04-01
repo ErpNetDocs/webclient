@@ -72,7 +72,7 @@ Filter the table to show only items assigned to you, then, open the page menu an
 
 Once you’ve done that a window will open where you can give that tile a name. In this case, it will be “Orders assigned to me”.
 
-![picture](filtering_expression_Orders_29_03.png)
+![picture](filtering_expression_tile_name_29_03.png)
  
 When you are ready click **OK** and the tile will be ready.
  
