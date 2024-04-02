@@ -8,7 +8,7 @@ Additionally, they are available in the Advanced filter panel, utilising the con
  
 If the filtering row is not visible, you can enable it through the panel's menu or by clicking on the filter icon on the far left of the columns.
 
-Example:
+**Example:**
 
 Within the Orders panel of the Sales module, you input "(me)" in the filtering row of the Assigned to User column.
 
@@ -40,7 +40,7 @@ Consequently, only the company you're presently involved within your user profil
  
 You can also combine them to find a particular item, by assigning more than one filtering expression at a time. To do that assign them with different columns or combine them in one with “or”.
 
-Example:
+**Example:**
 
 In the **Orders** panel of the Sales module, you aim to locate all orders belonging to your company and assigned to you. 
 
@@ -64,7 +64,7 @@ This ensures comprehensive visibility of orders while verifying that each order 
 
 Once you've set a filtering expression, you can generate a tile via the page menu. Upon tile creation, the expression becomes permanently linked to it.
 
-Example:
+**Example:**
 
 Filter the table to show only items assigned to you, then, open the page menu and click on the **Create a new tile**.
  
@@ -72,7 +72,7 @@ Filter the table to show only items assigned to you, then, open the page menu an
 
 Once you’ve done that a window will open where you can give that tile a name. In this case, it will be “Orders assigned to me”.
 
-![picture](filtering_expression_tile_name_29_03.png)
+![picture](pictures/filtering_expression_tile_name_29_03.png)
  
 When you are ready click **OK** and the tile will be ready.
  
