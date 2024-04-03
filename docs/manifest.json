@@ -477,6 +477,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/filtering_expression_tile_name_29_03.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/filtering_expression_tile_name_29_03.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/how-to/pictures/final_button_select.png",
       "output": {
         "resource": {
