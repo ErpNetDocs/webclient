@@ -1,4 +1,4 @@
-# How to use expressions to filter my items
+# How to filter by (me), (current), and (empty)
  
 Filtering expressions can help you locate yourself or your current role within a specific navigator. You can also search by your company or branch office.
  
