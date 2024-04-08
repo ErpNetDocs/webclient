@@ -20,23 +20,25 @@ Filtering expressions follow a fixed syntax that can influence the outcome they 
 
 It's therefore crucial to write them down exactly as they are if you want to achieve the desired effect.
  
-## Filter by your company, branch office, or role
+### (current) and (empty)
 
-This functionality enables you to conveniently locate items associated with your company or role in the navigator. 
+This functionality enables you to conveniently locate items associated with your company and its location.
 
 You can employ the filtering expressions "(current)" and "(empty)" to achieve this. 
 
-When using "(current)", the table will display either your company or your current role, depending on the column where you enter the expression. On the other hand, "(empty)" will reveal cells with no values.
+When using "(current)", the table will display either your company or your current role, depending on the column where you enter the expression. 
 
-Example:
+On the other hand, "(empty)" will reveal cells with no values.
 
-Within the Orders panel of the Sales module, input "(current)" into the filtering row of the Enterprise Company column. 
+**Example:**
 
-Consequently, only the company you're presently involved within your user profile will be displayed in the table, filtering out all others.
+Input **"(current)"** into the filtering row of the **Enterprise Company** column. 
+
+Only items associated with the company you're currently involved with will be displayed in the table.
  
  ![picture](pictures/filtering_expression_(current)_29_03.png)
  
-You can also combine them to find a particular item, by assigning more than one filtering expression at a time. To do that assign them with different columns or combine them in one with “or”.
+You can also assign more than one filtering expression at a time. To do that assign them with different columns or combine them in one with “or”.
 
 **Example:**
 
@@ -58,9 +60,9 @@ This ensures comprehensive visibility of orders while verifying that each order 
 
 ![picture](pictures/filtering_expression_popup_29_03.png)
 
-## Make a tile using a filtering expression
+## Use tiles with filtering expressions
 
-Once you've set a filtering expression, you can generate a tile via the page menu. Upon tile creation, the expression becomes permanently linked to it.
+Once you've set a filtering expression, you can generate a **tile** via the page menu. Upon tile creation, the expression becomes permanently linked to it.
 
 **Example:**
 
