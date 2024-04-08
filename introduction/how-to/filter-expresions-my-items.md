@@ -1,18 +1,16 @@
 # How to filter by (me), (current), and (empty)
  
-Filtering expressions can help you locate yourself or your current role within a specific navigator. You can also search by your company or branch office.
+You can use filtering expressions for applicable attributes to narrow down the scope of what is displayed in a particular navigator.
  
-Filtering expressions can be found in the filter row beneath the columns containing users or companies within the respective navigator. 
-
-Additionally, they are available in the Advanced filter panel, utilising the contains operator.
+They are specified in the **filter row** found under the columns of the respective navigator as well as in the **Advanced filter** panel using the **contains** operator.
  
-If the filtering row is not visible, you can enable it through the panel's menu or by clicking on the filter icon on the far left of the columns.
+If the filtering row is not visible, you can **enable** it through the panel's menu or by clicking on the **filter icon** on the far-left of the columns.
 
 **Example:**
 
-Within the Orders panel of the Sales module, you input "(me)" in the filtering row of the Assigned to User column.
+Within the Orders panel of the Sales module, you input "**(me)**" in the filtering row of the **Assigned To User** column.
 
-As a result, only your user profile will be displayed in the table, filtering out all other users.
+This results in only items **assigned to you** to be displayed in the table.
  
 ![picture](pictures/filtering_expression_(me)_29_03.png)
  
