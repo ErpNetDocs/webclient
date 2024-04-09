@@ -8,7 +8,7 @@ If the filtering row is not visible, you can **enable** it through the panel's m
 
 **Example:**
 
-Within the **Orders** panel of the **Sales** module, input "**(me)**" in the filtering row of the **Assigned To User** column.
+Within the **Orders** panel of the **Sales** module, you input "**(me)**" in the filtering row of the **Assigned To User** column.
 
 This results in only documents **assigned to you** to be displayed in the table.
  
