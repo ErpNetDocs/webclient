@@ -18,17 +18,15 @@ This results in only documents **assigned to you** to be displayed in the table.
  
 Filtering expressions follow a fixed syntax that can influence the outcome they produce.
 
-It's therefore crucial to write them down exactly as they are if you want to achieve the desired effect.
+It's therefore crucial to write them down exactly as they are and in the correct filtering rows if you want to achieve the desired effect.
  
 ### (current) and (empty)
 
-This functionality enables you to conveniently locate items associated with your company and its location.
+These expressions enable you to conveniently locate documents associated with your **enterprise company** and its **location**.
 
-You can employ the filtering expressions "(current)" and "(empty)" to achieve this. 
+* When using "**(current)**", the table will display only the items linked to the current enterprise company and/or location you're logged into.
 
-When using "(current)", the table will display either your company or your current role, depending on the column where you enter the expression. 
-
-On the other hand, "(empty)" will reveal cells with no values.
+* On the other hand, using "**(empty)**" will reveal documents that are not strictly tied to any enterprise company and/or location.
 
 **Example:**
 
@@ -36,44 +34,44 @@ Input **"(current)"** into the filtering row of the **Enterprise Company** colum
 
 Only items associated with the company you're currently involved with will be displayed in the table.
  
- ![picture](pictures/filtering_expression_(current)_29_03.png)
- 
-You can also assign more than one filtering expression at a time. To do that assign them with different columns or combine them in one with “or”.
+![picture](pictures/filtering_expression_(current)_29_03.png)
+
+### (me)
+
+This expression enables you to locate only the documents assigned to you.
 
 **Example:**
 
-In the **Orders** panel of the Sales module, you aim to locate all orders belonging to your company and assigned to you. 
+Input **"(me)"** into the filtering row of the **Assigned To User** column. 
 
-You want to ensure that each order has a location assigned. To accomplish this, input "(current)" in the Enterprise Company column to filter items linked to your company. 
-
-In the **Assigned to User** column, input "(me)" to narrow down orders assigned specifically to you. 
-
-For the **Enterprise Company Location**, input "(current) or (empty)" to display both items with a location and those without. 
-
-This ensures comprehensive visibility of orders while verifying that each order has an assigned Enterprise Company location.
- 
-![picture](pictures/filtering_expression_combination_29_03.png)
+Only items assigned to the user you're logged in as will be displayed in the table.
  
 > [!NOTE]
 > 
-> When you input expressions in the filtering row, popup suggestions will appear beneath the cell.
+> When you input expressions in filtering rows, popup suggestions will appear to speed up the writing process.
 
 ![picture](pictures/filtering_expression_popup_29_03.png)
 
-## Use tiles with filtering expressions
+### Multiple filtering expressions
 
-Once you've set a filtering expression, you can generate a **tile** via the page menu. Upon tile creation, the expression becomes permanently linked to it.
+You can apply more than one filtering expression at a time. This way, your navigator could visualize items that are assigned to you and match both your current enterprise company and its location. 
+
+It's also possible to place multiple expressions within the same filtering row with the “**or**” operator. As a result, the table will display items that meet all of these conditions.
+
+![picture](pictures/filtering_expression_combination_29_03.png)
+
+## Using tiles with filtering expressions
+
+When you apply one or more expressions to a navigator, you can create a **tile** for it in order to save its current filtering configuration.
+
+Regardless of how the table changes later, tiles allow you to easily access a previous "snapshot" of it when it had different filters applied.
 
 **Example:**
 
-Filter the table to show only items assigned to you, then, open the page menu and click on the **Create a new tile**.
+Filter a navigator to display only the items assigned to you. Then, create a tile for it, naming it “Orders assigned to me”.
  
-![picture](pictures/filtering_expression_Create_tile_29_03.png)
-
-Once you’ve done that a window will open where you can give that tile a name. In this case, it will be “Orders assigned to me”.
-
 ![picture](pictures/filtering_expression_tile_name_29_03.png)
  
-When you are ready click **OK** and the tile will be ready.
+When you save your tile, you will be able to access it from within the **Tiles** app in the **My** module.
  
 ![picture](pictures/filtering_expression_tile_29_03.png)
