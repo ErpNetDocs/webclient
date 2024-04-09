@@ -1,0 +1,164 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>How to filter by (me), (current), and (empty) | ERP.net Web Client </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="How to filter by (me), (current), and (empty) | ERP.net Web Client ">
+    <meta name="generator" content="docfx 2.56.9.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    <meta property="docfx:rel" content="../../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="how-to-filter-by-me-current-and-empty">How to filter by (me), (current), and (empty)</h1>
+
+<p>You can use filtering expressions for applicable attributes to narrow down the scope of what is displayed in a particular navigator.</p>
+<p>They are specified in the <strong>filter row</strong> found under some columns of the respective navigator as well as in the <strong>Advanced filter</strong> panel using the <strong>contains</strong> operator.</p>
+<p>If the filtering row is not visible, you can <strong>enable</strong> it through the panel's menu or by clicking on the <strong>filter icon</strong> on the far-left of the columns.</p>
+<p><strong>Example:</strong></p>
+<p>Within the <strong>Orders</strong> panel of the <strong>Sales</strong> module, you input &quot;<strong>(me)</strong>&quot; in the filtering row of the <strong>Assigned To User</strong> column.</p>
+<p>This results in only documents <strong>assigned to you</strong> to be displayed in the table.</p>
+<p><img src="pictures/filtering_expression_(me)_29_03.png" alt="picture"></p>
+<h2 id="rules-and-syntax">Rules and syntax</h2>
+<p>Filtering expressions follow a fixed syntax that can influence the outcome they produce.</p>
+<p>It's therefore crucial to write them down exactly as they are and in the correct filtering rows if you want to achieve the desired effect.</p>
+<h3 id="current-and-empty">(current) and (empty)</h3>
+<p>These expressions enable you to conveniently locate documents associated with your <strong>enterprise company</strong> and its <strong>location</strong>.</p>
+<ul>
+<li><p><strong>(current)</strong> makes the table display only the items linked to the enterprise company and/or location you're currently logged into.</p>
+</li>
+<li><p><strong>(empty)</strong> makes the table reveal items that are not strictly tied to any enterprise company and/or location.</p>
+</li>
+</ul>
+<p><strong>Example:</strong></p>
+<p>Input <strong>&quot;(current)&quot;</strong> into the filtering row of the <strong>Enterprise Company</strong> column.</p>
+<p>Only items associated with the company you're currently involved with will be displayed in the table.</p>
+<p><img src="pictures/filtering_expression_(current)_29_03.png" alt="picture"></p>
+<h3 id="me">(me)</h3>
+<p>This expression enables you to locate only the documents assigned to you.</p>
+<p><strong>Example:</strong></p>
+<p>Input <strong>&quot;(me)&quot;</strong> into the filtering row of the <strong>Assigned To User</strong> column.</p>
+<p>Only items assigned to the user you're logged in as will be displayed in the table.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>When you input expressions in filtering rows, <strong>popup suggestions</strong> will appear to speed up the writing process.</p>
+</div>
+<p><img src="pictures/filtering_expression_popup_29_03.png" alt="picture"></p>
+<h3 id="multiple-filtering-expressions">Multiple filtering expressions</h3>
+<p>You can apply more than one filtering expression at a time. This way, your navigator could visualize items that are assigned to you and match both your current enterprise company and its location.</p>
+<p>It's also possible to place multiple expressions within the same filtering row with the “<strong>or</strong>” operator. As a result, the table will display items that meet all of these conditions.</p>
+<p><img src="pictures/filtering_expression_combination_29_03.png" alt="picture"></p>
+<h2 id="using-tiles-with-filtering-expressions">Using tiles with filtering expressions</h2>
+<p>When you apply one or more expressions to a navigator, you can create a <strong>tile</strong> for it in order to save its current filtering configuration.</p>
+<p>Regardless of how the table changes later, tiles allow you to easily access a previous &quot;snapshot&quot; of it when it had different filters applied.</p>
+<p><strong>Example:</strong></p>
+<p>Filter a navigator to display only the items assigned to you. Then, create a tile for it, naming it “Orders assigned to me”.</p>
+<p><img src="pictures/filtering_expression_tile_name_29_03.png" alt="picture"></p>
+<p>When you save your tile, you will be able to access it from within the <strong>Tiles</strong> app in the <strong>My</strong> module.</p>
+<p><img src="pictures/filtering_expression_tile_29_03.png" alt="picture"></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/how-to/filtering-expressions.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>

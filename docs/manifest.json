@@ -5312,18 +5312,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/how-to/filter-expresions-my-items.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/how-to/filter-expresions-my-items.html",
-          "hash": "7fJ8d6cAPRBHD2/3SL1TFg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "introduction/how-to/filter-row-in-navigators.md",
       "output": {
         ".html": {
@@ -5336,11 +5324,23 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/filtering-expressions.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/filtering-expressions.html",
+          "hash": "zI51G4r5qN2pXQ7NVlO0pA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/how-to/index.md",
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/index.html",
-          "hash": "vlpMyTYcw69GKcLZnpHV3g=="
+          "hash": "N8z2ssguRxsuuHiJocxpEg=="
         }
       },
       "is_incremental": false,
@@ -7997,7 +7997,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "F/d68bB0D+ThUMaJVvDziw=="
+          "hash": "xNH44vwV1S65t5PaIboqcg=="
         }
       },
       "is_incremental": false,
