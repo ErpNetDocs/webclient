@@ -6,6 +6,8 @@
   href: filter-row-in-navigators.md
 - name: Use period expressions
   href: period-expressions.md
+- name: Use filtering expressions
+  href: filtering-expressions.md
 - name: Use multi-column layout
   href: multi-column-layout.md
 - name: Search in dropdown lists
