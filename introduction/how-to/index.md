@@ -7,6 +7,8 @@ Here, you will find guides that can help you better navigate and use the @@name 
 - **[Use filter rows in navigators](filter-row-in-navigators.md)**
 
 - **[Use period expressions](period-expressions.md)**
+
+- **[Use filtering expressions](filtering-expressions.md)**
   
 - **[Use the multi-column layout](multi-column-layout.md)**
   
