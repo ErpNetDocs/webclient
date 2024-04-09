@@ -24,9 +24,9 @@ It's therefore crucial to write them down exactly as they are and in the correct
 
 These expressions enable you to conveniently locate documents associated with your **enterprise company** and its **location**.
 
-* When using "**(current)**", the table will display only the items linked to the current enterprise company and/or location you're logged into.
+* **(current)** makes the table display only the items linked to the enterprise company and/or location you're currently logged into.
 
-* On the other hand, using "**(empty)**" will reveal documents that are not strictly tied to any enterprise company and/or location.
+* **(empty)** makes the table reveal items that are not strictly tied to any enterprise company and/or location.
 
 **Example:**
 
