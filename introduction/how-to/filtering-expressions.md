@@ -62,7 +62,7 @@ It's also possible to place multiple expressions within the same filtering row w
 
 ## Using tiles with filtering expressions
 
-When you apply one or more expressions to a navigator, you can create a **tile** for it in order to save its current filtering configuration.
+When you apply one or more expressions to a navigator, you can create a **[tile](https://docs.erp.net/webclient/introduction/my-apps/tiles.html)** for it in order to save its current filtering configuration.
 
 Regardless of how the table changes later, tiles allow you to easily access a previous "snapshot" of it when it had different filters applied.
 
