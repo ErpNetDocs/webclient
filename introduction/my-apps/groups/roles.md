@@ -16,7 +16,7 @@ It's crucial to assign roles carefully to prevent users from abusing their permi
 
 ### Admin Role
 
-The admin role possesses every capability available on the platform in the **Group** section.
+The admin role possesses every capability available on the platform in the [**Group**](https://docs.erp.net/webclient/introduction/my-apps/groups/index.html) section.
 
 This role is the only one with the authority to add members to the group or change their roles, including the demotion of another admin or yourself. 
 
