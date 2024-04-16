@@ -20,7 +20,9 @@ This chat includes standard features such as sending messages, liking them, and 
 
 ## Calendar 
 
-In the Calendar feature, you can create and see various events for yourself and other group members. 
+In the **Calendar** feature, you can create and see various events for yourself and other group members. 
+
+![Pictures](pictures/Groups_calendar_16_04.png)
 
 These events encompass:
 - Meetings
@@ -31,19 +33,17 @@ These events encompass:
 - Demonstrations
 - Appointments
 
-![Pictures](pictures/Groups_calendar_16_04.png)
-
 ## To Do
 
 In the **To Do** tab, you can create and view tasks assigned to yourself and other group members. 
+
+![Pictures](pictures/Groups_ToDo_16_04.png)
 
 Tasks are organized based on their status, which include:
 - New
 - In Progress
 - Waiting
 - Completed
-
-![Pictures](pictures/Groups_ToDo_16_04.png)
 
 ## Files
 
