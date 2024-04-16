@@ -15,21 +15,21 @@ From the initial screen of any Module you can:
 3. Customize form of Modules 
 4. Customize view – which panels to be available in the form
 
-![Pictures](pictures/views_access1)
+![Pictures](pictures/views_access1.png)
 
 Inside the Navigation panel of a Namespace you can:
 
 5. Customize panel – which columns and related data to be shown 
 6. Customize form – what additional panels and related data to be shown 
 
-![Pictures](pictures/views_access2)
+![Pictures](pictures/views_access2.png)
  
 Inside an entity (object) you can:
 
 7. Customize panel – which fields to be shown in the single form
 8. Customize form  - what additional panels and related data to be shown
 
-![Pictures](pictures/views_access3)
+![Pictures](pictures/views_access3.png)
 
 
 
