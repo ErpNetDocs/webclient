@@ -5,8 +5,8 @@ Common users do not normally have rights to personalize their working environmen
 Here is a short explanation on access to WEB customization of Menu, Views, Panels and Forms depending on the User status.
 
 * If the User IS Global Layout Manager - full access span 1-8 
-* If the User IS NOT Global Layout Manager, and role Is Layout Admin = False - Zero access
-* If the User IS NOT Global Layout Manager, and role Is Layout Admin = True – access span 1-6
+* If the User IS NOT Global Layout Manager and role Is Layout Admin = False - Zero access
+* If the User IS NOT Global Layout Manager and role Is Layout Admin = True – access span 1-6
 
 ### Access span:
 
