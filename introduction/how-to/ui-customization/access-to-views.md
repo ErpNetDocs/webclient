@@ -9,7 +9,8 @@ Here is a short explanation on access to WEB customization of Menu, Views, Panel
 * If the User IS NOT Global Layout Manager, and role Is Layout Admin = True – access span 1-6
 
 ### Access span:
-From the initial screen of any Module you can:
+
+**From the initial screen of any Module you can:**
 1. Customize Main menu 
 2. Customize panel – which categories, sub entities and related data to be shown in the panel of a namespace 
 3. Customize form of Modules 
@@ -18,7 +19,7 @@ From the initial screen of any Module you can:
 ![Pictures](pictures/views_access1.png)
 
 
-Inside the Navigation panel of a Namespace you can:
+**Inside the Navigation panel of a Namespace you can:**
 
 5. Customize panel – which columns and related data to be shown 
 6. Customize form – what additional panels and related data to be shown 
@@ -26,7 +27,7 @@ Inside the Navigation panel of a Namespace you can:
 ![Pictures](pictures/views_access2.png)
 
  
-Inside an entity (object) you can:
+**Inside an entity (object) you can:**
 
 7. Customize panel – which fields to be shown in the single form
 8. Customize form  - what additional panels and related data to be shown
