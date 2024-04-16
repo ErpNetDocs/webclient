@@ -1104,6 +1104,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/views_access1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/views_access1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/views_access2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/views_access2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/ui-customization/pictures/views_access3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/ui-customization/pictures/views_access3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/keyboard-data-entry/pictures/document-settings.png",
       "output": {
         "resource": {
@@ -1207,6 +1240,105 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/my-apps/favorites/pictures/tile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/groups/pictures/Groups_Files_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/groups/pictures/Groups_Files_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/groups/pictures/Groups_Members_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/groups/pictures/Groups_Members_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/groups/pictures/Groups_ToDo_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/groups/pictures/Groups_ToDo_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/groups/pictures/Groups_calendar_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/groups/pictures/Groups_calendar_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/groups/pictures/Groups_chat_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/groups/pictures/Groups_chat_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/groups/pictures/Groups_navigation_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/groups/pictures/Groups_navigation_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/groups/pictures/Roles_Admin_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/groups/pictures/Roles_Admin_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/groups/pictures/Roles_Member_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/groups/pictures/Roles_Member_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/groups/pictures/Roles_Observer_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/groups/pictures/Roles_Observer_16_04.png"
         }
       },
       "is_incremental": false,
