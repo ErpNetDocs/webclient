@@ -10,4 +10,4 @@ You can learn how to rename fields and columns, reorder panels and show or hide 
 
 * **[Create new attributes](create-new-attributes.md)**
 
-* **[Customize fields](access-to-views.md)**
+* **[Access to views](access-to-views.md)**
