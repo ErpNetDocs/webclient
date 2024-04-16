@@ -17,12 +17,14 @@ From the initial screen of any Module you can:
 
 ![Pictures](pictures/views_access1.png)
 
+
 Inside the Navigation panel of a Namespace you can:
 
 5. Customize panel – which columns and related data to be shown 
 6. Customize form – what additional panels and related data to be shown 
 
 ![Pictures](pictures/views_access2.png)
+
  
 Inside an entity (object) you can:
 
