@@ -6134,6 +6134,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/ui-customization/access-to-views.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/ui-customization/access-to-views.html",
+          "hash": "uTmrutdpy3NXQkd7TmYubA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/how-to/ui-customization/create-multiple-panels.md",
       "output": {
         ".html": {
@@ -6174,7 +6186,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/ui-customization/index.html",
-          "hash": "t011KBiCCGo7QCXFqiG/EA=="
+          "hash": "yxzd1dWczgq+fhZSAIkjpA=="
         }
       },
       "is_incremental": false,
@@ -6511,6 +6523,39 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/ui-customization/pictures/views_access1.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/ui-customization/pictures/views_access1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/ui-customization/pictures/views_access2.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/ui-customization/pictures/views_access2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/ui-customization/pictures/views_access3.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/ui-customization/pictures/views_access3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "introduction/how-to/user-roles.md",
       "output": {
@@ -6645,6 +6690,141 @@
       "output": {
         "resource": {
           "relative_path": "introduction/my-apps/favorites/pictures/tile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/my-apps/groups/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/my-apps/groups/index.html",
+          "hash": "+txEcTyj5ShRvPL/v8JQMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/groups/pictures/Groups_Files_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/groups/pictures/Groups_Files_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/groups/pictures/Groups_Members_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/groups/pictures/Groups_Members_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/groups/pictures/Groups_ToDo_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/groups/pictures/Groups_ToDo_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/groups/pictures/Groups_calendar_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/groups/pictures/Groups_calendar_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/groups/pictures/Groups_chat_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/groups/pictures/Groups_chat_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/groups/pictures/Groups_navigation_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/groups/pictures/Groups_navigation_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/groups/pictures/Roles_Admin_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/groups/pictures/Roles_Admin_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/groups/pictures/Roles_Member_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/groups/pictures/Roles_Member_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/groups/pictures/Roles_Observer_16_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/groups/pictures/Roles_Observer_16_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/my-apps/groups/pictures/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/my-apps/groups/pictures/index.html",
+          "hash": "CisQYylUWY7/hzKHJXwtfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/my-apps/groups/roles.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/my-apps/groups/roles.html",
+          "hash": "j/g9oP/m8cM5x0GCKQmt3w=="
         }
       },
       "is_incremental": false,
@@ -7997,7 +8177,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "xNH44vwV1S65t5PaIboqcg=="
+          "hash": "HBW7yDRtOgc3/zmTU6mx2Q=="
         }
       },
       "is_incremental": false,
