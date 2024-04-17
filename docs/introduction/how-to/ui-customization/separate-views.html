@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Access to views customization | ERP.net Web Client </title>
+    <title>How to separate views by object category | ERP.net Web Client </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Access to views customization | ERP.net Web Client ">
+    <meta name="title" content="How to separate views by object category | ERP.net Web Client ">
     <meta name="generator" content="docfx 2.56.9.0">
     
     <link rel="shortcut icon" href="../../../favicon.ico">
@@ -77,41 +77,48 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="access-to-views-customization">Access to views customization</h1>
+<h1 id="how-to-separate-views-by-object-category">How to separate views by object category</h1>
 
-<p>In order to be able to organize the vision and usability of the platform a User needs to have permissions. It is advised that only Admins bear such responsibility.
-Common users do not normally have rights to personalize their working environment and in general get accustomed to the settings.
-Here is a short explanation on access to WEB customization of Menu, Views, Panels and Forms depending on the User status.</p>
-<ul>
-<li>If the User IS Global Layout Manager - full access span 1-8</li>
-<li>If the User IS NOT Global Layout Manager and option &quot;Is Layout Admin&quot; of the Role IS NOT active - Zero access</li>
-<li>If the User IS NOT Global Layout Manager and option &quot;Is Layout Admin&quot; of the Role IS active – access span 1-6</li>
-</ul>
-<p><b>Access span:</b></p>
-<p><strong>From the initial screen of any Module you can:</strong></p>
+<p><strong>Object categories (OCs)</strong> can be accessed from within the panels of bigger entities such as Customer, Asset and Document.</p>
+<p>You can enable or disable them for different creation forms and make the views of these forms <strong>distinguishable</strong> from one another.</p>
+<h3 id="example">Example</h3>
+<p>Different document forms will prioritise certain fields over others.</p>
+<p>When issuing a return of a product, for instance, you may want to request the original price but not the birth date of a client.</p>
+<p>Depending on its use-case, an object category can represent one or more <strong>types</strong> - Customer Type, Asset Type and Document Type.</p>
+<p>Thus, it's possible to start creating a document or an entity with an object category <strong>already</strong> selected for it.</p>
+<p><img src="pictures/intropanels_corrected.png" alt="Pictures"></p>
+<h4 id="heres-a-list-of-data-types-and-supported-object-categories">Here's a list of data types and supported object categories:</h4>
+<p>Applications / Asset Мanagement: Managed Asset - Managed Asset Type</p>
+<p>Applications  / Rental: Asset - Asset Type</p>
+<p>Applications / Service: Service Object - Service Object Type</p>
+<p>CRM / Common: Customer - Customer Type</p>
+<p>Finance / Assets: Asset - Asset Category</p>
+<p>General / Common: Parties - Party Type (exception, because it is an Entity Type specifier)</p>
+<p>General / Common: Document - Document Type (exception, because documents are also separated by leaf entity type)</p>
+<p>General / Products: Products - Product Type</p>
+<p>Logistics / Common: Logistic Units - Logistic Unit Type</p>
+<p>Logistics / Procurement: Supplier - Supplier Type</p>
+<h2 id="process">Process</h2>
 <ol>
-<li>Customize Main menu</li>
-<li>Customize panel – which categories, sub entities and related data to be shown in the panel of a namespace</li>
-<li>Customize form of Modules</li>
-<li>Customize view – which panels to be available in the form</li>
+<li>You need to have at least one type of a document.</li>
 </ol>
-<p><img src="pictures/views_access1.png" alt="Pictures">
-<br><br>
-<strong>Inside the Navigation panel of a Namespace you can:</strong></p>
-<ol start="5">
-<li>Customize panel – which columns and related data to be shown</li>
-<li>Customize form – what additional panels and related data to be shown</li>
+<p>For example, the <strong>Create</strong> section of the <strong>Orders</strong> panel may offer a direct sales order, a POS sales order, a standard sales order, and more.</p>
+<p><img src="pictures/sales_order_types.png" alt="Pictures"></p>
+<p>If the available options are not what you're looking for, you can manually add <strong>custom</strong> document types.</p>
+<p>This is typically done with the <strong>circular plus button</strong> found on the respective panel.</p>
+<p><img src="pictures/asset_types.png" alt="Pictures"></p>
+<ol start="2">
+<li>Click a document type visualized on the main panel (e.g. Direct Sale Order)</li>
 </ol>
-<p><img src="pictures/views_access2.png" alt="Pictures">
-<br><br>
-<strong>Inside an entity (object) you can:</strong></p>
-<ol start="7">
-<li>Customize panel – which fields to be shown in the single form</li>
-<li>Customize form  - what additional panels and related data to be shown</li>
+<p>This will take you to the creation form of the document where an <strong>object category</strong> is already applied.</p>
+<p>Keep in mind that the field will be <strong>read-only</strong> and unable to be changed.</p>
+<p><img src="pictures/objectcat_applied.png" alt="Pictures"></p>
+<ol start="3">
+<li>Customize the view of the form through the <strong>Show/hide fields</strong> window. This allows you to enable or disable specific fields.</li>
 </ol>
-<p><img src="pictures/views_access3.png" alt="Pictures"></p>
-<p><br><br>
-Make sure to familiarize with how to <a href="separate-views.html">Separate views by object category</a></p>
+<p><img src="pictures/add_show_fields.png" alt="Pictures"></p>
+<p>Clicking outside the window once will save the view for the current document, but the settings will be reset for another document.</p>
+<p>Every time you're creating a direct sales order, your experience will be unique from, say, creating a return order.</p>
 </article>
           </div>
           
@@ -120,7 +127,7 @@ Make sure to familiarize with how to <a href="separate-views.html">Separate view
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/how-to/ui-customization/access-to-views.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/how-to/ui-customization/separate-views.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
