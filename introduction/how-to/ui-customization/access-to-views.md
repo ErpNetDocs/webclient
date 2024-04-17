@@ -8,7 +8,7 @@ Here is a short explanation on access to WEB customization of Menu, Views, Panel
 * If the User IS NOT Global Layout Manager and option "Is Layout Admin" of the Role IS NOT active - Zero access
 * If the User IS NOT Global Layout Manager and option "Is Layout Admin" of the Role IS active – access span 1-6
 
-### Access span:
+<b>Access span:</b>
 
 **From the initial screen of any Module you can:**
 1. Customize Main menu 
