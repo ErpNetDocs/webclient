@@ -16,8 +16,6 @@ Here, you will find guides that can help you better navigate and use the @@name 
   
 - **[Use the "Select by navigator" option](select-navigator.md)**
   
-- **[Separate views by object category](separate-views.md)**
-  
 - **[Define user roles](user-roles.md)**
   
 - **[Apply UI customization options](./ui-customization/index.md)**
