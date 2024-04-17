@@ -8,4 +8,5 @@
   href: create-multiple-panels.md
 - name: Create new attributes
   href: create-new-attributes.md
- 
+- name: Separate views by object category
+  href: Create separate-views.md
