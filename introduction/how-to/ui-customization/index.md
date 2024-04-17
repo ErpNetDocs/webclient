@@ -12,4 +12,4 @@ You can learn how to rename fields and columns, reorder panels and show or hide 
 
 * **[Create new attributes](create-new-attributes.md)**
 
-  
+* **[Separate views by object category](separate-views.md)**
