@@ -33,6 +33,6 @@ Here is a short explanation on access to WEB customization of Menu, Views, Panel
 ![Pictures](pictures/views_access3.png)
 
 <br><br>
-Make sure to familiarize how to [Separate views by object category](separate-views.md)
+Make sure to familiarize with how to [Separate views by object category](separate-views.md)
 
 
