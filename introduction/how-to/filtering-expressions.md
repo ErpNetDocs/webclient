@@ -48,7 +48,7 @@ Input **"(empty)"** into the filtering row of the **Enterprise Company Location*
 
 Only items that do not have an enterprise company location will be displayed in the table.
 
-![picture](pictures/filtering_expression_(current)_29_03.png)
+![picture](pictures/empty_screenshot.png)
 
 ### (me)
 
@@ -62,7 +62,7 @@ Input **"(me)"** into the filtering row of the **Assigned To User** column.
 
 Only items assigned to the user you're logged in as will be displayed in the table.
 
-![picture](pictures/filtering_expression_(current)_29_03.png)
+![picture](pictures/me_screenshot.png)
  
 > [!NOTE]
 > 
@@ -82,7 +82,7 @@ Input **"(me) or (empty)"** into the filtering row of the **Assigned To User** c
 
 Unassigned items **as well as** items assigned to the user you're logged in as will be displayed in the table.
 
-![picture](pictures/filtering_expression_combination_29_03.png)
+![picture](pictures/me_or_empty.png)
 
 ### (current) or (empty)
 
@@ -94,7 +94,7 @@ Input **"(current) or (empty)"** into the filtering row of the **Enterprise Comp
 
 Items not related to an enterprise company location **as well as** those associated with the current one will be displayed in the table.
 
-![picture](pictures/filtering_expression_combination_29_03.png)
+![picture](pictures/current_or_empty.png)
 
 ## Using tiles with filtering expressions
 
@@ -111,8 +111,8 @@ Filter a sales order navigator to display only the documents related to the curr
 
 Then, create a tile for it, naming it “Orders for current company”.
  
-![picture](pictures/filtering_expression_tile_name_29_03.png)
+![picture](pictures/orders_for_tile.png)
  
 When you save your tile, you will be able to access it from within the **Tiles** app in the **My** module, or directly from the respective navigator if it's integrated as a panel.
  
-![picture](pictures/filtering_expression_tile_29_03.png)
+![picture](pictures/tiles_ready.png)
