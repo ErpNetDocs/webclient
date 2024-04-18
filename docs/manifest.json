@@ -5460,7 +5460,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/filtering-expressions.html",
-          "hash": "u8JUdZjTdHcHObiW0nUGDg=="
+          "hash": "1LEeqKpy5EzCgF1KG0sQmQ=="
         }
       },
       "is_incremental": false,
@@ -5757,6 +5757,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/current_or_empty.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/current_or_empty.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/current_or_emptys.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/current_or_emptys.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/how-to/pictures/direct-sale-order-select.png",
       "output": {
         "resource": {
@@ -5794,6 +5816,28 @@
       "output": {
         "resource": {
           "relative_path": "introduction/how-to/pictures/edit_mode.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/empty_screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/empty_screenshot.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/empty_screenshots.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/empty_screenshots.png"
         }
       },
       "is_incremental": false,
@@ -5999,6 +6043,50 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/me_or_empty.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/me_or_empty.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/me_or_emptys.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/me_or_emptys.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/me_screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/me_screenshot.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/me_screenshots.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/me_screenshots.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/how-to/pictures/multiple-columns.png",
       "output": {
         "resource": {
@@ -6047,6 +6135,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/how-to/pictures/options_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/orders_for_tile.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/orders_for_tile.png"
         }
       },
       "is_incremental": false,
@@ -6223,6 +6322,28 @@
       "output": {
         "resource": {
           "relative_path": "introduction/how-to/pictures/store_threedot_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/tiles_ready.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/tiles_ready.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/tiles_readys.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/tiles_readys.png"
         }
       },
       "is_incremental": false,
@@ -8324,6 +8445,17 @@
       "output": {
         "resource": {
           "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo_old.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo_old.svg"
         }
       },
       "is_incremental": false,

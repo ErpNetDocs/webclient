@@ -89,40 +89,61 @@
 <h2 id="rules-and-syntax">Rules and syntax</h2>
 <p>Filtering expressions follow a fixed syntax that can influence the outcome they produce.</p>
 <p>It's therefore crucial to write them down exactly as they are and in the correct filtering rows if you want to achieve the desired effect.</p>
-<h3 id="current-and-empty">(current) and (empty)</h3>
-<p>These expressions enable you to conveniently locate documents associated with your <strong>enterprise company</strong> and its <strong>location</strong>.</p>
-<ul>
-<li><p><strong>(current)</strong> makes the table display only the items linked to the enterprise company and/or location you're currently logged into.</p>
-</li>
-<li><p><strong>(empty)</strong> makes the table reveal items that are not strictly tied to any enterprise company and/or location.</p>
-</li>
-</ul>
+<div class="NOTE">
+<h5>Note</h5>
+<p>You can apply <strong>more than one</strong> filtering expressions at a time. <br><br> This way, your navigator could visualize items that are related to your current user and also associated with your current enterprise company and its location.</p>
+</div>
+<h3 id="current">(current)</h3>
+<p>This expressions enables you to conveniently locate documents related to your current enterprise company*, its location, or a role.</p>
 <p><strong>Example:</strong></p>
 <p>Input <strong>&quot;(current)&quot;</strong> into the filtering row of the <strong>Enterprise Company</strong> column.</p>
 <p>Only items associated with the company you're currently involved with will be displayed in the table.</p>
 <p><img src="pictures/filtering_expression_(current)_29_03.png" alt="picture"></p>
+<h3 id="empty">(empty)</h3>
+<p>This expression can be inserted into all fields that support the &quot;equals&quot; and &quot;contains&quot; operators.</p>
+<p>It works as a <strong>Null</strong> filter, making a navigator reveal items that <strong>do not</strong> contain data for the column in which (empty) is applied.</p>
+<p><strong>Example:</strong></p>
+<p>Input <strong>&quot;(empty)&quot;</strong> into the filtering row of the <strong>Enterprise Company Location</strong> column.</p>
+<p>Only items that do not have an enterprise company location will be displayed in the table.</p>
+<p><img src="pictures/empty_screenshots.png" alt="picture"></p>
 <h3 id="me">(me)</h3>
-<p>This expression enables you to locate only the documents assigned to you.</p>
+<p>This expression enables you to locate only the documents related to the user you are currently logged in as, eliminating the need to search for your own username in a field's dropdown list.</p>
+<p>It can be applied to all fields referring to the <strong><a href="https://docs.erp.net/model/entities/Systems.Security.Users.html">Systems.Security.Users Entity</a></strong>.</p>
 <p><strong>Example:</strong></p>
 <p>Input <strong>&quot;(me)&quot;</strong> into the filtering row of the <strong>Assigned To User</strong> column.</p>
 <p>Only items assigned to the user you're logged in as will be displayed in the table.</p>
+<p><img src="pictures/me_screenshots.png" alt="picture"></p>
 <div class="NOTE">
 <h5>Note</h5>
 <p>When you input expressions in filtering rows, <strong>popup suggestions</strong> will appear to speed up the writing process.</p>
 </div>
 <p><img src="pictures/filtering_expression_popup_29_03.png" alt="picture"></p>
-<h3 id="multiple-filtering-expressions">Multiple filtering expressions</h3>
-<p>You can apply more than one filtering expression at a time. This way, your navigator could visualize items that are assigned to you and match both your current enterprise company and its location.</p>
-<p>It's also possible to place multiple expressions within the same filtering row with the “<strong>or</strong>” operator. As a result, the table will display items that meet all of these conditions.</p>
-<p><img src="pictures/filtering_expression_combination_29_03.png" alt="picture"></p>
+<h3 id="me-or-empty">(me) or (empty)</h3>
+<p>It's possible to apply the (me) and (empty) expressions separated by an &quot;or&quot; operator in the same filtering row.</p>
+<p>As a result, the navigator will display items that meet either of these conditions.</p>
+<p><strong>Example:</strong></p>
+<p>Input <strong>&quot;(me) or (empty)&quot;</strong> into the filtering row of the <strong>Assigned To User</strong> column.</p>
+<p>Unassigned items <strong>as well as</strong> items assigned to the user you're logged in as will be displayed in the table.</p>
+<p><img src="pictures/me_or_emptys.png" alt="picture"></p>
+<h3 id="current-or-empty">(current) or (empty)</h3>
+<p>Similarly, you can apply the (current) and (empty) expressions within the same filtering row, again separated by an &quot;or&quot; operator.</p>
+<p><strong>Example:</strong></p>
+<p>Input <strong>&quot;(current) or (empty)&quot;</strong> into the filtering row of the <strong>Enterprise Company Location</strong> column.</p>
+<p>Items not related to an enterprise company location <strong>as well as</strong> those associated with the current one will be displayed in the table.</p>
+<p><img src="pictures/current_or_emptys.png" alt="picture"></p>
 <h2 id="using-tiles-with-filtering-expressions">Using tiles with filtering expressions</h2>
 <p>When you apply one or more expressions to a navigator, you can create a <strong><a href="https://docs.erp.net/webclient/introduction/my-apps/tiles.html">tile</a></strong> for it in order to save its current filtering configuration.</p>
-<p>Regardless of how the table changes later, tiles allow you to easily access a previous &quot;snapshot&quot; of it when it had different filters applied.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>If you access a filtered navigator through a tile, data will always be adjusted to match that of the respective logged in user, their current company and location, or the role they are assigned at the moment. <br><br>
+When a navigator filtered by (me) is accessed through a tile, for instance, it will always display records relevant to the currently logged-in user.</p>
+</div>
 <p><strong>Example:</strong></p>
-<p>Filter a navigator to display only the items assigned to you. Then, create a tile for it, naming it “Orders assigned to me”.</p>
-<p><img src="pictures/filtering_expression_tile_name_29_03.png" alt="picture"></p>
-<p>When you save your tile, you will be able to access it from within the <strong>Tiles</strong> app in the <strong>My</strong> module.</p>
-<p><img src="pictures/filtering_expression_tile_29_03.png" alt="picture"></p>
+<p>Filter a sales order navigator to display only the documents related to the current enterprise company.</p>
+<p>Then, create a tile for it, naming it “Orders for current company”.</p>
+<p><img src="pictures/orders_for_tile.png" alt="picture"></p>
+<p>When you save your tile, you will be able to access it from within the <strong>Tiles</strong> app in the <strong>My</strong> module, or directly from the respective navigator if it's integrated as a panel.</p>
+<p><img src="pictures/tiles_readys.png" alt="picture"></p>
 </article>
           </div>
           
