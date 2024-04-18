@@ -19,14 +19,16 @@ This results in only documents **assigned to you** to be displayed in the table.
 Filtering expressions follow a fixed syntax that can influence the outcome they produce.
 
 It's therefore crucial to write them down exactly as they are and in the correct filtering rows if you want to achieve the desired effect.
- 
-### (current) and (empty)
 
-These expressions enable you to conveniently locate documents associated with your **enterprise company** and its **location**.
+> [!NOTE]
+> 
+> You can apply **more than one** filtering expressions at a time. <br><br> This way, your navigator could visualize items that are relevant to the current user and also match the current enterprise company and its location. 
+ 
+### (current)
+
+This expressions enables you to conveniently locate documents associated with your **enterprise company** and its **location**.
 
 * **(current)** makes the table display only the items linked to the enterprise company and/or location you're currently logged into.
-
-* **(empty)** makes the table reveal items that are not strictly tied to any enterprise company and/or location.
 
 **Example:**
 
@@ -36,9 +38,21 @@ Only items associated with the company you're currently involved with will be di
  
 ![picture](pictures/filtering_expression_(current)_29_03.png)
 
+### (empty)
+
+This expression can be inserted into all fields that support the "equals" and "contains" operators.
+
+It works as a "Null" filter, making a navigator reveal items that are not strictly tied to any enterprise company and/or location.
+
 ### (me)
 
-This expression enables you to locate only the documents assigned to you.
+This expression enables you to locate only the documents relevant to the user you are currently logged in as.
+
+It can be applied to all fields referring to the **[Systems.Security.Users Entity](https://docs.erp.net/model/entities/Systems.Security.Users.html)**.
+
+(me) eliminates the need to search for your own username in a field's dropdown list.
+
+When a navigator filtered by (me) is accessed through a **tile**, it will automatically display records relevant to the currently logged-in user.
 
 **Example:**
 
@@ -54,8 +68,6 @@ Only items assigned to the user you're logged in as will be displayed in the tab
 
 ### Multiple filtering expressions
 
-You can apply more than one filtering expression at a time. This way, your navigator could visualize items that are assigned to you and match both your current enterprise company and its location. 
-
 It's also possible to place multiple expressions within the same filtering row with the “**or**” operator. As a result, the table will display items that meet all of these conditions.
 
 ![picture](pictures/filtering_expression_combination_29_03.png)
@@ -63,8 +75,6 @@ It's also possible to place multiple expressions within the same filtering row w
 ## Using tiles with filtering expressions
 
 When you apply one or more expressions to a navigator, you can create a **[tile](https://docs.erp.net/webclient/introduction/my-apps/tiles.html)** for it in order to save its current filtering configuration.
-
-Regardless of how the table changes later, tiles allow you to easily access a previous "snapshot" of it when it had different filters applied.
 
 **Example:**
 
