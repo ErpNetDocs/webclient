@@ -26,7 +26,7 @@ It's therefore crucial to write them down exactly as they are and in the correct
  
 ### (current)
 
-This expressions enables you to conveniently locate documents related to your current **enterprise company**, its **location**, or a **role**.
+This expressions enables you to conveniently locate documents related to your current enterprise company*, its location, or a role.
 
 **Example:**
 
