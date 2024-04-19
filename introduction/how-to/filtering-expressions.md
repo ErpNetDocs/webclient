@@ -66,7 +66,7 @@ Only items assigned to the user you're logged in as will be displayed in the tab
  
 > [!NOTE]
 > 
-> When you input expressions in filtering rows, **popup suggestions** will appear to speed up the writing process.
+> When you input expressions in filtering row, **popup suggestions** will appear to speed up the writing process.
 
 ![picture](pictures/filtering_expression_popup_29_03.png)
 
