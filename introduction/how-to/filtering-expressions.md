@@ -18,7 +18,7 @@ This results in only documents **assigned to you** to be displayed in the table.
  
 Filtering expressions follow a fixed syntax that can influence the outcome they produce.
 
-It's therefore crucial to write them down exactly as they are and in the correct filtering rows if you want to achieve the desired effect.
+It's therefore crucial to write them down exactly as they are if you want to achieve the desired effect.
 
 > [!NOTE]
 > 
@@ -26,13 +26,13 @@ It's therefore crucial to write them down exactly as they are and in the correct
  
 ### (current)
 
-This expressions enables you to conveniently locate documents related to your current enterprise company*, its location, or a role.
+This expression enables you to conveniently locate documents related to your current enterprise company, its location, or a role.
 
 **Example:**
 
 Input **"(current)"** into the filtering row of the **Enterprise Company** column. 
 
-Only items associated with the company you're currently involved with will be displayed in the table.
+Only items associated with the company you're currently logged in with, will be displayed in the table.
  
 ![picture](pictures/filtering_expression_(current)_29_03.png)
 
