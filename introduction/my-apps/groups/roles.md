@@ -20,7 +20,7 @@ Similarly, in case a member needs to get demoted, they can be assigned a role th
 
 ### Admin
 
-The Admin role grants users every capability available in the five [**My Group**](https://docs.erp.net/webclient/introduction/my-apps/groups/index.html) tabs.
+The Admin role grants users every capability available in the five [**My Group**](index.md) tabs.
 
 This role is also the only one with the authority to **add** new members to the group, **remove** existing ones, and **change** member roles, including that of yourself or another admin.
 
