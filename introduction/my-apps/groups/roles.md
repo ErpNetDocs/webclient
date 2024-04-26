@@ -72,8 +72,6 @@ It is ideal for members who do not need to actively interact with the group but 
 
 Observers can preview and react to existing chat messages but are unable to write new ones or reply to others.
 
-![Pictures](pictures/Groups_Observer_26_04.png)  
-
 **Calendar**
 
 Observers can view activities within the group Calendar but cannot create activities of any kind.
@@ -90,4 +88,4 @@ Observers can only view and download file attachments.
 
 Observers can only preview group members and their roles.
 
-![Pictures](pictures/Roles_Observer_16_04.png)   
+![Pictures](pictures/![Pictures](pictures/Groups_Observer_26_04.png)  )   
