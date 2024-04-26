@@ -42,9 +42,11 @@ Admins can see and complete to-do tasks, as well as create new ones and assign t
 
 Admins can view and download file attachments, and also upload new ones.
 
-**Members:**
+**Members**
 
-Admins can preview all group members and their roles. They reserve the exclusive ability to add and remove members, as well as delegate and change their roles.
+Admins can preview all group members and their roles. 
+
+They reserve the exclusive ability to add and remove members, as well as delegate and change their roles.
 
  ![Pictures](pictures/Roles_Admin_16_04.png)  
 
