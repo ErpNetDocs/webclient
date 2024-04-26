@@ -60,7 +60,7 @@ However, members **cannot** add and remove other members, as well as delegate an
 
 Therefore, the only noticeable difference for them is the absence of certain buttons and features in the **Members** tab of the group.
 
-![Pictures](pictures/Roles_Member_16_04.png)   
+![Pictures](pictures/Groups_Members_view_26_04.png)   
 
 ### Observer
 
