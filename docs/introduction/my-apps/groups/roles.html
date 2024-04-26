@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="../../../styles/docfx.vendor.css">
     <link rel="stylesheet" href="../../../styles/docfx.css">
     <link rel="stylesheet" href="../../../styles/main.css">
-    <meta property="docfx:navrel" content="">
+    <meta property="docfx:navrel" content="../../../toc.html">
     <meta property="docfx:tocrel" content="../../toc.html">
     
     <meta property="docfx:rel" content="../../../">
@@ -79,49 +79,55 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="roles">Roles</h1>
 
-<p>Groups within <strong>ERP.net</strong> serve as a convenient communication platform within a company.</p>
-<p>To streamline user access and ensure efficiency, roles are assigned within these groups to allocate rights appropriately.</p>
-<p>This allows users to access only the functionalities relevant to their roles, enhancing productivity and security within the system.</p>
-<h2 id="general-responsibilities">General Responsibilities</h2>
-<p>In each group within <strong>ERP.net</strong>, predefined social roles are assigned, with fixed capabilities that cannot be customized.</p>
-<p>To grant a user additional capabilities, they must be promoted to a different role, but these capabilities cannot be tailored.</p>
-<p>It's crucial to assign roles carefully to prevent users from abusing their permissions and ensure the integrity of the system.</p>
-<h3 id="admin-role">Admin Role</h3>
-<p>The admin role possesses every capability available on the platform in the <a href="https://docs.erp.net/webclient/introduction/my-apps/groups/index.html"><strong>Group</strong></a> section.</p>
-<p>This role is the only one with the authority to add members to the group or change their roles, including the demotion of another admin or yourself.</p>
-<p>Each group must have at least one admin.</p>
-<p>Therefore, if you are the sole admin remaining, you cannot demote yourself, ensuring the continuity of administrative functions within the group.</p>
-<p>Here is information regarding the abilities of the admin in each tab:</p>
-<ul>
-<li><strong>Chat:</strong> Admins can write messages, like messages, and reply to messages in every chat in their groups.</li>
-<li><strong>Calendar:</strong> Admins can view the calendar and also create events of any kind for everyone in the group.</li>
-<li><strong>To Do:</strong> Admins can see the tasks in the To Do tab, set their status, and create new ones.</li>
-<li><strong>Files:</strong> Admins can view and download files and can also upload files of their own.</li>
-<li><strong>Members:</strong> Admins can see all group members and their roles and are the only members able to add a member or change their statuses.</li>
-</ul>
+<p>To streamline user access and ensure efficiency, <strong>roles</strong> are assigned to all members within a group as soon as they are added to it.</p>
+<p>This allows them to access only the functionalities relevant to them at the moment, preventing potential mishaps and unwanted actions.</p>
+<h2 id="general-responsibilities">General responsibilities</h2>
+<p>Every social group in <strong>ERP.net</strong> comes with three predefined roles for user assignment, each having fixed permission levels that cannot be customized.</p>
+<p><img src="pictures/Groups_Members_26_04.png" alt="Pictures"></p>
+<p>If users with limited access need to get a broader range of capabilities, they must be promoted to a role offering extra features.</p>
+<p>Similarly, in case a member needs to get demoted, they can be assigned a role that prevents them from performing a certain set of actions.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>Roles can be delegated and subsequently changed <strong>only</strong> by the group's Admin(s).</p>
+</div>
+<h3 id="admin">Admin</h3>
+<p>The Admin role grants users every capability available in the five <a href="index.html"><strong>My Group</strong></a> tabs.</p>
+<p>This role is also the only one with the authority to <strong>add</strong> new members to the group, <strong>remove</strong> existing ones, and <strong>change</strong> member roles, including that of yourself or another admin.</p>
+<div class="WARNING">
+<h5>Warning</h5>
+<p>Each group must have <strong>at least one</strong> admin.</p>
+</div>
+<p><strong>Chat</strong></p>
+<p>Admins can preview existing chat messages, write new ones, react and reply to other members' messages, as well as edit their own.</p>
+<p><strong>Calendar</strong></p>
+<p>Admins can view activities in the group Calendar, as well as create and schedule activities of any kind.</p>
+<p><strong>To Do</strong></p>
+<p>Admins can see and complete to-do tasks, as well as create new ones and assign them to others.</p>
+<p><strong>Files</strong></p>
+<p>Admins can view and download file attachments, and also upload new ones.</p>
+<p><strong>Members</strong></p>
+<p>Admins can preview all group members and their roles.</p>
+<p>They reserve the exclusive ability to add and remove members, as well as delegate and change their roles.</p>
 <p><img src="pictures/Roles_Admin_16_04.png" alt="Pictures"></p>
-<h3 id="member-role">Member role</h3>
-<p>Members of a group possess all the capabilities of the admin role except for the ability to add members to the group or change their roles.</p>
-<p>Here is information regarding the abilities of the member in each tab:</p>
-<ul>
-<li><strong>Chat:</strong> Members can write messages, like messages, and reply to messages in every chat in their groups.</li>
-<li><strong>Calendar:</strong> Members can view the calendar and also create events of any kind for everyone in the group.</li>
-<li><strong>To Do:</strong> Members can see the tasks in the To Do tab, set their status, and create new ones.</li>
-<li><strong>Files:</strong> Members can view and download files and can also upload files of their own.</li>
-<li><strong>Members:</strong> Members can see all group members and their roles but they can’t add a member or change their statuses.</li>
-</ul>
-<p><img src="pictures/Roles_Member_16_04.png" alt="Pictures"></p>
-<h3 id="observer-role">Observer Role</h3>
-<p>An observer is a user with limited capabilities within the group. They can only view activities but cannot write, answer, create, or add anything.</p>
-<p>Here is information regarding the abilities of the observer in each tab:</p>
-<ul>
-<li><strong>Chat -</strong> Observers can view the chat for every group they are in and like messages, but they are unable to write or answer.</li>
-<li><strong>Calendar -</strong> Observers can only view the calendar; they cannot create events of any kind.</li>
-<li><strong>To Do -</strong> Observers can see the tasks in the To Do tab and set their status, but they cannot create new tasks.</li>
-<li><strong>Files -</strong> Observers can view and download files but cannot upload files.</li>
-<li><strong>Members -</strong> Observers can see all group members and their roles but are unable to perform any actions within that tab.</li>
-</ul>
-<p><img src="pictures/Roles_Observer_16_04.png" alt="Pictures"></p>
+<h3 id="member">Member</h3>
+<p>The Member role features all the capabilities of the Admin role.</p>
+<p>However, members <strong>cannot</strong> add and remove other members, as well as delegate and change their roles.</p>
+<p>Therefore, the only noticeable difference for them is the absence of certain buttons and features in the <strong>Members</strong> tab of the group.</p>
+<p><img src="pictures/Groups_Members_view_26_04.png" alt="Pictures"></p>
+<h3 id="observer">Observer</h3>
+<p>The Observer role offers <strong>limited</strong> capabilities within a social group, featuring primarily read-only actions.</p>
+<p>It is ideal for members who do not need to actively interact with the group but still get to be part of it.</p>
+<p><strong>Chat</strong></p>
+<p>Observers can preview and react to existing chat messages but are unable to write new ones or reply to others.</p>
+<p><strong>Calendar</strong></p>
+<p>Observers can view activities within the group Calendar but cannot create activities of any kind.</p>
+<p><strong>To Do</strong></p>
+<p>Observers can see and complete to-do tasks but cannot create new ones and assign them to others.</p>
+<p><strong>Files</strong></p>
+<p>Observers can only view and download file attachments.</p>
+<p><strong>Members</strong></p>
+<p>Observers can only preview group members and their roles.</p>
+<p><img src="pictures/Groups_Observers_chat_26_04.png" alt="Pictures"></p>
 </article>
           </div>
           
