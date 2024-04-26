@@ -88,4 +88,4 @@ Observers can only view and download file attachments.
 
 Observers can only preview group members and their roles.
 
-![Pictures](pictures/![Pictures](pictures/Groups_Observer_26_04.png)  )   
+![Pictures](pictures/Groups_Observer_26_04.png)   
