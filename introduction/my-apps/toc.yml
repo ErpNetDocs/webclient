@@ -3,8 +3,8 @@
 - name: Dashboard
   href: dashboard.md
 - name: Groups
-  href: groups/index.md
-  topicHref: groups/toc.yml
+  href: groups/toc.yml
+  topicHref: groups/index.md
 - name: Calendar
   href: calendar.md
 - name: Activity participants
