@@ -31,7 +31,7 @@ For most members, it includes industry-standard features like the ability to pre
 
 The **Calendar** allows members with the necessary permission levels to create and see various events and meetings that will be visible to the whole group.
 
-If you create or are involved in a group activity as a participant, it will appear **[in your own personal Calendar](./my-apps/calendar.md)** as well.
+If you create or are involved in a group activity as a participant, it will appear **[in your own personal Calendar](https://docs.erp.net/webclient/introduction/my-apps/calendar.html)** as well.
 
 ![Pictures](pictures/Groups_calendar_16_04.png)
 
