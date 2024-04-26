@@ -8,6 +8,8 @@ This allows them to access only the functionalities relevant to them at the mome
 
 Every social group in **ERP.net** comes with three predefined roles for user assignment, each having fixed permission levels that cannot be customized. 
 
+ ![Pictures](pictures/Groups_Members_26_04.png)  
+
 If users with limited access need to get a broader range of capabilities, they must be promoted to a role offering extra features.
 
 Similarly, in case a member needs to get demoted, they can be assigned a role that prevents them from performing a certain set of actions.
@@ -69,6 +71,8 @@ It is ideal for members who do not need to actively interact with the group but 
 **Chat** 
 
 Observers can preview and react to existing chat messages but are unable to write new ones or reply to others.
+
+![Pictures](pictures/Groups_Observer_26_04.png)  
 
 **Calendar**
 
