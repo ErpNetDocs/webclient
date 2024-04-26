@@ -2,6 +2,9 @@
   href: index.md
 - name: Dashboard
   href: dashboard.md
+- name: Groups
+  href: groups/index.md
+  topicHref: groups/toc.yml
 - name: Calendar
   href: calendar.md
 - name: Activity participants
