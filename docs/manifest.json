@@ -1390,6 +1390,50 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/groups/pictures/Groups_Members_26_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/groups/pictures/Groups_Members_26_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/groups/pictures/Groups_Members_view_26_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/groups/pictures/Groups_Members_view_26_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/groups/pictures/Groups_Observer_26_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/groups/pictures/Groups_Observer_26_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/my-apps/groups/pictures/Groups_Observers_chat_26_04.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/my-apps/groups/pictures/Groups_Observers_chat_26_04.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/my-apps/groups/pictures/Groups_ToDo_16_04.png",
       "output": {
         "resource": {
