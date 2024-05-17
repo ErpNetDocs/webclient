@@ -5856,6 +5856,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/Product_supply_panel_menu_17_05.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/Product_supply_panel_menu_17_05.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/Product_supply_panel_navigation_17_05.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/Product_supply_panel_navigation_17_05.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/how-to/pictures/aadd_roles_new.png",
       "output": {
         "resource": {
@@ -6520,6 +6542,18 @@
       "output": {
         "resource": {
           "relative_path": "introduction/how-to/pictures/tiles_readys.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/product-supply.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/product-supply.html",
+          "hash": "GovjvPwvOgWdPGEyOXKtYA=="
         }
       },
       "is_incremental": false,
