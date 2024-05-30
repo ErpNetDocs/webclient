@@ -32,11 +32,11 @@ You can display products from a specific group in the **Product Supply** panel f
 
 To do this, open the **Product Group** drop-down menu and select the desired group.
 
-*Placeholder - Image*
+![picture](pictures/Product_supply_panel_group_30_05.png)
 
 Once selected, only products from the chosen group will appear in the list.
 
-*Placeholder - Image*
+![picture](pictures/Product_supply_panel_group_result_30_05.png)
 
 ## Buttons to change the quantity 
 
