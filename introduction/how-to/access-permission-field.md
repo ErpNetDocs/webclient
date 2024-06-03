@@ -15,7 +15,7 @@ This way, you can limit an attachment's visiblity to just the person who uploade
 > [!TIP]
 > Click the **Square button** of the **Files** panel to use it in full-screen mode.
 
-2. Within the Detail settings, locate the **Access Permission** field and expand its dropdown menu.
+2. Within the **Detail** settings, locate the **Access Permission** field and expand its dropdown menu.
 
    The following rules can be enforced:
 
