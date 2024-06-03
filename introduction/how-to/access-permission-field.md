@@ -1,10 +1,8 @@
 # How to use the Access Permission field
 
-There's a way to individually control each document attachment’s accessibility by setting one of three access permission rules. 
+There's a way to individually control each document attachment’s accessibility by enforcing one of three access permission rules. 
 
 This way, you can limit an attachment's visiblity to just the person who uploaded it, all internal users belonging to the same enterprise company, or both internal and external (e.g. Client Center) users.
-
-To achieve precise accessibility control, you need to modify the **Access Permission** field found in the **Files** panel available for each document.
 
 ### Step-by-step process
 
@@ -15,16 +13,16 @@ To achieve precise accessibility control, you need to modify the **Access Permis
 ![picture](pictures/three_dots.png)
 
 > [!TIP]
-> You can click the **Square button** of the **Files** panel to use it in full-screen mode.
+> Click the **Square button** of the **Files** panel to use it in full-screen mode.
 
-2. Within the detail settings, locate the **Access Permission** field and expand its dropdown menu.
+2. Within the Detail settings, locate the **Access Permission** field and expand its dropdown menu.
 
-   This will reveal a list of options:
+   The following rules can be enforced:
 
-   * **Creators only** - the file will remain visible exclusively to the person who attached it
-   * **Internal users** - the file will be visible to the creator and all internal users belonging to the same enterprise company
-   * **Internal users + external users** - the file will be visible to the creator, internal users, and external users.
+   * **Creators only** - the file will be visible exclusively to the person who uploaded it
+   * **Internal users** - the file will be visible to its creator and all internal users belonging to the same enterprise company
+   * **Internal users + external users** - the file will be visible to its creator, internal users, and external users.
 
 ![picture](pictures/per_access_options.png)
  
-Once you modify the **Access Permission** field, your changes will take effect instantly.
+Once you modify the **Access Permission** field of a document attachment, your changes will take effect instantly.
