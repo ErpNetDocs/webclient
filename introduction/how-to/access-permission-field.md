@@ -14,11 +14,11 @@ When you click on a document, the side panel will show you if there are attached
  
 To choose who can see the files attached to a document, you can use the **Detail** option.
 
-![picture](pictures/detail_option.png)
+![picture](pictures/detail_button.png)
 
 It may be more convenient to maximize your page, use the **Square button**.
 
-![picture](pictures/maximize_button.png)
+![picture](pictures/full_Screen.png)
 
 The **Access Permission** field allows you to select the drop down menu to choose from three types of visibility: 
 
@@ -26,6 +26,6 @@ The **Access Permission** field allows you to select the drop down menu to choos
 **Internal users** - the files are accessible exclusively to internal users. 
 **Internal users + external users** - the files are visible to everyone, including external users.
 
-![picture](pictures/access_options.png)
+![picture](pictures/acc_per_options.png)
  
 Once you modify this field, your changes will be applied instantly.
