@@ -1,36 +1,34 @@
 # How to use the Product supply panel 
 
-For **purchase order**, **transfer order**, and **work order** documents, there's a functional panel called **Product Supply**. 
+For **purchase**, **transfer**, and **work order** documents, there's a functional panel called **Product Supply**. 
 
-It displays a list of products available for delivery at a specific store within the selected enterprise company. 
+It displays a list of currently active products available for delivery for a specific store in a particular enterprise company. 
 
-It filters products based on their procurement method, e.g. **PurchaseOrder.Supplier**, **TransferOrder.FromStore**, or **WorkOrder.DefaultStore**.
+These products are filtered by **PurchaseOrder.Supplier**, **TransferOrder.FromStore**, and **WorkOrder.DefaultStore**, respectively.
 
 ### Navigation 
 
-To open the **Product supply** panel, you need to navigate to a document of which kind it’s available. 
+To reveal the **Product supply** panel, you need to open the document form of either a purchase, a transfer, or a work order.
 
-![picture](pictures/Product_supply_panel_navigation_17_05.png)
-
-Once you’ve opened one, choose **Product supply** from the list of **Functional panels** found within the **Menu** button.
+Then, choose **Product supply** from the list of **Functional panels** found within the **Menu** button.
 
 ![picture](pictures/Product_supply_panel_menu_17_05.png)
 
-## Product panel information
+## Panel features
 
-The **Product Supply** panel includes a search bar and an option to filter by product groups. 
+The **Product supply** panel includes a **search bar** and an option to **filter** products by groups. 
 
-You can adjust the product quantity by using the “+” and “-” buttons. 
+You can enter **product quantities** manually, adjust them with the “**+**” and “**-**” buttons, as well as determine their **measurement units**, 
 
-There is also a button displaying the amount suggested for the product. 
+Quantities which are supplied will be interpreted as new rows in the **Lines** panel of the respective document.
 
 *Placeholder - Image* 
 
 ### Filter by product groups
 
-You can display products from a specific group in the **Product Supply** panel for your convenience. 
+You can limit the reach of products available for delivery in the **Product supply** panel by filtering them by product groups. 
 
-To do this, open the **Product Group** drop-down menu and select the desired group.
+Simply expand the **Product Group** dropdown menu and select the desired group.
 
 ![picture](pictures/Product_supply_panel_group_30_05.png)
 
@@ -38,24 +36,16 @@ Once selected, only products from the chosen group will appear in the list.
 
 ![picture](pictures/Product_supply_panel_group_result_30_05.png)
 
-## Change quantity 
+### Replenish quantities
 
-In the **Product Supply** panel, you can view and adjust the quantity of listed products. 
+The **Product Supply** panel offers automated suggestions for replenishing quantities for a particular product. 
 
-Use the “+” and “-” buttons to increase or decrease the quantity as needed.
+These are represented by an **orange button** located to the right of the product's measurement unit. 
 
-*Placeholder - Image*
-
-### Suggested quantity 
-
-In the **Product Supply** panel, an orange button is located between the unit count and the “+” button. 
+Clicking this button will automatically set the quantity to the suggested value for replenishment.
 
 *Placeholder - Image*
 
-Clicking this button will automatically set the suggested quantity for that product.
-
-*Placeholder - Image*
-
-> [!NOTE]
-> This button is displayed only for products that are available for supply.
+> [!WARNING]
+> Suggestions for replenishment are shown only for products that can be supplied.
 
