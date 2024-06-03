@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>How to use the Product supply panel | ERP.net Web Client </title>
+    <title>How to use the Access Permission field | ERP.net Web Client </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="How to use the Product supply panel | ERP.net Web Client ">
+    <meta name="title" content="How to use the Access Permission field | ERP.net Web Client ">
     <meta name="generator" content="docfx 2.56.9.0">
     
     <link rel="shortcut icon" href="../../favicon.ico">
@@ -77,39 +77,33 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="how-to-use-the-product-supply-panel">How to use the Product supply panel</h1>
+<h1 id="how-to-use-the-access-permission-field">How to use the Access Permission field</h1>
 
-<p>For <strong>purchase</strong>, <strong>transfer</strong>, and <strong>work order</strong> documents, there's a functional panel called <strong>Product Supply</strong>.</p>
-<p>It displays a list of currently active products available for delivery for a specific store in a particular enterprise company.</p>
-<p>These products are filtered by <strong>PurchaseOrder.Supplier</strong>, <strong>TransferOrder.FromStore</strong>, and <strong>WorkOrder.DefaultStore</strong>, respectively.</p>
-<h3 id="navigation">Navigation</h3>
-<p>To reveal the <strong>Product supply</strong> panel, you need to open the document form of either a purchase, a transfer, or a work order.</p>
-<p>Then, choose <strong>Product supply</strong> from the list of <strong>Functional panels</strong> found within the <strong>Menu</strong> button.</p>
-<p><img src="pictures/Product_supply_panel_menu_17_05.png" alt="picture"></p>
-<h2 id="panel-features">Panel features</h2>
-<p>The <strong>Product supply</strong> panel includes a <strong>search bar</strong> and an option to <strong>filter</strong> products by groups.</p>
-<p>You can enter <strong>product quantities</strong> manually, adjust them with the “<strong>+</strong>” and “<strong>-</strong>” buttons, as well as determine their <strong>measurement units</strong>,</p>
-<p>Quantities which are supplied will be interpreted as new rows in the <strong>Lines</strong> panel of the respective document.</p>
-<p><em>Placeholder - Image</em></p>
-<h3 id="filter-by-product-groups">Filter by product groups</h3>
-<p>You can limit the reach of products available for delivery in the <strong>Product supply</strong> panel by filtering them by product groups.</p>
-<p>Simply expand the <strong>Product Group</strong> dropdown menu and select the desired group.</p>
-<p><img src="pictures/Product_supply_panel_group_30_05.png" alt="picture"></p>
-<p>Once selected, only products from the chosen group will appear in the list.</p>
-<p><img src="pictures/Product_supply_panel_group_result_30_05.png" alt="picture"></p>
-<h3 id="set-quantities-and-measurement-units">Set quantities and measurement units</h3>
-<p>You can easily <strong>increase</strong> or <strong>decrease</strong> quantities of products available for delivery, as well as <strong>change</strong> their default measurement units.</p>
-<p>Use the “<strong>+</strong>” and “<strong>-</strong>” buttons to increase or decrease quantities as needed.</p>
-<p><em>Placeholder - Image</em></p>
-<h3 id="replenish-quantities">Replenish quantities</h3>
-<p>The <strong>Product Supply</strong> panel offers automated suggestions for replenishing quantities for a particular product.</p>
-<p>These are represented by an <strong>orange button</strong> located to the right of the product's measurement unit.</p>
-<p>Clicking this button will automatically set the quantity to the suggested value for replenishment.</p>
-<p><em>Placeholder - Image</em></p>
-<div class="WARNING">
-<h5>Warning</h5>
-<p>Suggestions for replenishment are shown only for products that can be supplied.</p>
+<p>There's a way to individually control each document attachment’s accessibility by enforcing one of three access permission rules.</p>
+<p>This way, you can limit an attachment's visiblity to just the person who uploaded it, all internal users belonging to the same enterprise company, or both internal and external (e.g. Client Center) users.</p>
+<h3 id="step-by-step-process">Step-by-step process</h3>
+<ol>
+<li><p>From the <strong>Files</strong> panel of a document, click on the three-dot button and select the <strong>Detail</strong> option.</p>
+<p>This allows you to expand settings for each uploaded attachment.</p>
+</li>
+</ol>
+<p><img src="pictures/three_dots.png" alt="picture"></p>
+<div class="TIP">
+<h5>Tip</h5>
+<p>Click the <strong>Square button</strong> of the <strong>Files</strong> panel to use it in full-screen mode.</p>
 </div>
+<ol start="2">
+<li><p>Within the <strong>Detail</strong> settings, locate the <strong>Access Permission</strong> field and expand its dropdown menu.</p>
+<p>The following rules can be enforced:</p>
+<ul>
+<li><strong>Creators only</strong> - the file will be visible exclusively to the person who uploaded it</li>
+<li><strong>Internal users</strong> - the file will be visible to its creator and all internal users belonging to the same enterprise company</li>
+<li><strong>Internal users + external users</strong> - the file will be visible to its creator, internal users, and external users.</li>
+</ul>
+</li>
+</ol>
+<p><img src="pictures/per_access_options.png" alt="picture"></p>
+<p>Once you modify the <strong>Access Permission</strong> field of a document attachment, your changes will take effect instantly.</p>
 </article>
           </div>
           
@@ -118,7 +112,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/how-to/product-supply.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/how-to/access-permission-field.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
