@@ -8,24 +8,22 @@ To achieve precise accessibility control, you need to modify the **Access Permis
 
 ### Step-by-step process
 
-From the **Files** panel of a document, click on the three-dot button and select the **Detail** option.
+1. From the **Files** panel of a document, click on the three-dot button and select the **Detail** option.
 
-This allows you to expand settings for each uploaded attachment.
+   This allows you to expand settings for each uploaded attachment.
 
 ![picture](pictures/three_dots.png)
 
 > [!TIP]
-> You can use the **Square button** to use the **Files** panel in full-screen mode.
+> You can click the **Square button** of the **Files** panel to use it in full-screen mode.
 
-![picture](pictures/full_screen_mode.png)
+2. Within the detail settings, locate the **Access Permission** field and expand its dropdown menu.
 
-Within the detail settings, locate the **Access Permission** field and expand its dropdown menu.
+   This will reveal a list of options:
 
-This will reveal a list of options:
-
-* **Creators only** - the file will remain visible exclusively to the person who attached it
-* **Internal users** - the file will be visible to the creator and all internal users belonging to the same enterprise company
-* **Internal users + external users** - the file will be visible to the creator, internal users, and external users.
+   * **Creators only** - the file will remain visible exclusively to the person who attached it
+   * **Internal users** - the file will be visible to the creator and all internal users belonging to the same enterprise company
+   * **Internal users + external users** - the file will be visible to the creator, internal users, and external users.
 
 ![picture](pictures/per_access_options.png)
  
