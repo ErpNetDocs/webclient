@@ -36,6 +36,14 @@ Once selected, only products from the chosen group will appear in the list.
 
 ![picture](pictures/Product_supply_panel_group_result_30_05.png)
 
+### Set quantities and measurement units 
+
+You can easily **increase** or **decrease** quantities of products available for delivery, as well as **change** their default measurement units.
+
+Use the “**+**” and “**-**” buttons to increase or decrease quantities as needed.
+
+*Placeholder - Image* 
+
 ### Replenish quantities
 
 The **Product Supply** panel offers automated suggestions for replenishing quantities for a particular product. 
