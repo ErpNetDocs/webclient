@@ -12,7 +12,7 @@ To reveal the **Product supply** panel, you need to open the document form of ei
 
 Then, choose **Product supply** from the list of **Functional panels** found within the **Menu** button.
 
-![picture](pictures/Product_supply_panel_menu_17_05.png)
+![picture](pictures/Logistics_Product_Supply_panel_04_06.png)
 
 ## Panel features
 
