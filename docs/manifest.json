@@ -37,6 +37,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/full_screen_mode.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/full_screen_mode.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/how-to/filtering_expression_tile_name_29_03.png",
       "output": {
         "resource": {
@@ -279,6 +290,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/acc_per_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/acc_per_options.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/access_field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/access_field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/access_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/access_options.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/how-to/pictures/add_panel.png",
       "output": {
         "resource": {
@@ -360,6 +404,28 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/how-to/pictures/current_or_emptys.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/detail_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/detail_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/detail_option.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/detail_option.png"
         }
       },
       "is_incremental": false,
@@ -477,6 +543,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/file panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/file panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/how-to/pictures/filter-row.png",
       "output": {
         "resource": {
@@ -587,6 +664,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/full_Screen.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/full_Screen.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/full_screen_mode.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/full_screen_mode.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/how-to/pictures/intro_category.png",
       "output": {
         "resource": {
@@ -624,6 +723,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/how-to/pictures/intropanels_corrected.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/maximize_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/maximize_button.png"
         }
       },
       "is_incremental": false,
@@ -756,6 +866,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/how-to/pictures/panels-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/per_access_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/per_access_options.png"
         }
       },
       "is_incremental": false,
@@ -910,6 +1031,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/how-to/pictures/store_threedot_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/three_dots.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/three_dots.png"
         }
       },
       "is_incremental": false,
@@ -4679,6 +4811,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/per_access_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/per_access_options.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/three_dots.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/three_dots.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/wms-worker/orders/pictures/execute-order.png",
       "output": {
         "resource": {
@@ -5923,6 +6077,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/Logistics_Product_Supply_panel_04_06.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/Logistics_Product_Supply_panel_04_06.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/how-to/pictures/Product_supply_panel_group_30_05.png",
       "output": {
         "resource": {
@@ -6763,7 +6928,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/product-supply.html",
-          "hash": "nI/wxILBEUflnZ4FWi66iQ=="
+          "hash": "weMAtd9Zsg5OLstUhUTbIw=="
         }
       },
       "is_incremental": false,
