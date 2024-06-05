@@ -235,6 +235,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/Logistics_Product_Supply_panel_04_06.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/Logistics_Product_Supply_panel_04_06.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/how-to/pictures/Product_supply_panel_group_30_05.png",
       "output": {
         "resource": {
