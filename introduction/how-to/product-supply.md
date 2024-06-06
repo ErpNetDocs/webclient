@@ -54,3 +54,6 @@ Clicking this button will automatically set the product quantity to the suggeste
 
 > [!WARNING]
 > Suggestions for replenishment are shown only for products that can be supplied.
+
+> [!NOTE]
+> The screenshots taken for this article are from v24 of the platform.
