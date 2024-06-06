@@ -116,3 +116,6 @@ Then, create a tile for it, naming it “Orders for current company”.
 When you save your tile, you will be able to access it from within the **Tiles** app in the **My** module, or directly from the respective navigator if it's integrated as a panel.
  
 ![picture](pictures/tiles_readys.png)
+
+> [!NOTE]
+> The screenshots taken for this article are from v24 of the platform.
