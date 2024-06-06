@@ -22,7 +22,10 @@ You can enter **product quantities** manually, adjust them with the “**+**” 
 
 Quantities which are supplied will be interpreted as new rows in the **Lines** panel of the respective document.
 
-*Placeholder - Image* 
+![picture](pictures/Product_Supply_panel_view_06_06.png)
+
+> [!NOTE]
+> To change the quantites you need to be in Edit mode.
 
 ### Filter by product groups
 
@@ -42,7 +45,7 @@ You can easily **increase** or **decrease** quantities of products available for
 
 Use the “**+**” and “**-**” buttons to increase or decrease quantities as needed.
 
-*Placeholder - Image* 
+![picture](pictures/Product_Supply_panel_change_quantity_06_06.png)
 
 ### Replenish quantities
 
@@ -52,8 +55,7 @@ These are represented by an **orange button** located to the right of the produc
 
 Clicking this button will automatically set the quantity to the suggested value for replenishment.
 
-*Placeholder - Image*
+![picture](pictures/Product_Supply_panel_recomended_06_06.png)
 
 > [!WARNING]
 > Suggestions for replenishment are shown only for products that can be supplied.
-
