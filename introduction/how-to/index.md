@@ -9,6 +9,8 @@ Here, you will find guides that can help you better navigate and use the @@name 
 - **[Use period expressions](period-expressions.md)**
 
 - **[Use filtering expressions](filtering-expressions.md)**
+
+- **[Use the Product supply panel](product-supply.md)**
   
 - **[Use the multi-column layout](multi-column-layout.md)**
   
