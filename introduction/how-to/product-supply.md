@@ -20,7 +20,7 @@ The **Product supply** panel includes a **search bar** and an option to **filter
 
 You can enter **product quantities** manually, adjust them with “**+**” and “**-**” buttons, as well as determine their **measurement units**, 
 
-Quantities which are supplied will be interpreted as new rows in the **Lines** panel of the respective document.
+Quantities supplied for a product are interpreted as new rows in the **Lines** panel of the respective document.
 
 ![picture](pictures/Product_Supply_panel_view_06_06.png)
 
@@ -38,7 +38,9 @@ Once selected, only products from the chosen group will appear in the list.
 
 You can easily **increase** or **decrease** quantities of products available for delivery, as well as **change** their default measurement units.
 
-To do so, you need to be in **Edit mode** for the respective document. Then, use the “**+**” and “**-**” buttons to increase or decrease quantities as needed.
+To do so, you need to be in **Edit mode** for the respective document. 
+
+Then, use the “**+**” and “**-**” buttons to increase or decrease quantities as needed.
 
 ![picture](pictures/Product_Supply_panel_change_quantity_06_06.png)
 
