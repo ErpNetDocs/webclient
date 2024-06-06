@@ -50,7 +50,7 @@ These are represented by an **orange button** located to the right of the produc
 
 Clicking this button will automatically set the product quantity to the suggested value for replenishment.
 
-![picture](pictures/Product_Supply_panel_recomended_06_06.png)
+![picture](pictures/Product_Supply_panel_recomended_blue_06_06.png)
 
 > [!WARNING]
 > Suggestions for replenishment are shown only for products that can be supplied.
