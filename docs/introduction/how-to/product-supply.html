@@ -81,10 +81,22 @@
 
 <p>For <strong>purchase</strong>, <strong>transfer</strong>, and <strong>work order</strong> documents, there's a functional panel called <strong>Product Supply</strong>.</p>
 <p>It displays a list of currently active products available for delivery for a specific store in a particular enterprise company.</p>
-<p>These products are filtered by <strong>PurchaseOrder.Supplier</strong>, <strong>TransferOrder.FromStore</strong>, and <strong>WorkOrder.DefaultStore</strong>, respectively.</p>
+<ul>
+<li>For purchase orders, this list is filtered by the <strong>Supplier</strong> field.</li>
+<li>For transfer orders, it is filtered by the <strong>FromStore</strong> field.</li>
+<li>For work orders, the list is filtered by the <strong>DefaultStore</strong> field.</li>
+</ul>
 <h3 id="navigation">Navigation</h3>
 <p>To reveal the <strong>Product supply</strong> panel, you need to open the document form of either a purchase, a transfer, or a work order.</p>
 <p>Then, choose <strong>Product supply</strong> from the list of <strong>Functional panels</strong> found within the <strong>Menu</strong> button.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>The panel's buttons will be visible and usable only when you:</p>
+<ul>
+<li><strong>create</strong> a new purchase, transfer, or work order</li>
+<li><strong>edit</strong> an existing purchase, transfer, or work order with status lower than Released.</li>
+</ul>
+</div>
 <p><img src="pictures/Logistics_Product_Supply_panel_04_06.png" alt="picture"></p>
 <h2 id="panel-features">Panel features</h2>
 <p>The <strong>Product supply</strong> panel includes a <strong>search bar</strong> and an option to <strong>filter</strong> products by groups.</p>
@@ -92,8 +104,8 @@
 <p>Quantities supplied for a product are interpreted as new rows in the <strong>Lines</strong> panel of the respective document.</p>
 <p><img src="pictures/Product_Supply_panel_view_06_06.png" alt="picture"></p>
 <h3 id="filter-by-product-groups">Filter by product groups</h3>
-<p>You can limit the reach of products available for delivery in the <strong>Product supply</strong> panel by filtering them by product groups.</p>
-<p>Simply expand the <strong>Product Group</strong> dropdown menu and select the desired group.</p>
+<p>For convenience, you can filter products for supply by choosing the <strong>product group</strong> to which they belong.</p>
+<p>Simply expand the <strong>Product Group</strong> dropdown menu from the <strong>Product supply</strong> panel and select the desired group.</p>
 <p>Once selected, only products from the chosen group will appear in the list.</p>
 <p><img src="pictures/Product_supply_panel_group_result_30_05.png" alt="picture"></p>
 <h3 id="set-quantities-and-measurement-units">Set quantities and measurement units</h3>
