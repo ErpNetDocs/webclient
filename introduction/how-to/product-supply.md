@@ -31,9 +31,9 @@ Quantities supplied for a product are interpreted as new rows in the **Lines** p
 
 ### Filter by product groups
 
-You can limit the reach of products available for delivery in the **Product supply** panel by filtering them by product groups. 
+For convenience, you can filter products for supply by choosing the **product group** to which they belong.
 
-Simply expand the **Product Group** dropdown menu and select the desired group.
+Simply expand the **Product Group** dropdown menu from the **Product supply** panel and select the desired group.
 
 Once selected, only products from the chosen group will appear in the list.
 
