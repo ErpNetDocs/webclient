@@ -12,6 +12,9 @@ To reveal the **Product supply** panel, you need to open the document form of ei
 
 Then, choose **Product supply** from the list of **Functional panels** found within the **Menu** button.
 
+> [!NOTE]
+> The panel's buttons will be visible and usable **only** when you're creating a new purchase, transfer, or work order, or when you're editing an existing purchase, transfer, or work order with status lower than Released.
+
 ![picture](pictures/Logistics_Product_Supply_panel_04_06.png)
 
 ## Panel features
