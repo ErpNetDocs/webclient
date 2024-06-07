@@ -4,7 +4,9 @@ For **purchase**, **transfer**, and **work order** documents, there's a function
 
 It displays a list of currently active products available for delivery for a specific store in a particular enterprise company. 
 
-These products are filtered by **PurchaseOrder.Supplier**, **TransferOrder.FromStore**, and **WorkOrder.DefaultStore**, respectively.
+* For purchase orders, this list is filtered by the *Supplier* field.
+* For transfer orders, it is filtered by the *FromStore* field.
+* For work orders, the list is filtered by the *DefaultStore* field.
 
 ### Navigation 
 
