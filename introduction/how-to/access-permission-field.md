@@ -2,7 +2,7 @@
 
 There's a way to individually control each document attachment’s accessibility by enforcing one of three access permission rules. 
 
-This way, you can limit an attachment's visiblity to just the person who uploaded it, all internal users belonging to the same enterprise company, or both internal and external (e.g. Client Center) users.
+This way, you can limit an attachment's visiblity to just the person who uploaded it, all internal users, or both internal and external (e.g. Client Center) users.
 
 ### Step-by-step process
 
@@ -20,7 +20,7 @@ This way, you can limit an attachment's visiblity to just the person who uploade
    The following rules can be enforced:
 
    * **Creators only** - the file will be visible exclusively to the person who uploaded it
-   * **Internal users** - the file will be visible to its creator and all internal users belonging to the same enterprise company
+   * **Internal users** - the file will be visible to its creator and all internal users
    * **Internal users + external users** - the file will be visible to its creator, internal users, and external users.
 
 ![picture](pictures/per_access_options.png)
