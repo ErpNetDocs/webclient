@@ -26,3 +26,7 @@ This way, you can limit an attachment's visiblity to just the person who uploade
    ![picture](pictures/new_access_permission_options.png)
  
 Once you modify the **Access Permission** field, your changes will take effect instantly.
+
+> [!NOTE]
+> 
+> The screenshots taken for this article are from v24 of the platform.
