@@ -20,9 +20,8 @@ This way, you can limit an attachment's visiblity to just the person who uploade
    * **Internal users** - the file will be visible to all internal users
    * **Internal users + external users** - the file will be visible to all internal and external users.
 
-  
-   > [!TIP]
-   > Click the **Square button** of the **Files** panel to use it in full-screen mode.
+> [!TIP]
+> Click the **Square button** of the **Files** panel to use it in full-screen mode.
 
    ![picture](pictures/new_access_permission_options.png)
  
