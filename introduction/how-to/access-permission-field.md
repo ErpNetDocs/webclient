@@ -1,4 +1,4 @@
-# How to use the Access Permission field
+# How to use the Access Permission field in the Files panel
 
 There's a way to individually control each document attachment’s accessibility by enforcing one of three access permission rules. 
 
