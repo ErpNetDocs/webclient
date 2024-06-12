@@ -10,7 +10,7 @@ This way, you can limit an attachment's visiblity to just the person who uploade
 
    This allows you to expand settings for each uploaded attachment.
 
-![picture](pictures/new_access_permission_detail.png)
+   ![picture](pictures/new_access_permission_detail.png)
 
 > [!TIP]
 > Click the **Square button** of the **Files** panel to use it in full-screen mode.
@@ -23,6 +23,6 @@ This way, you can limit an attachment's visiblity to just the person who uploade
    * **Internal users** - the file will be visible to all internal users
    * **Internal users + external users** - the file will be visible to all internal and external users.
 
-![picture](pictures/new_access_permission_options.png)
+   ![picture](pictures/new_access_permission_options.png)
  
 Once you modify the **Access Permission** field of a document attachment, your changes will take effect instantly.
