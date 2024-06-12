@@ -21,8 +21,8 @@
   },
   "introduction/how-to/access-permission-field.html": {
     "href": "introduction/how-to/access-permission-field.html",
-    "title": "How to use the Access Permission field | ERP.net Web Client",
-    "keywords": "How to use the Access Permission field There's a way to individually control each document attachment’s accessibility by enforcing one of three access permission rules. This way, you can limit an attachment's visiblity to just the person who uploaded it, all internal users, or both internal and external (e.g. Client Center) users. Step-by-step process From the Files panel of a document, click on the three-dot button and select the Detail option. This allows you to expand settings for each uploaded attachment. Tip Click the Square button of the Files panel to use it in full-screen mode. Within the Detail settings, locate the Access Permission field and expand its dropdown menu. The following rules can be enforced: Creators only - the file will be visible exclusively to the person who uploaded it Internal users - the file will be visible to its creator and all internal users Internal users + external users - the file will be visible to its creator, internal users, and external users. Once you modify the Access Permission field of a document attachment, your changes will take effect instantly."
+    "title": "How to use the Access Permission field in the Files panel | ERP.net Web Client",
+    "keywords": "How to use the Access Permission field in the Files panel For all forms, there's a way to individually control file accessibility by enforcing one of three access permission rules. This way, you can limit an attachment's visiblity to just the person who uploaded it, all internal users, or both internal and external (e.g. Client Center) users. Step-by-step process From the Files panel of a form, click on the three-dot button and select the Detail option. This allows you to expand settings for each uploaded attachment. Within the Detail settings, locate the Access Permission field and expand its dropdown menu. The following rules can be enforced: Creators only - the file will be visible to the person who uploaded it as well as to administrators Internal users - the file will be visible to all internal users Internal users + external users - the file will be visible to all internal and external users. Tip Click the Square button of the Files panel to use it in full-screen mode. Once you modify the Access Permission field, your changes will take effect instantly. Note The screenshots taken for this article are from v24 of the platform."
   },
   "introduction/how-to/create-new.html": {
     "href": "introduction/how-to/create-new.html",
@@ -47,7 +47,7 @@
   "introduction/how-to/index.html": {
     "href": "introduction/how-to/index.html",
     "title": "How To | ERP.net Web Client",
-    "keywords": "How To Here, you will find guides that can help you better navigate and use the ERP.net Web Client. Use the \"Create new\" option Use filter rows in navigators Use period expressions Use filtering expressions Use the Product supply panel Use the multi-column layout Search in dropdown lists Use the \"Select by navigator\" option Define user roles Apply UI customization options"
+    "keywords": "How To Here, you will find guides that can help you better navigate and use the ERP.net Web Client. Use the \"Create new\" option Use filter rows in navigators Use period expressions Use filtering expressions Use the multi-column layout Search in dropdown lists Use the \"Select by navigator\" option Define user roles Use the Product supply panel Use the Access Permission field in the Files panel Apply UI customization options"
   },
   "introduction/how-to/multi-column-layout.html": {
     "href": "introduction/how-to/multi-column-layout.html",

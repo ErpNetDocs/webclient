@@ -5864,7 +5864,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/access-permission-field.html",
-          "hash": "AQYmQpSREGfBwFKOTF2Z3g=="
+          "hash": "/2OD1xdfPws4zB//xzZSag=="
         }
       },
       "is_incremental": false,
@@ -5924,7 +5924,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/index.html",
-          "hash": "4EkGlVlKikZ2y6kjyUx4/w=="
+          "hash": "SzAsKjRqMYvMYApwGcXhOA=="
         }
       },
       "is_incremental": false,
@@ -6741,6 +6741,28 @@
       "output": {
         "resource": {
           "relative_path": "introduction/how-to/pictures/multiple-columns.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/new_access_permission_detail.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/new_access_permission_detail.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/new_access_permission_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/new_access_permission_options.png"
         }
       },
       "is_incremental": false,
@@ -7808,7 +7830,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/groups/roles.html",
-          "hash": "2lg7LgRKjh+PnAODWl8lCA=="
+          "hash": "CGo3xK4dT84E35bT1Zbp9Q=="
         }
       },
       "is_incremental": false,
@@ -9161,7 +9183,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "3JBSA47PMutkyquNvc9OvA=="
+          "hash": "IQ2GuBsS3YzfajLAbaAZZQ=="
         }
       },
       "is_incremental": false,
