@@ -18,7 +18,7 @@ Here, you will find guides that can help you better navigate and use the @@name 
   
 - **[Define user roles](user-roles.md)**
 
-- **[Use the Access Permission field in the Files panel](product-supply.md)**
+- **[Use the Access Permission field in the Files panel](access-permission-field.md)**
 
 - **[Use the Product supply panel](product-supply.md)**
   
