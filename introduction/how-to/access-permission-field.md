@@ -1,12 +1,12 @@
 # How to use the Access Permission field in the Files panel
 
-There's a way to individually control each document attachment’s accessibility by enforcing one of three access permission rules. 
+For all forms, there's a way to individually control file accessibility by enforcing one of three access permission rules. 
 
 This way, you can limit an attachment's visiblity to just the person who uploaded it, all internal users, or both internal and external (e.g. Client Center) users.
 
 ### Step-by-step process
 
-1. From the **Files** panel of a document, click on the three-dot button and select the **Detail** option.
+1. From the **Files** panel of a form, click on the three-dot button and select the **Detail** option.
 
    This allows you to expand settings for each uploaded attachment.
 
