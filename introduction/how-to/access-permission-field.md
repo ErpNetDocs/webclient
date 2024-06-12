@@ -25,4 +25,4 @@ This way, you can limit an attachment's visiblity to just the person who uploade
 
    ![picture](pictures/new_access_permission_options.png)
  
-Once you modify the **Access Permission** field of a document attachment, your changes will take effect instantly.
+Once you modify the **Access Permission** field, your changes will take effect instantly.
