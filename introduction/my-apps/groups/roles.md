@@ -16,7 +16,9 @@ Similarly, in case a member needs to get demoted, they can be assigned a role th
 
 > [!NOTE]
 >
-> Roles can be delegated and subsequently changed **only** by the group's Admin(s). 
+> Roles can be delegated and subsequently changed **only** by the group's Admin(s).
+
+---
 
 ### Admin
 
@@ -52,6 +54,8 @@ They reserve the exclusive ability to add and remove members, as well as delegat
 
  ![Pictures](pictures/Roles_Admin_16_04.png)  
 
+---
+
 ### Member
 
 The Member role features all the capabilities of the Admin role. 
@@ -61,6 +65,8 @@ However, members **cannot** add and remove other members, as well as delegate an
 Therefore, the only noticeable difference for them is the absence of certain buttons and features in the **Members** tab of the group.
 
 ![Pictures](pictures/Groups_Members_view_26_04.png)   
+
+---
 
 ### Observer
 
