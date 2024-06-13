@@ -851,6 +851,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/new_access_permission_detail.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/new_access_permission_detail.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/pictures/new_access_permission_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/pictures/new_access_permission_options.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/how-to/pictures/new_role.png",
       "output": {
         "resource": {
