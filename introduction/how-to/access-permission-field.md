@@ -16,7 +16,7 @@ This way, you can limit an attachment's visiblity to just the person who uploade
 
    The following rules can be enforced:
 
-   * **Creators only** - the file will be visible to the person who uploaded it as well as to administrators
+   * **Creator only** - the file will be visible to the person who uploaded it as well as to administrators
    * **Internal users** - the file will be visible to all internal users
    * **Internal users + external users** - the file will be visible to all internal and external users.
 
