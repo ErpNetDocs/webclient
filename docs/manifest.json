@@ -7525,15 +7525,24 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/how-to/ui-customization/separate-views.md",
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/ui-customization/separate-views.html",
-          "hash": "8ensWkdt82bYDzeRq0NCUw=="
+          "hash": "tupSn6T2GJbS4pbltio5nw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/ui-customization/sort-by-date.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/ui-customization/sort-by-date.html",
+          "hash": "tJi3y0/tlrURw+HhFnHEaA=="
         }
       },
       "is_incremental": false,
