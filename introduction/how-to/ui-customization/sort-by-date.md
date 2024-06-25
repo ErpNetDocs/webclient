@@ -8,7 +8,7 @@ If you haven't customized the view of a document navigator in any way, or if you
 
 This is done for convenience, as it allows you to see the documents which were most recently created first.
 
-## Access records through links
+## Accessing records
 
 In most navigators, you can access a document or a record through the value of its **first** column, regardless of which column that is.
 
@@ -17,13 +17,10 @@ Values displayed in the rows of that column are accessible through **hyperlinks*
 > [!NOTE]
 > Certain navigators don't support opening links and therefore don't have this feature enabled.
 
-## Accessing a record
+You can alternatively access the document form of a record:
 
-You can access the document form of an individual navigator record in three ways:
-
-1. By clicking on its **hyperlink** in the first column (applicable for most navigators)
-2. By clicking on it, then expanding its **Details** panel and finally clicking on the **Open** button
-3. By clicking on its **icon** positioned in the **system column** at the far-left.
+1. By clicking on it, then expanding its **Details** panel and finally clicking on the **Open** button
+2. By clicking on its **icon** positioned in the **system column** at the far-left.
 
 > [!NOTE]
 > The System column always contains a quick-access button for the respective record and its position cannot be modified
