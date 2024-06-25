@@ -17,6 +17,17 @@ Values displayed in the rows of that column are accessible through **hyperlinks*
 > [!NOTE]
 > Certain navigators don't support opening links and therefore don't have this feature enabled.
 
+## Accessing a record
+
+You can access the document form of an individual navigator record in three ways:
+
+1. By clicking on its **hyperlink** in the first column (applicable for most navigators)
+2. By clicking on it, then expanding its **Details** panel and finally clicking on the **Open** button
+3. By clicking on its **icon** positioned in the **system column** at the far-left.
+
+> [!NOTE]
+> The System column always contains a quick-access button for the respective record and its position cannot be modified
+
 ## Navigator menu
 
 Each navigator features its own dedicated **Menu** through which you can perform the following:
@@ -100,14 +111,5 @@ If you **right-click** on a particular column header in the Show grouping panel,
 * Restore the **default width** of the column that is now used as a grouping column header
 * **Hide** the column header, which disables it from the Show grouping panel and the navigator itself
 
-## Accessing a record
-
-You can access the document form of an individual navigator record in three ways:
-
-1. By clicking on its **hyperlink** in the first column (applicable for most navigators)
-2. By clicking on it, then expanding its **Details** panel and finally clicking on the **Open** button
-3. By clicking on its **icon** positioned in the **system column** at the far-left.
-
 > [!NOTE]
-> The System column always contains a quick-access button for the respective record and its position cannot be modified
-
+> The screenshots for this article are from v24 of the platform.
