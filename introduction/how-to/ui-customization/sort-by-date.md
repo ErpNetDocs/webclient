@@ -1,4 +1,4 @@
-# Use and customize navigators
+# Navigators features
 
 In this step-by-step guide, we will showcase several features and behaviors that are common to all ERP.net Web Client navigators.
 
