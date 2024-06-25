@@ -28,7 +28,7 @@ Each navigator features its own dedicated **Menu** through which you can perform
 * Use **functional panels** to speed up the process of filling out a document
 * Expand **detail panels** to see information relevant for each selected record of the navigator (e.g. the Document Lines)
 * Create **tiles** to save and later easily access a specific navigator view
-* **Customize** the navigator form by enabling, disabling, reordering and renaming its panels and widgets.
+* **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/access-to-views.html)** the navigator form by enabling, disabling, reordering and renaming its panels and widgets.
 
 ## Panel menu
 
@@ -40,11 +40,11 @@ It features the ability to:
 * **Reload** the panel to reflect the most up-to-date information
 * Quickly create a **new** record of one or more respective types
 * **Search** the contents of the respective panel
-* Take advantage of handy filtering features such as the **Grouping panel** and **Filter row**
+* Take advantage of handy filtering features such as the **[Grouping panel](https://docs.erp.net/webclient/introduction/my-apps/documents.html#show-grouping-panel)** and **[Filter row](https://docs.erp.net/webclient/introduction/how-to/filtering-expressions.html)**
 * Select **multiple** records from the panel
 * Create a **.xlsx file** containing all records of the panel
 * Limit the **row counts** of the panel to a specific number
-* **Customize** the panel by enabling, disabling, reordering and renaming its columns.
+* **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/customize-fields.html)** the panel by enabling, disabling, reordering and renaming its columns.
 
 ## Column context menu
 
@@ -77,7 +77,7 @@ We can filter an entire panel's contents by applying a rule where records will b
 
 The context menu of each column allows you to perform several summary functions.
 
-These are used to perform advanced calculations that allow you to see important insights into a panel's records.
+These are used to perform arithmetic and logical operations that allow you to see important insights into a panel's records.
 
 ## Row context menu
 
