@@ -46,6 +46,14 @@ It features the ability to:
 * Limit the **row counts** of the panel to a specific number
 * **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/customize-fields.html)** the panel by enabling, disabling, reordering and renaming its columns.
 
+## Row context menu
+
+If you **right-click** on a particular row, you will expand a dropdown menu with one or more of the following options:
+
+* **Open** the row's associated record
+* Apply an **advanced filter** affecting the entire panel, using this particular row as source (e.g. documment currency)
+* Access the **form definition** of the row (only for fields that can be defined).
+
 ## Column context menu
 
 If you **right-click** on a particular column, you will expand a dropdown menu with the following options:
@@ -53,17 +61,17 @@ If you **right-click** on a particular column, you will expand a dropdown menu w
 * **Sort** the column's contents by ascending or descending order
 * **Clear** the sorting, restoring the column view to default
 * **Group** the records of the column by specific criteria like character count, word count, etc.
-* **Summarize** applicable column contents using a Min, Max, Count or Distinct function
+* **[Summarize](https://docs.erp.net/webclient/introduction/my-apps/documents.html#summary)** applicable column records to get important insights
 * Restore the column's **default width**
 * **Hide** the column from view (can be re-enabled through the Panel customization Menu)
 
 ### Multi-export
 
-Whenever you select multiple records using the **Multi select** feature, a new **Selected** count will appear under the respective panel's menu.
+Whenever you select multiple records using the **Multi select** feature, a new **Selected** count will appear on the navigator's ribbon.
 
 It allows you to **export** the selected records as .xlsx files
 
-### Grouping 
+### Grouping by intervals
 
 Depending on the type of the column (e.g. Date, Number, Document Type), you can perform specific grouping functions.
 
@@ -71,21 +79,26 @@ This is achieved through specific **intervals** such as character counts and tim
 
 **Example:**
 
-We can filter an entire panel's contents by applying a rule where records will be grouped by whether or not they contain a specific document type as an exact matching value.
+We can apply a rule where records will be grouped by the first two characters of each row of a column.
 
-### Summary
+As a result, only records containing these characters will be grouped.
 
-The context menu of each column allows you to perform several summary functions.
+### Grouping by column headers
 
-These are used to perform arithmetic and logical operations that allow you to see important insights into a panel's records.
+With the help of the **[Show grouping panel](https://docs.erp.net/webclient/introduction/my-apps/documents.html#show-grouping-panel)**, you can also group a navigator's records based on a key parameter visualized by its respective column title.
 
-## Row context menu
+Such groups can be used to organize records by type, state, the month they were created on, etc.
 
-If you **right-click** on a particular row, you will expand a dropdown menu with one or more of the following options:
+### Group context menu
 
-* **Open** the row's associated record
-* Apply an **advanced filter** affecting the entire panel, using this particular row as source (e.g. documment currency)
-* Access the **form definition** of the row (e.g. customer, payment type).
+If you **right-click** on a particular column header in the Show grouping panel, you will expand a dropdown menu with one or more of the following options:
+
+* **Expand** and **collapse** all groups of the navigator at once
+* Additionally **group** the panel's contents by different intervals
+* **Sort** all groups by their totals
+* Perform **Summary** functions on all groups, which reveals how many entries in them are count and/or distinct
+* Restore the **default width** of the column that is now used as a grouping column header
+* **Hide** the column header, which disables it from the Show grouping panel and the navigator itself
 
 ## Accessing a record
 
