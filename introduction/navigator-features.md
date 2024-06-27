@@ -103,14 +103,6 @@ If you **right-click** on a particular column, you will expand a dropdown menu w
 
 ![Pictures](pictures/column_context_menu.png)
 
-### Apply Summary functions
-
-Using one of four available **[summary functions](https://docs.erp.net/webclient/introduction/my-apps/documents.html#summary)**, you can obtain hihgly useful statistical insights for each column.
-
-They appear automatically **below** the column itself and can be applied to **multiple** columns at the same time.
-
-![Pictures](pictures/summary.png)
-
 ### Group by intervals
 
 Depending on the type of a column (e.g. Date, Number, Document Type), you can perform more specific grouping operations.
