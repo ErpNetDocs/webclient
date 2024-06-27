@@ -127,22 +127,18 @@ As a result, the entire panel will be divided into "year" groups that include re
 
 ### Group context menu
 
-If you **right-click** on a particular column header in the Show grouping panel, you will expand a dropdown menu with one or more of the following options:
+If you **right-click** on a particular column with a group filter applied, you can expand a dropdown menu with the following unique options:
 
-* **Expand** and **collapse** all groups of the navigator at once
-* Additionally **group** the panel's contents by different intervals
-* **Sort** groups by column headers
-* Perform **Summary** functions on all groups, which reveals how many entries in them are count and/or distinct
-* Restore the **default width** of the column that is now used as a grouping column header
-* **Hide** the column header, which disables it from the Show grouping panel and the navigator itself
+* **Sort** the respective groups based on the column in ascending or descending order
+* **Expand** and **collapse** all groups at once
+* Change the **group interval** applied on the column
+* Perform **Summary** functions on all groups 
 
-#### Sort groups
+#### Sort summarized groups
 
-When Summary functions are applied for a column and that column is used to group records either by intervals or headers, you can additionally **sort** it.
+If a Summary function is applied on a column, you can use it to **sort** existing groups.
 
-For this to work, you will need to apply Summary functions on **at least two** columns and at least one of them must be transformed into a group.
-
-The group itself can be sorted by its respective column or by another column, further defining how results are organized in the navigator.
+Groups can be sorted based on their own column or by columns which have summary functions applied.
 
 ![Pictures](pictures/sort_groups.png)
 
