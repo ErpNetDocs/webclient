@@ -18,10 +18,11 @@
   href: user-roles.md
 - name: Enter keyboard data
   href: enter-stops.md
-- name: Use the Product supply panel
-  href: product-supply.md
 - name: Use the Access Permission field
   href: access-permission-field.md
+- name: Functional panels
+  href: functional-panels/toc.yml
+  topicHref: functional-panels/index.md
 - name: UI customization
   href: ui-customization/toc.yml
   topicHref: ui-customization/index.md
