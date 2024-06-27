@@ -1,6 +1,6 @@
 # Navigator features
 
-In this step-by-step guide, we will showcase several features and behaviors that are common for all ERP.net Web Client navigators.
+There are several features and behaviors that are common for all ERP.net Web Client navigators.
 
 ## Default sorting
 
