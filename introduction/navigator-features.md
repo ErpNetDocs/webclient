@@ -138,7 +138,11 @@ If you **right-click** on a particular column header in the Show grouping panel,
 
 #### Sort groups
 
-When 
+When Summary functions are applied for a column and that column is used to group records either by intervals or headers, you can additionally **sort** it.
+
+For this to work, you will need to apply Summary functions on **at least two** columns and at least one of them must be transformed into a group.
+
+The group itself can be sorted by its respective column or by another column, further defining how results are organized in the navigator.
 
 ![Pictures](pictures/sort_groups.png)
 
