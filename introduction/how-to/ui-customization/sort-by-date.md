@@ -12,7 +12,7 @@ This is done for convenience, as it allows you to see the documents which were m
 
 In most navigators, you can access a document or a record through the value of its **first** column, regardless of which column that is.
 
-Values displayed in the rows of that column are accessible through **hyperlinks** leading exactly to the document it represents.
+Values displayed in the rows of that column are accessible through **hyperlinks** leading exactly to the document they represent.
 
 > [!NOTE]
 > Certain navigators don't support opening links and therefore don't have this feature enabled.
