@@ -1,15 +1,16 @@
 # Welcome to the @@webclient Documentation
 
-This documentation contains information about the user interface and how to use the @@webclient.
+This documentation contains information about the user interface and capabilities of the @@webclient.
 
-For information and deep dive in the business logic of @@name, check the **[Technical Documentation](https://docs.erp.net/tech)**.
+For more advanced information, check our **[Technical Documentation](https://docs.erp.net/tech)**.
 
 ## Topics
  
-- **[Introduction to @@webclient](./introduction/index.md)** - explanation of commonly used terms, concepts and commands.
-- **[Step-by-step guides](./introduction/how-to/index.md)**
+- **[Introduction to the @@webclient](./introduction/index.md)** - explanation of commonly used terms and concepts.
+- **[My Apps](.my-apps/index.md)** - a quick look at the customizable and personalized My Apps module
+- **[Step-by-step guides](./introduction/how-to/index.md)** - walkthroughs for features and operations specific to the Web Client
   
-## Other documentations
+## More information
 
 - **[All docs](https://docs.erp.net)** - root container for all @@name documentations.
 - **[Technical Documentation](https://docs.erp.net/tech)** - business logic and implementation information.
