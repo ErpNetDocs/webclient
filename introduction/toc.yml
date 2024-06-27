@@ -2,9 +2,11 @@
   href: index.md
 - name: Common terms
   href: terms.md
+- name: Navigator features
+  href: navigator-features.md
 - name: Social ERP
   href: social/toc.yml
-  topicHref: social/index.md  
+  topicHref: social/index.md 
 - name: My apps
   href: my-apps/toc.yml
   topicHref: my-apps/index.md
