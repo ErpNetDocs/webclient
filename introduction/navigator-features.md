@@ -40,7 +40,7 @@ Each navigator features its own dedicated **Menu** through which you can perform
 * Use ERP.net's dedicated **AI Asssistant** (upcoming)
 * Take advantage of **side panels** that reveal additional data and attachments for each selected document
 * Use **[functional panels](./how-to/functional-panels/index.md)** to speed up the process of filling out a document
-* Expand **detail panels** to see information relevant for each selected record of the navigator (e.g. the Document Lines)
+* Expand **detail panels** to see information relevant for each selected record of the navigator (e.g. its Document Lines)
 * Create **tiles** to save and later easily access a specific navigator view
 * **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/access-to-views.html)** the navigator form by enabling, disabling, reordering and renaming its panels and widgets.
 
@@ -60,7 +60,7 @@ It features the ability to:
 * Select **multiple** records from the panel
 * Create a **.xlsx file** containing all records of the panel
 * Limit the **row counts** of the panel to a specific number
-* **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/customize-fields.html)** panels by enabling, disabling, reordering and renaming their columns.
+* **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/customize-fields.html)** the panel by enabling, disabling, reordering and renaming its columns.
 
 ![Pictures](pictures/panel_menu.png)
 
