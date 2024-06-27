@@ -8,8 +8,7 @@ For information and deep dive in the business logic of @@name, check the **[Tech
  
 - **[Introduction to @@webclient](./introduction/index.md)** - explanation of commonly used terms, concepts and commands.
 - **[Step-by-step guides](./introduction/how-to/index.md)**
-- **Specific functionality** - forms which are specific to the @@webclient
-
+  
 ## Other documentations
 
 - **[All docs](https://docs.erp.net)** - root container for all @@name documentations.
