@@ -24,10 +24,10 @@ Values displayed in the rows of that column are accessible through **hyperlinks*
 You can alternatively access the document form of a record:
 
 1. By clicking on it, then expanding its **Details** panel and finally clicking on the **Open** button
-2. By clicking on its **icon** positioned in the **system column** at the far-left.
+2. By clicking on its **icon** positioned in the **System column** at the far-left.
 
 > [!NOTE]
-> The System column always contains a quick-access button for the respective record and its position cannot be modified
+> The **System column** always contains a quick-access button for the respective record and its position cannot be modified
 
 ![Pictures](pictures/access_document_twoways.png)
 
@@ -56,17 +56,17 @@ It features the ability to:
 * **Reload** the panel to reflect the most up-to-date information
 * Quickly create a **new** record of one or more respective types
 * **Search** the contents of the respective panel
-* Take advantage of handy filtering features such as the **[Grouping panel](https://docs.erp.net/webclient/introduction/my-apps/documents.html#show-grouping-panel)** and **[Filter row](https://docs.erp.net/webclient/introduction/how-to/filtering-expressions.html)**
+* Take advantage of handy advanced features like the **[Grouping panel](https://docs.erp.net/webclient/introduction/my-apps/documents.html#show-grouping-panel)** and **[Filter row](https://docs.erp.net/webclient/introduction/how-to/filtering-expressions.html)**
 * Select **multiple** records from the panel
 * Create a **.xlsx file** containing all records of the panel
 * Limit the **row counts** of the panel to a specific number
-* **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/customize-fields.html)** the panel by enabling, disabling, reordering and renaming its columns.
+* **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/customize-fields.html)** panels by enabling, disabling, reordering and renaming their columns.
 
 ![Pictures](pictures/panel_menu.png)
 
-### Multi-export
+### Multi select
 
-Whenever you select multiple records using the **Multi select** feature, a new **Selected** count will appear on the navigator's ribbon.
+Whenever you select multiple records using the **Multi select** feature, a new **Selected** count button will appear on the navigator's ribbon.
 
 It allows you to **export** the selected records as .xlsx files
 
@@ -74,7 +74,7 @@ It allows you to **export** the selected records as .xlsx files
 
 ### Group by column headers
 
-With the help of the **[Show grouping panel](https://docs.erp.net/webclient/introduction/my-apps/documents.html#show-grouping-panel)**, you can also group a navigator's records based on a key parameter visualized by its respective column title.
+With the help of the **[Show grouping panel](https://docs.erp.net/webclient/introduction/my-apps/documents.html#show-grouping-panel)**, you can also group a navigator's records based on one or more column headers.
 
 Such groups can be used to organize records by type, state, the month they were created on, etc.
 
@@ -97,7 +97,7 @@ If you **right-click** on a particular column, you will expand a dropdown menu w
 * **Sort** the column's contents by ascending or descending order
 * **Clear** the sorting, restoring the column view to default
 * **Group** the records of the column by specific criteria like character count, word count, etc.
-* **[Summarize](https://docs.erp.net/webclient/introduction/my-apps/documents.html#summary)** applicable column records to get important insights
+* **[Summarize](https://docs.erp.net/webclient/introduction/my-apps/documents.html#summary)** columns using functions to get important insights
 * Restore the column's **default width**
 * **Hide** the column from view (can be re-enabled through the Panel customization Menu)
 
@@ -105,21 +105,23 @@ If you **right-click** on a particular column, you will expand a dropdown menu w
 
 ### Apply Summary functions
 
-Input information here.
+Using one of four available functions, you can summarize a column's contents to produce hihgly useful statistical insights.
+
+They appear automatically **below** the column itself. Summary functions can be applied to **multiple** columns at the same time.
 
 ![Pictures](pictures/summary.png)
 
 ### Group by intervals
 
-Depending on the type of the column (e.g. Date, Number, Document Type), you can perform specific grouping functions.
+Depending on the type of a column (e.g. Date, Number, Document Type), you can perform more specific grouping operations.
 
-This is achieved through specific **intervals** such as character counts and time periods.
+This is achieved through **intervals** such as character counts and time periods.
 
 **Example:**
 
 We can apply a rule where records will be grouped by the first two characters of each row of a column.
 
-As a result, only records containing these characters will be grouped.
+As a result, the entire panel will be divided into groups that include records containing different sets of two characters in their names.
 
 ![Pictures](pictures/group_by.png)
 
