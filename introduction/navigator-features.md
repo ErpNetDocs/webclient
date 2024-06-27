@@ -119,9 +119,9 @@ This is achieved through **intervals** such as character counts and time periods
 
 **Example:**
 
-We can apply a rule where records will be grouped by the first two characters of each row of a column.
+We can apply a rule where records will be grouped by the year indicated in their Document Date column.
 
-As a result, the entire panel will be divided into groups that include records containing different sets of two characters in their names.
+As a result, the entire panel will be divided into "year" groups that include records created in the respective year.
 
 ![Pictures](pictures/group_by.png)
 
@@ -131,10 +131,14 @@ If you **right-click** on a particular column header in the Show grouping panel,
 
 * **Expand** and **collapse** all groups of the navigator at once
 * Additionally **group** the panel's contents by different intervals
-* **Sort** all groups by their totals
+* **Sort** groups by column headers
 * Perform **Summary** functions on all groups, which reveals how many entries in them are count and/or distinct
 * Restore the **default width** of the column that is now used as a grouping column header
 * **Hide** the column header, which disables it from the Show grouping panel and the navigator itself
+
+#### Sort groups
+
+When 
 
 ![Pictures](pictures/sort_groups.png)
 
