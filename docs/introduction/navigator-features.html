@@ -1,0 +1,221 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Navigator features | ERP.net Web Client </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Navigator features | ERP.net Web Client ">
+    <meta name="generator" content="docfx 2.56.9.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    <meta property="docfx:rel" content="../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="navigator-features">Navigator features</h1>
+
+<p>There are several features and behaviors that are common for all ERP.net Web Client navigators.</p>
+<h2 id="default-sorting">Default sorting</h2>
+<p>If you haven't customized the view of a document navigator in any way, or if you have reset your current view's settings to default, they will be sorted by <strong>Document Date</strong> in a descending order.</p>
+<p>This is done for convenience, as it allows you to see the documents which were most recently created first.</p>
+<p><img src="pictures/default_sorting.png" alt="Pictures"></p>
+<h2 id="accessing-records">Accessing records</h2>
+<p>In most navigators, you can access a document or a record through the value of its <strong>first</strong> column, regardless of which column that is.</p>
+<p>Values displayed in the rows of that column are accessible through <strong>hyperlinks</strong> leading exactly to the document they represent.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>Certain navigators don't support opening links and therefore don't have this feature enabled.</p>
+</div>
+<p><img src="pictures/hyperlinks_first_column.png" alt="Pictures"></p>
+<p>You can alternatively access the document form of a record:</p>
+<ol>
+<li>By clicking on it, then expanding its <strong>Details</strong> panel and finally clicking on the <strong>Open</strong> button</li>
+<li>By clicking on its <strong>icon</strong> positioned in the <strong>System column</strong> at the far-left.</li>
+</ol>
+<div class="NOTE">
+<h5>Note</h5>
+<p>The <strong>System column</strong> always contains a quick-access button for the respective record and its position cannot be modified</p>
+</div>
+<p><img src="pictures/access_document_twoways.png" alt="Pictures"></p>
+<h2 id="navigator-menu">Navigator menu</h2>
+<p>Each navigator features its own dedicated <strong>Menu</strong> through which you can perform the following:</p>
+<ul>
+<li>Determine the security type of each navigator record by configuring <strong>access permissions</strong></li>
+<li>Build and apply <strong>advanced filters</strong></li>
+<li>Use ERP.net's dedicated <strong>AI Asssistant</strong> (upcoming)</li>
+<li>Take advantage of <strong>side panels</strong> that reveal additional data and attachments for each selected document</li>
+<li>Use <strong><a href="how-to/functional-panels/index.html">functional panels</a></strong> to speed up the process of filling out a document</li>
+<li>Expand <strong>detail panels</strong> to see information relevant for each selected record of the navigator (e.g. its Document Lines)</li>
+<li>Create <strong>tiles</strong> to save and later easily access a specific navigator view</li>
+<li><strong><a href="https://docs.erp.net/webclient/introduction/how-to/ui-customization/access-to-views.html">Customize</a></strong> the navigator form by enabling, disabling, reordering and renaming its panels and widgets.</li>
+</ul>
+<p><img src="pictures/navigator_menu.png" alt="Pictures"></p>
+<h2 id="panel-menu">Panel menu</h2>
+<p>Panels and widgets enabled in a navigator have a separate <strong>Menu button</strong> accessible at their top-right corners.</p>
+<p>It features the ability to:</p>
+<ul>
+<li><strong>Maximize</strong> the panel to take up the entire screen</li>
+<li><strong>Reload</strong> the panel to reflect the most up-to-date information</li>
+<li>Quickly create a <strong>new</strong> record of one or more respective types</li>
+<li><strong>Search</strong> the contents of the respective panel</li>
+<li>Take advantage of handy advanced features like the <strong><a href="https://docs.erp.net/webclient/introduction/my-apps/documents.html#show-grouping-panel">Grouping panel</a></strong> and <strong><a href="https://docs.erp.net/webclient/introduction/how-to/filtering-expressions.html">Filter row</a></strong></li>
+<li>Select <strong>multiple</strong> records from the panel</li>
+<li>Create a <strong>.xlsx file</strong> containing all records of the panel</li>
+<li>Limit the <strong>row counts</strong> of the panel to a specific number</li>
+<li><strong><a href="https://docs.erp.net/webclient/introduction/how-to/ui-customization/customize-fields.html">Customize</a></strong> the panel by enabling, disabling, reordering and renaming its columns.</li>
+</ul>
+<p><img src="pictures/panel_menu.png" alt="Pictures"></p>
+<h3 id="multi-select">Multi select</h3>
+<p>Whenever you select multiple records using the <strong>Multi select</strong> feature, a new <strong>Selected</strong> count button will appear on the navigator's ribbon.</p>
+<p>It allows you to <strong>export</strong> the selected records as .xlsx files</p>
+<p><img src="pictures/multiselect.png" alt="Pictures"></p>
+<h3 id="group-by-column-headers">Group by column headers</h3>
+<p>With the help of the <strong><a href="https://docs.erp.net/webclient/introduction/my-apps/documents.html#show-grouping-panel">Show grouping panel</a></strong>, you can also group a navigator's records based on one or more column headers.</p>
+<p>Such groups can be used to organize records by type, state, the month they were created on, etc.</p>
+<p><img src="pictures/group_by_headers.png" alt="Pictures"></p>
+<h2 id="row-context-menu">Row context menu</h2>
+<p>If you <strong>right-click</strong> on a particular row, you will expand a dropdown menu with one or more of the following options:</p>
+<ul>
+<li><strong>Open</strong> the row's associated record</li>
+<li>Apply an <strong>advanced filter</strong> affecting the entire panel, using this particular row as source (e.g. documment currency)</li>
+<li>Access the <strong>form definition</strong> of the row (only for fields that can be defined).</li>
+</ul>
+<p><img src="pictures/row_context_menu.png" alt="Pictures"></p>
+<h2 id="column-context-menu">Column context menu</h2>
+<p>If you <strong>right-click</strong> on a particular column, you will expand a dropdown menu with the following options:</p>
+<ul>
+<li><strong>Sort</strong> the column's contents by ascending or descending order</li>
+<li><strong>Clear</strong> the sorting, restoring the column view to default</li>
+<li><strong>Group</strong> the records of the column by specific criteria like character count, word count, etc.</li>
+<li><strong><a href="https://docs.erp.net/webclient/introduction/my-apps/documents.html#summary">Summarize</a></strong> columns using functions like Summary and Distinct</li>
+<li>Restore the column's <strong>default width</strong></li>
+<li><strong>Hide</strong> the column from view (can be re-enabled through the Panel customization Menu)</li>
+</ul>
+<p><img src="pictures/column_context_menu.png" alt="Pictures"></p>
+<h3 id="group-by-intervals">Group by intervals</h3>
+<p>Depending on the type of a column (e.g. Date, Number, Document Type), you can perform more specific grouping operations.</p>
+<p>This is achieved through <strong>intervals</strong> such as character counts and time periods.</p>
+<p><strong>Example:</strong></p>
+<p>We can apply a rule where records will be grouped by the year indicated in their Document Date column.</p>
+<p>As a result, the entire panel will be divided into &quot;year&quot; groups that include records created in the respective year.</p>
+<p><img src="pictures/group_by.png" alt="Pictures"></p>
+<h3 id="group-context-menu">Group context menu</h3>
+<p>If you <strong>right-click</strong> on a particular column with a group filter applied, you can expand a dropdown menu with the following unique options:</p>
+<ul>
+<li><strong>Sort</strong> the respective groups based on the column in ascending or descending order</li>
+<li><strong>Expand</strong> and <strong>collapse</strong> all groups at once</li>
+<li>Change the <strong>group interval</strong> applied on the column</li>
+<li>Perform <strong>Summary</strong> functions on all groups</li>
+</ul>
+<h4 id="sort-summarized-groups">Sort summarized groups</h4>
+<p>If a Summary function is applied on a column, you can use it to <strong>sort</strong> existing groups.</p>
+<p>Groups can be sorted based on their own column or by columns which have summary functions applied.</p>
+<p><img src="pictures/sort_groups.png" alt="Pictures"></p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>The screenshots for this article are from v24 of the Web Client.</p>
+</div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/navigator-features.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

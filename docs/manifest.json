@@ -5822,17 +5822,6 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "full_screen_mode.png",
-      "output": {
-        "resource": {
-          "relative_path": "full_screen_mode.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "includes/erpnet.md",
       "output": {
@@ -5874,7 +5863,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "TZms+FcZwr3AjbW1AOu1FQ=="
+          "hash": "+YKOZwABK9owA5SXTYelFw=="
         }
       },
       "is_incremental": false,
@@ -5942,11 +5931,170 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/functional-panels/available-products.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/functional-panels/available-products.html",
+          "hash": "yAgThv+XNrpisIKduB44eQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/functional-panels/customer-products.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/functional-panels/customer-products.html",
+          "hash": "h38C+zLONoOIWNqKKsWKFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/functional-panels/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/functional-panels/index.html",
+          "hash": "ZwEGjv/8lwPjoobNZSgTKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/Logistics_Product_Supply_panel_04_06.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/Logistics_Product_Supply_panel_04_06.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/Product_Supply_panel_change_quantity_06_06.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/Product_Supply_panel_change_quantity_06_06.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/Product_Supply_panel_recomended_06_06.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/Product_Supply_panel_recomended_06_06.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/Product_Supply_panel_recomended_blue_06_06.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/Product_Supply_panel_recomended_blue_06_06.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/Product_Supply_panel_view_06_06.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/Product_Supply_panel_view_06_06.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/Product_supply_panel_group_30_05.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/Product_supply_panel_group_30_05.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/Product_supply_panel_group_result_30_05.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/Product_supply_panel_group_result_30_05.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/Product_supply_panel_menu_17_05.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/Product_supply_panel_menu_17_05.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/Product_supply_panel_navigation_17_05.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/Product_supply_panel_navigation_17_05.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/functional-panels/product-list.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/functional-panels/product-list.html",
+          "hash": "f/d67VeVeJGbM0D5XHUVkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/functional-panels/product-supply.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/functional-panels/product-supply.html",
+          "hash": "6pjoYYSzz+CBzi3QFhn/eQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/how-to/index.md",
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/index.html",
-          "hash": "SzAsKjRqMYvMYApwGcXhOA=="
+          "hash": "PvPjFTmqcJXrHtmiwDkeAw=="
         }
       },
       "is_incremental": false,
@@ -7067,18 +7215,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/how-to/product-supply.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/how-to/product-supply.html",
-          "hash": "WSmO8MuERPzZ8OtOMHWnwg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "introduction/how-to/search-dropdown-lists.md",
       "output": {
         ".html": {
@@ -7538,18 +7674,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/how-to/ui-customization/sort-by-date.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/how-to/ui-customization/sort-by-date.html",
-          "hash": "tJi3y0/tlrURw+HhFnHEaA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "introduction/how-to/user-roles.md",
       "output": {
         ".html": {
@@ -7566,7 +7690,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/index.html",
-          "hash": "GVOsgofqTAYcAgQfpmueaQ=="
+          "hash": "cKjbVWnmaWywOyRFDaNMng=="
         }
       },
       "is_incremental": false,
@@ -7622,23 +7746,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/my-apps/favorites/favorites.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/my-apps/favorites/favorites.html",
-          "hash": "5zc6z875PALeV1OtWQwF0g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "introduction/my-apps/favorites/index.md",
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/favorites/index.html",
-          "hash": "xyQ+h5FPt8pdovO9PWzJCw=="
+          "hash": "xEgJFMUeIBdRwEZff9wNmA=="
         }
       },
       "is_incremental": false,
@@ -7874,30 +7986,6 @@
         ".html": {
           "relative_path": "introduction/my-apps/index.html",
           "hash": "IMj3J06ekVboXHtzL3qiqw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/my-apps/objects/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/my-apps/objects/index.html",
-          "hash": "ISmnF9KTLbEDU+pfhPWutA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/my-apps/objects/objects.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/my-apps/objects/objects.html",
-          "hash": "oLz1wMJVKRaaWRQZFyyPEQ=="
         }
       },
       "is_incremental": false,
@@ -9140,6 +9228,150 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/navigator-features.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/navigator-features.html",
+          "hash": "bHg1//Tfhd6TG12FiKqI4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/access_document_twoways.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/access_document_twoways.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/column_context_menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/column_context_menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/default_sorting.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/default_sorting.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/group_by.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/group_by.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/group_by_headers.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/group_by_headers.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/hyperlinks_first_column.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/hyperlinks_first_column.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/multiselect.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/multiselect.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/navigator_menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/navigator_menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/panel_menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/panel_menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/row_context_menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/row_context_menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/sort_groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/sort_groups.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/summary.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/summary.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/social/chatter/index.md",
       "output": {
         ".html": {
@@ -9185,12 +9417,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "include-not-found"
+      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/social/social-follows.md",
       "output": {
         ".html": {
           "relative_path": "introduction/social/social-follows.html",
-          "hash": "N656I6nJYPnL5otzXknHqw=="
+          "hash": "ZyVQuFcxD8AgEZVtEuj+gw=="
         }
       },
       "is_incremental": false,
@@ -9214,7 +9449,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "IQ2GuBsS3YzfajLAbaAZZQ=="
+          "hash": "IiZT2V05F7XnsIso/Ku9tw=="
         }
       },
       "is_incremental": false,
@@ -9243,34 +9478,12 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "per_access_options.png",
-      "output": {
-        "resource": {
-          "relative_path": "per_access_options.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "three_dots.png",
-      "output": {
-        "resource": {
-          "relative_path": "three_dots.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "d0Z3MZ1MdLq1kLWBRDm08A=="
+          "hash": "eD0d3Nc8IzGqQz3CYFgP1g=="
         }
       },
       "is_incremental": false,

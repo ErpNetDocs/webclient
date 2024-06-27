@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Favorites | ERP.net Web Client </title>
+    <title>How to use the Product supply panel | ERP.net Web Client </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Favorites | ERP.net Web Client ">
+    <meta name="title" content="How to use the Product supply panel | ERP.net Web Client ">
     <meta name="generator" content="docfx 2.56.9.0">
     
     <link rel="shortcut icon" href="../../../favicon.ico">
@@ -77,27 +77,55 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="favorites">Favorites</h1>
+<h1 id="how-to-use-the-product-supply-panel">How to use the Product supply panel</h1>
 
-<p>&quot;My Favorites&quot; provides a visual representation of all objects that <a href="../../social/social-follows.html">you are following</a>, also known as your favorite objects. Much like <a href="../tiles.html">My Tiles</a>, the main visual element here is the tile, although with some differences. The caption of the tile is the <a href="https://docs.erp.net/tech/advanced/data-objects/display-format.html">display text</a> of the favorite object, and the badge displays the count of available new notifications.</p>
-<p><img src="pictures/tile.png" alt="Favorites - Tile" title="Favorites - Tile"></p>
-<p>Consequently, an example of the overall view of &quot;My Favorites&quot; looks like this:</p>
-<p><img src="pictures/overview.png" alt="Favorites - Overview" title="Favorites - Overview"></p>
-<p>The tiles are organized into groups based on the entities they belong to.</p>
-<p>Additionally, clicking on a tile will open the form for the favorite object.</p>
+<p>For <strong>purchase</strong>, <strong>transfer</strong>, and <strong>work order</strong> documents, there's a functional panel called <strong>Product Supply</strong>.</p>
+<p>It displays a list of currently active products available for delivery for a specific store in a particular enterprise company.</p>
+<ul>
+<li>For purchase orders, this list is filtered by the <strong>Supplier</strong> field.</li>
+<li>For transfer orders, it is filtered by the <strong>FromStore</strong> field.</li>
+<li>For work orders, the list is filtered by the <strong>DefaultStore</strong> field.</li>
+</ul>
+<h3 id="navigation">Navigation</h3>
+<p>To reveal the <strong>Product supply</strong> panel, you need to open the document form of either a purchase, a transfer, or a work order.</p>
+<p>Then, choose <strong>Product supply</strong> from the list of <strong>Functional panels</strong> found within the <strong>Menu</strong> button.</p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>Even if you have no notifications for a favorite object, its corresponding tile will still be displayed. The tile will disappear once you remove the object from your favorites.</p>
-</div>
-<h2 id="my-favorites-as-a-widget">My Favorites as a widget</h2>
-<p>Similar to most My Apps widgets, &quot;My Favorites&quot; supports the following properties:</p>
+<p>The panel's buttons will be visible and usable only when you:</p>
 <ul>
-<li>You can show the favorites widget in each form of your choice.</li>
-<li>Only the favorite objects (i.e., the tiles) related to the form's context will be shown.</li>
+<li><strong>create</strong> a new purchase, transfer, or work order</li>
+<li><strong>edit</strong> an existing purchase, transfer, or work order with status lower than Released.</li>
 </ul>
-<p>Below, you can see example images illustrating the favorites widget on a menu page and within a navigator form.</p>
-<p><img src="pictures/context-menupage.png" alt="Favorites - Context menu page" title="Favorites - Context menu page"></p>
-<p><img src="pictures/context-navigator.png" alt="Favorites - Context navigator" title="Favorites - Context navigator"></p>
+</div>
+<p><img src="pictures/Logistics_Product_Supply_panel_04_06.png" alt="picture"></p>
+<h2 id="panel-features">Panel features</h2>
+<p>The <strong>Product supply</strong> panel includes a <strong>search bar</strong> and an option to <strong>filter</strong> products by groups.</p>
+<p>You can enter <strong>product quantities</strong> manually, adjust them with “<strong>+</strong>” and “<strong>-</strong>” buttons, as well as determine their <strong>measurement units</strong>,</p>
+<p>Quantities supplied for a product are interpreted as new rows in the <strong>Lines</strong> panel of the respective document.</p>
+<p><img src="pictures/Product_Supply_panel_view_06_06.png" alt="picture"></p>
+<h3 id="filter-by-product-groups">Filter by product groups</h3>
+<p>For convenience, you can filter products for supply by choosing the <strong>product group</strong> to which they belong.</p>
+<p>Simply expand the <strong>Product Group</strong> dropdown menu from the <strong>Product supply</strong> panel and select the desired group.</p>
+<p>Once selected, only products from the chosen group will appear in the list.</p>
+<p><img src="pictures/Product_supply_panel_group_result_30_05.png" alt="picture"></p>
+<h3 id="set-quantities-and-measurement-units">Set quantities and measurement units</h3>
+<p>You can easily <strong>increase</strong> or <strong>decrease</strong> quantities of products available for delivery, as well as <strong>change</strong> their default measurement units.</p>
+<p>To do so, you need to be in <strong>Edit mode</strong> for the respective document.</p>
+<p>Then, use the “<strong>+</strong>” and “<strong>-</strong>” buttons to increase or decrease quantities as needed.</p>
+<p><img src="pictures/Product_Supply_panel_change_quantity_06_06.png" alt="picture"></p>
+<h3 id="replenish-quantities">Replenish quantities</h3>
+<p>The <strong>Product Supply</strong> panel also offers automated suggestions for replenishing quantities for a particular product.</p>
+<p>These are represented by an <strong>orange button</strong> located to the right of the product's measurement unit field.</p>
+<p>Clicking this button will automatically set the product quantity to the suggested value for replenishment.</p>
+<p><img src="pictures/Product_Supply_panel_recomended_blue_06_06.png" alt="picture"></p>
+<div class="WARNING">
+<h5>Warning</h5>
+<p>Suggestions for replenishment are shown only for products that can be supplied.</p>
+</div>
+<div class="NOTE">
+<h5>Note</h5>
+<p>The screenshots taken for this article are from v24 of the platform.</p>
+</div>
 </article>
           </div>
           
@@ -106,7 +134,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/my-apps/favorites/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/how-to/functional-panels/product-supply.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
