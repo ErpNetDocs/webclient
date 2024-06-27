@@ -97,7 +97,7 @@ If you **right-click** on a particular column, you will expand a dropdown menu w
 * **Sort** the column's contents by ascending or descending order
 * **Clear** the sorting, restoring the column view to default
 * **Group** the records of the column by specific criteria like character count, word count, etc.
-* **[Summarize](https://docs.erp.net/webclient/introduction/my-apps/documents.html#summary)** columns using functions to get important insights
+* **[Summarize](https://docs.erp.net/webclient/introduction/my-apps/documents.html#summary)** columns using functions like Summary and Distinct
 * Restore the column's **default width**
 * **Hide** the column from view (can be re-enabled through the Panel customization Menu)
 
@@ -105,9 +105,9 @@ If you **right-click** on a particular column, you will expand a dropdown menu w
 
 ### Apply Summary functions
 
-Using one of four available functions, you can summarize a column's contents to produce hihgly useful statistical insights.
+Using one of four available **[summary functions](https://docs.erp.net/webclient/introduction/my-apps/documents.html#summary)**, you can obtain hihgly useful statistical insights for each column.
 
-They appear automatically **below** the column itself. Summary functions can be applied to **multiple** columns at the same time.
+They appear automatically **below** the column itself and can be applied to **multiple** columns at the same time.
 
 ![Pictures](pictures/summary.png)
 
