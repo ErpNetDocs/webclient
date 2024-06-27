@@ -8,6 +8,8 @@ If you haven't customized the view of a document navigator in any way, or if you
 
 This is done for convenience, as it allows you to see the documents which were most recently created first.
 
+![Pictures](pictures/default_sorting.png)
+
 ## Accessing records
 
 In most navigators, you can access a document or a record through the value of its **first** column, regardless of which column that is.
@@ -17,6 +19,8 @@ Values displayed in the rows of that column are accessible through **hyperlinks*
 > [!NOTE]
 > Certain navigators don't support opening links and therefore don't have this feature enabled.
 
+![Pictures](pictures/hyperlinks_first_column.png)
+
 You can alternatively access the document form of a record:
 
 1. By clicking on it, then expanding its **Details** panel and finally clicking on the **Open** button
@@ -24,6 +28,8 @@ You can alternatively access the document form of a record:
 
 > [!NOTE]
 > The System column always contains a quick-access button for the respective record and its position cannot be modified
+
+![Pictures](pictures/access_document_twoways.png)
 
 ## Navigator menu
 
@@ -33,10 +39,12 @@ Each navigator features its own dedicated **Menu** through which you can perform
 * Build and apply **advanced filters**
 * Use ERP.net's dedicated **AI Asssistant** (upcoming)
 * Take advantage of **side panels** that reveal additional data and attachments for each selected document
-* Use **functional panels** to speed up the process of filling out a document
+* Use **[functional panels](./how-to/functional-panels/index.md)** to speed up the process of filling out a document
 * Expand **detail panels** to see information relevant for each selected record of the navigator (e.g. the Document Lines)
 * Create **tiles** to save and later easily access a specific navigator view
 * **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/access-to-views.html)** the navigator form by enabling, disabling, reordering and renaming its panels and widgets.
+
+![Pictures](pictures/navigator_menu.png)
 
 ## Panel menu
 
@@ -54,6 +62,24 @@ It features the ability to:
 * Limit the **row counts** of the panel to a specific number
 * **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/customize-fields.html)** the panel by enabling, disabling, reordering and renaming its columns.
 
+![Pictures](pictures/panel_menu.png)
+
+### Multi-export
+
+Whenever you select multiple records using the **Multi select** feature, a new **Selected** count will appear on the navigator's ribbon.
+
+It allows you to **export** the selected records as .xlsx files
+
+![Pictures](pictures/multiselect.png)
+
+### Group by column headers
+
+With the help of the **[Show grouping panel](https://docs.erp.net/webclient/introduction/my-apps/documents.html#show-grouping-panel)**, you can also group a navigator's records based on a key parameter visualized by its respective column title.
+
+Such groups can be used to organize records by type, state, the month they were created on, etc.
+
+![Pictures](pictures/group_by_headers.png)
+
 ## Row context menu
 
 If you **right-click** on a particular row, you will expand a dropdown menu with one or more of the following options:
@@ -61,6 +87,8 @@ If you **right-click** on a particular row, you will expand a dropdown menu with
 * **Open** the row's associated record
 * Apply an **advanced filter** affecting the entire panel, using this particular row as source (e.g. documment currency)
 * Access the **form definition** of the row (only for fields that can be defined).
+
+![Pictures](pictures/row_context_menu.png)
 
 ## Column context menu
 
@@ -73,13 +101,15 @@ If you **right-click** on a particular column, you will expand a dropdown menu w
 * Restore the column's **default width**
 * **Hide** the column from view (can be re-enabled through the Panel customization Menu)
 
-### Multi-export
+![Pictures](pictures/column_context_menu.png)
 
-Whenever you select multiple records using the **Multi select** feature, a new **Selected** count will appear on the navigator's ribbon.
+### Apply Summary functions
 
-It allows you to **export** the selected records as .xlsx files
+Input information here.
 
-### Grouping by intervals
+![Pictures](pictures/summary.png)
+
+### Group by intervals
 
 Depending on the type of the column (e.g. Date, Number, Document Type), you can perform specific grouping functions.
 
@@ -91,11 +121,7 @@ We can apply a rule where records will be grouped by the first two characters of
 
 As a result, only records containing these characters will be grouped.
 
-### Grouping by column headers
-
-With the help of the **[Show grouping panel](https://docs.erp.net/webclient/introduction/my-apps/documents.html#show-grouping-panel)**, you can also group a navigator's records based on a key parameter visualized by its respective column title.
-
-Such groups can be used to organize records by type, state, the month they were created on, etc.
+![Pictures](pictures/group_by.png)
 
 ### Group context menu
 
@@ -107,6 +133,8 @@ If you **right-click** on a particular column header in the Show grouping panel,
 * Perform **Summary** functions on all groups, which reveals how many entries in them are count and/or distinct
 * Restore the **default width** of the column that is now used as a grouping column header
 * **Hide** the column header, which disables it from the Show grouping panel and the navigator itself
+
+![Pictures](pictures/sort_groups.png)
 
 > [!NOTE]
 > The screenshots for this article are from v24 of the Web Client.
