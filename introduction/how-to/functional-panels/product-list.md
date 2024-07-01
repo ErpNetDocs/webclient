@@ -15,7 +15,7 @@ Then, choose **Product list** from the list of **Functional panels** found withi
 > * **create** a new document
 > * **edit** an existing document
 
-![pictures](pictures/product-list.png)
+![pictures](pictures/product-listt.png)
 
 ## Panel features
 
@@ -34,7 +34,7 @@ To filter products by a groups, simply expand the **Product Group** dropdown men
 
 Once selected, only products from the chosen group will appear in the list.
 
-![pictures](pictures/product-list-filter.png)
+![pictures](pictures/product-list-filterr.png)
 
 ### Add and remove quantities
 
@@ -44,7 +44,7 @@ To do so, you need to be **creating** or **editing** that document.
 
 Then, use the “+” and “-” buttons to increase or decrease quantities as needed.
 
-![pictures](pictures/product-list-quantities.png)
+![pictures](pictures/product-list-quantitiess.png)
 
 Newly added product quantities are automatically added as new rows in the **Lines** panel of the respective document.
 
