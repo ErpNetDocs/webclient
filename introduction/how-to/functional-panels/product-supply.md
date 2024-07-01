@@ -26,7 +26,7 @@ Then, choose **Product supply** from the list of **Functional panels** found wit
 
 The **Product supply** panel includes a **search bar** and an option to **filter** products by groups. 
 
-You can enter **product quantities** manually, adjust them with “**+**” and “**-**” buttons, as well as determine their **measurement units**, 
+You can enter **quantities** manually, adjust them with “**+**” and “**-**” buttons, as well as determine their **measurement units**. 
 
 Quantities supplied for a product are interpreted as new rows in the **Lines** panel of the respective document.
 
@@ -66,4 +66,4 @@ Clicking this button will automatically set the product quantity to the suggeste
 > Suggestions for replenishment are shown only for products that can be supplied.
 
 > [!NOTE]
-> The screenshots taken for this article are from v24 of the platform.
+> The screenshots taken for this article are from v24 of the Web Client.
