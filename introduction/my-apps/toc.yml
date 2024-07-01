@@ -6,7 +6,8 @@
   href: groups/toc.yml
   topicHref: groups/index.md
 - name: Calendar
-  href: calendar.md
+  href: calendar/toc.yml
+  topicHref: calendar/index.md
 - name: Activity participants
   href: activity-participants.md
 - name: Timeline
