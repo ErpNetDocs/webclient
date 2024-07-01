@@ -2,7 +2,7 @@
 
 The **Customer products** functional panel displays a list of products which are negotiated for a particular **customer**.
 
-Using it, you can easily **adjust** existing product quantities or **add** new ones in the document lines of logistical documents that have a **Customer** field as part of their definitions.
+Using it, you can easily **adjust** existing product quantities or **add** new ones in the document lines of logistical documents that have a **customer** as part of their definitions.
 
 ### Navigation
 
@@ -24,7 +24,7 @@ The **Customer products** panel includes a **search bar** and an option to **fil
 You can enter **quantities** manually, adjust them with **“+”** and **“-”** buttons, as well as determine their **measurement units**.
 
 > [!WARNING]
-> Customer product quantities are loaded for a selected **store**. Changing the store will change the quantities being displayed.
+> Customer products are loaded for a selected **store**. Changing the store will also change the products being displayed.
 
 ![pictures](pictures/customer-products-show.png)
 
@@ -38,7 +38,7 @@ This can narrow down the products, offering a more filtered view of the panel.
 
 ### Add and remove quantities
 
-The **Customer products** panel offers the ability to **add** or **remove** customer product quantities in the lines of the respective document. 
+The **Customer products** panel offers the ability to **add** or **remove**  product quantities in the lines of the respective document. 
 
 To do so, you need to be **creating** or **editing** that document.
 
