@@ -52,3 +52,5 @@ Newly added product quantities are automatically added as new rows in the **Line
 
 ![pictures](pictures/available-product-new-products.png)
 
+> [!NOTE]
+> The screenshots taken for this article are from v24 of the Web Client.
