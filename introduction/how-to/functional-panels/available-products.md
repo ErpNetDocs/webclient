@@ -2,7 +2,7 @@
 
 The **Available products** functional panel displays a list of products which are currently in stock for a respective **store**.
 
-Using it, you can easily adjust existing product quantities or add new rows in the document lines of logistical documents.
+Using it, you can easily **adjust** existing product quantities or **add** new ones in the document lines of logistical documents.
 
 ### Navigation
 
