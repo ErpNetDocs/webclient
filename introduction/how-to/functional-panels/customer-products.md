@@ -52,9 +52,9 @@ Newly added customer product quantities are automatically added as new rows in t
 
 ### Customize panel
 
-If needed, you can **customize** the **Customer products** panel by showing or hiding certain product fields.
+If needed, you can **customize** the **Customer products** panel by showing or hiding certain fields for all products listed by the panel.
 
-This can result in more or less data being displayed for all products listed by the panel.
+This includes all fields from the **[Crm_Customer_Products](https://docs.erp.net/model/tables/Crm_Customer_Products.html)** table and the **[Gen_Products](https://docs.erp.net/model/tables/Gen_Products.html)** table.
 
 ![pictures](pictures/customer-products-customizee.png)
 
