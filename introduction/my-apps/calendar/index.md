@@ -1,10 +1,14 @@
 # Overview
 
-As the name suggests, it's a calendar. "My Calendar". More precisely, this is a versatile calendar control, fully (smart) responsive, visualizing your activities.
+The **ERP's Web Client Calendar** is a powerful time-management tool, allowing users to efficiently organize, monitor, and synchronize activities, events, and tasks. 
+
+It consolidates group activities, promoting collaboration. Its features include creating events, customizing views (e.g., Workweek, Month), navigating dates, and accessing scheduled events easily.
+
+Typically, calendars are divided into distinct units of time, such as days, weeks, and months, each represented by a grid or series of pages. 
+
+They often include features such as markings for holidays, special occasions, and personal reminders, enabling users to stay informed and prepared for upcoming events. 
 
 ![My apps - Calendar](../pictures/my-apps-calendar.png "My apps - Calendar")
-
-We'll skip the description of the trivial calendar functionality- how you can navigate between the months, how the today's date is marked, etc... We'll just show you the essentials.
 
 ## Activities
 
