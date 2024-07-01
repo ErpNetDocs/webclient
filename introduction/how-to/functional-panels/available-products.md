@@ -24,7 +24,7 @@ The **Available products** panel includes a **search bar** and an option to **fi
 You can enter **quantities** manually, adjust them with **“+”** and **“-”** buttons, as well as determine their **measurement units**.
 
 > [!WARNING]
-> Available product quantities will be loaded only for a selected **store**. Wihout a store selected, the panel will be **empty**.
+> Available products will be loaded only for a selected **store**. Wihout a store selected, the panel will be **empty**.
 
 ![pictures](pictures/available-products-showww.png)
 
