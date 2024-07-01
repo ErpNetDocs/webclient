@@ -12,8 +12,8 @@ Then, choose **Available products** from the list of **Functional panels** found
 
 > [!NOTE]
 > The panel's buttons will be visible and usable only when you:
-> * **create** a new order
-> * **edit** an existing order
+> * **create** a new document
+> * **edit** an existing document
 
 ![pictures](pictures/available-products.png)
 
@@ -24,7 +24,7 @@ The **Available products** panel includes a **search bar** and an option to **fi
 You can enter **quantities** manually, adjust them with **“+”** and **“-”** buttons, as well as determine their **measurement units**.
 
 > [!WARNING]
-> Product quantities will be loaded only after a **store** is selected. Otherwise, the panel will be **empty**.
+> Available product quantities will be loaded only for a selected **store**. Wihout a store selected, the panel will be **empty**.
 
 ![pictures](pictures/available-products-showw.png)
 
