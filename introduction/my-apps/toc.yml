@@ -8,8 +8,6 @@
 - name: Calendar
   href: calendar/toc.yml
   topicHref: calendar/index.md
-- name: Activity participants
-  href: activity-participants.md
 - name: Timeline
   href: timeline.md  
 - name: Tiles
