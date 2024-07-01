@@ -30,7 +30,7 @@ You can enter **quantities** manually, adjust them with **“+”** and **“-�
 
 ### Filter by product group
 
-To filter products by a groups, simply expand the **Product Group** dropdown menu and select the desired group.
+To filter products by a group, simply expand the **Product Group** dropdown menu and select the desired group.
 
 Once selected, only products from the chosen group will appear in the list.
 
