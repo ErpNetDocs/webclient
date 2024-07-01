@@ -56,7 +56,7 @@ If needed, you can **customize** the **Customer products** panel by showing or h
 
 This can result in more or less data being displayed for all products listed by the panel.
 
-![pictures](pictures/customer-products-customize.png)
+![pictures](pictures/customer-products-customizee.png)
 
 > [!NOTE]
 > The screenshots taken for this article are from v24 of the Web Client.
