@@ -49,7 +49,7 @@ Then, use the “+” and “-” buttons to increase or decrease quantities as 
 
 ![pictures](pictures/available-products-quantities.png)
 
-Newly added quantities will appear as new rows in the Lines panel.
+Newly added quantities will appear as new rows in the **Lines** panel.
 
-![pictures](pictures/available-products-new-products.png)
+![pictures](pictures/available-product-new-products.png)
 
