@@ -24,7 +24,7 @@ The **Product list** panel includes a **search bar** and an option to **filter**
 You can enter **quantities** manually, adjust them with **“+”** and **“-”** buttons, as well as determine their **measurement units**.
 
 > [!WARNING]
-> Available product quantities will be loaded only for a selected **group**. Wihout a group selected, the panel will be **empty**.
+> Products will be loaded only for a selected **group**. Wihout a group selected, the panel will be **empty**.
 
 ![pictures](pictures/product-list-show.png)
 
