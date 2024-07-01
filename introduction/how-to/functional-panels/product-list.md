@@ -26,7 +26,7 @@ You can enter **quantities** manually, adjust them with **“+”** and **“-�
 > [!WARNING]
 > Products will be loaded only for a selected **group**. Wihout a group selected, the panel will be **empty**.
 
-![pictures](pictures/product-list-show.png)
+![pictures](pictures/product-list-showw.png)
 
 ### Filter by product group
 
