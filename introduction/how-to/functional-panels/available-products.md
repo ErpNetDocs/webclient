@@ -42,13 +42,13 @@ Once selected, only products from the chosen group will appear in the list.
 
 The **Available products** panel offers the ability to **add** or **remove** product quantities in the lines of the respective document. 
 
-To do so, you need to be in **Edit mode**.
+To do so, you need to be **creating** or **editing** that document.
 
 Then, use the “+” and “-” buttons to increase or decrease quantities as needed.
 
 ![pictures](pictures/available-products-quantities.png)
 
-Newly added product quantities are interpreted as new rows in the **Lines** panel of the respective document.
+Newly added product quantities are automatically added as new rows in the **Lines** panel of the respective document.
 
 ![pictures](pictures/available-product-new-products.png)
 
