@@ -1,8 +1,8 @@
 # How to use the Product list panel
 
-The **Product list** functional panel displays a list of products which are currently in stock for an enterprise company.
+The **Product list** functional panel displays all products belonging to an enterprise company, filtered by their unique product groups.
 
-Using it, you can easily **adjust** existing product quantities or **add** new ones in the document lines of logistical documents.
+Using it, you can easily **add** or **remove** product quantities in the document lines of logistical documents.
 
 ### Navigation
 
@@ -24,15 +24,13 @@ The **Product list** panel includes a **search bar** and an option to **filter**
 You can enter **quantities** manually, adjust them with **“+”** and **“-”** buttons, as well as determine their **measurement units**.
 
 > [!WARNING]
-> Available product quantities will be loaded only for a selected **store**. Wihout a store selected, the panel will be **empty**.
+> Available product quantities will be loaded only for a selected **group**. Wihout a group selected, the panel will be **empty**.
 
 ![pictures](pictures/product-list-show.png)
 
 ### Filter by product group
 
-For convenience, you can filter products available for a store by choosing the **product group** to which they belong.
-
-Simply expand the **Product Group** dropdown menu from the **Product list** panel and select the desired group.
+To filter products by a groups, simply expand the **Product Group** dropdown menu and select the desired group.
 
 Once selected, only products from the chosen group will appear in the list.
 
