@@ -6166,7 +6166,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/functional-panels/available-products.html",
-          "hash": "yAgThv+XNrpisIKduB44eQ=="
+          "hash": "2DPj0tVXL9w2G6Flo5SDuw=="
         }
       },
       "is_incremental": false,
@@ -6178,7 +6178,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/functional-panels/customer-products.html",
-          "hash": "h38C+zLONoOIWNqKKsWKFA=="
+          "hash": "liBBPHFIrm1htUrM/CpXfw=="
         }
       },
       "is_incremental": false,
@@ -6190,7 +6190,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/functional-panels/index.html",
-          "hash": "ZwEGjv/8lwPjoobNZSgTKg=="
+          "hash": "sDaPfn0GmMiznPszuEXeww=="
         }
       },
       "is_incremental": false,
@@ -6296,12 +6296,287 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/available-product-new-products.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/available-product-new-products.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/available-products-product-group.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/available-products-product-group.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/available-products-product-groupp.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/available-products-product-groupp.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/available-products-quantities.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/available-products-quantities.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/available-products-show.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/available-products-show.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/available-products-showw.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/available-products-showw.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/available-products-showww.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/available-products-showww.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/available-products.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/available-products.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/available-productss.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/available-productss.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/customer-products-add.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/customer-products-add.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/customer-products-customize.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/customer-products-customize.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/customer-products-customizee.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/customer-products-customizee.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/customer-products-product-group.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/customer-products-product-group.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/customer-products-quantities.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/customer-products-quantities.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/customer-products-show.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/customer-products-show.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/customer-products.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/customer-products.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/product-list-filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/product-list-filter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/product-list-filterr.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/product-list-filterr.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/product-list-new-product.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/product-list-new-product.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/product-list-quantities.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/product-list-quantities.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/product-list-quantitiess.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/product-list-quantitiess.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/product-list-show.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/product-list-show.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/product-list-showw.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/product-list-showw.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/product-list.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/product-list.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/product-listt.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/product-listt.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "introduction/how-to/functional-panels/product-list.md",
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/functional-panels/product-list.html",
-          "hash": "f/d67VeVeJGbM0D5XHUVkw=="
+          "hash": "/sHe5bzIi05Oec5gVh1OVw=="
         }
       },
       "is_incremental": false,
@@ -6313,7 +6588,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/functional-panels/product-supply.html",
-          "hash": "6pjoYYSzz+CBzi3QFhn/eQ=="
+          "hash": "TiiB5qCfMA80ca8NFqhosw=="
         }
       },
       "is_incremental": false,
@@ -7929,11 +8204,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/my-apps/activity-participants.md",
+      "source_relative_path": "introduction/my-apps/calendar/activity-participants.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/my-apps/activity-participants.html",
-          "hash": "Fb+RZxwTO7BV3tATsiaXqw=="
+          "relative_path": "introduction/my-apps/calendar/activity-participants.html",
+          "hash": "0ZAKnhHzpCH/iIqXQ73nXw=="
         }
       },
       "is_incremental": false,
@@ -7941,11 +8216,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/my-apps/calendar.md",
+      "source_relative_path": "introduction/my-apps/calendar/index.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/my-apps/calendar.html",
-          "hash": "4Ni+wUlLB5soro5j044ghQ=="
+          "relative_path": "introduction/my-apps/calendar/index.html",
+          "hash": "FsQ/zLFb/JrCMX7TyywrSQ=="
         }
       },
       "is_incremental": false,
@@ -8211,12 +8486,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/my-apps/index.md",
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/index.html",
-          "hash": "IMj3J06ekVboXHtzL3qiqw=="
+          "hash": "EDMqVwOVTEKL9D1RnQSmEA=="
         }
       },
       "is_incremental": false,
@@ -9434,12 +9712,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/my-apps/timeline.md",
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/timeline.html",
-          "hash": "Qaa9Ix25oPdVDYMRUf+3xw=="
+          "hash": "WxTx7Whky4eMEYum2bH+jw=="
         }
       },
       "is_incremental": false,
@@ -9680,7 +9961,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "IiZT2V05F7XnsIso/Ku9tw=="
+          "hash": "dQbxaR0WSgfF8g7z+kMTkQ=="
         }
       },
       "is_incremental": false,
