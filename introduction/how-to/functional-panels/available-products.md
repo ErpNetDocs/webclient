@@ -15,7 +15,7 @@ Then, choose **Available products** from the list of **Functional panels** found
 > * **create** a new document
 > * **edit** an existing document
 
-![pictures](pictures/available-products.png)
+![pictures](pictures/available-productss.png)
 
 ## Panel features
 
@@ -26,7 +26,7 @@ You can enter **quantities** manually, adjust them with **“+”** and **“-�
 > [!WARNING]
 > Available product quantities will be loaded only for a selected **store**. Wihout a store selected, the panel will be **empty**.
 
-![pictures](pictures/available-products-showw.png)
+![pictures](pictures/available-products-showww.png)
 
 ### Filter by product group
 
@@ -36,7 +36,7 @@ Simply expand the **Product Group** dropdown menu from the **Available products*
 
 Once selected, only products from the chosen group will appear in the list.
 
-![pictures](pictures/available-products-product-group.png)
+![pictures](pictures/available-products-product-groupp.png)
 
 ### Add and remove quantities
 
