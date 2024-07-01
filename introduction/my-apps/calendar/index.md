@@ -58,7 +58,7 @@ That's the monthly view on a mobile. Yes, it's not just scaled, it's a different
 
 Additionally, you may notice that the calendar's toolbar is refactored. Now you have header and footer toolbars.
 
-![My apps - Responsiveness](./pictures/my-apps-calendar-responsive-3.png "My apps - Responsiveness")
+![My apps - Responsiveness](../pictures/my-apps-calendar-responsive-3.png "My apps - Responsiveness")
 
 ## Mobile touch gestures support
 
