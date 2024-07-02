@@ -1,14 +1,12 @@
 # How to use the Customer products panel
 
-The **Customer products** functional panel displays a list of products which are negotiated for a particular **customer**.
+The **Customer products** functional panel displays a list of products which are negotiated for a **customer**.
 
 Using it, you can easily **adjust** existing product quantities or **add** new ones in the document lines of logistical documents that have a **customer** as part of their definitions.
 
 ### Navigation
 
-To reveal the panel, you need to open the form of a document which has an active **Customer** field (e.g. a sales order).
-
-Then, choose **Customer products** from the list of **Functional panels** found within the **Menu** button.
+To reveal the panel, you need to open the form of a document which has an active **Customer** field (e.g. a sales order). Then, choose **Customer products** from the list of **Functional panels** found within the **Menu** button.
 
 > [!NOTE]
 > The panel's buttons will be visible and usable only when you:
