@@ -158,6 +158,281 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/available-product-new-products.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/available-product-new-products.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products-product-group.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products-product-group.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products-product-groupp.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products-product-groupp.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products-quantities.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products-quantities.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products-show.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products-show.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products-showw.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products-showw.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products-showww.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products-showww.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/available-products.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/available-productss.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/available-productss.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products-add.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products-add.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products-customize.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products-customize.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products-customizee.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products-customizee.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products-product-group.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products-product-group.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products-quantities.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products-quantities.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products-show.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products-show.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/customer-products.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-filter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-filterr.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-filterr.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-new-product.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-new-product.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-quantities.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-quantities.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-quantitiess.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-quantitiess.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-show.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-show.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-showw.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list-showw.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/product-list.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/how-to/functional-panels/pictures/product-listt.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/how-to/functional-panels/pictures/product-listt.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/how-to/pictures/02_select_by_navigator.png",
       "output": {
         "resource": {
@@ -6178,7 +6453,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/functional-panels/customer-products.html",
-          "hash": "liBBPHFIrm1htUrM/CpXfw=="
+          "hash": "ZOE+nVJFNyJ/IMbmEnElHg=="
         }
       },
       "is_incremental": false,
