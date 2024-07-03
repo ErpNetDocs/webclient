@@ -6,9 +6,7 @@ Using it, you can easily **add** or **remove** product quantities in the documen
 
 ### Navigation
 
-To reveal the panel, you need to open the document form of a sales order, a purchase order, or another logistical document.
-
-Then, choose **Product list** from the list of **Functional panels** found within the **Menu** button.
+To reveal the panel, you need to open the document form of a sales order, a purchase order, or another logistical document. Then, choose **Product list** from the list of **Functional panels** found within the **Menu** button.
 
 > [!NOTE]
 > The panel's buttons will be visible and usable only when you:
@@ -36,9 +34,7 @@ Once you select a group, only products belonging to it will appear in the list.
 
 ### Add and remove quantities
 
-The **Product list** panel offers the ability to **add** or **remove** product quantities in the lines of the respective document. 
-
-Use the dedicated **“+”** and **“-”** buttons to increase or decrease quantities as needed.
+The **Product list** panel offers the ability to **add** or **remove** product quantities in the lines of the respective document. Use the dedicated **“+”** and **“-”** buttons to increase or decrease quantities as needed.
 
 ![pictures](pictures/product-list-quantitiess.png)
 
