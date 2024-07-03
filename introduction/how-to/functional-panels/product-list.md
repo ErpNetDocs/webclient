@@ -30,8 +30,6 @@ You can enter **quantities** manually, adjust them with **“+”** and **“-�
 
 ### Filter by product group
 
-Products can be filtered by their Product group.
-
 Once you select a group, only products belonging to it will appear in the list.
 
 ![pictures](pictures/product-list-filterr.png)
