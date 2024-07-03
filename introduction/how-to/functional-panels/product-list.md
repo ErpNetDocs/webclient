@@ -38,7 +38,7 @@ The **Product list** panel offers the ability to **add** or **remove** product q
 
 ![pictures](pictures/product-list-quantitiess.png)
 
-Newly added product quantities are automatically added as new rows in the **Lines** panel of the respective document.
+New product quantities are automatically added as new rows in the **Lines** panel of the respective document.
 
 ![pictures](pictures/product-list-new-product.png)
 
