@@ -6441,7 +6441,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/functional-panels/available-products.html",
-          "hash": "2DPj0tVXL9w2G6Flo5SDuw=="
+          "hash": "MJWn4IS5zWjxpY4e1E6hLg=="
         }
       },
       "is_incremental": false,
@@ -6453,7 +6453,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/functional-panels/customer-products.html",
-          "hash": "ZOE+nVJFNyJ/IMbmEnElHg=="
+          "hash": "QX1ruYKPDg3QIYvFGZ18/Q=="
         }
       },
       "is_incremental": false,
@@ -6682,6 +6682,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/how-to/functional-panels/pictures/customer-products-available-quantity.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/functional-panels/pictures/customer-products-available-quantity.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/how-to/functional-panels/pictures/customer-products-customize.png",
       "output": {
         "resource": {
@@ -6851,7 +6862,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/functional-panels/product-list.html",
-          "hash": "/sHe5bzIi05Oec5gVh1OVw=="
+          "hash": "nOUs3p1IHaMwyFOI0DrCyQ=="
         }
       },
       "is_incremental": false,
