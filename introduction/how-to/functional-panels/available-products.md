@@ -19,7 +19,7 @@ Then, choose **Available products** from the list of **Functional panels** found
 
 ## Panel features
 
-The **Available products** panel includes a **search bar** and an option to **filter** products by groups.
+The **Available products** panel includes a **search bar** and an option to **filter** products by Product group.
 
 You can enter **quantities** manually, adjust them with **“+”** and **“-”** buttons, as well as determine their **measurement units**.
 
