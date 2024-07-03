@@ -34,6 +34,14 @@ This can narrow down the products, offering a more filtered view of the panel.
 
 ![pictures](pictures/customer-products-product-group.png)
 
+### Available quantity
+
+The Customer products panel features an **availability counter** for each product it lists.
+
+This allows you to see how many quantities of that product are available at the moment.
+
+![pictures](pictures/customer-products-available-quantity.png)
+
 ### Add and remove quantities
 
 The **Customer products** panel offers the ability to **add** or **remove**  product quantities in the lines of the respective document. 
