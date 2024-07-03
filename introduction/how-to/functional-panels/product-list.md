@@ -30,9 +30,9 @@ You can enter **quantities** manually, adjust them with **“+”** and **“-�
 
 ### Filter by product group
 
-To filter products by a group, simply expand the **Product Group** dropdown menu and select the desired group.
+Products can be filtered by their Product group.
 
-Once selected, only products from the chosen group will appear in the list.
+Once you select a group, only products belonging to it will appear in the list.
 
 ![pictures](pictures/product-list-filterr.png)
 
@@ -40,9 +40,7 @@ Once selected, only products from the chosen group will appear in the list.
 
 The **Product list** panel offers the ability to **add** or **remove** product quantities in the lines of the respective document. 
 
-To do so, you need to be **creating** or **editing** that document.
-
-Then, use the “+” and “-” buttons to increase or decrease quantities as needed.
+Use the dedicated **“+”** and **“-”** buttons to increase or decrease quantities as needed.
 
 ![pictures](pictures/product-list-quantitiess.png)
 
