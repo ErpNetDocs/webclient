@@ -3430,6 +3430,46 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/Hierarchy_Note_01_08.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/Hierarchy_Note_01_08.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/Hierarchy_menu_01_08.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/Hierarchy_menu_01_08.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/Hierarchy_view_01_08.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/Hierarchy_view_01_08.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/Menu_view_01_08.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/Menu_view_01_08.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/access_document_twoways.png",
       "output": {
         "resource": {
