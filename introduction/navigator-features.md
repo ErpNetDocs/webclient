@@ -45,26 +45,22 @@ Each navigator features its own dedicated **Menu** through which you can perform
 * **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/access-to-views.html)** the navigator form by enabling, disabling, reordering and renaming its panels and widgets.
 * [**Hierarchy**](#Hierarchy): The Side Panel for hierarchical references streamlines filtering and viewing of hierarchical data by displaying its structure
 
-![Pictures](pictures/navigator_menu.png)
+![Pictures](pictures/Menu_view_01_08.png)
 
 ### Hierarchy 
 
-A **Side Panel** for hierarchical references in navigators, designed to streamline the filtering and viewing of hierarchical data. 
+A **Side Panel** for hierarchical references in navigators, designed to streamline the filtering and viewing of hierarchical data.
+
+![Pictures](pictures/Hierarchy_menu_01_08.png)
 
 The **Side Panel** displays the hierarchical structure of data, allowing users to click through different levels to filter and access related records efficiently.
 
-The **Hierarchy** menu includes the following options:
-
-- **Adjusted Document**
-- **Credit Note Original Invoice**
-- **Currency Directory**
-- **Master Document**
-- **Parent**
-- **Prime Cause Document**
-- **Reverse Of Document**
+![Pictures](pictures/Hierarchy_view_01_08.png)
 
 > [!NOTE]
 > Hierarchical references are organized into submenus if there are multiple references; single references display directly in the **Side Panel**. The feature uses the **Strategy Pattern** for flexibility and robustness, and sub-menus help manage numerous options more effectively.
+
+![Pictures](pictures/Hierarchy_Note_01_08.png)
 
 ## Panel menu
 
