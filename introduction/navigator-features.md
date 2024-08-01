@@ -43,7 +43,7 @@ Each navigator features its own dedicated **Menu** through which you can perform
 * Expand **detail panels** to see information relevant for each selected record of the navigator (e.g. its Document Lines)
 * Create **tiles** to save and later easily access a specific navigator view
 * **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/access-to-views.html)** the navigator form by enabling, disabling, reordering and renaming its panels and widgets.
-* [**Hierarchy**](#Hierarchy): The Side Panel for hierarchical references streamlines filtering and viewing of hierarchical data by displaying its structure
+* [**Hierarchy**](#Hierarchy is a side panel for hierarchical references streamlines filtering and viewing of hierarchical data by displaying its structure.
 
 ![Pictures](pictures/Menu_view_01_08.png)
 
