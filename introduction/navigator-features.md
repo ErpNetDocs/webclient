@@ -53,7 +53,7 @@ The Hierarchy feature works with navigators having one or more **references** to
 
 When there are multiple references, it reveals **side panels** representing all available hierarchies together with their comprising elements.
 
-![Pictures](pictures/Hierarchy_menu_01_08.png)
+![Pictures](pictures/Hierarchy_menu_05_08.png)
 
 Each hierarchy uses a tree-like structure to organize its elements, starting with the hierarchy itself and going further into its elements.
 
@@ -73,10 +73,12 @@ Certain hierarchies like **Product Group** have their elements organized into **
 
 In that case, you can filter the respective navigator both by the more global element and by its more specific sub-elements.
 
-![Pictures](pictures/Hierarchy_view_01_08.png)
+![Pictures](pictures/Hierarchy_product_group_05_08.png)
 
 > [!NOTE]
 > If there is **only one** reference to a hierarchical nomenclature in a navigator, the **Hierachy** button will be replaced by it. 
+
+![Pictures](pictures/Hierarchy_only_one_05_08.png)
 
 ## Panel menu
 
