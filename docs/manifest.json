@@ -3450,6 +3450,36 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/Hierarchy_menu_05_08.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/Hierarchy_menu_05_08.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/Hierarchy_only_one_05_08.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/Hierarchy_only_one_05_08.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/Hierarchy_product_group_05_08.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/Hierarchy_product_group_05_08.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/Hierarchy_view_01_08.png",
       "output": {
         "resource": {
