@@ -69,9 +69,9 @@ In the case of Adjusted Document, clicking on an element of that hierarchy will 
 > 
 > Only one filter can be applied through **Hierarchy** at a time.
 
-Certain hierarchies like **Product Group** will have their elements organized into **folders**.
+Certain hierarchies like **Product Group** have their elements organized into **sub-elements**.
 
-In that case, you can filter the respective navigator both by the folder and by its more specific sub-folders or elements.
+In that case, you can filter the respective navigator both by the more global element and by its more specific sub-elements.
 
 ![Pictures](pictures/Hierarchy_view_01_08.png)
 
