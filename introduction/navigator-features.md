@@ -55,7 +55,7 @@ When there are multiple references, it reveals **side panels** representing all 
 
 ![Pictures](pictures/Hierarchy_menu_01_08.png)
 
-Each hierarchy utilizes a tree-like structure to organize its elements, starting with the hierarchy itself and going further into its relevant elements.
+Each hierarchy uses a tree-like structure to organize its elements, starting with the hierarchy itself and going further into its elements.
 
 For instance, clicking on the **Adjusted Document** hierarchy in **Invoices** will expand a side panel displaying all adjusted documents.
 
