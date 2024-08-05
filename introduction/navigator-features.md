@@ -75,7 +75,8 @@ In that case, you can filter the respective navigator both by the folder and by 
 
 ![Pictures](pictures/Hierarchy_view_01_08.png)
 
-If there is **only one** reference to a hierarchical nomenclature in a navigator, the **Hierachy** button will be replaced by it. 
+> [!NOTE]
+> If there is **only one** reference to a hierarchical nomenclature in a navigator, the **Hierachy** button will be replaced by it. 
 
 ## Panel menu
 
