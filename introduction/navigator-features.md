@@ -40,27 +40,33 @@ Each navigator features its own dedicated **Menu** through which you can perform
 * Use ERP.net's dedicated **AI Asssistant** (upcoming)
 * Take advantage of **side panels** that reveal additional data and attachments for each selected document
 * Use **[functional panels](./how-to/functional-panels/index.md)** to speed up the process of filling out a document
+* View specific **Hierarchy** references
 * Expand **detail panels** to see information relevant for each selected record of the navigator (e.g. its Document Lines)
 * Create **tiles** to save and later easily access a specific navigator view
 * **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/access-to-views.html)** the navigator form by enabling, disabling, reordering and renaming its panels and widgets.
-* [**Hierarchy**](#Hierarchy is a side panel for hierarchical references streamlines filtering and viewing of hierarchical data by displaying its structure.
 
 ![Pictures](pictures/Menu_view_01_08.png)
 
 ### Hierarchy 
 
-A **Side Panel** for hierarchical references in navigators, designed to streamline the filtering and viewing of hierarchical data.
+The Hierarchy feature works with navigators having one or more **references** to hierarchical nomenclatures.
+
+When there are multiple references, it consists of **side panels** representing all the available hierarchies together with their comprising elements.
 
 ![Pictures](pictures/Hierarchy_menu_01_08.png)
 
-The **Side Panel** displays the hierarchical structure of data, allowing users to click through different levels to filter and access related records efficiently.
+Each hierarchy utilizes a tree-like structure to organize its elements, starting with the hierarchy itself and going further into its relevant elements and sub-elements.
 
-![Pictures](pictures/Hierarchy_view_01_08.png)
-
-> [!NOTE]
-> Hierarchical references are organized into submenus if there are multiple references; single references display directly in the **Side Panel**. The feature uses the **Strategy Pattern** for flexibility and robustness, and sub-menus help manage numerous options more effectively.
+For instance, clicking on the **Adjusted Document** hierarchy in **Invoices** will expand a side panel displaying all adjusted documents.
 
 ![Pictures](pictures/Hierarchy_Note_01_08.png)
+
+You can **click** on any element of a hierarchy to apply an instant **filter** on the contents of the respective navigator. 
+
+> [!NOTE]
+> If there is **only one** reference to a hierarchical nomenclature in a navigator, the **Hierachy** button of the navigator menu will be replaced by it. 
+
+![Pictures](pictures/Hierarchy_view_01_08.png)
 
 ## Panel menu
 
