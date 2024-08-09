@@ -75,10 +75,12 @@ In that case, you can filter the respective navigator both by the more global el
 
 ![Pictures](pictures/Hierarchy_product_group_05_08.png)
 
-> [!NOTE]
-> If there is **only one** reference to a hierarchical nomenclature in a navigator, the **Hierachy** button will be replaced by it. 
+If there is **only one** reference to a hierarchical nomenclature in a navigator, the **Hierachy** button will be replaced by it. 
 
 ![Pictures](pictures/Hierarchy_only_one_05_08.png)
+
+> [!NOTE]
+> The screenshots taken for Hierarchy are from v25 of the Web Client.
 
 ## Panel menu
 
