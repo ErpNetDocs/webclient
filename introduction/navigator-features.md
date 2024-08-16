@@ -40,11 +40,47 @@ Each navigator features its own dedicated **Menu** through which you can perform
 * Use ERP.net's dedicated **AI Asssistant** (upcoming)
 * Take advantage of **side panels** that reveal additional data and attachments for each selected document
 * Use **[functional panels](./how-to/functional-panels/index.md)** to speed up the process of filling out a document
+* View **Hierarchy** references and apply filters based on them
 * Expand **detail panels** to see information relevant for each selected record of the navigator (e.g. its Document Lines)
 * Create **tiles** to save and later easily access a specific navigator view
 * **[Customize](https://docs.erp.net/webclient/introduction/how-to/ui-customization/access-to-views.html)** the navigator form by enabling, disabling, reordering and renaming its panels and widgets.
 
-![Pictures](pictures/navigator_menu.png)
+![Pictures](pictures/Menu_view_01_08.png)
+
+### Hierarchy 
+
+The Hierarchy feature works with navigators having one or more **references** to hierarchical nomenclatures.
+
+When there are multiple references, it reveals **side panels** representing all available hierarchies together with their comprising elements.
+
+![Pictures](pictures/Hierarchy_menu_05_08.png)
+
+Each hierarchy uses a tree-like structure to organize its elements, starting with the hierarchy itself and going further into its elements.
+
+For instance, clicking on the **Adjusted Document** hierarchy in **Invoices** will expand a side panel displaying all adjusted documents.
+
+![Pictures](pictures/Hierarchy_Note_01_08.png)
+
+You can **click** any element of a hierarchy to apply an instant **filter** on the contents of the respective navigator. 
+
+In the case of Adjusted Document, clicking on an element of that hierarchy will filter the Invoices page to show only invoices for which this particular adjusted document has been created.
+
+> [!NOTE]
+> 
+> Only one filter can be applied through **Hierarchy** at a time.
+
+Certain hierarchies like **Product Group** have their elements organized into **sub-elements**.
+
+In that case, you can filter the respective navigator both by the more global element and by its more specific sub-elements.
+
+![Pictures](pictures/Hierarchy_product_group_05_08.png)
+
+If there is **only one** reference to a hierarchical nomenclature in a navigator, the **Hierachy** button will be replaced by it. 
+
+![Pictures](pictures/Hierarchy_only_one_05_08.png)
+
+> [!NOTE]
+> The screenshots taken for Hierarchy are from v25 of the Web Client.
 
 ## Panel menu
 
