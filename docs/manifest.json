@@ -82,6 +82,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/advanced-filter.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/advanced-filter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/how-to/create-new.md",
       "output": {
         ".html": {
@@ -869,6 +879,76 @@
       "output": {
         "resource": {
           "relative_path": "introduction/how-to/pictures/add_show_fields.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/advanced_filter_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/advanced_filter_1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/advanced_filter_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/advanced_filter_2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/advanced_filter_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/advanced_filter_3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/advanced_filter_4.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/advanced_filter_4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/advanced_filter_5.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/advanced_filter_5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/advanced_filter_6.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/advanced_filter_6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/advanced_filter_7.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/advanced_filter_7.png"
         }
       },
       "version": ""

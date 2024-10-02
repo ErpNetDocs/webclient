@@ -1,0 +1,179 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>How to use Advanced filter | ERP.net Web Client </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="How to use Advanced filter | ERP.net Web Client ">
+      
+      
+      <link rel="icon" href="../../favicon.ico">
+      <link rel="stylesheet" href="../../public/docfx.min.css">
+      <link rel="stylesheet" href="../../public/main.css">
+      <meta name="docfx:navrel" content="../../toc.html">
+      <meta name="docfx:tocrel" content="../toc.html">
+      
+      <meta name="docfx:rel" content="../../">
+      
+      
+      <meta name="docfx:docurl" content="https://github.com/ErpNetDocs/webclient/blob/master/introduction/how-to/advanced-filter.md/#L1">
+      <meta name="loc:inThisArticle" content="In this article">
+      <meta name="loc:searchResultsCount" content="{count} results for &quot;{query}&quot;">
+      <meta name="loc:searchNoResults" content="No results for &quot;{query}&quot;">
+      <meta name="loc:tocFilter" content="Filter by title">
+      <meta name="loc:nextArticle" content="Next">
+      <meta name="loc:prevArticle" content="Previous">
+      <meta name="loc:themeLight" content="Light">
+      <meta name="loc:themeDark" content="Dark">
+      <meta name="loc:themeAuto" content="Auto">
+      <meta name="loc:changeTheme" content="Change theme">
+      <meta name="loc:copy" content="Copy">
+      <meta name="loc:downloadPdf" content="Download PDF">
+
+      <script type="module" src="./../../public/docfx.min.js"></script>
+
+      <script>
+        const theme = localStorage.getItem('theme') || 'auto'
+        document.documentElement.setAttribute('data-bs-theme', theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme)
+      </script>
+
+  </head>
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../../index.html">
+            <img id="logo" class="svg" src="../../logo.svg" alt="">
+            
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+              <form class="search" role="search" id="search">
+                <i class="bi bi-search"></i>
+                <input class="form-control" id="search-query" type="search" disabled="" placeholder="Search" autocomplete="off" aria-label="Search">
+              </form>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="">
+<h1 id="how-to-use-advanced-filter">How to use Advanced filter</h1>
+
+<p><strong>Advanced filter</strong> panel is a side panel, that serves for extraction of data in a navigator.
+Upon opening it, the panel displays default combinations of filter fields + comparison types (+ values) that apply to the current navigator.
+Following are the main elements and mode of exploitation of the Advanced filter in WEB.</p>
+<p><img src="pictures/advanced_filter_1.png" alt="picture"></p>
+<h2 id="three-types-of-filters">Three types of filters</h2>
+<p>Filters are distinguished by the accompanying icon and colour:</p>
+<p>• Common (dynamic) – а filling funnel – it is recognized as such when added with the <strong>+</strong> button, through the filtering row or an URL is opened;</p>
+<p>• Pinned – a pin – always active, when you pin a common filter or when it is added through the Customize panel section;</p>
+<p>• Locked – a locker – when you lock a common or pinned filter. It is always active and accessible only by admins.</p>
+<h2 id="colours">Colours</h2>
+<p>A contour filter icon denotes lack of value. A solid colour filter icon denotes presence of value.
+Pinned and locked filters also change field name font colour to blue.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>&quot;Empty&quot; IS a value.</p>
+</div>
+<h2 id="apply">Apply</h2>
+<p>After you supply а value to the filter, the Apply button lights in orange colour and executes the filtering.</p>
+<h2 id="save-layout">Save layout</h2>
+<p>The button activates when a significant change to filters is done. Clicking on the filter icon calls the options pin/unpin and lock/unlock to manage the type. Now you have saved the set filters in the panel.
+<img src="pictures/advanced_filter_7.png" alt="picture"></p>
+<h2 id="how-to-add-a-filter">How to add a filter?</h2>
+<p>There are several ways to add a filter:</p>
+<ol>
+<li>By clicking on the + button (add a common filter)</li>
+</ol>
+<p>A window &quot;Advanced filter&quot; pops-up. There you choose the field from a list, the comparison type and the value. Confirmation with the Enter key leads to the next field, until you reach the final OK button. All attributes are chooseable.
+<img src="pictures/advanced_filter_2.png" alt="picture"></p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>Calculated attributes do not support filtering.</p>
+</div>
+<ol start="2">
+<li>Through the navigation row (add a common filter).</li>
+</ol>
+<p>When you insert a value in a column in the navigation row, the parameters are automatically added to the Advanced filter set.
+<img src="pictures/advanced_filter_3.png" alt="picture"></p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>Filtering by the row is supported only for attributes that have the comparison type “contains”.</p>
+</div>
+<ol start="3">
+<li>Through a URL – the filter combinations of the address are loaded in the panel.</li>
+<li>Through the Customize panel (add a pinned valueless filter)</li>
+</ol>
+<p>Switch on predefined combinations of filter fields + comparison types e.g. <em>Assigned to User is equal to, Assigned to User is one of, Assigned to User contains</em> etc.</p>
+<h2 id="how-to-edit-a-filter">How to edit a filter?</h2>
+<p>Only modification of values is possible. A click in the filter opens the value field. You can insert values, choose from a list of values and for date fields select from a calendar.</p>
+<p><img src="pictures/advanced_filter_4.png" alt="picture"></p>
+<h2 id="how-to-delete-a-filter">How to delete a filter?</h2>
+<p>Use the X button next to the filter to completely delete a common filter and to clear the value of a pinned filter.
+Locked filters cannot be altered.</p>
+<h2 id="customize-panel">Customize panel</h2>
+<p>This completely new concept targets the tasks of administrators and consultants to adjust well in advance the desired filters and layout of the panel.</p>
+<p>Tab <strong>Items</strong> consists of all possible combinations of attributes (system and stored) plus supported comparison types e.g. <em>Deal contains, Deal is one of, Currency directory is equal to, Currency directory contains…</em>
+Advanced users switch on the filters that adds non-value pinned filters in the panel. Users then tune them with the value.
+<img src="pictures/advanced_filter_5.png" alt="picture"></p>
+<p>Tab <strong>Reorder</strong> contains all pinned and locked filters for further rearrangement or deletion.
+<img src="pictures/advanced_filter_6.png" alt="picture"></p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>The screenshots taken for this article are from v.25 of the platform.</p>
+</div>
+
+</article>
+
+        <div class="contribution d-print-none">
+          <a href="https://github.com/ErpNetDocs/webclient/blob/master/introduction/how-to/advanced-filter.md/#L1" class="edit-link">Suggest improvement to this page</a>
+        </div>
+
+        <div class="next-article d-print-none border-top" id="nextArticle"></div>
+
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+    <div class="container-xxl search-results" id="search-results"></div>
+
+    <footer class="border-top text-secondary">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
