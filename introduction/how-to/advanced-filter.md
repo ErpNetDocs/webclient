@@ -6,7 +6,7 @@ Following are the main elements and mode of exploitation of the Advanced filter 
 
 ![picture](pictures/advanced_filter_1.png)
 
-## There are three types of filters:
+## Three types of filters
 Filters are distinguished by the accompanying icon and colour:
 
 • Common (dynamic) – а filling funnel – it is recognized as such when added with the **+** button, through the filtering row or an URL is opened;
