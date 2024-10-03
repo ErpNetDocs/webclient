@@ -16,7 +16,7 @@ Here, you will find guides that can help you better navigate and use the @@name 
   
 - **[Use the "Select by navigator" option](select-navigator.md)**
 
-- **[Use the Advanced filter option](advanced-filter.md)**
+- **[Use the Advanced filter](advanced-filter.md)**
   
 - **[Define user roles](user-roles.md)**
   
