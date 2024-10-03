@@ -46,7 +46,7 @@ When you insert a value in a column in the navigation row, the parameters are au
 ![picture](pictures/advanced_filter_3.png)
 > [!NOTE]
 > 
-> Filtering by the row is supported only for attributes that have the comparison type “contains”.
+> Filtering by the row is supported only for attributes that have the comparison type “contains”. Calculated attributes and Stored attributes are exempt. Stored attribute as a Date can be selected in the navigation row, but not filtered properly by the advanced filter.
 
 3. Through a URL – the filter combinations of the address are loaded in the panel.
 4. Through the Customize panel (add a pinned valueless filter)
