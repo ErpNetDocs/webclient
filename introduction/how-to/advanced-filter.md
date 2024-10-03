@@ -13,7 +13,7 @@ Filters are distinguished by the accompanying icon and colour:
 
 • Pinned – a pin – always active, when you pin a common filter or when it is added through the Customize panel section;
 
-• Locked – a locker – when you lock a common or pinned filter. It is always active and accessible only by admins.
+• Locked – a locker – when you lock a common or pinned filter. It is always active and accessible for edit only by admins.
 
 ## Colours
 A contour filter icon denotes lack of value. A solid colour filter icon denotes presence of value.
