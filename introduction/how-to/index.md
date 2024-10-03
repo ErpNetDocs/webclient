@@ -15,6 +15,8 @@ Here, you will find guides that can help you better navigate and use the @@name 
 - **[Search in dropdown lists](search-dropdown-lists.md)**
   
 - **[Use the "Select by navigator" option](select-navigator.md)**
+
+- **[Use the Advanced filter option](advanced-filter.md)**
   
 - **[Define user roles](user-roles.md)**
   
