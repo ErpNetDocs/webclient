@@ -66,9 +66,9 @@ Locked filters cannot be altered.
 
 ## Customize panel
 This completely new concept targets the tasks of administrators and consultants to adjust well in advance the desired filters and layout of the panel.
-Adding one and the same filter field is possible, but with different supported comparison types. The action is inclusive (one combination does not deactivate the other). The supported comparison types are dependent on the type of field, indicated in the domain model.
 
 Tab **Items** consists of all possible combinations of attributes (system and stored) plus supported comparison types e.g. *Deal contains, Deal is one of, Currency directory is equal to, Currency directory contains…*
+Adding one and the same filter field is possible, but with different supported comparison types. The action is inclusive (one combination does not deactivate the other). The supported comparison types are dependent on the type of field, indicated in the domain model.
 Advanced users switch on the filters that adds non-value pinned filters in the panel. Users then tune them with the value.
 ![picture](pictures/advanced_filter_5.png)
 
