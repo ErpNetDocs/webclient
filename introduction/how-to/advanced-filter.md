@@ -51,10 +51,12 @@ When you insert a value in a column in the navigation row, the parameters are au
 3. Through a URL – the filter combinations of the address are loaded in the panel.
 4. Through the Customize panel (add a pinned valueless filter)
    
-Switch on predefined combinations of filter fields + comparison types e.g. *Assigned to User is equal to, Assigned to User is one of, Assigned to User contains* etc. 
+Switch on predefined combinations of filter fields + comparison types. 
+One and the same field can be chosen several times with the supported comparison types e.g. *Assigned to User is equal to, Assigned to User is one of, Assigned to User contains* etc. 
 
 ## How to edit a filter?
 Only modification of values is possible. A click in the filter opens the value field. You can insert values, choose from a list of values and for date fields select from a calendar.
+If you need to edit the comparison type, the only way is to add the same field again and select another comparison type. 
 
 ![picture](pictures/advanced_filter_4.png)
 
@@ -64,6 +66,7 @@ Locked filters cannot be altered.
 
 ## Customize panel
 This completely new concept targets the tasks of administrators and consultants to adjust well in advance the desired filters and layout of the panel.
+Adding one and the same filter field is possible, but with different supported comparison types. The action is inclusive (one combination does not deactivate the other). The supported comparison types are dependent on the type of field, indicated in the domain model.
 
 Tab **Items** consists of all possible combinations of attributes (system and stored) plus supported comparison types e.g. *Deal contains, Deal is one of, Currency directory is equal to, Currency directory contains…*
 Advanced users switch on the filters that adds non-value pinned filters in the panel. Users then tune them with the value.
