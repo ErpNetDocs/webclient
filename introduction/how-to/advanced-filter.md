@@ -56,7 +56,7 @@ One and the same field can be chosen several times with the supported comparison
 
 ## How to edit a filter?
 Only modification of values is possible. A click in the filter opens the value field. You can insert values, choose from a list of values and for date fields select from a calendar.
-If you need to edit the comparison type, the only way is to add the same field again and select another comparison type. 
+If you need to edit the filter completely, you should either delete and add it again with a different comparison typre, or add it for the second time with the desired comparison type.
 
 ![picture](pictures/advanced_filter_4.png)
 
