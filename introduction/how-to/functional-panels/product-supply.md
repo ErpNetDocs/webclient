@@ -4,6 +4,8 @@ The **"Product supply"** panel is introduced in the WEB client to improve procur
 
 The panel lists the currently active products available for delivery to the selected Store, filtered by specific document-related filters and offers **automated suggestions for replenishing quantities** for the products based on the applicable **"Product Supply Methods"**.
 
+The available quantities and the replenishment suggestions (highlighted in orange) can be reviewed and easily added as new lines in the document using the "+" button, simplifying the creation of a customized order that meets current needs.
+
 This provides a real-time approach to replenishing the active product assortment for each Supplier and Store, reducing reliance on complex algorithms or manual calculations. Additionally, it helps minimize errors, such as ordering products from the wrong supplier or requesting items that should not be ordered.
 
 The panel is accessible within **purchase**, **transfer**, and **work order** documents, with filters applied based on the relevant document data:
