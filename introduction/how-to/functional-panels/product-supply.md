@@ -1,6 +1,6 @@
 # How to use the Product supply panel 
 
-The "Supply Methods" panel is introduced in the WEB client to improve procurement accuracy and inventory management across different stores and suppliers. 
+The **"Product supply"** panel is introduced in the WEB client to improve procurement accuracy and inventory management across different stores and suppliers. 
 
 The panel lists the currently active products available for delivery to the selected Store, filtered by specific document-related filters and offers **automated suggestions for replenishing quantities** for the products based on the applicable **"Product Supply Methods"**.
 
