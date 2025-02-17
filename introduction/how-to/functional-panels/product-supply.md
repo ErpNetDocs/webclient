@@ -2,7 +2,7 @@
 
 The "Supply Methods" panel is introduced in the WEB client to improve procurement accuracy and inventory management across different stores and suppliers. 
 
-The panel lists the currently active products available for delivery to the selected Store, filtered by specific document-related filters and offers automated suggestions for replenishing quantities for the products based on the applicable "Product Supply Methods".
+The panel lists the currently active products available for delivery to the selected Store, filtered by specific document-related filters and offers **automated suggestions for replenishing quantities** for the products based on the applicable **"Product Supply Methods"**.
 
 This provides a real-time approach to replenishing the active product assortment for each supplier and store, reducing reliance on complex algorithms or manual calculations. Additionally, it helps minimize errors, such as ordering products from the wrong supplier or requesting items that should not be ordered.
 
