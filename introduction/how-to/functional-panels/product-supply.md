@@ -1,16 +1,21 @@
 # How to use the Product supply panel 
 
-For **purchase**, **transfer**, and **work order** documents, there's a functional panel called **Product Supply**. 
+The "Supply Methods" panel is introduced in the WEB client to improve procurement accuracy and inventory management across different stores and suppliers. 
 
-It displays a list of currently active products available for delivery for a specific store in a particular enterprise company. 
+The panel lists the currently active products available for delivery to the Selected store, filtered according to the "Product Supply Method" criteria and specific document-related filters and offers automated suggestions for replenishing quantities for the particular product.
 
-* For purchase orders, this list is filtered by the **Supplier** field.
+This provides a real-time approach to replenishing the active product assortment for each supplier and store, reducing reliance on complex algorithms or manual calculations. Additionally, it helps minimize errors, such as ordering products from the wrong supplier or requesting items that should not be ordered.
+
+The panel is accessible within **purchase**, **transfer**, and **work order** documents, with filters applied based on the relevant document data:
+
+* For purchase orders, the list is filtered by the **Supplier** field.
 * For transfer orders, it is filtered by the **FromStore** field.
 * For work orders, the list is filtered by the **DefaultStore** field.
 
+
 ### Navigation 
 
-To reveal the **Product supply** panel, you need to open the document form of either a purchase, a transfer, or a work order.
+To show the **Product supply** panel, you need to open the document form of either a purchase, a transfer, or a work order.
 
 Then, choose **Product supply** from the list of **Functional panels** found within the **Menu** button.
 
