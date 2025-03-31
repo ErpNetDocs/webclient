@@ -20,8 +20,7 @@
     "globalMetadata": {
       "_appTitle": "ERP.net Web Client",
       "_enableSearch": true,
-      "_appFaviconPath": "favicon.ico",
-	  "pdf": false
+      "_appFaviconPath": "favicon.ico"
     },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
