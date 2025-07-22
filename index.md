@@ -6,7 +6,7 @@ This documentation contains information about the user interface and capabilitie
  
 - **[Introduction to the @@webclient](./introduction/index.md)** - explanation of commonly used terms, features and concepts
 - **[My Apps](https://docs.erp.net/webclient/introduction/my-apps/index.html)** - a quick look at the customizable and personalized My Apps module
-- **[Step-by-step guides](./introduction/how-to/index.md)** - walkthroughs for features and operations specific to the Web Client
+- **[How-to guides](./introduction/how-to/index.md)** - walkthroughs for features and operations specific to the Web Client
   
 ## More information
 
