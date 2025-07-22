@@ -22,7 +22,7 @@
   "index.html": {
     "href": "index.html",
     "title": "Welcome to the ERP.net Web Client Documentation | ERP.net Web Client",
-    "summary": "Welcome to the ERP.net Web Client Documentation This documentation contains information about the user interface and capabilities of the ERP.net Web Client. Topics Introduction to the ERP.net Web Client - explanation of commonly used terms, features and concepts My Apps - a quick look at the customizable and personalized My Apps module Step-by-step guides - walkthroughs for features and operations specific to the Web Client More information All docs - root container for all ERP.net documentations Technical Documentation - business logic and implementation information Domain Model - reference information about the business entities Developer Documentation - information for developers"
+    "summary": "Welcome to the ERP.net Web Client Documentation This documentation contains information about the user interface and capabilities of the ERP.net Web Client. Topics Introduction to the ERP.net Web Client - explanation of commonly used terms, features and concepts My Apps - a quick look at the customizable and personalized My Apps module How-to guides - walkthroughs for features and operations specific to the Web Client More information All docs - root container for all ERP.net documentations Technical Documentation - business logic and implementation information Domain Model - reference information about the business entities Developer Documentation - information for developers"
   },
   "introduction/how-to/access-permission-field.html": {
     "href": "introduction/how-to/access-permission-field.html",
