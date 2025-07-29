@@ -90,7 +90,8 @@
 <p>The <strong>Available products</strong> functional panel displays a list of products which are in stock for a respective <strong>store</strong>.</p>
 <p>Using it, you can <strong>adjust</strong> existing product quantities or <strong>add</strong> new ones in the lines of logistical documents.</p>
 <h3 id="navigation">Navigation</h3>
-<p>To reveal the panel, you need to open the document form of a sales order, a purchase order, or another logistical document. Then, choose <strong>Available products</strong> from the list of <strong>Functional panels</strong> found within the <strong>Menu</strong> button.</p>
+<p>To reveal the panel, you need to open the document form of a sales order, a purchase order, or another logistical document.
+Then, choose <strong>Available products</strong> from the list of <strong>Functional panels</strong> found within the <strong>Menu</strong> button.</p>
 <div class="NOTE">
 <h5>Note</h5>
 <p>The panel's buttons will be visible and usable only when you:</p>
@@ -116,6 +117,10 @@
 <p><img src="pictures/available-products-quantities.png" alt="pictures"></p>
 <p>New product quantities are automatically added as new rows in the <strong>Lines</strong> panel of the respective document.</p>
 <p><img src="pictures/available-product-new-products.png" alt="pictures"></p>
+<h3 id="lot-and-serial-number-behavior">Lot and Serial Number behavior</h3>
+<p>When working with products that are lot-controlled or have serial numbers, the panel performs the following behaviors when adding quantities:</p>
+<p>If the available quantity belongs to a single lot, selecting the row will automatically assign that lot to the document line.</p>
+<p>If there are multiple serial numbers associated with the same lot, they will be grouped together into a single row in the Available products panel.</p>
 <div class="NOTE">
 <h5>Note</h5>
 <p>The screenshots taken for this article are from v24 of the Web Client.</p>
