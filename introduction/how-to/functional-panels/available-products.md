@@ -44,3 +44,12 @@ New product quantities are automatically added as new rows in the **Lines** pane
 
 > [!NOTE]
 > The screenshots taken for this article are from v24 of the Web Client.
+
+### Lot and Serial Number behavior
+
+When working with products that are lot-controlled or have serial numbers, the panel performs the following behaviors when adding quantities:
+
+If the available quantity belongs to a single lot, selecting the row will automatically assign that lot to the document line.
+
+If there are multiple serial numbers associated with the same lot, they will be grouped together into a single row in the Available products panel.
+
