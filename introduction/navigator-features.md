@@ -155,16 +155,8 @@ As a result, the entire panel will be divided into "BW" groups that include reco
 
 ![Pictures](pictures/grouped_groups_nosummary.png)
 
-### Group context menu
-
-If you **right-click** on a column with a group filter applied, you can expand a dropdown menu with the following options:
-
-* **Expand** and **collapse** all groups of records at once
-* **Sort** the groups of records based on a column in an ascending or descending order
-* **Group** records by time intervals based on column type 
-* Perform **Summary** functions on all groups
-
-![Pictures](pictures/group_groupcontext.png)
+> [!TIP]
+> If you right-click on a column header with a time interval, you can **expand** or **collapse** all groups at once.
 
 #### Sorting summarized groups
 
