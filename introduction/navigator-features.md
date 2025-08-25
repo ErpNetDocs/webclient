@@ -143,7 +143,7 @@ If you **right-click** on a particular column, you will expand a dropdown menu w
 
 Depending on the type of a column (e.g. Date, Number, Document Type), you can perform more specific grouping operations.
 
-This is achieved through **intervals** such as character counts and time periods.
+This is achieved through **intervals** such as character counts (for text-based columns) or time periods (for time-based columns).
 
 ![Pictures](pictures/groupby_groups.png)
 
@@ -155,8 +155,12 @@ As a result, the entire panel will be divided into "BW" groups that include reco
 
 ![Pictures](pictures/grouped_groups_nosummary.png)
 
+Attempting to group records by **Document No** will offer different interval options.
+
+![Pictures](pictures/group_groupcontext.png)
+
 > [!TIP]
-> If you right-click on a column header with a time interval, you can **expand** or **collapse** all groups at once.
+> If you right-click on a column header with an interval filter applied, you can **expand** or **collapse** all groups at once.
 
 #### Sorting summarized groups
 
