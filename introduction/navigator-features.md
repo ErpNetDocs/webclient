@@ -132,7 +132,7 @@ If you **right-click** on a particular column, you will expand a dropdown menu w
 
 * **Sort** the column's contents by ascending or descending order
 * **Clear** the sorting, restoring the column view to default
-* **Group** the records of the column by specific criteria like character count, word count, etc.
+* **Group** the records of the column by specific criteria based on the type of the column (word-based, time-based, etc.)
 * **[Summarize](https://docs.erp.net/webclient/introduction/my-apps/documents.html#summary)** columns using functions like Summary and Distinct
 * Restore the column's **default width**
 * **Hide** the column from view (can be re-enabled through the Panel customization Menu)
@@ -145,26 +145,27 @@ Depending on the type of a column (e.g. Date, Number, Document Type), you can pe
 
 This is achieved through **intervals** such as character counts and time periods.
 
+![Pictures](pictures/group_by.png)
+
 **Example:**
 
-We can apply a rule where records will be grouped by the year indicated in their Document Date column.
+We can apply a rule where records will be grouped by the **[business week](https://docs.erp.net/tech/modules/my/calendar.html#business-week-numbering)** indicated in their **Document Date** column.
 
-As a result, the entire panel will be divided into "year" groups that include records created in the respective year.
+As a result, the entire panel will be divided into "BW" groups that include records created in the respective business week.
 
-![Pictures](pictures/group_by.png)
+![Pictures](pictures/business_week_grouping.png)
 
 ### Group context menu
 
-If you **right-click** on a particular column with a group filter applied, you can expand a dropdown menu with the following unique options:
+If you **right-click** on a column with a group filter applied, you can expand a dropdown menu with the following options:
 
-* **Sort** the respective groups based on the column in ascending or descending order
-* **Expand** and **collapse** all groups at once
-* Change the **group interval** applied on the column
-* Perform **Summary** functions on all groups 
+* **Expand** and **collapse** all groups of records at once
+* **Sort** the respective groups of records based on a column in an ascending or descending order
+* Perform **Summary** functions on all groups
 
-#### Sort summarized groups
+#### Sorting summarized groups
 
-If a Summary function is applied on a column, you can use it to **sort** existing groups.
+If a **Summary** function is applied on a column, you can use it to **sort** existing groups.
 
 Groups can be sorted based on their own column or by columns which have summary functions applied.
 
