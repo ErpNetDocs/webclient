@@ -3600,6 +3600,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/business_week_grouping.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/business_week_grouping.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/column_context_menu.png",
       "output": {
         "resource": {
@@ -3634,6 +3644,46 @@
       "output": {
         "resource": {
           "relative_path": "introduction/pictures/group_by_headers.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/group_groupcontext.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/group_groupcontext.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/groupby_groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/groupby_groups.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/grouped_groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/grouped_groups.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/grouped_groups_nosummary.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/grouped_groups_nosummary.png"
         }
       },
       "version": ""

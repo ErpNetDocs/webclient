@@ -182,7 +182,7 @@
 <ul>
 <li><strong>Sort</strong> the column's contents by ascending or descending order</li>
 <li><strong>Clear</strong> the sorting, restoring the column view to default</li>
-<li><strong>Group</strong> the records of the column by specific criteria like character count, word count, etc.</li>
+<li><strong>Group</strong> the records of the column by specific criteria based on the type of the column (word-based, time-based, etc.)</li>
 <li><strong><a href="https://docs.erp.net/webclient/introduction/my-apps/documents.html#summary">Summarize</a></strong> columns using functions like Summary and Distinct</li>
 <li>Restore the column's <strong>default width</strong></li>
 <li><strong>Hide</strong> the column from view (can be re-enabled through the Panel customization Menu)</li>
@@ -190,26 +190,25 @@
 <p><img src="pictures/column_context_menu.png" alt="Pictures"></p>
 <h3 id="group-by-intervals">Group by intervals</h3>
 <p>Depending on the type of a column (e.g. Date, Number, Document Type), you can perform more specific grouping operations.</p>
-<p>This is achieved through <strong>intervals</strong> such as character counts and time periods.</p>
+<p>This is achieved through <strong>intervals</strong> such as character counts (for text-based columns) or time periods (for time-based columns).</p>
+<p><img src="pictures/groupby_groups.png" alt="Pictures"></p>
 <p><strong>Example:</strong></p>
-<p>We can apply a rule where records will be grouped by the year indicated in their Document Date column.</p>
-<p>As a result, the entire panel will be divided into &quot;year&quot; groups that include records created in the respective year.</p>
-<p><img src="pictures/group_by.png" alt="Pictures"></p>
-<h3 id="group-context-menu">Group context menu</h3>
-<p>If you <strong>right-click</strong> on a particular column with a group filter applied, you can expand a dropdown menu with the following unique options:</p>
-<ul>
-<li><strong>Sort</strong> the respective groups based on the column in ascending or descending order</li>
-<li><strong>Expand</strong> and <strong>collapse</strong> all groups at once</li>
-<li>Change the <strong>group interval</strong> applied on the column</li>
-<li>Perform <strong>Summary</strong> functions on all groups</li>
-</ul>
-<h4 id="sort-summarized-groups">Sort summarized groups</h4>
-<p>If a Summary function is applied on a column, you can use it to <strong>sort</strong> existing groups.</p>
+<p>We can apply a rule where records will be grouped by the <strong><a href="https://docs.erp.net/tech/modules/my/calendar.html#business-week-numbering">business week</a></strong> indicated in their <strong>Document Date</strong> column.</p>
+<p>As a result, the entire panel will be divided into &quot;BW&quot; groups that include records created in the respective business week.</p>
+<p><img src="pictures/grouped_groups_nosummary.png" alt="Pictures"></p>
+<p>Attempting to group records by <strong>Document No</strong> will offer different interval options.</p>
+<p><img src="pictures/group_groupcontext.png" alt="Pictures"></p>
+<div class="TIP">
+<h5>Tip</h5>
+<p>If you right-click on a column header with an interval filter applied, you can <strong>expand</strong> or <strong>collapse</strong> all groups at once.</p>
+</div>
+<h3 id="sorting-summarized-groups">Sorting summarized groups</h3>
+<p>If a <strong><a href="https://docs.erp.net/webclient/introduction/my-apps/documents.html#summary">Summary</a></strong> function is applied on a column, you can use it to <strong>sort</strong> existing groups.</p>
 <p>Groups can be sorted based on their own column or by columns which have summary functions applied.</p>
 <p><img src="pictures/sort_groups.png" alt="Pictures"></p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>The screenshots for this article are from v24 of the Web Client.</p>
+<p>The screenshots for this article are from v24 and v26 of the Web Client.</p>
 </div>
 
 </article>
