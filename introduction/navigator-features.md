@@ -145,7 +145,7 @@ Depending on the type of a column (e.g. Date, Number, Document Type), you can pe
 
 This is achieved through **intervals** such as character counts and time periods.
 
-![Pictures](pictures/group_by.png)
+![Pictures](pictures/groupby_groups.png)
 
 **Example:**
 
@@ -153,14 +153,15 @@ We can apply a rule where records will be grouped by the **[business week](https
 
 As a result, the entire panel will be divided into "BW" groups that include records created in the respective business week.
 
-![Pictures](pictures/business_week_grouping.png)
+![Pictures](pictures/grouped_groups.png)
 
 ### Group context menu
 
 If you **right-click** on a column with a group filter applied, you can expand a dropdown menu with the following options:
 
 * **Expand** and **collapse** all groups of records at once
-* **Sort** the respective groups of records based on a column in an ascending or descending order
+* **Sort** the groups of records based on a column in an ascending or descending order
+* **Group** records by time intervals based on column type 
 * Perform **Summary** functions on all groups
 
 #### Sorting summarized groups
