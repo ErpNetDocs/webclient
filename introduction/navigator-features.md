@@ -162,7 +162,7 @@ Attempting to group records by **Document No** will offer different interval opt
 > [!TIP]
 > If you right-click on a column header with an interval filter applied, you can **expand** or **collapse** all groups at once.
 
-#### Sorting summarized groups
+### Sorting summarized groups
 
 If a **Summary** function is applied on a column, you can use it to **sort** existing groups.
 
@@ -171,4 +171,4 @@ Groups can be sorted based on their own column or by columns which have summary 
 ![Pictures](pictures/sort_groups.png)
 
 > [!NOTE]
-> The screenshots for this article are from v24 of the Web Client.
+> The screenshots for this article are from v24 and v26 of the Web Client.
