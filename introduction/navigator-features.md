@@ -164,7 +164,7 @@ Attempting to group records by **Document No** will offer different interval opt
 
 ### Sorting summarized groups
 
-If a **Summary** function is applied on a column, you can use it to **sort** existing groups.
+If a **[Summary](https://docs.erp.net/webclient/introduction/my-apps/documents.html#summary)** function is applied on a column, you can use it to **sort** existing groups.
 
 Groups can be sorted based on their own column or by columns which have summary functions applied.
 
