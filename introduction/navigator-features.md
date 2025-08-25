@@ -153,7 +153,7 @@ We can apply a rule where records will be grouped by the **[business week](https
 
 As a result, the entire panel will be divided into "BW" groups that include records created in the respective business week.
 
-![Pictures](pictures/grouped_groups.png)
+![Pictures](pictures/grouped_groups_nosummary.png)
 
 ### Group context menu
 
@@ -163,6 +163,8 @@ If you **right-click** on a column with a group filter applied, you can expand a
 * **Sort** the groups of records based on a column in an ascending or descending order
 * **Group** records by time intervals based on column type 
 * Perform **Summary** functions on all groups
+
+![Pictures](pictures/group_groupcontext.png)
 
 #### Sorting summarized groups
 
