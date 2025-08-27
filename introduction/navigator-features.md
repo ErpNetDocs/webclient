@@ -149,7 +149,7 @@ This is achieved through **intervals** such as character counts (for text-based 
 
 **Example:**
 
-We can apply a rule where records will be grouped by the **[business week](https://docs.erp.net/tech/modules/my/calendar.html#business-week-numbering)** indicated in their **Document Date** column.
+We can apply a rule where records will be grouped by the **[business week](https://docs.erp.net/tech/modules/my/calendar.html#business-week-number)** indicated in their **Document Date** column.
 
 As a result, the entire panel will be divided into "BW" groups that include records created in the respective business week.
 
