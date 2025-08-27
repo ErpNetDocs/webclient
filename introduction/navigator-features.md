@@ -139,28 +139,28 @@ If you **right-click** on a particular column, you will expand a dropdown menu w
 
 ![Pictures](pictures/column_context_menu.png)
 
-### Group by intervals
+### Grouping
 
-Depending on the type of a column (e.g. Date, Number, Document Type), you can perform more specific grouping operations.
+Depending on the type of a column (e.g. Date, Number, Document Type), you can perform more specific **grouping operations**.
 
-This is achieved through **intervals** such as character counts (for text-based columns) or time periods (for time-based columns).
+This is achieved through character counts (for text-based columns) or time periods (for time-based columns).
 
 ![Pictures](pictures/groupby_groups.png)
 
 **Example:**
 
-We can apply a rule where records will be grouped by the **[business week](https://docs.erp.net/tech/modules/my/calendar.html#business-week-number)** indicated in their **Document Date** column.
+We can group records by the **[business week](https://docs.erp.net/tech/modules/my/calendar.html#business-week-number)** indicated in their **Document Date** column.
 
 As a result, the entire panel will be divided into "BW" groups that include records created in the respective business week.
 
 ![Pictures](pictures/grouped_groups_nosummary.png)
 
-Attempting to group records by **Document No** will offer different interval options.
+Attempting to group records by **Document No** will offer different grouping options.
 
 ![Pictures](pictures/group_groupcontext.png)
 
 > [!TIP]
-> If you right-click on a column header with an interval filter applied, you can **expand** or **collapse** all groups at once.
+> If you right-click on a column header with an grouping filter applied, you can **expand** or **collapse** all groups at once.
 
 ### Sorting summarized groups
 
