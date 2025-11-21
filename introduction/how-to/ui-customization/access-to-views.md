@@ -1,4 +1,4 @@
-# Access to views customization
+# Customize layout
 
 In order to be able to organize the vision and usability of the platform a User needs to have permissions. It is advised that only Admins bear such responsibility. 
 Common users do not normally have rights to personalize their working environment and in general should get accustomed to the settings.
