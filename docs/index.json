@@ -127,7 +127,7 @@
   "introduction/how-to/ui-customization/index.html": {
     "href": "introduction/how-to/ui-customization/index.html",
     "title": "UI Customization | ERP.net Web Client",
-    "summary": "UI Customization This section contains guides related to the ERP.net Web Client's customization capabilities. You can learn how to rename fields and columns, reorder panels and show or hide different elements. Access to views customization Customize fields Create multiple panels Create new attributes Separate views by object category"
+    "summary": "UI Customization This section contains guides related to the ERP.net Web Client's customization capabilities. You can learn how to rename fields and columns, reorder panels and show or hide different elements. Customize layout Customize fields Create multiple panels Create new attributes Separate views by object category"
   },
   "introduction/how-to/ui-customization/separate-views.html": {
     "href": "introduction/how-to/ui-customization/separate-views.html",
