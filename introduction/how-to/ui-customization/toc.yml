@@ -1,6 +1,6 @@
 - name: Overview
   href: index.md
-- name: Access to views customization
+- name: Customize layout
   href: access-to-views.md
 - name: Customize fields
   href: customize-fields.md
