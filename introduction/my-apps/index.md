@@ -8,7 +8,7 @@ A classic example of one "My app" is the calendar. It's a standalone application
 
 Of course, this is not just a calendar :) You can read more about it in [the separate topic](./calendar.md). 
 
-# Widgets
+## Widgets
 
 A specific feature of each "My app" is that it can be visualized not only independently, as given above, but also in its own [panel](../terms.md).
 
@@ -31,7 +31,7 @@ Or even more specifically - Crm -> Common -> Price Lists:
 
 This is the idea - contextual information at your fingertips, easily accessible anywhere.
 
-## Visualizing a widget panel
+### Visualizing a widget panel
 
 1. Just go to the form where you want to add it.
 2. From the main settings, click "Show/Hide panels".
