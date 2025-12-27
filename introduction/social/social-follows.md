@@ -22,4 +22,4 @@ Automatically following an object is also an option. For instance, if you're men
 
 ## My apps - Favorites
 
-\[!include[favorites](../my-apps/favorites/favorites.md)]
+[!include[favorites](../my-apps/favorites/favorites.md)]
