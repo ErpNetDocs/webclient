@@ -14,7 +14,7 @@ Just as the name implies, this process is manual. To achieve it, open the object
 
 When the star icon is filled, it means the object is already in your favorites. To unfollow it, simply click the star icon again.
 
-![Follow an object](./pictures/follow-object-done.png "Add an object to your favorites")")
+![Follow an object](./pictures/follow-object-done.png "Add an object to your favorites")
 
 ## Auto object follow
 
@@ -22,4 +22,4 @@ Automatically following an object is also an option. For instance, if you're men
 
 ## My apps - Favorites
 
-[!include[favorites](../my-apps/favorites/favorites.md)]
+\[!include[favorites](../my-apps/favorites/favorites.md)]
