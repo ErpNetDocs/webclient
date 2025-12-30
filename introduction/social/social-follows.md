@@ -21,5 +21,4 @@ When the star icon is filled, it means the object is already in your favorites. 
 Automatically following an object is also an option. For instance, if you're mentioned in a discussion about an object you haven't followed yet, it will be automatically added to your favorites. When this occurs, along with the new 'object follow,' you'll receive a notification specifying who mentioned you. You can find further details in the [Chatter mentions](./chatter/index.md#user-mention).
 
 ## My apps - Favorites
-
-![favorites](../my-apps/favorites/index.md)
+Learn what [My Favorites](../my-apps/favorites/index.md) app serves for.
