@@ -52,7 +52,7 @@ Before the introduction of Follow levels, users expressed their interest on the 
 
 ### What is shown in Favorites
 
-Favorites lists **only** objects with **Follow level = Favorite**. Objects that are - **Tagged** (automatic follow), or- **Following** do **not** appear in Favorites.
+Favorites lists **only** objects with **Follow level = Favorite**. Objects that are **Tagged** (automatic follow), or **Following** do **not** appear in Favorites.
 
 A user can have **up to 50 favorite objects**. If you reach the limit, you must remove an existing favorite before adding a new one.
 
