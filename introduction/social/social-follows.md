@@ -132,7 +132,8 @@ If you reach the limit, you must remove an existing favorite before adding a new
 When the system creates a follow automatically (e.g. due to a mention/assignment), the follow level is **Tagged**.
 
 ### Chat groups
-- **Mute/Unmute** uses follow level **Tagged**.
+- Group membership sets automatic follow level **Tagged** for the Group,
+- **Mute/Unmute** uses follow level **Tagged**
 
 ### AI Assistant panel
 - Creating a new conversation creates a follow with level **Tagged** for the conversation.
