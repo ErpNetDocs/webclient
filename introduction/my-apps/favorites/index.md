@@ -23,13 +23,17 @@ Additionally, clicking on a tile will open the form for the favorite object.
 
 ### Add an object to Favorites
 
-To add an object to Favorites, set its follow level to **Favorite**.
+To add an object to Favorites, mark it as such, which sets its follow level to **Favorite**.
 
 1. Open the object in Web Client.
 2. Use the **follow (star) button** in the form header (or from the context menu).
 3. Click until the object becomes **Favorite**.
 
-OR you can skip this cycle by pressing Ctrl+Mouse click on the star icon.
+Optionally use the Favorites button in the context menu of the record.
+
+OR you can skip this cycle by pressing Ctrl+Mouse-click on the star icon.
+
+![Make Favorite](./pictures/favmake.png)
 
 For details about follow levels, see [Social follows](../../social/social-follows.html).
 
