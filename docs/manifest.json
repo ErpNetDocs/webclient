@@ -3780,20 +3780,30 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/social/pictures/follow-object-done.png",
+      "source_relative_path": "introduction/social/pictures/follow.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/social/pictures/follow-object-done.png"
+          "relative_path": "introduction/social/pictures/follow.png"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/social/pictures/follow-object.png",
+      "source_relative_path": "introduction/social/pictures/followicons.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/social/pictures/follow-object.png"
+          "relative_path": "introduction/social/pictures/followicons.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/social/pictures/one.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/social/pictures/one.html"
         }
       },
       "version": ""

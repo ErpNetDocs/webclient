@@ -87,18 +87,140 @@
         <article data-uid="">
 <h1 id="overview">Overview</h1>
 
-<p>Social follows is a key aspect in Social ERP.</p>
-<p>The act of 'following' an object is akin to subscribing to updates for that specific item. In essence, it signifies that you want to know when something happens within its context, making it one of your 'favorite' objects. As a result of following, you'll receive individual notifications related to this object. Furthermore, this action automatically triggers the creation of a new tile within the <a href="../my-apps/favorites/index.html">My Favorites</a> app. This tile visually displays the count of new notifications relevant to the object you're following. Importantly, the tile remains present as long as you continue following the corresponding object.</p>
-<p>Adding an object to your favorites (i.e., following it) can happen in two ways: either by doing it manually or having it done automatically.</p>
-<h2 id="unfollow-an-object-manually">(Un)follow an object manually</h2>
-<p>Just as the name implies, this process is manual. To achieve it, open the object you wish to follow and click on the star icon located at the upper right corner of the form.</p>
-<p><img src="pictures/follow-object.png" alt="Follow an object" title="Add an object to your favorites"></p>
-<p>When the star icon is filled, it means the object is already in your favorites. To unfollow it, simply click the star icon again.</p>
-<p><img src="pictures/follow-object-done.png" alt="Follow an object" title="Add an object to your favorites"></p>
-<h2 id="auto-object-follow">Auto object follow</h2>
-<p>Automatically following an object is also an option. For instance, if you're mentioned in a discussion about an object you haven't followed yet, it will be automatically added to your favorites. When this occurs, along with the new 'object follow,' you'll receive a notification specifying who mentioned you. You can find further details in the <a href="chatter/index.html#user-mention">Chatter mentions</a>.</p>
-<h2 id="my-apps---favorites">My apps - Favorites</h2>
-<p>Learn what <a href="../my-apps/favorites/index.html">My Favorites</a> app serves for.</p>
+<p>Social follows is a key aspect in Social ERP.They allow users to express interest in business objects and stay informed when something happens in their context.</p>
+<p>Originally, following an object was treated as a single action: you either followed it or you did not. Following was implicitly understood as “this object matters to me” and was closely tied to concepts such as <strong>favorites, notifications</strong>, and visual indicators in the UI. As the system evolved, this simple model became limiting.<br>
+Following is no longer a simple “follow/unfollow” state. Instead, each follow has a <strong>Follow level</strong> that indicates <em>why</em> you follow an object and <em>how important</em> it is to you.</p>
+<h2 id="why-the-model-evolved">Why the model evolved</h2>
+<p>In practice, not all follows are the same.</p>
+<p>Some follows exist because:</p>
+<ul>
+<li>the system automatically involved the user (mentions, assignments)</li>
+<li>the user explicitly chose to keep track of an object</li>
+<li>the object is truly important and needs quick access and higher visibility</li>
+</ul>
+<p>Treating all these cases identically led to:</p>
+<ul>
+<li>important objects being mixed with incidental ones</li>
+<li>limited control over visibility and prioritization</li>
+<li>a rigid notification model that could not scale</li>
+</ul>
+<p>Follow levels were introduced to address this.</p>
+<h2 id="follow-levels-as-a-unifying-concept">Follow levels as a unifying concept</h2>
+<p>Follow levels extend the original idea of following by adding intent and importance.</p>
+<p>Instead of answering only &quot;is this object followed?&quot;, the system can now also answer:</p>
+<ul>
+<li>why the object is followed</li>
+<li>how important it is to the user</li>
+</ul>
+<p>This enables:</p>
+<ul>
+<li>automatic follows (e.g. mentions) without overstating importance</li>
+<li>explicit follows without cluttering high-priority views</li>
+<li>Favorites as a deliberate, high-interest choice</li>
+</ul>
+<h2 id="follow-levels">Follow levels</h2>
+<ul>
+<li><p><strong>Tagged</strong><br>
+You are following the object automatically, typically because you were mentioned or assigned.</p>
+</li>
+<li><p><strong>Following</strong><br>
+You explicitly chose to follow the object.</p>
+</li>
+<li><p><strong>Favorite</strong><br>
+You explicitly marked the object as a favorite. Favorites are shown in the <strong>Favorites</strong> app.</p>
+</li>
+</ul>
+<p>There is no zero level for unfollowed objects and such objects are indicated by a <strong>No Follow</strong> icon.
+<img src="pictures/followicons.png" alt="followicons"></p>
+<h2 id="favorites-in-the-new-model"><a href="../my-apps/favorites/index.html">Favorites</a> in the new model</h2>
+<p>In the previous model, following an object automatically implied:</p>
+<ul>
+<li>receiving notifications</li>
+<li>the object appearing in Favorites-related views</li>
+</ul>
+<p>In the new model:</p>
+<ul>
+<li>Favorites are an explicit decision, represented by the highest follow level</li>
+<li>not all follows result in a Favorite</li>
+<li>automatic follows no longer create Favorites by default</li>
+</ul>
+<p>This separation makes Favorites meaningful, limited, and intentional.</p>
+<h2 id="getting-started">Getting Started</h2>
+<p>This section describes the shortest path to start using follow levels in the Web Client.</p>
+<h3 id="change-follow-level-from-the-form-header">Change follow level from the form header</h3>
+<ol>
+<li><p>Open the object you want to follow (e.g. a document, a case, etc.).</p>
+</li>
+<li><p>Use the <strong>star (follow) button</strong> in the form header.</p>
+</li>
+<li><p>Each click moves to the next state in a cycle:</p>
+<ul>
+<li><strong>Not followed</strong> → <strong>Following</strong></li>
+<li><strong>Tagged</strong> → <strong>Following</strong></li>
+<li><strong>Following</strong> → <strong>Favorite</strong></li>
+<li><strong>Favorite</strong> → <strong>Not followed</strong> (unfollow)</li>
+</ul>
+</li>
+</ol>
+<p>Expected result:</p>
+<ul>
+<li>If you set an object to <strong>Favorite</strong>, it becomes available in the <strong>Favorites</strong> app.</li>
+</ul>
+<h3 id="change-follow-level-from-the-context-menu">Change follow level from the context menu</h3>
+<p>The context menu follow action uses the <strong>same behavior as the form header button</strong> (the same click-cycle logic).</p>
+<h3 id="quick-followunfollow-actions-ctrlshift--click">Quick follow/unfollow actions (Ctrl/Shift + click)</h3>
+<p>In addition to the standard follow-level click cycle, you can use the following shortcuts on the <strong>Follow (star) icon</strong> to perform the most common actions immediately:</p>
+<ul>
+<li>Add to Favorites (skip the cycle) - <em>Ctrl + Click</em> on the Follow (star) icon → sets the object to <strong>Favorite</strong> (adds it to the <em>Favorites</em> app).</li>
+</ul>
+<p>Use this when you want to mark an object as a favorite without cycling through the intermediate follow levels.</p>
+<ul>
+<li>Unfollow immediately - <em>Shift + Click</em> on the Follow (star) icon → <strong>Unfollow</strong> (removes the follow record).</li>
+</ul>
+<p>Use this when you want to stop following the object in a single action.</p>
+<h2 id="concepts">Concepts</h2>
+<p>This section explains the strategy behind the introduction of Follow levels and its impact on other instruments in Web Client</p>
+<h2 id="long-term-purpose">Long-term purpose</h2>
+<p>The introduction of follow levels provides a stable foundation for:</p>
+<ul>
+<li>clearer user intent</li>
+<li>better prioritization of information</li>
+<li>consistent behavior across clients</li>
+<li>future extensions such as smarter notifications and filtering</li>
+</ul>
+<p>Rather than adding more special cases, follow levels allow the system to grow while remaining understandable — for users and for developers alike.</p>
+<h2 id="what-was-intentionally-removed-from-the-old-model">What was intentionally removed from the old model</h2>
+<p>The following behaviors from the legacy article no longer apply and were intentionally redesigned:</p>
+<ul>
+<li>Following an object does not automatically make it a Favorite</li>
+<li>Automatic follows do not create Favorites</li>
+<li>Favorites are not a side effect of notifications</li>
+<li>Visual tiles are no longer created for every follow</li>
+</ul>
+<p>This change is deliberate and aligns the system with clearer user intent and scalable behavior.</p>
+<h3 id="what-is-shown-in-favorites">What is shown in Favorites</h3>
+<p>The <strong>Favorites</strong> app lists <strong>only objects with Follow level = Favorite</strong>.</p>
+<p>A user can have <strong>up to 50 favorite objects</strong>.<br>
+If you reach the limit, you must remove an existing favorite before adding a new one.</p>
+<h3 id="automatic-follows">Automatic follows</h3>
+<p>When the system creates a follow automatically (e.g. due to a mention/assignment), the follow level is <strong>Tagged</strong>.</p>
+<h3 id="chat-groups">Chat groups</h3>
+<ul>
+<li><strong>Mute/Unmute</strong> uses follow level <strong>Tagged</strong>.</li>
+</ul>
+<h3 id="ai-assistant-panel">AI Assistant panel</h3>
+<ul>
+<li>Creating a new conversation creates a follow with level <strong>Tagged</strong> for the conversation.</li>
+</ul>
+<h3 id="notifications">Notifications</h3>
+<p>Follow level is applied <strong>per notification class</strong>, not as a global “enable/disable notifications” switch:</p>
+<ul>
+<li>Comment/Chat classes are always created for TAGGED/FOLLOW/FAVORITE,</li>
+<li>Record Update classes are created only when Follow level ≥ FOLLOW,</li>
+<li>and Implicit document-state notifications (NT_DOC_STATE_IMPLICIT) are created only when Follow level = FAVORITE. For NT_DOC_STATE_IMPLICIT the condition is evaluated as an <strong>OR across all relevant follows</strong> for the document (at least one relevant Favorite enables it), and the system must <strong>deduplicate</strong> so a single status change generates <strong>exactly one</strong> NT_DOC_STATE_IMPLICIT per recipient, even if multiple Favorite paths exist.</li>
+</ul>
+<p>Learn more about <a href="../my-apps/favorites/index.html">Favorites</a>
+Learn more about [Notifications]</p>
 
 </article>
 
