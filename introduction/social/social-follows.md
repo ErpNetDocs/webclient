@@ -4,6 +4,9 @@ Social follows is a key aspect in Social ERP.They allow users to express interes
 
 Originally, following an object was treated as a single action: you either followed it or you did not. Following was implicitly understood as “this object matters to me” and was closely tied to concepts such as **favorites, notifications**, and visual indicators in the UI. As the system evolved, this simple model became limiting.<br>
 Following is no longer a simple “follow/unfollow” state. Instead, each follow has a **Follow level** that indicates *why* you follow an object and *how important* it is to you.
+
+![follow](pictures/follow.png)
+
 ## Why the model evolved
 
 In practice, not all follows are the same.
