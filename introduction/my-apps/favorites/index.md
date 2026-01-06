@@ -15,7 +15,7 @@ Favorites are represented as tiles. The tiles are organized into groups based on
 
 Additionally, clicking on a tile will open the form for the favorite object.
 
-[!NOTE]
+>[!NOTE]
 > After the update that introduced follow levels, **all existing follows are migrated to level “Tagged”** by default.  
 > As a result, users may initially see an empty Favorites app until they mark objects as **Favorite**.
 
