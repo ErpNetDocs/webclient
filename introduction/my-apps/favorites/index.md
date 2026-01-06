@@ -47,11 +47,13 @@ Additionaly you can press Shift+Mouse click on the star icon to unfollow
 
 ## Concepts
 
+### Necessary transition
+
+Before the introduction of Follow levels, users expressed their interest on the object by marking it as a Favorite. From v.27 on things become more intuitive and complicated for the system. All existing Favorites are migrated to Tagged level, which "wipes out" the Favorites from the application (there are no favorites by default at the beginning of the version).
+
 ### What is shown in Favorites
 
-Favorites lists **only** objects with **Follow level = Favorite**.
-
-Objects that are - **Tagged** (automatic follow), or- **Following** do **not** appear in Favorites.
+Favorites lists **only** objects with **Follow level = Favorite**. Objects that are - **Tagged** (automatic follow), or- **Following** do **not** appear in Favorites.
 
 A user can have **up to 50 favorite objects**. If you reach the limit, you must remove an existing favorite before adding a new one.
 
