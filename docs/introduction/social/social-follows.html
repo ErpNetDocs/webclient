@@ -90,6 +90,7 @@
 <p>Social follows is a key aspect in Social ERP.They allow users to express interest in business objects and stay informed when something happens in their context.</p>
 <p>Originally, following an object was treated as a single action: you either followed it or you did not. Following was implicitly understood as “this object matters to me” and was closely tied to concepts such as <strong>favorites, notifications</strong>, and visual indicators in the UI. As the system evolved, this simple model became limiting.<br>
 Following is no longer a simple “follow/unfollow” state. Instead, each follow has a <strong>Follow level</strong> that indicates <em>why</em> you follow an object and <em>how important</em> it is to you.</p>
+<p><img src="pictures/follow.png" alt="follow"></p>
 <h2 id="why-the-model-evolved">Why the model evolved</h2>
 <p>In practice, not all follows are the same.</p>
 <p>Some follows exist because:</p>
@@ -206,7 +207,8 @@ If you reach the limit, you must remove an existing favorite before adding a new
 <p>When the system creates a follow automatically (e.g. due to a mention/assignment), the follow level is <strong>Tagged</strong>.</p>
 <h3 id="chat-groups">Chat groups</h3>
 <ul>
-<li><strong>Mute/Unmute</strong> uses follow level <strong>Tagged</strong>.</li>
+<li>Group membership sets automatic follow level <strong>Tagged</strong> for the Group,</li>
+<li><strong>Mute/Unmute</strong> uses follow level <strong>Tagged</strong></li>
 </ul>
 <h3 id="ai-assistant-panel">AI Assistant panel</h3>
 <ul>
