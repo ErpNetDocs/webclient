@@ -1,24 +1,107 @@
 # Overview
 
-Social follows is a key aspect in Social ERP.
+Social follows is a key aspect in Social ERP.They allow users to express interest in business objects and stay informed when something happens in their context.
 
-The act of 'following' an object is akin to subscribing to updates for that specific item. In essence, it signifies that you want to know when something happens within its context, making it one of your 'favorite' objects. As a result of following, you'll receive individual notifications related to this object. Furthermore, this action automatically triggers the creation of a new tile within the [My Favorites](../my-apps/favorites/index.md) app. This tile visually displays the count of new notifications relevant to the object you're following. Importantly, the tile remains present as long as you continue following the corresponding object.
+Originally, following an object was treated as a single action: you either followed it or you did not. Following was implicitly understood as “this object matters to me” and was closely tied to concepts such as **favorites, notifications**, and visual indicators in the UI. As the system evolved, this simple model became limiting.<br>
+Following is no longer a simple “follow/unfollow” state. Instead, each follow has a **Follow level** that indicates *why* you follow an object and *how important* it is to you.
+## Why the model evolved
 
-Adding an object to your favorites (i.e., following it) can happen in two ways: either by doing it manually or having it done automatically.
+In practice, not all follows are the same.
 
-## (Un)follow an object manually
+Some follows exist because:
+- the system automatically involved the user (mentions, assignments)
+- the user explicitly chose to keep track of an object
+- the object is truly important and needs quick access and higher visibility
 
-Just as the name implies, this process is manual. To achieve it, open the object you wish to follow and click on the star icon located at the upper right corner of the form.
+Treating all these cases identically led to:
+- important objects being mixed with incidental ones
+- limited control over visibility and prioritization
+- a rigid notification model that could not scale
 
-![Follow an object](./pictures/follow-object.png "Add an object to your favorites")
+Follow levels were introduced to address this.
 
-When the star icon is filled, it means the object is already in your favorites. To unfollow it, simply click the star icon again.
+## Follow levels as a unifying concept
 
-![Follow an object](./pictures/follow-object-done.png "Add an object to your favorites")
+Follow levels extend the original idea of following by adding intent and importance.
 
-## Auto object follow
+Instead of answering only "is this object followed?", the system can now also answer:
+- why the object is followed
+- how important it is to the user
 
-Automatically following an object is also an option. For instance, if you're mentioned in a discussion about an object you haven't followed yet, it will be automatically added to your favorites. When this occurs, along with the new 'object follow,' you'll receive a notification specifying who mentioned you. You can find further details in the [Chatter mentions](./chatter/index.md#user-mention).
+This enables:
+- automatic follows (e.g. mentions) without overstating importance
+- explicit follows without cluttering high-priority views
+- Favorites as a deliberate, high-interest choice
 
-## My apps - Favorites
-Learn what [My Favorites](../my-apps/favorites/index.md) app serves for.
+  ### Follow levels
+
+- **Tagged**  
+  You are following the object automatically, typically because you were mentioned or assigned. 
+
+- **Following**  
+  You explicitly chose to follow the object.
+
+- **Favorite**  
+  You explicitly marked the object as a favorite. Favorites are shown in the **Favorites** app.
+  
+There is no zero level for unfollowed objects and such objects are indicated by a **No Follow** icon.
+![followicons](pictures/followicons.png)
+
+## [Favorites](../my-apps/favorites/index.md) in the new model
+
+In the previous model, following an object automatically implied:
+- receiving notifications
+- the object appearing in Favorites-related views
+
+In the new model:
+- Favorites are an explicit decision, represented by the highest follow level
+- not all follows result in a Favorite
+- automatic follows no longer create Favorites by default
+
+This separation makes Favorites meaningful, limited, and intentional.
+
+## Long-term purpose
+
+The introduction of follow levels provides a stable foundation for:
+- clearer user intent
+- better prioritization of information
+- consistent behavior across clients
+- future extensions such as smarter notifications and filtering
+
+Rather than adding more special cases, follow levels allow the system to grow while remaining understandable — for users and for developers alike.
+
+## What was intentionally removed from the old model
+
+The following behaviors from the legacy article no longer apply and were intentionally redesigned:
+- Following an object does not automatically make it a Favorite
+- Automatic follows do not create Favorites
+- Favorites are not a side effect of notifications
+- Visual tiles are no longer created for every follow
+
+This change is deliberate and aligns the system with clearer user intent and scalable behavior.
+
+## Getting Started
+
+This section describes the shortest path to start using follow levels in the Web Client.
+
+### Change follow level from the form header
+
+1. Open the object you want to follow (e.g. a document, a case, etc.).
+2. Use the **star (follow) button** in the form header.
+3. Each click moves to the next state in a cycle:
+
+   - **Not followed** → **Following**
+   - **Tagged** → **Following**
+   - **Following** → **Favorite**
+   - **Favorite** → **Not followed** (unfollow)
+
+Expected result:
+- If you set an object to **Favorite**, it becomes available in the **Favorites** app.
+
+### Change follow level from the context menu
+
+The context menu follow action uses the **same behavior as the form header button** (the same click-cycle logic).
+
+### Unfollow an object 
+
+
