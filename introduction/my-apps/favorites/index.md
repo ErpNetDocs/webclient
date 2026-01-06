@@ -52,9 +52,8 @@ Before the introduction of Follow levels, users expressed their interest on the 
 
 **What is shown in Favorites**
 
-Favorites lists **only** objects with **Follow level = Favorite**. Objects that are **Tagged** (automatic follow), or **Following** do **not** appear in Favorites.
-
-A user can have **up to 50 favorite objects**. If you reach the limit, you must remove an existing favorite before adding a new one.
+- Favorites lists **only** objects with **Follow level = Favorite**. Objects that are **Tagged** (automatic follow), or **Following** do **not** appear in Favorites.
+- A user can have **up to 50 favorite objects**. If you reach the limit, you must remove an existing favorite before adding a new one.
 
 **Tiles and notifications badge**
 
@@ -69,8 +68,13 @@ Similar to most My Apps widgets, "My Favorites" supports the following propertie
 - You can show the favorites widget in each form of your choice.
 - Only the favorite objects (i.e., the tiles) related to the form's context will be shown.
 
-Below, you can see example images illustrating the favorites widget on a menu page and within a navigator form.
+Below, you can see example images:
 
+Favorites widget on a menu page
 ![Favorites - Context menu page](./pictures/context-menupage.png "Favorites - Context menu page")
 
+Favorites widget on a navigator page
 ![Favorites - Context navigator](./pictures/context-navigator.png "Favorites - Context navigator")
+
+Favorites widget on a single record form
+![Favorites - Context single form](./pictures/context-single-form.png "Favorites - Context single form")
