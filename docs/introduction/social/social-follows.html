@@ -131,8 +131,8 @@ You explicitly chose to follow the object.</p>
 You explicitly marked the object as a favorite. Favorites are shown in the <strong>Favorites</strong> app.</p>
 </li>
 </ul>
-<p>There is no zero level for unfollowed objects and such objects are indicated by a <strong>No Follow</strong> icon.
-<img src="pictures/followicons.png" alt="followicons"></p>
+<p>There is no zero level for unfollowed objects and such objects are indicated by a <strong>No Follow</strong> icon.</p>
+<p><img src="pictures/followicons.png" alt="followicons"></p>
 <h2 id="favorites-in-the-new-model"><a href="../my-apps/favorites/index.html">Favorites</a> in the new model</h2>
 <p>In the previous model, following an object automatically implied:</p>
 <ul>
@@ -181,7 +181,7 @@ You explicitly marked the object as a favorite. Favorites are shown in the <stro
 <p>Use this when you want to stop following the object in a single action.</p>
 <h2 id="concepts">Concepts</h2>
 <p>This section explains the strategy behind the introduction of Follow levels and its impact on other instruments in Web Client</p>
-<h2 id="long-term-purpose">Long-term purpose</h2>
+<p><strong>Long-term purpose</strong></p>
 <p>The introduction of follow levels provides a stable foundation for:</p>
 <ul>
 <li>clearer user intent</li>
@@ -190,8 +190,8 @@ You explicitly marked the object as a favorite. Favorites are shown in the <stro
 <li>future extensions such as smarter notifications and filtering</li>
 </ul>
 <p>Rather than adding more special cases, follow levels allow the system to grow while remaining understandable — for users and for developers alike.</p>
-<h2 id="what-was-intentionally-removed-from-the-old-model">What was intentionally removed from the old model</h2>
-<p>The following behaviors from the legacy article no longer apply and were intentionally redesigned:</p>
+<p><strong>What was intentionally removed from the old model</strong></p>
+<p>The following behaviors no longer apply and were intentionally redesigned:</p>
 <ul>
 <li>Following an object does not automatically make it a Favorite</li>
 <li>Automatic follows do not create Favorites</li>
@@ -199,27 +199,26 @@ You explicitly marked the object as a favorite. Favorites are shown in the <stro
 <li>Visual tiles are no longer created for every follow</li>
 </ul>
 <p>This change is deliberate and aligns the system with clearer user intent and scalable behavior.</p>
-<h3 id="what-is-shown-in-favorites">What is shown in Favorites</h3>
-<p>The <strong>Favorites</strong> app lists <strong>only objects with Follow level = Favorite</strong>.</p>
-<p>A user can have <strong>up to 50 favorite objects</strong>.<br>
-If you reach the limit, you must remove an existing favorite before adding a new one.</p>
-<h3 id="automatic-follows">Automatic follows</h3>
+<p><strong>What is shown in Favorites</strong></p>
+<ul>
+<li>The Favorites app lists only objects with Follow level = Favorite.</li>
+<li>A user can have <strong>up to 50 favorite objects</strong>. If you reach the limit, you must remove an existing favorite before adding a new one.</li>
+</ul>
+<p><strong>Automatic follows</strong></p>
 <p>When the system creates a follow automatically (e.g. due to a mention/assignment), the follow level is <strong>Tagged</strong>.</p>
-<h3 id="chat-groups">Chat groups</h3>
+<p><strong>Chat groups</strong></p>
 <ul>
-<li>Group membership sets automatic follow level <strong>Tagged</strong> for the Group,</li>
-<li><strong>Mute/Unmute</strong> uses follow level <strong>Tagged</strong></li>
+<li>Group membership sets automatic follow level <strong>Tagged</strong> for the Group.</li>
+<li><strong>Mute/Unmute</strong> uses follow level <strong>Tagged</strong>.</li>
 </ul>
-<h3 id="ai-assistant-panel">AI Assistant panel</h3>
-<ul>
-<li>Creating a new conversation creates a follow with level <strong>Tagged</strong> for the conversation.</li>
-</ul>
-<h3 id="notifications">Notifications</h3>
-<p>Follow level is applied <strong>per notification class</strong>, not as a global “enable/disable notifications” switch:</p>
+<p><strong>AI Assistant panel</strong></p>
+<p>Creating a new conversation creates a follow with level <strong>Tagged</strong> for the conversation.</p>
+<p><strong>Notifications</strong></p>
+<p>Follow level is applied per notification class, not as a global “enable/disable notifications” switch:</p>
 <ul>
 <li>Comment/Chat classes are always created for TAGGED/FOLLOW/FAVORITE,</li>
 <li>Record Update classes are created only when Follow level ≥ FOLLOW,</li>
-<li>and Implicit document-state notifications (NT_DOC_STATE_IMPLICIT) are created only when Follow level = FAVORITE. For NT_DOC_STATE_IMPLICIT the condition is evaluated as an <strong>OR across all relevant follows</strong> for the document (at least one relevant Favorite enables it), and the system must <strong>deduplicate</strong> so a single status change generates <strong>exactly one</strong> NT_DOC_STATE_IMPLICIT per recipient, even if multiple Favorite paths exist.</li>
+<li>and Implicit document-state notifications (NT_DOC_STATE_IMPLICIT) are created only when Follow level = FAVORITE. For NT_DOC_STATE_IMPLICIT the condition is evaluated as an <strong>OR across all relevant follows</strong> for the document (at least one relevant Favorite enables it), and the system must deduplicate so a single status change generates exactly one NT_DOC_STATE_IMPLICIT per recipient, even if multiple Favorite paths exist.</li>
 </ul>
 <p>Learn more about <a href="../my-apps/favorites/index.html">Favorites</a>
 Learn more about [Notifications]</p>

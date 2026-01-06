@@ -2154,20 +2154,30 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/my-apps/favorites/pictures/context-menupage.png",
+      "source_relative_path": "introduction/my-apps/favorites/pictures/favhome.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/my-apps/favorites/pictures/context-menupage.png"
+          "relative_path": "introduction/my-apps/favorites/pictures/favhome.png"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/my-apps/favorites/pictures/context-navigator.png",
+      "source_relative_path": "introduction/my-apps/favorites/pictures/favnavigator.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/my-apps/favorites/pictures/context-navigator.png"
+          "relative_path": "introduction/my-apps/favorites/pictures/favnavigator.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/favorites/pictures/favsingle.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/favorites/pictures/favsingle.png"
         }
       },
       "version": ""
