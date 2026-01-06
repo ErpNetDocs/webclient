@@ -46,28 +46,21 @@ Additionaly you can press Shift+Mouse click on the star icon to unfollow
 
 ## Concepts
 
-### Necessary transition
+**Necessary transition**
 
 Before the introduction of Follow levels, users expressed their interest on the object by marking it as a Favorite. From v.27 on things become more intuitive and complicated for the system. All existing Favorites are migrated to Tagged level, which "wipes out" the Favorites from the application (there are no favorites by default at the beginning of the version).
 
-### What is shown in Favorites
+**What is shown in Favorites**
 
 Favorites lists **only** objects with **Follow level = Favorite**. Objects that are **Tagged** (automatic follow), or **Following** do **not** appear in Favorites.
 
 A user can have **up to 50 favorite objects**. If you reach the limit, you must remove an existing favorite before adding a new one.
 
-### Tiles and notifications badge
+**Tiles and notifications badge**
 
 - A tile caption is the object’s display text.
 - The badge shows the number of new notifications for that object (when available).
 - Even if an object currently has no new notifications, its tile remains visible as long as the object stays in Favorites.
-
-## Favorites as a widget
-
-Similar to most My Apps widgets, Favorites supports the following behavior:
-
-- You can show the Favorites widget in forms of your choice.
-- Only favorite objects related to the form’s context are shown.
 
 ## My Favorites as a widget
 
