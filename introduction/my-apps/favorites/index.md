@@ -31,8 +31,7 @@ To add an object to Favorites, set its follow level to **Favorite**.
 
 OR you can skip this cycle by pressing Ctrl+Mouse click on the star icon.
 
-For details about follow levels, see:  
-[Social follows](../../social/social-follows.html).
+For details about follow levels, see [Social follows](../../social/social-follows.html).
 
 ### Open a favorite object
 
