@@ -33,7 +33,7 @@ This enables:
 - explicit follows without cluttering high-priority views
 - Favorites as a deliberate, high-interest choice
 
-  ### Follow levels
+## Follow levels
 
 - **Tagged**  
   You are following the object automatically, typically because you were mentioned or assigned. 
@@ -59,26 +59,6 @@ In the new model:
 - automatic follows no longer create Favorites by default
 
 This separation makes Favorites meaningful, limited, and intentional.
-
-## Long-term purpose
-
-The introduction of follow levels provides a stable foundation for:
-- clearer user intent
-- better prioritization of information
-- consistent behavior across clients
-- future extensions such as smarter notifications and filtering
-
-Rather than adding more special cases, follow levels allow the system to grow while remaining understandable — for users and for developers alike.
-
-## What was intentionally removed from the old model
-
-The following behaviors from the legacy article no longer apply and were intentionally redesigned:
-- Following an object does not automatically make it a Favorite
-- Automatic follows do not create Favorites
-- Favorites are not a side effect of notifications
-- Visual tiles are no longer created for every follow
-
-This change is deliberate and aligns the system with clearer user intent and scalable behavior.
 
 ## Getting Started
 
@@ -114,4 +94,52 @@ Use this when you want to mark an object as a favorite without cycling through t
 
 Use this when you want to stop following the object in a single action.
 
+## Concepts
+This section explains the strategy behind the introduction of Follow levels and its impact on other instruments in Web Client
 
+## Long-term purpose
+
+The introduction of follow levels provides a stable foundation for:
+- clearer user intent
+- better prioritization of information
+- consistent behavior across clients
+- future extensions such as smarter notifications and filtering
+
+Rather than adding more special cases, follow levels allow the system to grow while remaining understandable — for users and for developers alike.
+
+## What was intentionally removed from the old model
+
+The following behaviors from the legacy article no longer apply and were intentionally redesigned:
+- Following an object does not automatically make it a Favorite
+- Automatic follows do not create Favorites
+- Favorites are not a side effect of notifications
+- Visual tiles are no longer created for every follow
+
+This change is deliberate and aligns the system with clearer user intent and scalable behavior.
+
+### What is shown in Favorites
+
+The **Favorites** app lists **only objects with Follow level = Favorite**.
+
+A user can have **up to 50 favorite objects**.  
+If you reach the limit, you must remove an existing favorite before adding a new one.
+
+### Automatic follows
+
+When the system creates a follow automatically (e.g. due to a mention/assignment), the follow level is **Tagged**.
+
+### Chat groups
+- **Mute/Unmute** uses follow level **Tagged**.
+
+### AI Assistant panel
+- Creating a new conversation creates a follow with level **Tagged** for the conversation.
+
+### Notifications
+
+Follow level is applied **per notification class**, not as a global “enable/disable notifications” switch:
+- Comment/Chat classes are always created for TAGGED/FOLLOW/FAVORITE,
+- Record Update classes are created only when Follow level ≥ FOLLOW,
+- and Implicit document-state notifications (NT_DOC_STATE_IMPLICIT) are created only when Follow level = FAVORITE. For NT_DOC_STATE_IMPLICIT the condition is evaluated as an **OR across all relevant follows** for the document (at least one relevant Favorite enables it), and the system must **deduplicate** so a single status change generates **exactly one** NT_DOC_STATE_IMPLICIT per recipient, even if multiple Favorite paths exist.
+
+Learn more about [Favorites](../my-apps/favorites/index.md)
+Learn more about [Notifications]
