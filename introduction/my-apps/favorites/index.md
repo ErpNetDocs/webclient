@@ -71,10 +71,10 @@ Similar to most My Apps widgets, "My Favorites" supports the following propertie
 Below, you can see example images:
 
 Favorites widget on a menu page
-![Favorites - Context menu page](./pictures/context-menupage.png "Favorites - Context menu page")
+![Favorites-widget1](./pictures/favhome.png)
 
 Favorites widget on a navigator page
-![Favorites - Context navigator](./pictures/context-navigator.png "Favorites - Context navigator")
+![Favorites-widget2](./pictures/favnavigator.png)
 
 Favorites widget on a single record form
-![Favorites - Context single form](./pictures/context-single-form.png "Favorites - Context single form")
+![Favorites-widget3](./pictures/favsingle.png)
