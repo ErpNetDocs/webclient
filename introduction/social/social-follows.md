@@ -1,4 +1,4 @@
-# Overview
+# Overview of Social Follows 
 
 Social follows is a key aspect in Social ERP.They allow users to express interest in business objects and stay informed when something happens in their context.
 
