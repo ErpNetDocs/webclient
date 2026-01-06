@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-      <title>Favorites | ERP.net Web Client </title>
+      <title>Overview of Favorites | ERP.net Web Client </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content="Favorites | ERP.net Web Client ">
+      <meta name="title" content="Overview of Favorites | ERP.net Web Client ">
       
       
       <link rel="icon" href="../../../favicon.ico">
@@ -85,18 +85,62 @@
         </div>
 
         <article data-uid="">
-<h1 id="favorites">Favorites</h1>
+<h1 id="overview-of-favorites">Overview of Favorites</h1>
 
-<p>&quot;My Favorites&quot; provides a visual representation of all objects that <a href="../../social/social-follows.html">you are following</a>, also known as your favorite objects. Much like <a href="../tiles.html">My Tiles</a>, the main visual element here is the tile, although with some differences. The caption of the tile is the <a href="https://docs.erp.net/tech/advanced/data-objects/display-format.html">display text</a> of the favorite object, and the badge displays the count of available new notifications.</p>
+<p>&quot;My Favorites&quot; provides a visual representation of special objects that <a href="../../social/social-follows.html">you are following</a>, also known as your favorite objects (i.e. objects with <strong>Follow level = Favorite</strong>). Much like <a href="../tiles.html">My Tiles</a>, the main visual element here is the tile, although with some differences. The caption of the tile is the <a href="https://docs.erp.net/tech/advanced/data-objects/display-format.html">display text</a> of the favorite object, and the badge displays the count of available new notifications.</p>
 <p><img src="pictures/tile.png" alt="Favorites - Tile" title="Favorites - Tile"></p>
 <p>Consequently, an example of the overall view of &quot;My Favorites&quot; looks like this:</p>
 <p><img src="pictures/overview.png" alt="Favorites - Overview" title="Favorites - Overview"></p>
-<p>The tiles are organized into groups based on the entities they belong to.</p>
+<p>Favorites are represented as tiles. The tiles are organized into groups based on the entities they belong to. Each tile shows:</p>
+<ul>
+<li>the object’s display text, and</li>
+<li>a badge with the count of new notifications for that object (when available).</li>
+</ul>
 <p>Additionally, clicking on a tile will open the form for the favorite object.</p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>Even if you have no notifications for a favorite object, its corresponding tile will still be displayed. The tile will disappear once you remove the object from your favorites.</p>
+<p>After the update that introduced follow levels, <strong>all existing follows are migrated to level “Tagged”</strong> by default.<br>
+As a result, users may initially see an empty Favorites app until they mark objects as <strong>Favorite</strong>.</p>
 </div>
+<h2 id="getting-started">Getting Started</h2>
+<h3 id="add-an-object-to-favorites">Add an object to Favorites</h3>
+<p>To add an object to Favorites, set its follow level to <strong>Favorite</strong>.</p>
+<ol>
+<li>Open the object in Web Client.</li>
+<li>Use the <strong>follow (star) button</strong> in the form header (or from the context menu).</li>
+<li>Click until the object becomes <strong>Favorite</strong>.</li>
+</ol>
+<p>OR you can skip this cycle by pressing Ctrl+Mouse click on the star icon.</p>
+<p>For details about follow levels, see <a href="../../social/social-follows.html">Social follows</a>.</p>
+<h3 id="open-a-favorite-object">Open a favorite object</h3>
+<ol>
+<li>Open <strong>Favorites</strong>.</li>
+<li>Click a tile to open the form of that object.</li>
+</ol>
+<h3 id="remove-an-object-from-favorites">Remove an object from Favorites</h3>
+<ol>
+<li>Open the object.</li>
+<li>Change its follow state away from <strong>Favorite</strong> (e.g. Unfollow).
+Additionaly you can press Shift+Mouse click on the star icon to unfollow</li>
+</ol>
+<h2 id="concepts">Concepts</h2>
+<h3 id="necessary-transition">Necessary transition</h3>
+<p>Before the introduction of Follow levels, users expressed their interest on the object by marking it as a Favorite. From v.27 on things become more intuitive and complicated for the system. All existing Favorites are migrated to Tagged level, which &quot;wipes out&quot; the Favorites from the application (there are no favorites by default at the beginning of the version).</p>
+<h3 id="what-is-shown-in-favorites">What is shown in Favorites</h3>
+<p>Favorites lists <strong>only</strong> objects with <strong>Follow level = Favorite</strong>. Objects that are <strong>Tagged</strong> (automatic follow), or <strong>Following</strong> do <strong>not</strong> appear in Favorites.</p>
+<p>A user can have <strong>up to 50 favorite objects</strong>. If you reach the limit, you must remove an existing favorite before adding a new one.</p>
+<h3 id="tiles-and-notifications-badge">Tiles and notifications badge</h3>
+<ul>
+<li>A tile caption is the object’s display text.</li>
+<li>The badge shows the number of new notifications for that object (when available).</li>
+<li>Even if an object currently has no new notifications, its tile remains visible as long as the object stays in Favorites.</li>
+</ul>
+<h2 id="favorites-as-a-widget">Favorites as a widget</h2>
+<p>Similar to most My Apps widgets, Favorites supports the following behavior:</p>
+<ul>
+<li>You can show the Favorites widget in forms of your choice.</li>
+<li>Only favorite objects related to the form’s context are shown.</li>
+</ul>
 <h2 id="my-favorites-as-a-widget">My Favorites as a widget</h2>
 <p>Similar to most My Apps widgets, &quot;My Favorites&quot; supports the following properties:</p>
 <ul>
