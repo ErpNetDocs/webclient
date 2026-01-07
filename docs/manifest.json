@@ -2164,6 +2164,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/my-apps/favorites/pictures/favmake.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/favorites/pictures/favmake.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/my-apps/favorites/pictures/favnavigator.png",
       "output": {
         "resource": {
