@@ -4,7 +4,8 @@ items:
 - name: Introduction
   href: introduction/toc.yml
 - name: My apps
-  href: https://docs.erp.net/webclient/introduction/my-apps/index.html
+  href: introduction/my-apps/toc.yml
+  topicHref: my-apps/index.md
 - name: How To
   href: https://docs.erp.net/webclient/introduction/how-to/index.html
 - name: Return to DOCS ⏶
