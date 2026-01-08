@@ -2,9 +2,12 @@ pdf: true
 pdfFileName: WebClient.pdf
 items:
 
-- name: Introduction
+- name: Overview
   href: introduction/toc.yml
 
+- name: Common terms
+  href: introduction/toc.yml
+  
 - name: My apps
   href: https://docs.erp.net/webclient/introduction/my-apps/index.html
 
