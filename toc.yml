@@ -6,7 +6,7 @@ items:
   href: introduction/toc.yml
 
 - name: Common terms
-  href: introduction/toc.yml
+  href: introduction/terms.md
   
 - name: My apps
   href: https://docs.erp.net/webclient/introduction/my-apps/index.html
