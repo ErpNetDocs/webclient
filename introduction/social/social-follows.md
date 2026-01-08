@@ -90,7 +90,7 @@ The context menu follow action uses the **same behavior as the form header butto
 
 In addition to the standard follow-level click cycle, you can use the following shortcuts on the **Follow (star) icon** to immediately change the follow states (skip the cycle): 
 
-- Add to Favorites - *Ctrl + Click* on the star icon → sets the object to **Favorite** (adds it to [My Favorites](../my-apps/favorites/index.md)
+- Add to Favorites - *Ctrl + Click* on the star icon → sets the object to **Favorite** (adds it to [My Favorites](../my-apps/favorites/index.md))
 
 - Unfollow immediately - *Shift + Click* on the star icon → **Unfollow** (removes the follow record and if Favorite - removes it from My Favorites).
 
