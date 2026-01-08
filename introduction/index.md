@@ -8,4 +8,4 @@ It provides explanation for:
 - basic **[navigator features](navigator-features.md)**
 - **[social concepts](./social/index.md)**
 - the **[My Apps](./my-apps/index.md)** module
-- **[step-by-step-guides](https://docs.erp.net/webclient/introduction/how-to/index.html)** for operations and features specific to the Web Client
+- **[How-to guides](https://docs.erp.net/webclient/introduction/how-to/index.html)** for operations and features specific to the Web Client
