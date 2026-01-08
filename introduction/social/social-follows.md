@@ -86,17 +86,13 @@ Expected result:
 
 The context menu follow action uses the **same behavior as the form header button** (the same click-cycle logic).
 
-### Quick follow/unfollow actions (Ctrl/Shift + click)
+### Quick follow/unfollow actions 
 
-In addition to the standard follow-level click cycle, you can use the following shortcuts on the **Follow (star) icon** to perform the most common actions immediately:
+In addition to the standard follow-level click cycle, you can use the following shortcuts on the **Follow (star) icon** to immediately change the follow states (skip the cycle): 
 
-- Add to Favorites (skip the cycle) - *Ctrl + Click* on the Follow (star) icon → sets the object to **Favorite** (adds it to the *Favorites* app).
+- Add to Favorites - *Ctrl + Click* on the star icon → sets the object to **Favorite** (adds it to [My Favorites](../my-apps/favorites/index.md)
 
-Use this when you want to mark an object as a favorite without cycling through the intermediate follow levels.
-
-- Unfollow immediately - *Shift + Click* on the Follow (star) icon → **Unfollow** (removes the follow record).
-
-Use this when you want to stop following the object in a single action.
+- Unfollow immediately - *Shift + Click* on the star icon → **Unfollow** (removes the follow record and if Favorite - removes it from My Favorites).
 
 ## Concepts
 This section explains the strategy behind the introduction of Follow levels and its impact on other instruments in Web Client
