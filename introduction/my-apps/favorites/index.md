@@ -42,11 +42,24 @@ For details about follow levels, see [Social follows](../../social/social-follow
 1. Open **Favorites**.
 2. Click a tile to open the form of that object.
 
-### Remove an object from Favorites
+### Remove single object from Favorites
 
 1. Open the object.
-2. Change its follow state away from **Favorite** (e.g. Unfollow).
-Additionaly you can press Shift+Mouse click on the star icon to unfollow 
+2. Click icon once to change to state "No follow"
+
+OR you can press Shift+Mouse click on the star icon to unfollow.
+
+Further clicks on the star icon go through follow-states cycle.
+
+### Remove several objects from Favorites
+
+1. Open My Favorites app
+2. From the context menu switch Toggle "Edit" on
+3. Click on the red "X" button on each tile
+4. Confirm removal in the dialogue box.
+   
+![Unfollow Favorite](./pictures/favremove.png)
+
 
 ## Concepts
 
