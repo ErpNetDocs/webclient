@@ -2184,6 +2184,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/my-apps/favorites/pictures/favremove.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/favorites/pictures/favremove.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/my-apps/favorites/pictures/favsingle.png",
       "output": {
         "resource": {
