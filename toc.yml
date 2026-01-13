@@ -4,6 +4,7 @@ items:
 
 - name: Overview
   href: introduction/toc.yml
+  topicHref: introduction/index.md
 
 - name: My apps
   href: my-apps/toc.yml
