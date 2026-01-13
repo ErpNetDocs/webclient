@@ -3,6 +3,8 @@ Command buttons are an essential part of the ERP.net Web Client interface. They 
 
 Each command button consists of a text and a symbol that visually reinforces its purpose, helping users understand its function at a glance. Symbols (icons) are so carefully selected, so that the button actually becomes a sign and even the text can be omitted (not shown) because thus it intuitively represent the action performed.
 
+All command buttons also include helpful tooltips that appear when hovered over, providing users with clear hints about the button’s function before clicking.
+
 While some command buttons are standardized across the system (e.g., Save, Close, Delete, Print), and others are contextual and appear depending on the type of record or process being handled. 
 
 This section will explain each command button in detail—its purpose, behavior, and expected results when clicked.
