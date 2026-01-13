@@ -40,3 +40,5 @@ The ERP.net Web Client interface includes a range of intuitive symbols that prov
 - **On/off toggle**: Activates or deactivates specific functions or views.
 - **Funnel**: Opens a search or filtering function, usually within navigators.
 - **Chevron (ˇ)**: Opens a dropdown menu.
+- **Sqare**: maximizes the panel
+
