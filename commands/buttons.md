@@ -93,12 +93,12 @@ Use when you want to make changes to the data in a form, in a navigator (e.g. ad
 
 ---
 
-
 ## New (+)
 
 Use to create a new record. It is available in the navigators, the navigation panel, or in header of a Related data panel (+ New). 
+<br> When pressed the platforms opens a blank Single record Form to be filled in with the new data.
 > [!IMPORTANT]
-> Do not confuse with button "+ Create new" in line-panel. It creates a new line, and is preliminary used to create a new record under specific conditions e.g. related data or details data **that has its own form**.
+> Do not confuse with button "+ Create new" in line-panels. It creates a new line and is preliminary used to create a new record under specific conditions e.g. related data or details data **that has its own form**.
 
 ---
 
@@ -108,18 +108,18 @@ Use to refresh the page, equal to F5 key. It appears in the navigators.
 ---
 ## Details
 
-Use to open a side panel "Details" to show selected fields that describe the current record (e.g. Project, Assigned to User, Customer - any field that belongs to the definition of the object)
+Use to open a side panel "Details" to show selected fields that describe the current record (e.g. Project, Assigned to User, Customer - any field that belongs to the definition of the object).
 
 ![picture](pictures/details.png)
 
 ---
 ## Selected
 
-Appears in the navigators. Indicates that a record or several records is marked (selected, focused). The number is shown.
+Appears in the navigators immediately after one record (row) is focused. Indicates the number of selected records.
 
 The button has an indicative function - to show how many records are selected, and also is a gateway to the functions "Export to"  *Excel* and *To Data Exchange*.
-If "Export to Excel" is executed, the selection is transformed into an auto-download excel document.
-If 'Export to Data Exchange" is executed, the function creates a record in Exchange/Data Exchange to be executed at a givem time.
+- If "Export to Excel" is executed, the selection is transformed into an auto-download excel document.
+- If 'Export to Data Exchange" is executed, the function creates a record in Exchange/Data Exchange to be executed at a given time.
 
 ![picture](pictures/selected.png)
 
