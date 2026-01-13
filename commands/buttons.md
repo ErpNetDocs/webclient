@@ -101,9 +101,21 @@ Use to create a new record. It is available in the navigators, the navigation pa
 ---
 
 ## Reload
-Use to refresh the page, equal to F5 key. It appears in a navigator
+Use to refresh the page, equal to F5 key. It appears in the navigators.
 
 ---
 ## Details
+
+Use to open a side panel "Details" to show selected fields that describe the current record (e.g. Project, Assigned to User, Customer - any field that belongs to the definition of the object)
+
+---
+## Selected
+
+Appears in the navigators. Indicates that a record or several records is marked (selected, focused). The number is shown.
+
+The button has an indicative function - to show how many records are selected, and also is a gateway to the functions "Export to"  *Excel* and *To Data Exchange*.
+If "Export to Excel" is executed, the selection is transformed into an auto-download excel document.
+If 'Export to Data Exchange" is executed, the function creates a record in 
+
 
 
