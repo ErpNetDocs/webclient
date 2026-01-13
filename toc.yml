@@ -13,7 +13,7 @@ items:
   topicHref: my-apps/index.md
 
 - name: Command buttons
-  href: command-buttons/toc.yml
+  href: commands/toc.yml
  
 - name: How To
   href: https://docs.erp.net/webclient/introduction/how-to/index.html
