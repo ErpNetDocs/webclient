@@ -86,7 +86,11 @@ Use when you want to make changes to the data in a form, in a navigator (e.g. ad
 - to enter Edit mode, press the blue button "Edit". The button disappears and is replaced by the "Save" button
 - to exit Edit mode - save changes, or discard changes
 
+> [!Note]
+> Will not appear if the Document (Record) is at Released state, because no edits are allowed then.
+
 ---
+
 
 ## New (+)
 
@@ -96,4 +100,10 @@ Use to create a new record. It is available in the navigators, the navigation pa
 
 ---
 
-## Save layout
+## Reload
+Use to refresh the page, equal to F5 key. It appears in a navigator
+
+---
+## Details
+
+
