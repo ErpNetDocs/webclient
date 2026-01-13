@@ -146,9 +146,9 @@ You explicitly marked the object as a favorite. Favorites are shown in the <stro
 <li>automatic follows no longer create Favorites by default</li>
 </ul>
 <p>This separation makes Favorites meaningful, limited, and intentional.</p>
-<h2 id="getting-started">Getting Started</h2>
+<h1 id="getting-started">Getting Started</h1>
 <p>This section describes the shortest path to start using follow levels in the Web Client.</p>
-<h3 id="change-follow-level-from-the-form-header">Change follow level from the form header</h3>
+<h2 id="change-follow-level-from-the-form-header">Change follow level from the form header</h2>
 <ol>
 <li><p>Open the object you want to follow (e.g. a document, a case, etc.).</p>
 </li>
@@ -167,9 +167,9 @@ You explicitly marked the object as a favorite. Favorites are shown in the <stro
 <ul>
 <li>If you set an object to <strong>Favorite</strong>, it becomes available in the <strong>Favorites</strong> app.</li>
 </ul>
-<h3 id="change-follow-level-from-the-context-menu">Change follow level from the context menu</h3>
+<h2 id="change-follow-level-from-the-context-menu">Change follow level from the context menu</h2>
 <p>The context menu follow action uses the <strong>same behavior as the form header button</strong> (the same click-cycle logic).</p>
-<h3 id="quick-followunfollow-actions">Quick follow/unfollow actions</h3>
+<h2 id="quick-followunfollow-actions">Quick follow/unfollow actions</h2>
 <p>In addition to the standard follow-level click cycle, you can use the following shortcuts on the <strong>Follow (star) icon</strong> to immediately change the follow states (skip the cycle):</p>
 <ul>
 <li><p>Add to Favorites - <em>Ctrl + Click</em> on the star icon → sets the object to <strong>Favorite</strong> (adds it to <a href="../my-apps/favorites/index.html">My Favorites</a>)</p>
@@ -177,7 +177,7 @@ You explicitly marked the object as a favorite. Favorites are shown in the <stro
 <li><p>Unfollow immediately - <em>Shift + Click</em> on the star icon → <strong>Unfollow</strong> (removes the follow record and if Favorite - removes it from My Favorites).</p>
 </li>
 </ul>
-<h2 id="concepts">Concepts</h2>
+<h1 id="concepts">Concepts</h1>
 <p>This section explains the strategy behind the introduction of Follow levels and its impact on other instruments in Web Client</p>
 <p><strong>Long-term purpose</strong></p>
 <p>The introduction of follow levels provides a stable foundation for:</p>
@@ -204,6 +204,10 @@ You explicitly marked the object as a favorite. Favorites are shown in the <stro
 </ul>
 <p><strong>Automatic follows</strong></p>
 <p>When the system creates a follow automatically (e.g. due to a mention/assignment), the follow level is <strong>Tagged</strong>.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>There is a Business Rule <a href="https://docs.erp.net/model/business-rules/R38780.html">&quot;R38780 Case - Create Follow For Case Creator&quot;</a> that creates an automatic follow for the Owner of the Case - its creator.</p>
+</div>
 <p><strong>Chat groups</strong></p>
 <ul>
 <li>Group membership sets automatic follow level <strong>Tagged</strong> for the Group.</li>
