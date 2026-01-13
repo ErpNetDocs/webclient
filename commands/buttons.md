@@ -39,7 +39,7 @@ Use when you want to exit the form without explicitly saving.
    - **Cancel**
    - **Always save automatically when closing** - toggle switch ON/OFF
 
-**Explanation os the options**
+**Explanation of the options**
 - "Save changes"  
   Saves the changes and then closes the form.
 
