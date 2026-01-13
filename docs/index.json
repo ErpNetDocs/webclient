@@ -157,7 +157,7 @@
   "introduction/index.html": {
     "href": "introduction/index.html",
     "title": "Introduction to ERP.net Web Client | ERP.net Web Client",
-    "summary": "Introduction to ERP.net Web Client This section contains topics that introduce you to the world of the ERP.net Web Client. It provides explanation for: most commonly used terms basic navigator features social concepts the My Apps module How-to guides for operations and features specific to the Web Client"
+    "summary": "Introduction to ERP.net Web Client This section contains topics that introduce you to the world of the ERP.net Web Client. It provides explanation for: basic navigator features social concepts the My Apps module How-to guides for operations and features specific to the Web Client Most commonly used terms In ERP.net Web Client, there are some special terms. This topic briefly explains the most common ones. You can use it as a dictionary until you get used to them: Form - the topmost core component. Each page has a single form, containing multiple panels. Allows you to rearrange, hide and show panels. Panel - a core component, displaying a specific type of information. Each panel is hosted in a form. My apps – a group of specific standalone applications, integral part of the ERP.net Web Client; Widget - a special panel, containing one, specific \"My app\". It could be placed in every ERP.net Web Client form;"
   },
   "introduction/my-apps/calendar/activity-participants.html": {
     "href": "introduction/my-apps/calendar/activity-participants.html",
