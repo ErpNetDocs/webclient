@@ -1,4 +1,6 @@
-# Command tools in WEB Client consist of Command buttons and Contex menus
+# Command tools in WEB Client 
+
+These consist of Command buttons and Contex menus
 ## Command buttons
 
 An essential part of the ERP.net Web Client interface. They perform actions ranging from saving and closing entries to initiating processes, navigating between views, and interacting with documents and data. These buttons are typically displayed at the top of panels and forms, or in the context menus, providing direct access to frequently used commands and functionalities.
