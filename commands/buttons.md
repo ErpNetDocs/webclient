@@ -15,7 +15,7 @@ Use when you want to store your changes and continue working in the same form.
 **Result:**
 - The changes are saved to the database.
 - The form remains open.
-- If there are **no changes**, **Save** is disabled.
+- If there are **no changes**, **Save** is disabled (grey).
 - If **validation fails**, the save is aborted and validation messages are shown.
 ---
 ## Save and Close & Save and Reload   
