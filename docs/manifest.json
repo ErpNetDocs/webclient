@@ -51,6 +51,26 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "commands/pictures/cmd-bttns.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/cmd-bttns.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "commands/pictures/cntx_menus.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/cntx_menus.png"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "commands/toc.yml",
       "output": {
