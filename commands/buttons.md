@@ -22,6 +22,8 @@ These appear in a record that is opened as a sub-form (opened through another fo
 
 - Use **Save & Reload** when you want to save your changes and refresh the form data and stay in the form. This will save and reload the form.
 - Use **Save & Close** when you want to save your changes and exit the form. This will save data and close the form returning you to the starting form (e.g. another form or the navigator).
+
+![picture](pictures/subformsave.png)
 ---
 ## Close (X)
 
@@ -62,6 +64,8 @@ Use when you want to return to **view mode** of the form without saving your cha
 1. Click "Discard"
 2. The unsaved changes are lost
 3. The form gets back to view mode (exit edit mode)
+
+![picture](pictures/discard.png)
 
 ---
 
