@@ -12,6 +12,9 @@ items:
   href: introduction/toc.yml
   topicHref: my-apps/index.md
 
+- name: Command buttons
+  href: command-buttons/toc.yml
+ 
 - name: How To
   href: https://docs.erp.net/webclient/introduction/how-to/index.html
 
