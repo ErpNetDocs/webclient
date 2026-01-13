@@ -27,18 +27,19 @@ First let us give you a general idea of several interface symbols in the system 
 The ERP.net Web Client interface includes a range of intuitive symbols that provide quick access to core functionality. Here are some of the most commonly used symbols:
 
 - **Kebab menu (⋮)**: Opens a dropdown menu with contextual options. Typically located on the right side of a panel.
-- **Gearwheel**: Provides access to system or contextual settings.
+- ⚙️ **Gearwheel**: Provides access to system or contextual settings.
 - **Square/rectangle with a pencil**: Represents the option to view, enter, or edit an entry, such as a document, product, or user profile.
 - **Plus sign (+)**: Used to create a new entry.
 - **Right angle bracket (>)**: Expands a collapsible menu or section.
-- **Bell**: Notification icon. An orange circle with a number indicates new alerts (e.g., someone mentioned you or updated a tracked document).
+- 🔔 **Bell**: Notification icon. An orange circle with a number indicates new alerts (e.g., someone mentioned you or updated a tracked document).
 - **House**: Navigates to the home page of the module ("Overview").
-- **Pin**: Used to fix or unfix panels. 
+- 📌 **Pin**: Used to fix or unfix panels. 
   - A diagonal pin means you can pin the panel.  
   - A vertical pin means it's already pinned.
-- **Star**: Marks the item as important.
+- ⭐ **Star**: Marks the item as important.
 - **On/off toggle**: Activates or deactivates specific functions or views.
 - **Funnel**: Opens a search or filtering function, usually within navigators.
 - **Chevron (ˇ)**: Opens a dropdown menu.
 - **Sqare**: maximizes the panel
+- 🔍 **Magnifying lens**: a place to input search text
 
