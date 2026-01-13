@@ -115,7 +115,7 @@ Appears in the navigators. Indicates that a record or several records is marked 
 
 The button has an indicative function - to show how many records are selected, and also is a gateway to the functions "Export to"  *Excel* and *To Data Exchange*.
 If "Export to Excel" is executed, the selection is transformed into an auto-download excel document.
-If 'Export to Data Exchange" is executed, the function creates a record in 
+If 'Export to Data Exchange" is executed, the function creates a record in Exchange/Data Exchange to be executed at a givem time.
 
-
+![picture](pictures/selected.png)
 
