@@ -15,8 +15,10 @@ While some command buttons are standardized across the system (e.g., Save, Close
 
 They vary largely depending on the element, the feature, the field they serve. These menus contain specific operations that are executable for the panel, the form, the field, the feature currently being used. They serve the buttons too - e.g. button RUN contains a context menu of various functions.
 
+The menus are indicated either with a three dots icon, or a down-arrow, from the button itsel, or can be revealed with a right-click on the element (e.g. field, comment).
 
-This section will explain each command button and context menu features in detail — its purpose, behavior, and expected results when clicked.
+
+This section will explain each command button and context menu features in details — its purpose, behavior, and expected results when clicked.
 
 First let us give you a general idea of several interface symbols in the system and what to initially expect when you see it:
 
