@@ -22,7 +22,8 @@ items:
   topicHref: introduction/social/index.md   
 
 - name: How To
-  href: https://docs.erp.net/webclient/introduction/how-to/index.html
+  href: introduction/how-to/toc.yml
+  topicHref: introduction/how-to/index.md
 
 - name: Return to DOCS ⏶
   href: https://docs.erp.net/
