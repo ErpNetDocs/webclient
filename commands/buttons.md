@@ -108,6 +108,7 @@ Use to refresh the page, equal to F5 key. It appears in the navigators.
 
 Use to open a side panel "Details" to show selected fields that describe the current record (e.g. Project, Assigned to User, Customer - any field that belongs to the definition of the object)
 
+![picture](pictures/details.png)
 ---
 ## Selected
 
