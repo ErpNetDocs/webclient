@@ -52,8 +52,9 @@ Use when you want to exit the form without explicitly saving.
 - "Always save automatically when closing"
 This is a configuration key under [number 71 /AlwaysSaveOnClose](https://docs.erp.net/tech/reference/config-options-reference.html#71-webclientalwayssaveonclose) 
 
->- When enabled, this option is saved as a user preference, which means that when closing the form with **X** will automatically save changes without showing the dialog and without the need to explicitly press "Save" before that.
->- The configuration can be swithed ON/OFF from Main menu/Customize form/Settings tab.
+> [!Note]
+> When enabled, this option is saved as a user preference, which means that when closing the form with **X** will automatically save changes without showing the dialog and without the need to explicitly press "Save" before that.
+> <br> The configuration can be swithed ON/OFF from Main menu/Customize form/Settings tab.
 
 ---
 
