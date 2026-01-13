@@ -52,6 +52,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "commands/pictures/close.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/close.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "commands/pictures/cmd-bttns.png",
       "output": {
         "resource": {
@@ -72,10 +82,40 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "commands/pictures/details.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/details.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "commands/pictures/discard.png",
       "output": {
         "resource": {
           "relative_path": "commands/pictures/discard.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "commands/pictures/manybuttons.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/manybuttons.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "commands/pictures/selected.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/selected.png"
         }
       },
       "version": ""
