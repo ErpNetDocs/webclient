@@ -5,15 +5,15 @@ items:
 - name: Overview
   href: introduction/toc.yml
   topicHref: introduction/index.md
+  
+- name: Commands
+  href: commands/toc.yml
+  topicHref: commands/index.md
 
 - name: My apps
   href: my-apps/toc.yml
   topicHref: my-apps/index.md
   
-- name: Commands
-  href: commands/toc.yml
-  topicHref: commands/index.md
- 
 - name: How To
   href: https://docs.erp.net/webclient/introduction/how-to/index.html
 
