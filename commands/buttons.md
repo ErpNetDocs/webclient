@@ -87,7 +87,9 @@ Use when you want to make changes to the data in a form, in a navigator (e.g. ad
 
 ## New (+)
 
-Use to create a new record
+Use to create a new record. It is available in the navigators, the navigation panel, or in header of a Related data panel (+ New). 
+> [!IMPORTANT]
+> Do not confuse with button "+ Create new" in line-panel. It creates a new line, and is preliminary used to create a new record under specific conditions e.g. related data or details data **that has its own form**).
 
 ---
 
