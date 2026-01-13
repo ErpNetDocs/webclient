@@ -1,5 +1,5 @@
-# Command buttons
-Command buttons are an essential part of the ERP.net Web Client interface. They perform actions ranging from saving and closing entries to initiating processes, navigating between views, and interacting with documents and data. These buttons are typically displayed at the top of panels and forms, or in the context menus, providing direct access to frequently used commands and functionalities.
+# Command buttons and Contex menus
+**Command buttons** are an essential part of the ERP.net Web Client interface. They perform actions ranging from saving and closing entries to initiating processes, navigating between views, and interacting with documents and data. These buttons are typically displayed at the top of panels and forms, or in the context menus, providing direct access to frequently used commands and functionalities.
 
 Each command button consists of a text and a symbol that visually reinforces its purpose, helping users understand its function at a glance. Symbols (icons) are so carefully selected, so that the button actually becomes a sign and even the text can be omitted (not shown) because thus it intuitively represent the action performed.
 
@@ -7,7 +7,10 @@ All command buttons also include helpful tooltips that appear when hovered over,
 
 While some command buttons are standardized across the system (e.g., Save, Close, Delete, Print), and others are contextual and appear depending on the type of record or process being handled. 
 
-This section will explain each command button in detail—its purpose, behavior, and expected results when clicked.
+**Context menus**  vary largely depending on the element, the feature, the field they serve. These menus contain specific operations that are executable for the panel, the form, the field, the feature currently being used. They serve the buttons too - e.g. button RUN contains a context menu of various functions.
+
+
+This section will explain each command button and context menu features in detail — its purpose, behavior, and expected results when clicked.
 
 First let us give you a general idea of several interface symbols in the system and what to initially expect when you see it:
 
