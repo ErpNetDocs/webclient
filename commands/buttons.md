@@ -111,6 +111,7 @@ Use to refresh the page, equal to F5 key. It appears in the navigators.
 Use to open a side panel "Details" to show selected fields that describe the current record (e.g. Project, Assigned to User, Customer - any field that belongs to the definition of the object)
 
 ![picture](pictures/details.png)
+
 ---
 ## Selected
 
@@ -121,4 +122,43 @@ If "Export to Excel" is executed, the selection is transformed into an auto-down
 If 'Export to Data Exchange" is executed, the function creates a record in Exchange/Data Exchange to be executed at a givem time.
 
 ![picture](pictures/selected.png)
+
+---
+## Save layout
+
+---
+
+## Starred
+
+---
+
+## Follow
+
+No follow, Tagged, Following Favorite
+
+---
+
+## Share
+
+---
+
+## Actions
+
+---
+
+## Gearwheel
+
+---
+
+## Zoom lens
+
+---
+
+## Three wertical dots
+
+---
+
+## Square & arrow
+
+
 
