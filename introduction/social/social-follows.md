@@ -64,11 +64,11 @@ In the new model:
 
 This separation makes Favorites meaningful, limited, and intentional.
 
-## Getting Started
+# Getting Started
 
 This section describes the shortest path to start using follow levels in the Web Client.
 
-### Change follow level from the form header
+## Change follow level from the form header
 
 1. Open the object you want to follow (e.g. a document, a case, etc.).
 2. Use the **star (follow) button** in the form header.
@@ -82,11 +82,11 @@ This section describes the shortest path to start using follow levels in the Web
 Expected result:
 - If you set an object to **Favorite**, it becomes available in the **Favorites** app.
 
-### Change follow level from the context menu
+## Change follow level from the context menu
 
 The context menu follow action uses the **same behavior as the form header button** (the same click-cycle logic).
 
-### Quick follow/unfollow actions 
+## Quick follow/unfollow actions 
 
 In addition to the standard follow-level click cycle, you can use the following shortcuts on the **Follow (star) icon** to immediately change the follow states (skip the cycle): 
 
@@ -94,7 +94,7 @@ In addition to the standard follow-level click cycle, you can use the following 
 
 - Unfollow immediately - *Shift + Click* on the star icon → **Unfollow** (removes the follow record and if Favorite - removes it from My Favorites).
 
-## Concepts
+# Concepts
 This section explains the strategy behind the introduction of Follow levels and its impact on other instruments in Web Client
 
 **Long-term purpose**
@@ -125,6 +125,8 @@ This change is deliberate and aligns the system with clearer user intent and sca
 **Automatic follows**
 
 When the system creates a follow automatically (e.g. due to a mention/assignment), the follow level is **Tagged**.
+>[!Note]
+> There is a Business Rule ["R38780 Case - Create Follow For Case Creator"](https://docs.erp.net/model/business-rules/R38780.html) that creates an automatic follow for the Owner of the Case - its creator.
 
 **Chat groups**
 
