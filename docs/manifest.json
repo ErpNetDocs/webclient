@@ -21,16 +21,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "command-buttons/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "command-buttons/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "favicon.ico",
       "output": {
