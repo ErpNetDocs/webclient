@@ -13,7 +13,11 @@ items:
 - name: My apps
   href: introduction/my-apps/toc.yml
   topicHref: introduction/my-apps/index.md
-    
+
+- name: Social ERP
+  href: introduction/social/toc.yml
+  topicHref: introduction/social/index.md   
+
 - name: How To
   href: https://docs.erp.net/webclient/introduction/how-to/index.html
 
