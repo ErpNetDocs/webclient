@@ -9,10 +9,10 @@ items:
   href: introduction/terms.md
   
 - name: My apps
-  href: introduction/toc.yml
+  href: my-apps/toc.yml
   topicHref: my-apps/index.md
-
-- name: Command buttons
+  
+- name: Commands
   href: commands/toc.yml
   topicHref: commands/index.md
  
