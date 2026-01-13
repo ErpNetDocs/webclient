@@ -40,21 +40,17 @@ Use when you want to exit the form without explicitly saving.
    - **Always save automatically when closing** - toggle switch ON/OFF
 
 **Explanation of the options**
-- "Save changes"  
-  Saves the changes and then closes the form.
+- "Save changes" -  Saves the changes and then closes the form.
 
-- "Discard changes"
-  Closes the form **without saving** the changes. The user returns to the navigator form, or the starting form)
+- "Discard changes" - Closes the form **without saving** the changes. The user returns to the navigator form, or the starting form)
 
-- "Cancel" 
-  Keeps the form open so you can continue editing.
+- "Cancel" - Keeps the form open so you can continue editing.
 
-- "Always save automatically when closing"
-This is a configuration key under [number 71 /AlwaysSaveOnClose](https://docs.erp.net/tech/reference/config-options-reference.html#71-webclientalwayssaveonclose) 
+- "Always save automatically when closing" - This is a configuration key under [#71 /AlwaysSaveOnClose](https://docs.erp.net/tech/reference/config-options-reference.html#71-webclientalwayssaveonclose) 
 
 > [!Note]
-> When enabled, this option is saved as a user preference, which means that when closing the form with **X** will automatically save changes without showing the dialog and without the need to explicitly press "Save" before that.
-> <br> The configuration can be swithed ON/OFF from Main menu/Customize form/Settings tab.
+> 1. When enabled, this option is saved as a user preference, which means that when closing the form with **X** will automatically save changes without showing the dialog and without the need to explicitly press "Save" before that.
+> 2. The configuration can be swithed ON/OFF from Main menu/Customize form/Settings tab.
 
 ---
 
@@ -71,15 +67,15 @@ Use when you want to return to **view mode** of the form without saving your cha
 
 ## Toggle switch
 
-Use to switch ON or Switch OFF features. You can find it in the app-bar menu, in notifications settings, in notifications options, show elements (fields) in a form etc.
-- ON - toggle is "blue", sswitch goes to the right
+Use to switch ON or switch OFF features. You can find it in the app-bar menu, in notifications settings, in notifications options, show elements (fields) in a form, etc.
+- ON - toggle is "blue", switch goes to the right
 - OFF - toggle is "grey", switch goes to the left
 
 ---
 
 ## Edit
 
-Use when you want to make changes to the data in a form, in a navigator (e.g. add/remove rows, create a new record directly form the navigator, paste rows), in a line-panel (panel with lines/rows, e.g. add new line), edit a file etc. Only editable records have this button available in the top ribbon.
+Use when you want to make changes to the data in a form, in a navigator (e.g. add/remove rows, create a new record directly in the navigator, paste rows, etc.), in a line-panel (panel with lines/rows, e.g. add new line), edit a file etc. Only editable records have this button available in the top ribbon.
 
 - to enter Edit mode, press the blue button "Edit". The button disappears and is replaced by the "Save" button
 - to exit Edit mode - save changes, or discard changes
@@ -90,7 +86,7 @@ Use when you want to make changes to the data in a form, in a navigator (e.g. ad
 
 Use to create a new record. It is available in the navigators, the navigation panel, or in header of a Related data panel (+ New). 
 > [!IMPORTANT]
-> Do not confuse with button "+ Create new" in line-panel. It creates a new line, and is preliminary used to create a new record under specific conditions e.g. related data or details data **that has its own form**).
+> Do not confuse with button "+ Create new" in line-panel. It creates a new line, and is preliminary used to create a new record under specific conditions e.g. related data or details data **that has its own form**.
 
 ---
 
