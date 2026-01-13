@@ -5,9 +5,6 @@ items:
 - name: Overview
   href: introduction/toc.yml
 
-- name: Common terms
-  href: introduction/terms.md
-  
 - name: My apps
   href: my-apps/toc.yml
   topicHref: my-apps/index.md
