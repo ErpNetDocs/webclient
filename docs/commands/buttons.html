@@ -90,11 +90,97 @@
 <p>Buttons are available everywhere in the platform - on the top ribbon, inside a panel, in the navigation panel...They are accompanied with a text (can be hidden) and a hint to indicate what would happen when pressed.
 In our platform we chose icons and toggle switches to serve as buttons. In this section we will explain the most common buttons you see on the top ribbon of a record or navigator.</p>
 <h2 id="save">Save</h2>
-<h2 id="close">Close</h2>
-<h2 id="toggle-switch">Toggle switch</h2>
-<h2 id="edit">Edit</h2>
-<h2 id="new">New</h2>
+<p>Use when you want to store your changes and continue working in the same form.</p>
+<p><strong>Steps:</strong></p>
+<ol>
+<li>Open a record (new or existing).</li>
+<li>Make your changes.</li>
+<li>Click <strong>Save</strong>.</li>
+</ol>
+<p><strong>Result:</strong></p>
+<ul>
+<li>The changes are saved to the database.</li>
+<li>The form remains open.</li>
+<li>If there are <strong>no changes</strong>, <strong>Save</strong> is disabled.</li>
+<li>If <strong>validation fails</strong>, the save is aborted and validation messages are shown.</li>
+</ul>
+<hr>
+<h2 id="save-and-close--save-and-reload">Save and Close &amp; Save and Reload</h2>
+<p>These appear in a record that is opened as a sub-form (opened through another form). &quot;Save and Close&quot; is the primary action.</p>
+<ul>
+<li>Use <strong>Save &amp; Reload</strong> when you want to save your changes and refresh the form data and stay in the form. This will save and reload the form.</li>
+<li>Use <strong>Save &amp; Close</strong> when you want to save your changes and exit the form. This will save data and close the form returning you to the starting form (e.g. another form or the navigator).</li>
+</ul>
+<h2 id="picture"><img src="pictures/subformsave.png" alt="picture"></h2>
+<h2 id="close-x">Close (X)</h2>
+<p>Use when you want to exit the form without explicitly saving.</p>
+<p><strong>1: If No changes are made or changes are saved</strong></p>
+<ol>
+<li>Click <strong>X</strong>.</li>
+<li>The form closes immediately.</li>
+</ol>
+<p><strong>2: Unsaved changes exist</strong></p>
+<ol>
+<li>Click <strong>X</strong>.</li>
+<li>A confirmation dialog appears with the following options:
+<ul>
+<li><strong>Save changes</strong></li>
+<li><strong>Discard changes</strong></li>
+<li><strong>Cancel</strong></li>
+<li><strong>Always save automatically when closing</strong> - toggle switch ON/OFF</li>
+</ul>
+</li>
+</ol>
+<p><strong>Explanation of the options</strong></p>
+<ul>
+<li><p>&quot;Save changes&quot; -  Saves the changes and then closes the form.</p>
+</li>
+<li><p>&quot;Discard changes&quot; - Closes the form <strong>without saving</strong> the changes. The user returns to the navigator form, or the starting form)</p>
+</li>
+<li><p>&quot;Cancel&quot; - Keeps the form open so you can continue editing.</p>
+</li>
+<li><p>&quot;Always save automatically when closing&quot; - This is a configuration key under <a href="https://docs.erp.net/tech/reference/config-options-reference.html#71-webclientalwayssaveonclose">#71 /AlwaysSaveOnClose</a></p>
+</li>
+</ul>
+<div class="NOTE">
+<h5>Note</h5>
+<ol>
+<li>When enabled, this option is saved as a user preference, which means that when closing the form with <strong>X</strong> will automatically save changes without showing the dialog and without the need to explicitly press &quot;Save&quot; before that.</li>
+<li>The configuration can be swithed ON/OFF from Main menu/Customize form/Settings tab.</li>
+</ol>
+</div>
+<hr>
 <h2 id="discard">Discard</h2>
+<p>Use when you want to return to <strong>view mode</strong> of the form without saving your changes.</p>
+<p><strong>Steps</strong></p>
+<ol>
+<li>Click &quot;Discard&quot;</li>
+<li>The unsaved changes are lost</li>
+<li>The form gets back to view mode (exit edit mode)</li>
+</ol>
+<p><img src="pictures/discard.png" alt="picture"></p>
+<hr>
+<h2 id="toggle-switch">Toggle switch</h2>
+<p>Use to switch ON or switch OFF features. You can find it in the app-bar menu, in notifications settings, in notifications options, show elements (fields) in a form, etc.</p>
+<ul>
+<li>ON - toggle is &quot;blue&quot;, switch goes to the right</li>
+<li>OFF - toggle is &quot;grey&quot;, switch goes to the left</li>
+</ul>
+<hr>
+<h2 id="edit">Edit</h2>
+<p>Use when you want to make changes to the data in a form, in a navigator (e.g. add/remove rows, create a new record directly in the navigator, paste rows, etc.), in a line-panel (panel with lines/rows, e.g. add new line), edit a file etc. Only editable records have this button available in the top ribbon.</p>
+<ul>
+<li>to enter Edit mode, press the blue button &quot;Edit&quot;. The button disappears and is replaced by the &quot;Save&quot; button</li>
+<li>to exit Edit mode - save changes, or discard changes</li>
+</ul>
+<hr>
+<h2 id="new-">New (+)</h2>
+<p>Use to create a new record. It is available in the navigators, the navigation panel, or in header of a Related data panel (+ New).</p>
+<div class="IMPORTANT">
+<h5>Important</h5>
+<p>Do not confuse with button &quot;+ Create new&quot; in line-panel. It creates a new line, and is preliminary used to create a new record under specific conditions e.g. related data or details data <strong>that has its own form</strong>.</p>
+</div>
+<hr>
 <h2 id="save-layout">Save layout</h2>
 
 </article>

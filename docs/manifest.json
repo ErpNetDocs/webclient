@@ -71,6 +71,26 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "commands/pictures/discard.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/discard.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "commands/pictures/subformsave.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/subformsave.png"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "commands/toc.yml",
       "output": {
