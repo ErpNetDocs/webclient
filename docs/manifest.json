@@ -21,6 +21,49 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "commands/buttons.md",
+      "output": {
+        ".html": {
+          "relative_path": "commands/buttons.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "commands/context_menus.md",
+      "output": {
+        ".html": {
+          "relative_path": "commands/context_menus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "commands/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "commands/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "commands/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "commands/toc.html"
+        },
+        ".json": {
+          "relative_path": "commands/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "favicon.ico",
       "output": {
