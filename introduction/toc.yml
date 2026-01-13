@@ -7,4 +7,6 @@
 - name: Social ERP
   href: social/toc.yml
   topicHref: social/index.md 
-
+- name: My Apps
+  href: my-apps/toc.yml
+  topicHref: my-apps/index.md
