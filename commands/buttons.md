@@ -140,19 +140,32 @@ If the user does not press the button, the layout modifications will not be save
 
 ## Starred
 
-This button is visible in navigators. When clicked, it reveals a list of max 5 **Recent** and max 15 **Favorite** records for the currently observed entity type. For example, if a user opens the Offers navigator, the Starred button displays recent and favorite offers. Clicking a listed item opens the corresponding record.
+This button is visible in navigators. When clicked, it reveals a list of max 5 **Recent** and max 15 [**Favorite**](.introduction/my-apps/favorites/index.md) records for the currently observed entity type. For example, if a user opens the Offers navigator, the Starred button displays recent and favorite offers. Clicking a listed item opens the corresponding record.
 
 ![picture](pictures/starred.png)
 
 ---
 
-## Follow
+## Follow star
 
-No follow, Tagged, Following Favorite
+Appears in single-record forms and is used to indicate and set the importance of a record for the user. Based on this setting, the user receives corresponding notifications about updates and comments on the followed object.
+
+![picture](pictures/followicons.png)
+
+Each click on this button sets a new follow level, meaning:
+- Tagged - You are following the object automatically, typically because you were mentioned or assigned. Cannot be set manually.
+- Following - You explicitly chose to follow the object.
+- Favorite - You explicitly marked the object as a favorite. Favorites are shown in the Favorites app.
+- No follow - You do not follow this object, or no longer follow because the follow record is deleted now
+Learn more about [Social Follows](https://docs.erp.net/webclient/introduction/social/social-follows.html).
 
 ---
 
 ## Share
+
+Appears im single record forms and helps share the current record in two ways:
+- Share to group
+- Copy link
 
 ---
 
