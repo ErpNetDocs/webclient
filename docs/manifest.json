@@ -142,6 +142,26 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "commands/pictures/share.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/share.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "commands/pictures/sharetogroup.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/sharetogroup.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "commands/pictures/starred.png",
       "output": {
         "resource": {
