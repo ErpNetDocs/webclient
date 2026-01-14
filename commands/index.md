@@ -10,14 +10,16 @@ Each command button consists of a text and a symbol that visually reinforces its
 All command buttons also include helpful tooltips that appear when hovered over, providing users with clear hints about the button’s function before clicking.
 
 While some command buttons are standardized across the system (e.g., Save, Close, Delete, Print), and others are contextual and appear depending on the type of record or process being handled. 
-![cmd-bttns](pictures/cmd-bttns.png)
+
+![picture](pictures/cmd-bttns.png)
 
 ## Context menus
 
-They vary largely depending on the element, the feature, the field they serve. These menus contain specific operations that are executable for the panel, the form, the field, the feature currently being used. They serve the buttons too - e.g. button RUN contains a context menu of various functions.
+Context menus vary widely depending on the element, feature, or field they serve. They contain operations specific to the panel, form, field, or feature currently in use. Context menus may also be attached to buttons—for example, the Run button includes a context menu with multiple functions.
 
-The menus are indicated either with a three dots icon, or a down-arrow, from the button itsel, or can be revealed with a right-click on the element (e.g. field, comment).
-![cntx_menus](pictures/cntx_menus.png)
+These menus are indicated either by a three-dots icon or a down-arrow on the button itself, or they can be revealed by right-clicking on an element (for example, a field or a comment).
+
+![picture](pictures/cntx_menus.png)
 
 
 First let us give you a general idea of several interface symbols in the system and what to initially expect when you see it:
