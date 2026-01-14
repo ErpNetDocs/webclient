@@ -37,7 +37,7 @@ The ERP.net Web Client interface includes a range of intuitive symbols that prov
   - A diagonal pin means you can pin the panel.  
   - A vertical pin means it's already pinned.
 - ⭐ **Star**: Marks the item as important.
-- **On/off toggle**: Activates or deactivates specific functions or views.
+- **On/Off toggle**: (toggle switch) Activates or deactivates specific functions or views.
 - **Funnel**: Opens a search or filtering function, usually within navigators.
 - **Chevron (ˇ)**: Opens a dropdown menu.
 - **Sqare**: maximizes the panel
