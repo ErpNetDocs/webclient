@@ -6,14 +6,14 @@ items:
   href: introduction/toc.yml
   topicHref: introduction/index.md
   
-- name: Commands
+- name: Command Tools
   href: commands/toc.yml
   topicHref: commands/index.md
 
 - name: Navigators
   href: introduction/navigator-features.md
 
-- name: My apps
+- name: My Apps
   href: introduction/my-apps/toc.yml
   topicHref: introduction/my-apps/index.md
 
