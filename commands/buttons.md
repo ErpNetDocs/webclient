@@ -1,7 +1,7 @@
 # Command Buttons
 Buttons are available throughout the platform—on the top ribbon, inside panels, and in the navigation panel. They are accompanied by text (which can be hidden) and a hint that indicates what will happen when they are pressed.
 
-In our platform, we use icons and toggle switches as buttons. In this section, we will explain the most common buttons found on the top ribbon of a record or navigator.
+In our platform, we use icons and toggle switches as buttons. In this section, we explain the most common buttons found on the top ribbon of a record or navigator.
 
 ![picture](pictures/manybuttons.png)
 
@@ -116,7 +116,7 @@ Use to open a side panel "Details" with selected fields that describe the curren
 Appears in the navigator immediately after a record (row) is focused. It indicates the number of selected records.The button has an indicative function—showing how many records are selected—and also serves as a gateway to the "Export to Excel" and "Export to Data Exchange" functions.
 
 - When "Export to Excel" is executed, the selected records are converted into an automatically downloaded Excel file.
-- When Export to Data Exchange is executed, the system creates a record in Exchange / Data Exchange, which is then executed at a specified time.
+- When "Export to Data Exchange" is executed, the system creates a record in Exchange / Data Exchange, which is then executed at a specified time.
 
 ![picture](pictures/selected.png)
 
@@ -163,9 +163,10 @@ Learn more about [Social Follows](https://docs.erp.net/webclient/introduction/so
 
 ## Share
 
-Appears im single record forms and helps share the current record in two ways:
-- Share to group
-- Copy link
+Appears in single record forms and helps to share the current record in three ways:
+- Copy link - copies the URL of the current record in the clipboard, paste where necessary
+- Share to group - opens a dialogue to choose a Chat group in which the user is a member. As a result a relative link to the object appears as a commnet in the chat of the chosen group. The chat members have an immediate access and can open the shared record
+- To Data exchange - creates a record for Data Exchange
 
 ---
 
