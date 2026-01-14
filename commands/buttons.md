@@ -164,9 +164,19 @@ Learn more about [Social Follows](https://docs.erp.net/webclient/introduction/so
 ## Share
 
 Appears in single-record forms and allows the user to share the current record in three ways:
-- "Copy link" – copies the URL of the current record to the clipboard, where it can be pasted as needed.
-- "Share to group" – opens a dialog for selecting a Chat group of which the user is a member. A relative link to the record is posted as a comment in the selected group’s chat. Group members gain immediate access and can open the shared record directly.
-- "To Data Exchange" – creates a record for execution in Data Exchange.
+
+![picture](pictures/share.png)
+
+1. "Copy link" – copies the URL of the current record to the clipboard, where it can be pasted as needed.
+2. "Share to group" – opens a dialog for selecting a Chat group of which the user is a member. A relative link to the record is posted as a comment in the selected group’s chat. Group members gain immediate access and can open the shared record directly.
+
+  ![picture](pictures/share.png)
+  
+3. "To Data Exchange" – creates a record for execution in Data Exchange.
+
+
+
+
 
 ---
 
