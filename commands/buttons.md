@@ -48,11 +48,8 @@ Use when you want to exit the form without explicitly saving.
 
 **Explanation of the options**
 - "Save changes" -  Saves the changes and then closes the form.
-
 - "Discard changes" - Closes the form **without saving** the changes. The user returns to the navigator form, or the starting form)
-
 - "Cancel" - Keeps the form open so you can continue editing.
-
 - "Always save automatically when closing" - This is a configuration key under [#71 /AlwaysSaveOnClose](https://docs.erp.net/tech/reference/config-options-reference.html#71-webclientalwayssaveonclose) 
 
 > [!Note]
@@ -109,7 +106,7 @@ Use to refresh the page, equal to F5 key. It appears in the navigators.
 ---
 ## Details
 
-Use to open a side panel "Details" to show selected fields that describe the current record (e.g. Project, Assigned to User, Customer - any field that belongs to the definition of the object).
+Use to open a side panel "Details" with selected fields that describe the current record (e.g. Project, Assigned to User, Customer - any field that belongs to the definition of the object).
 
 ![picture](pictures/details.png)
 
@@ -142,6 +139,10 @@ If the user does not press the button, the layout modifications will not be save
 ---
 
 ## Starred
+
+This button is visible in navigators. When clicked, it reveals a list of max 5 **Recent** and max 15 **Favorite** records for the currently observed entity type. For example, if a user opens the Offers navigator, the Starred button displays recent and favorite offers. Clicking a listed item opens the corresponding record.
+
+![picture](pictures/starred.png)
 
 ---
 
