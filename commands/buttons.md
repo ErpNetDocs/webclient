@@ -116,22 +116,28 @@ Use to open a side panel "Details" to show selected fields that describe the cur
 ---
 ## Selected
 
-Appears in the navigators immediately after one record (row) is focused. Indicates the number of selected records.
+Appears in the navigator immediately after a record (row) is focused. It indicates the number of selected records.The button has an indicative function—showing how many records are selected—and also serves as a gateway to the "Export to Excel" and "Export to Data Exchange" functions.
 
-The button has an indicative function - to show how many records are selected, and also is a gateway to the functions "Export to"  *Excel* and *To Data Exchange*.
-- If "Export to Excel" is executed, the selection is transformed into an auto-download excel document.
-- If 'Export to Data Exchange" is executed, the function creates a record in Exchange/Data Exchange to be executed at a given time.
+- When "Export to Excel" is executed, the selected records are converted into an automatically downloaded Excel file.
+- When Export to Data Exchange is executed, the system creates a record in Exchange / Data Exchange, which is then executed at a specified time.
 
 ![picture](pictures/selected.png)
 
 ---
 ## Save layout
 
-Appears in navigators or single record forms, when a modification of the layout was carried out. Setting new filters in Advanced filter panel also triggers this button to show. 
-The button has two colours:
- - red - when a major modification of the layout has been done, over menu option Customize form or Custmomize panel. This indicates the user not to fo
+The sole function of this button is to save layout modifications so that the form is loaded as intended.
 
-Minor midifi
+It appears in the session of a user who has permission to edit layouts (either Global Layout Manager permission or Layout Admin for the role). When a layout modification is made—whether to a form, a panel, or settings in the Advanced Filter panel—it becomes visible in navigators and single-record forms.
+
+The button appears in two colors:
+
+![picture](pictures/savelayout.png)
+
+- Blue – indicates a minor modification, such as resizing or hiding a column in a navigator, sorting data, showing or closing a side panel, or adding or changing a filter in the Advanced Filter panel.
+-  Red – indicates a major modification made via the Customize Form or Customize Panel menu options. This alerts the user that the button should be pressed.
+
+If the user does not press the button, the layout modifications will not be saved for the role, and the form will not be delivered according to the latest customizations. For this reason, this button is essential for platform administration and workspace consistency.
 
 ---
 
