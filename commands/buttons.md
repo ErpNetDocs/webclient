@@ -127,6 +127,12 @@ The button has an indicative function - to show how many records are selected, a
 ---
 ## Save layout
 
+Appears in navigators or single record forms, when a modification of the layout was carried out. Setting new filters in Advanced filter panel also triggers this button to show. 
+The button has two colours:
+ - red - when a major modification of the layout has been done, over menu option Customize form or Custmomize panel. This indicates the user not to fo
+
+Minor midifi
+
 ---
 
 ## Starred
