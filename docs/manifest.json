@@ -112,6 +112,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "commands/pictures/savelayout.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/savelayout.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "commands/pictures/selected.png",
       "output": {
         "resource": {

@@ -196,15 +196,23 @@
 <p><img src="pictures/details.png" alt="picture"></p>
 <hr>
 <h2 id="selected">Selected</h2>
-<p>Appears in the navigators immediately after one record (row) is focused. Indicates the number of selected records.</p>
-<p>The button has an indicative function - to show how many records are selected, and also is a gateway to the functions &quot;Export to&quot;  <em>Excel</em> and <em>To Data Exchange</em>.</p>
+<p>Appears in the navigator immediately after a record (row) is focused. It indicates the number of selected records.The button has an indicative function—showing how many records are selected—and also serves as a gateway to the &quot;Export to Excel&quot; and &quot;Export to Data Exchange&quot; functions.</p>
 <ul>
-<li>If &quot;Export to Excel&quot; is executed, the selection is transformed into an auto-download excel document.</li>
-<li>If 'Export to Data Exchange&quot; is executed, the function creates a record in Exchange/Data Exchange to be executed at a given time.</li>
+<li>When &quot;Export to Excel&quot; is executed, the selected records are converted into an automatically downloaded Excel file.</li>
+<li>When Export to Data Exchange is executed, the system creates a record in Exchange / Data Exchange, which is then executed at a specified time.</li>
 </ul>
 <p><img src="pictures/selected.png" alt="picture"></p>
 <hr>
 <h2 id="save-layout">Save layout</h2>
+<p>The sole function of this button is to save layout modifications so that the form is loaded as intended.</p>
+<p>It appears in the session of a user who has permission to edit layouts (either Global Layout Manager permission or Layout Admin for the role). When a layout modification is made—whether to a form, a panel, or settings in the Advanced Filter panel—it becomes visible in navigators and single-record forms.</p>
+<p>The button appears in two colors:</p>
+<p><img src="pictures/savelayout.png" alt="picture"></p>
+<ul>
+<li>Blue – indicates a minor modification, such as resizing or hiding a column in a navigator, sorting data, showing or closing a side panel, or adding or changing a filter in the Advanced Filter panel.</li>
+<li>Red – indicates a major modification made via the Customize Form or Customize Panel menu options. This alerts the user that the button should be pressed.</li>
+</ul>
+<p>If the user does not press the button, the layout modifications will not be saved for the role, and the form will not be delivered according to the latest customizations. For this reason, this button is essential for platform administration and workspace consistency.</p>
 <hr>
 <h2 id="starred">Starred</h2>
 <hr>
