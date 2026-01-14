@@ -81,7 +81,7 @@ Use to switch ON or switch OFF features. You can find it in the app-bar menu, in
 
 ## Edit
 
-Use when you want to make changes to the data in a form, in a navigator (e.g. add/remove rows, create a new record directly in the navigator, paste rows, etc.), in a line-panel (panel with lines/rows, e.g. add new line), edit a file etc. Only editable records have this button available in the top ribbon.
+Use this button when you want to modify data in a form, a navigator (for example, add or remove rows, create a new record directly in the navigator, paste rows, etc.), or a line panel (a panel with lines/rows, such as adding a new line), or when editing a file. Only editable records display this button on the top ribbon.
 
 - to enter Edit mode, press the blue button "Edit". The button disappears and is replaced by the "Save" button
 - to exit Edit mode - save changes, or discard changes
