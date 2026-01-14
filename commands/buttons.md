@@ -1,6 +1,7 @@
-# Buttons
-Buttons are available everywhere in the platform - on the top ribbon, inside a panel, in the navigation panel...They are accompanied with a text (can be hidden) and a hint to indicate what would happen when pressed.
-In our platform we chose icons and toggle switches to serve as buttons. In this section we will explain the most common buttons you see on the top ribbon of a record or navigator.
+# Command Buttons
+Buttons are available throughout the platform—on the top ribbon, inside panels, and in the navigation panel. They are accompanied by text (which can be hidden) and a hint that indicates what will happen when they are pressed.
+
+In our platform, we use icons and toggle switches as buttons. In this section, we will explain the most common buttons found on the top ribbon of a record or navigator.
 
 ![picture](pictures/manybuttons.png)
 
