@@ -1,4 +1,4 @@
-# Command tools in WEB Client 
+# Command Tools in @@webclient 
 
 These consist of Command buttons and Context menus. This section will explain each command button and context menu features in details — its purpose, behavior, and expected results when clicked. 
 ## Command buttons
