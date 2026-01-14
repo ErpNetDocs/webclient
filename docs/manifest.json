@@ -102,6 +102,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "commands/pictures/followicons.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/followicons.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "commands/pictures/manybuttons.png",
       "output": {
         "resource": {
@@ -126,6 +136,16 @@
       "output": {
         "resource": {
           "relative_path": "commands/pictures/selected.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "commands/pictures/starred.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/starred.png"
         }
       },
       "version": ""

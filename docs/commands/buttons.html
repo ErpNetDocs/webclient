@@ -88,7 +88,7 @@
 <h1 id="command-buttons">Command Buttons</h1>
 
 <p>Buttons are available throughout the platform—on the top ribbon, inside panels, and in the navigation panel. They are accompanied by text (which can be hidden) and a hint that indicates what will happen when they are pressed.</p>
-<p>In our platform, we use icons and toggle switches as buttons. In this section, we will explain the most common buttons found on the top ribbon of a record or navigator.</p>
+<p>In our platform, we use icons and toggle switches as buttons. In this section, we explain the most common buttons found on the top ribbon of a record or navigator.</p>
 <p><img src="pictures/manybuttons.png" alt="picture"></p>
 <h2 id="save">Save</h2>
 <p>Use when you want to store your changes and continue working in the same form.</p>
@@ -135,14 +135,10 @@
 <p><img src="pictures/close.png" alt="picture"></p>
 <p><strong>Explanation of the options</strong></p>
 <ul>
-<li><p>&quot;Save changes&quot; -  Saves the changes and then closes the form.</p>
-</li>
-<li><p>&quot;Discard changes&quot; - Closes the form <strong>without saving</strong> the changes. The user returns to the navigator form, or the starting form)</p>
-</li>
-<li><p>&quot;Cancel&quot; - Keeps the form open so you can continue editing.</p>
-</li>
-<li><p>&quot;Always save automatically when closing&quot; - This is a configuration key under <a href="https://docs.erp.net/tech/reference/config-options-reference.html#71-webclientalwayssaveonclose">#71 /AlwaysSaveOnClose</a></p>
-</li>
+<li>&quot;Save changes&quot; -  Saves the changes and then closes the form.</li>
+<li>&quot;Discard changes&quot; - Closes the form <strong>without saving</strong> the changes. The user returns to the navigator form, or the starting form)</li>
+<li>&quot;Cancel&quot; - Keeps the form open so you can continue editing.</li>
+<li>&quot;Always save automatically when closing&quot; - This is a configuration key under <a href="https://docs.erp.net/tech/reference/config-options-reference.html#71-webclientalwayssaveonclose">#71 /AlwaysSaveOnClose</a></li>
 </ul>
 <div class="NOTE">
 <h5>Note</h5>
@@ -170,7 +166,7 @@
 </ul>
 <hr>
 <h2 id="edit">Edit</h2>
-<p>Use when you want to make changes to the data in a form, in a navigator (e.g. add/remove rows, create a new record directly in the navigator, paste rows, etc.), in a line-panel (panel with lines/rows, e.g. add new line), edit a file etc. Only editable records have this button available in the top ribbon.</p>
+<p>Use this button when you want to modify data in a form, a navigator (for example, add or remove rows, create a new record directly in the navigator, paste rows, etc.), or a line panel (a panel with lines/rows, such as adding a new line), or when editing a file. Only editable records display this button on the top ribbon.</p>
 <ul>
 <li>to enter Edit mode, press the blue button &quot;Edit&quot;. The button disappears and is replaced by the &quot;Save&quot; button</li>
 <li>to exit Edit mode - save changes, or discard changes</li>
@@ -192,14 +188,14 @@
 <p>Use to refresh the page, equal to F5 key. It appears in the navigators.</p>
 <hr>
 <h2 id="details">Details</h2>
-<p>Use to open a side panel &quot;Details&quot; to show selected fields that describe the current record (e.g. Project, Assigned to User, Customer - any field that belongs to the definition of the object).</p>
+<p>Use to open a side panel &quot;Details&quot; with selected fields that describe the current record (e.g. Project, Assigned to User, Customer - any field that belongs to the definition of the object).</p>
 <p><img src="pictures/details.png" alt="picture"></p>
 <hr>
 <h2 id="selected">Selected</h2>
 <p>Appears in the navigator immediately after a record (row) is focused. It indicates the number of selected records.The button has an indicative function—showing how many records are selected—and also serves as a gateway to the &quot;Export to Excel&quot; and &quot;Export to Data Exchange&quot; functions.</p>
 <ul>
 <li>When &quot;Export to Excel&quot; is executed, the selected records are converted into an automatically downloaded Excel file.</li>
-<li>When Export to Data Exchange is executed, the system creates a record in Exchange / Data Exchange, which is then executed at a specified time.</li>
+<li>When &quot;Export to Data Exchange&quot; is executed, the system creates a record in Exchange / Data Exchange, which is then executed at a specified time.</li>
 </ul>
 <p><img src="pictures/selected.png" alt="picture"></p>
 <hr>
@@ -215,11 +211,28 @@
 <p>If the user does not press the button, the layout modifications will not be saved for the role, and the form will not be delivered according to the latest customizations. For this reason, this button is essential for platform administration and workspace consistency.</p>
 <hr>
 <h2 id="starred">Starred</h2>
+<p>This button is visible in navigators. When clicked, it reveals a list of max 5 <strong>Recent</strong> and max 15 <a href=".introduction/my-apps/favorites/index.md"><strong>Favorite</strong></a> records for the currently observed entity type. For example, if a user opens the Offers navigator, the Starred button displays recent and favorite offers. Clicking a listed item opens the corresponding record.</p>
+<p><img src="pictures/starred.png" alt="picture"></p>
 <hr>
-<h2 id="follow">Follow</h2>
-<p>No follow, Tagged, Following Favorite</p>
+<h2 id="follow-star">Follow star</h2>
+<p>Appears in single-record forms and is used to indicate and set the importance of a record for the user. Based on this setting, the user receives corresponding notifications about updates and comments on the followed object.</p>
+<p><img src="pictures/followicons.png" alt="picture"></p>
+<p>Each click on this button sets a new follow level, meaning:</p>
+<ul>
+<li>Tagged - You are following the object automatically, typically because you were mentioned or assigned. Cannot be set manually.</li>
+<li>Following - You explicitly chose to follow the object.</li>
+<li>Favorite - You explicitly marked the object as a favorite. Favorites are shown in the Favorites app.</li>
+<li>No follow - You do not follow this object, or no longer follow because the follow record is deleted now
+Learn more about <a href="https://docs.erp.net/webclient/introduction/social/social-follows.html">Social Follows</a>.</li>
+</ul>
 <hr>
 <h2 id="share">Share</h2>
+<p>Appears in single-record forms and allows the user to share the current record in three ways:</p>
+<ul>
+<li>&quot;Copy link&quot; – copies the URL of the current record to the clipboard, where it can be pasted as needed.</li>
+<li>&quot;Share to group&quot; – opens a dialog for selecting a Chat group of which the user is a member. A relative link to the record is posted as a comment in the selected group’s chat. Group members gain immediate access and can open the shared record directly.</li>
+<li>&quot;To Data Exchange&quot; – creates a record for execution in Data Exchange.</li>
+</ul>
 <hr>
 <h2 id="actions">Actions</h2>
 <hr>
