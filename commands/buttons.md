@@ -177,16 +177,18 @@ Appears in single-record forms and allows the user to share the current record i
 
 ## Actions
 
-The **Actions** button (previously **Run**) opens a drop-down menu with the available actions you can execute in the current context.
+Available in single record forms in navigators. The **Actions** button (previously **Run**) opens a drop-down menu with the available actions you can execute in the current context.
 
 The list of actions is **context-driven** and may vary depending on:
 - the current record/document type,
 - the document state,
 - the configured workflows or document routes.
 
-Examples of actions you may see include operations such as "Create copy", "Void", "Create Adjustment", "Assign Worker", creating follow-up documents (when applicable), and many more.
+Examples of actions you may see include operations such as "Create copy", "Void", "Create Adjustment", "Assign Worker", creating follow-up documents (when applicable), and many more. Some examples:
 
-Learn more about [Running UI functions by "Actions"](https://info.erp.net/features/ui-ux-features/run-ui-function.html).
+![picture](pictures/actionsvarious.png)
+
+Learn more about [Running UI functions by "Actions"](https://info.erp.net/features/ui-ux-features/run-ui-function.html) and from the dedicatet UI function pages available to any namespace.
 
 ---
 
