@@ -52,6 +52,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "commands/pictures/actionsvarious.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/actionsvarious.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "commands/pictures/close.png",
       "output": {
         "resource": {
@@ -4073,6 +4083,19 @@
       "output": {
         "resource": {
           "relative_path": "logo_old.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "navigators/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "navigators/toc.html"
+        },
+        ".json": {
+          "relative_path": "navigators/toc.json"
         }
       },
       "version": ""
