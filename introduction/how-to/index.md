@@ -24,7 +24,7 @@ Here, you will find guides that can help you better navigate and use the @@name 
 
 - [Use functional panels](./functional-panels/index.md)
   
-- [Customize your UI](./ui-customization/index.md)**
+- [Customize your UI](./ui-customization/index.md)
 
 - [Use functional panels](./functional-panels/index.md)
 
