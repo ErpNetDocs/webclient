@@ -97,7 +97,7 @@
   "introduction/how-to/index.html": {
     "href": "introduction/how-to/index.html",
     "title": "How To | ERP.net Web Client",
-    "summary": "How To Here, you will find guides that can help you better navigate and use the ERP.net Web Client. Use the \"Create new\" option Use filter rows in navigators Use period expressions Use filtering expressions Use the multi-column layout Search in dropdown lists Use the \"Select by navigator\" option Use the Advanced filter Define user roles Use the Access Permission field in the Files panel Use functional panels Apply UI customization options"
+    "summary": "How To Here, you will find guides that can help you better navigate and use the ERP.net Web Client. Use the \"Create new\" option Use filter rows in navigators Use period expressions Use filtering expressions Use the multi-column layout Search in dropdown lists Use the \"Select by navigator\" option Use the Advanced filter Define user roles Use the Access Permission field in the Files panel Use functional panels Customize your UI** Use functional panels Create a new Stored Attribute or Calculated Attribute"
   },
   "introduction/how-to/multi-column-layout.html": {
     "href": "introduction/how-to/multi-column-layout.html",
@@ -142,7 +142,7 @@
   "introduction/how-to/ui-customization/index.html": {
     "href": "introduction/how-to/ui-customization/index.html",
     "title": "UI Customization | ERP.net Web Client",
-    "summary": "UI Customization This section contains guides related to the ERP.net Web Client's customization capabilities. You can learn how to rename fields and columns, reorder panels and show or hide different elements. Customize layout Customize fields Create multiple panels Create new attributes Separate views by object category"
+    "summary": "UI Customization This section contains guides related to the ERP.net Web Client's customization capabilities. You can learn how to rename fields and columns, reorder panels and show or hide different elements. Customize layout Customize fields Create multiple panels Separate views by object category"
   },
   "introduction/how-to/ui-customization/separate-views.html": {
     "href": "introduction/how-to/ui-customization/separate-views.html",
