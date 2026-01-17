@@ -1,7 +1,7 @@
 - name: Overview
   href: introduction/navigator-features.md
-
-- name: Command buttons
-  href: buttons.md 
-- name: Context menus
-  href: context_menus.md 
+- name: Navigator features
+  href: introduction/navigator-features.md
+- name: Getting started with Navigators
+  href: guide/toc.yml
+  topicHref: how-to/customize-nav-panel.md
