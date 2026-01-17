@@ -4088,6 +4088,29 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "navigators/guide/customize-nav-panel.md",
+      "output": {
+        ".html": {
+          "relative_path": "navigators/guide/customize-nav-panel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "navigators/guide/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "navigators/guide/toc.html"
+        },
+        ".json": {
+          "relative_path": "navigators/guide/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "navigators/toc.yml",
       "output": {
