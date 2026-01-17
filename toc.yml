@@ -11,7 +11,8 @@ items:
   topicHref: commands/index.md
 
 - name: Navigators
-  href: introduction/navigator-features.md
+  href: navigators/toc.yml
+  topicHref: introduction/navigator-features.md
 
 - name: My Apps
   href: introduction/my-apps/toc.yml
