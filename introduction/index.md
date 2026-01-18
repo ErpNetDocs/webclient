@@ -53,7 +53,7 @@ Within the ERP.net Web Client, several key terms are used throughout the interfa
 
 - Form - the topmost core component.  A single record (object) with all its parameters, displayed on the screen through a user-friendly interface. Each page has a single  form, containing multiple panels.
 - Panel - a core component. A distinct section or container that groups related elements, controls, or content.Displays a specific type of information. Each panel is hosted in a form.
-- Navigator - a table-based tool for viewing and working with large volumes of data in a structured way. Navigators allow searching, sorting (by one or multiple criteria), filtering, and drilling down into details. Some navigators include auxiliary panels that provide additional context related to the main navigator
+- Navigator - a table-based tool for viewing and working with large volumes of data in a structured way. Navigators allow searching, sorting (by one or multiple criteria),  filtering, and drilling down into details. Some navigators include auxiliary panels that provide additional context related to the main navigator
 - Ribbon - a horizontal bar at the top of the currently open form. It displays the current location in the system and command buttons and a menu with options
 - Header ribbon  - the topmost header of the ERP.net window. It contains global elements such as the search engine, user profile access, notifications, and shortcuts.
 - Application - a purpose-driven, logically distinct set of functions designed to support specific business tasks.
@@ -124,8 +124,7 @@ Navigators organize and display data in a structured, interactive table format.
   Other panels supply related or detailed information connected with the current record and can be displayed and organized per the needs.
 
 - **Home page**
-
-Represents the module by several main panel, that define its structure and components (entities). These are Definitions, Documents and operations, Setup, Reports and Ledgers.
+  Represents the module by several main panel, that define its structure and components (entities). These are Definitions, Documents and operations, Setup, Reports and Ledgers.
 
 - **Panels**  
   Panels structure both application home pages and individual record views. Types include:
