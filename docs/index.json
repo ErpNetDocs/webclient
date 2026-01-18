@@ -253,5 +253,10 @@
     "href": "navigators/guide/customize-nav-panel.html",
     "title": "| ERP.net Web Client",
     "summary": "tba"
+  },
+  "navigators/index.html": {
+    "href": "navigators/index.html",
+    "title": "Navigators in ERP.net Web Client | ERP.net Web Client",
+    "summary": "Navigators in ERP.net Web Client"
   }
 }
