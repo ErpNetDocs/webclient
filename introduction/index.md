@@ -26,3 +26,5 @@ In @@webclient, there are some special terms. This topic briefly explains the mo
 - Panel - a core component, displaying a specific type of information. Each panel is hosted in a form.
 - [My apps](./my-apps/index.md#overview) – a group of specific standalone applications, integral part of the @@webclient;
 - [Widget](./my-apps/index.md#widgets) - a special panel, containing one, specific "My app". It could be placed in every @@webclient form;
+- [Tile](./my-apps/tiles.md) - a shortcut to saved different sections of your data that can be accessed and switched between in a single tap;
+- [Favorite](./my-apps/favorites/index.md) - a shortcut to items of special interest at one-touch reach.
