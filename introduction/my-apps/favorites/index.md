@@ -19,9 +19,9 @@ Additionally, clicking on a tile will open the form for the favorite object.
 > After the update that introduced follow levels, **all existing follows are migrated to level “Tagged”** by default.  
 > As a result, users may initially see an empty Favorites app until they mark objects as **Favorite**.
 
-## Getting Started
+# Getting started
 
-### Add an object to Favorites
+## Add an object to Favorites
 
 To add an object to Favorites, mark it as such, which sets its follow level to **Favorite**.
 
@@ -37,12 +37,12 @@ OR you can skip this cycle by pressing Ctrl+Mouse-click on the star icon.
 
 For details about follow levels, see [Social follows](../../social/social-follows.html).
 
-### Open a favorite object
+## Open a favorite object
 
 1. Open **Favorites**.
 2. Click a tile to open the form of that object.
 
-### Remove single object from Favorites
+## Remove single object from Favorites
 
 1. Open the object.
 2. Click icon once to change to state "No follow"
@@ -51,7 +51,7 @@ OR you can press Shift+Mouse click on the star icon to unfollow.
 
 Further clicks on the star icon go through follow-states cycle.
 
-### Remove several objects from Favorites
+## Remove several objects from Favorites
 
 1. Open My Favorites app
 2. From the context menu switch Toggle "Edit" on
@@ -61,7 +61,7 @@ Further clicks on the star icon go through follow-states cycle.
 ![Unfollow Favorite](./pictures/favremove.png)
 
 
-## Concepts
+# Concepts
 
 **Necessary transition**
 
