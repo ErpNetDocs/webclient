@@ -22,6 +22,10 @@
   href: enter-stops.md
 - name: Use the Access Permission field
   href: access-permission-field.md
+
+- name: Create ane Stored Attribute or Calculated Attribute
+  href: ui-customization/create-new-attributes.md
+
 - name: Functional panels
   href: functional-panels/toc.yml
   topicHref: functional-panels/index.md
