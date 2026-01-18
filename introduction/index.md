@@ -93,7 +93,7 @@ A context-sensitive panel on the right side of the screen. Available options dep
 > [!Note]  
 > Side-panel tools are context-based and always relevant to the currently opened record.
 
-[**Navigators**](./navigators/index.md)
+[**Navigators**](../navigators/index.md)
 
 Navigators organize and display data in a structured, interactive table format.
 
