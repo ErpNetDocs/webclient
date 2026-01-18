@@ -1,7 +1,8 @@
 - name: Overview
-  href: introduction/navigator-features.md
+  href: index.md
 - name: Navigator features
-  href: introduction/navigator-features.md
+  href: ./introduction/navigator-features.md
+  topicHref: ./introduction/navigator-features.md
 - name: Getting started with Navigators
   href: guide/toc.yml
   topicHref: guide/customize-nav-panel.md
