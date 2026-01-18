@@ -22,21 +22,6 @@ ERP.net is built around a **single, centralized data source** combined with **au
 - **Social-ERP style features** - following objects, discussions, mentions, notifications—bringing business processes closer to modern collaboration;
 - **Flexible UI panels, web views** - embedding external sites or services within the client, and layout customisation by role;
 - **Full support for data entry, editing, settings, and administration**  — not just “view only”.
-
----
-
-# Scope of ERP.net
-
-The ERP.net system integrates and streamlines an organization’s core business processes within a single, unified platform. Its functional scope includes:
-
-- Finance and Accounting  
-- Human Resources (HR) Management  
-- Presales and Sales Management  
-- Procurement and Vendor Management  
-- Inventory and Warehouse Management  
-- Production and Manufacturing  
-- Tasks and Project Management  
-
 ---
 
 In this site you will be aquianted with the concepts, terms and features:
@@ -47,7 +32,7 @@ In this site you will be aquianted with the concepts, terms and features:
 - [How-to guides](https://docs.erp.net/webclient/introduction/how-to/index.html) for operations and features specific to the Web Client
 
 
-# 1. Common Terms
+## 1. Common Terms
 
 Within the ERP.net Web Client, several key terms are used throughout the interface:
 
@@ -63,11 +48,12 @@ Within the ERP.net Web Client, several key terms are used throughout the interfa
 - [Favorite](./my-apps/favorites/index.md) - a shortcut to items of special interest at one-touch reach.
   
 
-# 2. Interface
+## 2. Interface
 
-## 2.1 Interface Symbols
+The ERP.net Web Client interface includes a range of intuitive symbols, elements, buttons that provide quick access to core functionality. 
 
-The ERP.net Web Client interface includes a range of intuitive symbols that provide quick access to core functionality. Here are some of the most commonly used symbols:
+### 2.1 Interface Symbols
+
 
 - **Kebab menu (⋮)**: Opens a dropdown menu with contextual options. Typically located on the right side of a panel.
 - ⚙️ **Gearwheel**: Provides access to system or contextual settings.
@@ -88,26 +74,26 @@ The ERP.net Web Client interface includes a range of intuitive symbols that prov
 
 ---
 
-## 2.2 Functional Elements
+### 2.2 Functional Elements
 
 These are the core elements, the structure of @@webclient that present data and are actually the tools to navigate and execute tasks.
 
-### App bar 
+**App bar** 
 
 A vertical sidebar that appears after clicking the Start menu. It provides access to all ERP.net applications and their subsystems.
 
-### Navigation panel 
+**Navigation panel** 
 
 Displays the components of the currently open application, including records, settings, and favorites. This is the shortcut to reach the desired entities and operate within the module.
 
-### Side panel  
+**Side panel**  
 
 A context-sensitive panel on the right side of the screen. Available options depend on the active form and may include additional, context-specific features such as document routes, discussions, advanced filters, functional panels, and access permissions.
 
 > [!Note]  
 > Side-panel tools are context-based and always relevant to the currently opened record.
 
-### Navigators
+[**Navigators**](./navigators/index.md)
 
 Navigators organize and display data in a structured, interactive table format.
 
@@ -116,7 +102,7 @@ Navigators organize and display data in a structured, interactive table format.
 - Each column includes a **funnel icon** for filtering and searching
 - Records are opened by clicking the value in the first column, which acts as a direct link to the record form
 
-### Single-Record Forms and Panels
+**Single-Record Forms and Panels**
 
 - **Single record form**  
   Every record exists within its own form. This form may consist of several panels.
