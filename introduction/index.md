@@ -124,7 +124,7 @@ Navigators organize and display data in a structured, interactive table format.
   Other panels supply related or detailed information connected with the current record and can be displayed and organized per the needs.
 
 - **Home page**
-  Represents the module by several main panel, that define its structure and components (entities). These are Definitions, Documents and operations, Setup, Reports and Ledgers.
+  <br>Represents the module by several main panel, that define its structure and components (entities). These are Definitions, Documents and operations, Setup, Reports and Ledgers.
 
 - **Panels**  
   Panels structure both application home pages and individual record views. Types include:
