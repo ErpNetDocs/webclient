@@ -1,4 +1,4 @@
-# Overview of Favorites
+# Overview of @@Favorites
 
 "My Favorites" provides a visual representation of special objects that [you are following](../../social/social-follows.md), also known as your favorite objects (i.e. objects with **Follow level = Favorite**). Much like [My Tiles](../tiles.md), the main visual element here is the tile, although with some differences. The caption of the tile is the [display text](https://docs.erp.net/tech/advanced/data-objects/display-format.html) of the favorite object, and the badge displays the count of available new notifications.
 
