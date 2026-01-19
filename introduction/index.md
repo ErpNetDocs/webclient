@@ -8,7 +8,7 @@ ERP.net is built around a **single, centralized data source** combined with **au
 
 ---
 
-# @@webclient Key Benefits and Fetaures
+# @@webclient Key Benefits and Features
 
 - **Centralized data** - work with a single source of truth from anywhere. Access real-time information, collaborate remotely, and make faster, data-driven decisions;
 - **Lower upfront costs** - no need for expensive hardware or on-premises infrastructure. ERP.net follows a subscription-based (SaaS) model with predictable monthly or annual costs;
