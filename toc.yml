@@ -12,7 +12,7 @@ items:
 
 - name: Navigators
   href: navigators/toc.yml
-  topicHref: introduction/navigator-features.md
+  topicHref: navigators/index.md
 
 - name: Layouts and views
   href: layouts-and-views/toc.yml
