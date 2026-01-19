@@ -6,7 +6,7 @@ The @@webclient is designed around flexible layouts and views that help users wo
 
 A **layout** defines how the interface elements are arranged within a view. It refers to the arrangement and organization of the positioning of fields, panels, tabs, and related data sections, gateways to modules and applications too. Filters in Advanced filter panel also affect the layout.
 
-## 1. Key characteristics of layouts:
+### 1. Key characteristics of layouts:
 
 - Responsive design – automatically adapts to desktop, tablet, and mobile screens
 - Logical grouping – related fields are organized into sections and tabs
