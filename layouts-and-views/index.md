@@ -70,7 +70,4 @@ The Web Client allows a high degree of customization. This ensures a clean, task
 
 The option for all these abilities is called "Customize form / Customize panel" and Settings, indicated by a gearwheel icon.
 
-
-
-
 Understanding how these concepts work will allow you to personalize the interface and navigate information faster.
