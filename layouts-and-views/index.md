@@ -19,6 +19,18 @@ Layouts are optimized to minimize scrolling, highlight important fields, improve
 - Responsive Layouts: The web client adjusts layouts to screen size (desktop vs. tablet), but specific responsive behavior is not deeply detailed in documentation.
 - Panel-based design: All layouts are panel-driven, and user roles can control what appears where.
 
+### 3. Panel - the main components of Layout
+
+🧱 Panels - The main visual elements used to present data and actions:
+
+- Form panels – for editing or viewing a single business object
+- Line/row panels – for displaying multiple records (navigators panels)
+- Report panels – for generating and viewing reports (Reports and Ledgers)
+- Web view panels – for embedding custom HTML content
+- Dashboard panels – user-configurable pages combining multiple widgets
+- Side panels - context driven supportive data panels, placed to the right of the central data panel
+- Navigation panel - holds the gates to entities and records
+- App-bar - home of active modules and applications
 ---
 
 ## Views
