@@ -1,2 +1,4 @@
+- name: Table of contents
+  href: index.md
 - name: Customize navigator panel
   href: customize-nav-panel.md
