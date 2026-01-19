@@ -93,7 +93,7 @@ A context-sensitive panel on the right side of the screen. Available options dep
 > [!Note]  
 > Side-panel tools are context-based and always relevant to the currently opened record.
 
-[**Navigators**](https://docs.erp.net/webclient/navigators/index.html))
+[**Navigators**](https://docs.erp.net/webclient/navigators/index.html)
 
 Navigators organize and display data in a structured, interactive table format.
 
