@@ -1,5 +1,6 @@
 - name: Overview
   href: index.md
+  topicHref: index.md
 - name: Navigator features
   href: ../introduction/navigator-features.md
   topicHref: ../introduction/navigator-features.md
