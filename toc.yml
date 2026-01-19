@@ -14,6 +14,10 @@ items:
   href: navigators/toc.yml
   topicHref: introduction/navigator-features.md
 
+- name: Layouts and views
+  href: layouts-and-views/toc.yml
+  topicHref: layouts-and-views/index.md
+
 - name: My Apps
   href: introduction/my-apps/toc.yml
   topicHref: introduction/my-apps/index.md
