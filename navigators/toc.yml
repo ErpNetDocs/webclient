@@ -5,4 +5,4 @@
   topicHref: ../introduction/navigator-features.md
 - name: Getting started with Navigators
   href: guide/toc.yml
-  topicHref: guide/customize-nav-panel.md
+  topicHref: guide/index.md
