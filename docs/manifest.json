@@ -4068,6 +4068,82 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "layouts-and-views/guide/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "layouts-and-views/guide/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "layouts-and-views/guide/instance-interface.md",
+      "output": {
+        ".html": {
+          "relative_path": "layouts-and-views/guide/instance-interface.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "layouts-and-views/guide/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "layouts-and-views/guide/toc.html"
+        },
+        ".json": {
+          "relative_path": "layouts-and-views/guide/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "layouts-and-views/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "layouts-and-views/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "layouts-and-views/pictures/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "layouts-and-views/pictures/readme.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "layouts-and-views/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "layouts-and-views/readme.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "layouts-and-views/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "layouts-and-views/toc.html"
+        },
+        ".json": {
+          "relative_path": "layouts-and-views/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "logo.svg",
       "output": {
@@ -4093,6 +4169,16 @@
       "output": {
         ".html": {
           "relative_path": "navigators/guide/customize-nav-panel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "navigators/guide/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "navigators/guide/index.html"
         }
       },
       "version": ""
