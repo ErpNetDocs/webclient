@@ -63,7 +63,7 @@ The ERP.net Web Client interface includes a range of intuitive symbols, elements
 - 🔔 **Bell**: Notification icon. An orange circle with a number indicates new alerts (e.g., someone mentioned you or updated a tracked document).
 - **House**: Navigates to the home page of the module ("Overview").
 - 📌 **Pin**: Used to fix or unfix panels. 
-  - A diagonal pin means you can pin the panel.  
+  - A diagonal pin means you can pin the item.  
   - A vertical pin means it's already pinned.
 - ⭐ **Star**: Marks the item as important.
 - **On/Off toggle**: (toggle switch) Activates or deactivates specific functions or views.
