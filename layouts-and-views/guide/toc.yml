@@ -1,1 +1,4 @@
-
+- name: Table of contents
+  href: index.md
+- name: Instance interface
+  href: instance-interface.md
