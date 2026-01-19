@@ -3,3 +3,7 @@
 - name: Getting started with layouts
   href: guide/toc.yml
   topicHref: guide/index.md
+- name: Concepts
+  href: customize-access.md
+- name: Configuration
+  href: configuration.md
