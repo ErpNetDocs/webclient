@@ -93,7 +93,7 @@ A context-sensitive panel on the right side of the screen. Available options dep
 > [!Note]  
 > Side-panel tools are context-based and always relevant to the currently opened record.
 
-[**Navigators**](../navigators/index.md)
+[**Navigators**](https://docs.erp.net/webclient/navigators/index.html))
 
 Navigators organize and display data in a structured, interactive table format.
 
@@ -110,7 +110,7 @@ Navigators organize and display data in a structured, interactive table format.
   Other panels supply related or detailed information connected with the current record and can be displayed and organized per the needs.
 
 - **Home page**
-  <br>Represents the module by several main panel, that define its structure and components (entities). These are Definitions, Documents and operations, Setup, Reports and Ledgers.
+  <br>Represents the module by several main panels, that define its structure and components (entities). The main panels contain Definitions, Documents and operations, Setup, Reports and Ledgers. Each one further consists of and reveals corresponding categories, namespaces and report-views.
 
 - **Panels**  
   Panels structure both application home pages and individual record views. Types include:
