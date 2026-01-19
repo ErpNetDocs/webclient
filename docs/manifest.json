@@ -4089,6 +4089,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "layouts-and-views/concepts/customize-access.md",
+      "output": {
+        ".html": {
+          "relative_path": "layouts-and-views/concepts/customize-access.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "layouts-and-views/configuration/configuration.md",
+      "output": {
+        ".html": {
+          "relative_path": "layouts-and-views/configuration/configuration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "layouts-and-views/guide/index.md",
       "output": {
         ".html": {
