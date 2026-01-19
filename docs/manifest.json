@@ -131,6 +131,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "commands/pictures/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "commands/pictures/readme.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "commands/pictures/savelayout.png",
       "output": {
@@ -186,6 +196,16 @@
       "output": {
         "resource": {
           "relative_path": "commands/pictures/subformsave.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "commands/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "commands/readme.html"
         }
       },
       "version": ""
