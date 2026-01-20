@@ -4,6 +4,7 @@
   href: guide/toc.yml
   topicHref: guide/index.md
 - name: Concepts
-  href: customize-access.md
+  href: concepts/customize-access.md
+  
 - name: Configuration
   href: configuration.md
