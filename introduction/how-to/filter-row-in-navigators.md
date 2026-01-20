@@ -1,5 +1,5 @@
 ---
-uid: web.navigator
+uid: filter.row
 title: filter-row
 ---
 
