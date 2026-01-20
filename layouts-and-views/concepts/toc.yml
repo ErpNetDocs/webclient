@@ -2,4 +2,5 @@
  href: index.md
 -name: Permissions and Dependencies
  href: users-and-layouts.md
--name:  
+-name: Access span for layout customization
+ href: ../introduction/how-to/ui-customization/access-to-views.md
