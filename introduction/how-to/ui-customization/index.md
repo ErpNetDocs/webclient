@@ -4,7 +4,7 @@ This section contains guides related to the @@name Web Client's customization ca
 
 You can learn how to rename fields and columns, reorder panels and show or hide different elements.
 
-- [Customize layout](access-to-views.md)
+- [Permissions for customization](access-to-views.md)
 
 - [Customize fields](customize-fields.md)
 
