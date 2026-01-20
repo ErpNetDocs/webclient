@@ -1,5 +1,5 @@
 ---
-uid: filter.row
+uid: filter-row
 title: filter-row
 ---
 
