@@ -1,4 +1,4 @@
-# Customize navigator layout
+# Customize navigator panel
 
 The navigator layout defines which fields are visible and how they are arranged in a navigator. You can customize the layout to better match your working preferences.
 
