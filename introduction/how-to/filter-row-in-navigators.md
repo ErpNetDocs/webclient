@@ -1,6 +1,6 @@
 ---
-uid: filter-row
-title: filter-row
+uid: webclient.navigators.filter-row
+title: Filter row in navigators
 ---
 
 
