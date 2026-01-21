@@ -7,4 +7,4 @@ The filter row can be expanded and collapsed on-demand using the respective filt
 
 Sorting is possible for the fields that support it, by clicking in the field header.
 
-![Picture](pictures/filter-row.png)
+![Picture](./pictures/filter-row.png)
