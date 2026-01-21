@@ -1,4 +1,4 @@
-# Customize navigator panel
+# Customize navigator panel layout
 
 The navigator layout defines which fields are visible and how they are arranged in a navigator. You can customize the layout to better match your working preferences.
 
@@ -9,18 +9,18 @@ Managing navigator layouts requires **Advanced mode** to be enabled.
 To turn on Advanced mode:
 
 1. Go to the **App Bar**.
-2. Select the **More options** (horizontal dots) menu.
+2. Select the **More options** (three dots) menu.
 3. Toggle **Advanced mode** to **On**.
 
-## Customize the Navigator Layout
+## Customize 
 
-To manage a navigator’s layout:
+To customize a navigator’s layout:
 
-1. Make sure the **navigator** you want to customize is the **active panel** - click anuwhere into that panel
-2. Go to the **Ribbon** and click **Menu**.
-3. Select **Active Panel**.
+1. Make sure the **navigator** you want to customize is the **active panel** - click inside it
+2. Go to the  top ribbon and click **Menu**.
+3. Navigate to section **Active Panel**.
 4. Click the **name of the currently active navigator**.
-5. Select **Customize Panel**.
+5. Select **Customize Panel** from the listed options.
 
 A **Customize Panel** window opens and overlays the current navigator.
 
@@ -32,8 +32,16 @@ In the Customize Panel window, you can:
 - Change the order of fields
 - Adjust the layout structure
 
-Changes are applied immediately to the current navigator.
+When you close the Customize Panel window with X, the changes are reflected immediately in the navigator.
 
-> [!Note]
-> Layout customization affects only the currently active navigator.
+## Save layout
 
+To keep the customized layout for the **current role and layout** for further use:
+
+1. Go to the **top section of the current screen**.
+2. From the available controls, select the **Save Layout** button, that is red in colour.
+
+This action updates and saves the current navigator layout persistently.
+
+> [!Note] 
+> Saved layouts apply to the current role and layout configuration.
