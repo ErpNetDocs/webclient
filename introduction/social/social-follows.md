@@ -23,7 +23,7 @@ Treating all these cases identically led to:
 
 Follow levels were introduced to address this.
 
-## Follow levels as a unifying concept**
+## Follow levels as a unifying concept
 
 Follow levels extend the original idea of following by adding intent and importance.
 
