@@ -7,7 +7,7 @@ Following is no longer a simple “follow/unfollow” state. Instead, each follo
 
 ![follow](pictures/follow.png)
 
-# Why the model evolved
+## Why the model evolved
 
 In practice, not all follows are the same.
 
@@ -23,7 +23,7 @@ Treating all these cases identically led to:
 
 Follow levels were introduced to address this.
 
-**Follow levels as a unifying concept**
+## Follow levels as a unifying concept**
 
 Follow levels extend the original idea of following by adding intent and importance.
 
@@ -35,6 +35,8 @@ This enables:
 - automatic follows (e.g. mentions) without overstating importance
 - explicit follows without cluttering high-priority views
 - Favorites as a deliberate, high-interest choice
+
+---
 
 ## Follow levels
 
@@ -63,6 +65,8 @@ In the new model:
 - automatic follows no longer create Favorites by default
 
 This separation makes Favorites meaningful, limited, and intentional.
+
+---
 
 ## Getting Started
 
@@ -93,6 +97,8 @@ In addition to the standard follow-level click cycle, you can use the following 
 - Add to Favorites - *Ctrl + Click* on the star icon → sets the object to **Favorite** (adds it to [My Favorites](../my-apps/favorites/index.md))
 
 - Unfollow immediately - *Shift + Click* on the star icon → **Unfollow** (removes the follow record and if Favorite - removes it from My Favorites).
+
+---
 
 ## Concepts
 This section explains the strategy behind the introduction of Follow levels and its impact on other instruments in Web Client
