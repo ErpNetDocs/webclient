@@ -23,7 +23,7 @@
 - name: Use the Access Permission field
   href: access-permission-field.md
 
-- name: Create ane Stored Attribute or Calculated Attribute
+- name: Create a new Stored Attribute or Calculated Attribute
   href: ui-customization/create-new-attributes.md
 
 - name: Functional panels
