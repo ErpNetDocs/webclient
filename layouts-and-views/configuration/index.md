@@ -1,4 +1,4 @@
-# How to enable Layout admnistration permissions
+# How to enable Layout administration permissions
 
 To manage layout permissions a system admin should access setting from the Desktop client of the instance:
 
