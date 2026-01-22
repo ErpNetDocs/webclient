@@ -1,4 +1,4 @@
-# Overview of Social Follows 
+# Overview of @@webclient Social Follows 
 
 Social follows is a key aspect in Social ERP.They allow users to express interest in business objects and stay informed when something happens in their context.
 
@@ -7,7 +7,7 @@ Following is no longer a simple “follow/unfollow” state. Instead, each follo
 
 ![follow](pictures/follow.png)
 
-## Why the model evolved
+# Why the model evolved
 
 In practice, not all follows are the same.
 
@@ -23,7 +23,7 @@ Treating all these cases identically led to:
 
 Follow levels were introduced to address this.
 
-## Follow levels as a unifying concept
+**Follow levels as a unifying concept**
 
 Follow levels extend the original idea of following by adding intent and importance.
 
@@ -64,11 +64,11 @@ In the new model:
 
 This separation makes Favorites meaningful, limited, and intentional.
 
-# Getting Started
+## Getting Started
 
 This section describes the shortest path to start using follow levels in the Web Client.
 
-## Change follow level from the form header
+### Change follow level from the form header
 
 1. Open the object you want to follow (e.g. a document, a case, etc.).
 2. Use the **star (follow) button** in the form header.
@@ -82,7 +82,7 @@ This section describes the shortest path to start using follow levels in the Web
 Expected result:
 - If you set an object to **Favorite**, it becomes available in the **Favorites** app.
 
-## Change follow level from the context menu
+### Change follow level from the context menu
 
 The context menu follow action uses the **same behavior as the form header button** (the same click-cycle logic).
 
@@ -94,7 +94,7 @@ In addition to the standard follow-level click cycle, you can use the following 
 
 - Unfollow immediately - *Shift + Click* on the star icon → **Unfollow** (removes the follow record and if Favorite - removes it from My Favorites).
 
-# Concepts
+## Concepts
 This section explains the strategy behind the introduction of Follow levels and its impact on other instruments in Web Client
 
 **Long-term purpose**
