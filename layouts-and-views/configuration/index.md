@@ -13,6 +13,3 @@ To manage layout permissions a system admin should access setting from the Deskt
 1. Go to **Setup → Security → Roles- Users**
 2. In the navigator choose the combination *user : role* that should have restricted layout customization access and tick the box.
 
-**Source**:
-> [User Roles – ERP.net Docs](https://docs.erp.net/webclient/introduction/user-roles.html)
-> [Layout Permissions](../introduction/how-to/ui-customization/access-to-views.md)
