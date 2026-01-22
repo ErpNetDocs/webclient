@@ -16,4 +16,3 @@ To manage layout permissions a system admin should access setting from the Deskt
 📄 **Source**:
 > [User Roles – ERP.net Docs](https://docs.erp.net/webclient/introduction/user-roles.html)
 > [Layout Permissions](../introduction/how-to/ui-customization/access-to-views.md)
-
