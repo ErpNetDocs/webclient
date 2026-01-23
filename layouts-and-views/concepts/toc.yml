@@ -1,7 +1,10 @@
 -name: Table of contents
  href: index.md
--name: Permissions and Dependencies
+-name: Permissions and dependencies
  href: users-and-layouts.md
--name: Access span for layout customization
+-name: Access to layout customization
  href: ../introduction/how-to/ui-customization/access-to-views.md
  topicHref: ../introduction/how-to/ui-customization/access-to-views.md
+-name: Layout category
+ href: ./layout-category.md
+ 
