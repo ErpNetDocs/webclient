@@ -62,4 +62,4 @@ The term **Layout category** is intentionally focused on its primary role: drivi
 
 If additional use cases emerge later, they can be evaluated independently without changing the conceptual clarity of the current mechanism.
 
-[See How to separate view based on Layout Category](
+[See How to separate view based on Layout Category](https://docs.erp.net/webclient/introduction/how-to/ui-customization/separate-views.html)
