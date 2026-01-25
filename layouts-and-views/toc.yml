@@ -1,10 +1,10 @@
 - name: Overview
   href: index.md
-- name: Getting started with layouts
+- name: Getting started 
   href: guide/toc.yml
   topicHref: guide/index.md
+- name: Configurations
+  href: configuration.md
 - name: Concepts
   href: concepts/toc.yml
   topicHref: concepts/index.md
-- name: Configuration
-  href: configuration.md
