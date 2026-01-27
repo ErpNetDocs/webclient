@@ -1,6 +1,3 @@
 - name: Overview
-  href: overview/toc.yml
-  topicHref: overview/index.md
-- name: Getting started
-  href: guide/toc.yml
-  topicHref: guide/index.md
+  href: index.md
+  
