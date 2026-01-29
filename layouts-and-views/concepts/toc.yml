@@ -2,9 +2,4 @@
  href: index.md
 -name: Permissions and dependencies
  href: users-and-layouts.md
--name: Access to layout customization
- href: ../introduction/how-to/ui-customization/access-to-views.md
- topicHref: ../introduction/how-to/ui-customization/access-to-views.md
--name: Layout category
- href: ./layout-category.md
  
