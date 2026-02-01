@@ -6,7 +6,7 @@
   topicHref: guide/index.md
 
 - name: Configurations
-  href: configuration/index.md
+  href: configurations.md
 
 - name: Concepts
   href: concepts/index.md
