@@ -1,6 +1,6 @@
 # Overview
 
-As the [calendar application](./calendar.md) "My Timeline" is... a calendar. But in a more sophisticated way. 
+As the [calendar application](./calendar/index.md) "My Timeline" is... a calendar. But in a more sophisticated way. 
 
 The timeline displays not just your activities, but:
 
