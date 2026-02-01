@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-      <title>Concepts on Layouts and Views in ERP.net Web Client | ERP.net Web Client </title>
+      <title>How to enable Layout administration permissions | ERP.net Web Client </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content="Concepts on Layouts and Views in ERP.net Web Client | ERP.net Web Client ">
+      <meta name="title" content="How to enable Layout administration permissions | ERP.net Web Client ">
       
       
       <link rel="icon" href="../../favicon.ico">
@@ -16,7 +16,7 @@
       <meta name="docfx:rel" content="../../">
       
       
-      <meta name="docfx:docurl" content="https://github.com/ErpNetDocs/webclient/blob/master/layouts-and-views/concepts/index.md/#L1">
+      <meta name="docfx:docurl" content="https://github.com/ErpNetDocs/webclient/blob/master/layouts-and-views/configuration/index.md/#L1">
       <meta name="loc:inThisArticle" content="In this article">
       <meta name="loc:searchResultsCount" content="{count} results for &quot;{query}&quot;">
       <meta name="loc:searchNoResults" content="No results for &quot;{query}&quot;">
@@ -85,17 +85,27 @@
         </div>
 
         <article data-uid="">
-<h1 id="concepts-on-layouts-and-views-in-">Concepts on Layouts and Views in ERP.net Web Client</h1>
 
-<p>This section explains key concepts related to layout customization in ERP.net Web Client.</p>
+<p>This section explains the necesssary steps in order to be able to operate with layouts in ERP.net Web Client.</p>
+<h1 id="how-to-enable-layout-administration-permissions">How to enable Layout administration permissions</h1>
+<p>To manage layout permissions a system admin should use the settings from within the Desktop client of the instance:</p>
+<h2 id="make-a-user-a-global-layout-manager">Make a user a &quot;Global Layout Manager&quot;</h2>
 <ol>
-<li><a href="https://docs.erp.net/webclient/layouts-and-views/concepts/users-and-layouts.html">Permissions and dependencies</a></li>
+<li>Go to <strong>Setup → Security → System Security Permissions</strong></li>
+<li>Under <strong>General-&gt;Layout</strong>, click on <strong>Global Layout Manager</strong></li>
+<li>Add group of users that should have full layout customization access.</li>
 </ol>
+<h2 id="make-a-user-a-is-layout-admin">Make a user a &quot;Is Layout Admin&quot;</h2>
+<ol>
+<li>Go to <strong>Setup → Security → Roles- Users</strong></li>
+<li>In the navigator choose the combination <em>user : role</em> that should have restricted layout customization access and tick the box.</li>
+</ol>
+<hr>
 
 </article>
 
         <div class="contribution d-print-none">
-          <a href="https://github.com/ErpNetDocs/webclient/blob/master/layouts-and-views/concepts/index.md/#L1" class="edit-link">Suggest improvement to this page</a>
+          <a href="https://github.com/ErpNetDocs/webclient/blob/master/layouts-and-views/configuration/index.md/#L1" class="edit-link">Suggest improvement to this page</a>
         </div>
 
         <div class="next-article d-print-none border-top" id="nextArticle"></div>

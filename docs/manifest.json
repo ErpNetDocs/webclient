@@ -4122,23 +4122,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "layouts-and-views/configuration.md",
+      "source_relative_path": "layouts-and-views/configuration/index.md",
       "output": {
         ".html": {
-          "relative_path": "layouts-and-views/configuration.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "layouts-and-views/configuration/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "layouts-and-views/configuration/toc.html"
-        },
-        ".json": {
-          "relative_path": "layouts-and-views/configuration/toc.json"
+          "relative_path": "layouts-and-views/configuration/index.html"
         }
       },
       "version": ""
