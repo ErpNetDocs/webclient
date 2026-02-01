@@ -1,6 +1,8 @@
+# Configurations 
+
 This section explains the necesssary steps in order to be able to operate with layouts in @@webclient.
 
-# How to enable Layout administration permissions
+# 1. How to enable Layout administration permissions
 
 To manage layout permissions a system admin should use the settings from within the Desktop client of the instance:
 
