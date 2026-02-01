@@ -12,4 +12,4 @@ The timeline displays not just your activities, but:
 
 This is a convenient tool with which you can trace chronologically what happend. The timeline shows 15 days in a row and groups all events, according to the related party.
 
-![My apps - Timeline](./pictures/my-apps-timeline.png "My apps - Timeline")
+![My apps - Timeline](./pictures/my-apps-timeline.png)
