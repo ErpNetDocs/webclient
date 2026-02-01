@@ -12,7 +12,8 @@ Which are the default search members of a specific entity, can be seen "Default 
 
 Searching can also be accomplished with the help of fields that comprise the _Display Text_. However, these fields are prioritized after the _Default Search Members_. Searching is initiated only if there isn't any match with the fields before them. 
 
-> **_NOTE:_**  Searching in dropdown lists and domain API returns only results which are based on the first field for which there are matches. Subsequent searches are not undertaken. If a search operation finds an exact match, the value is filled automatically in the corresponding field. 
+> [!NOTE]
+> Searching in dropdown lists and domain API returns only results which are based on the first field for which there are matches. Subsequent searches are not undertaken. If a search operation finds an exact match, the value is filled automatically in the corresponding field. 
 
 Each entity has a _Default Display Text Format_. The _Default Display Text Format_ for each entity is specified in the entity's documentation. Take a look at [products](https://docs.erp.net/model/entities/General.Products.Products.html). 
 
