@@ -4099,20 +4099,20 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "layouts-and-views/concepts/users-and-layouts.md",
+      "source_relative_path": "layouts-and-views/concepts/permissions-and-dependencies.md",
       "output": {
         ".html": {
-          "relative_path": "layouts-and-views/concepts/users-and-layouts.html"
+          "relative_path": "layouts-and-views/concepts/permissions-and-dependencies.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "layouts-and-views/configuration/index.md",
+      "source_relative_path": "layouts-and-views/configurations.md",
       "output": {
         ".html": {
-          "relative_path": "layouts-and-views/configuration/index.html"
+          "relative_path": "layouts-and-views/configurations.html"
         }
       },
       "version": ""
@@ -4123,16 +4123,6 @@
       "output": {
         ".html": {
           "relative_path": "layouts-and-views/guide/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "layouts-and-views/guide/instance-interface.md",
-      "output": {
-        ".html": {
-          "relative_path": "layouts-and-views/guide/instance-interface.html"
         }
       },
       "version": ""
@@ -4166,6 +4156,16 @@
       "output": {
         ".html": {
           "relative_path": "layouts-and-views/layout-category.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/profile_menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/profile_menu.png"
         }
       },
       "version": ""
