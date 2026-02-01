@@ -1,3 +1,13 @@
 - name: Overview
   href: index.md
   
+- name: Getting started
+  href: guide/toc.yml
+  topicHref: guide/index.md
+
+- name: Configurations
+  href: index.md
+
+- name: Concepts
+  href: index.md
+  
