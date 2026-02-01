@@ -6,7 +6,7 @@ The @@webclient is designed around flexible layouts and views that help users wo
 
 The @@webclient platform initially loads with its default preset appearance, including theme, background, text density, and language. Users can customize this appearance using the personalization options available in the profile menu. The menu can be accessed by clicking the user avatar.
 
-![picture](pictures/profile-menu.png)
+![picture](pictures/profile_menu.png)
 
 You can distinguish several key building elements - the app-bar section, the navigation panel, the central window - contains the core data and the side panel - various.
 
