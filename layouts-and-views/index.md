@@ -8,7 +8,9 @@ The @@webclient platform initially loads with its default preset appearance, inc
 
 ![picture](pictures/profile_menu.png)
 
-You can distinguish several key building elements - the app-bar section, the navigation panel, the central window - contains the core data and the side panel - various.
+You can distinguish several key building elements - the app-bar section, the navigation panel, the central window - contains the core data and the side panel.
+
+![picture](pictures/general.png)
 
 ## Layouts
 
