@@ -35,7 +35,7 @@ OR you can skip this cycle by pressing Ctrl+Mouse-click on the star icon.
 
 ![Make Favorite](./pictures/favmake.png)
 
-For details about follow levels, see [Social follows](../../social/social-follows.html).
+For details about follow levels, see [Social follows](../../social/social-follows.md).
 
 ## Open a favorite object
 
