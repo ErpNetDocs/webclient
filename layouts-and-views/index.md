@@ -1,6 +1,14 @@
-# Layouts and Views in @@webclient
+# Interface, Layouts and Views in @@webclient
 
 The @@webclient is designed around flexible layouts and views that help users work efficiently with data, regardless of role or device.
+
+## Instance interface 
+
+The @@webclient platform initially loads with its default preset appearance, including theme, background, text density, and language. Users can customize this appearance using the personalization options available in the profile menu. The menu can be accessed by clicking the user avatar.
+
+![picture](pictures/profile-menu.png)
+
+You can distinguish several key building elements - the app-bar section, the navigation panel, the central window - contains the core data and the side panel - various.
 
 ## Layouts
 
@@ -51,6 +59,7 @@ Common view types in @@webclient include:
 
 ---
 
+
 # Layout personalization and usability
 
 The Web Client allows a high degree of customization. This ensures a clean, task-focused interface that improves productivity and reduces cognitive load. Users with configuration access can:
@@ -68,6 +77,6 @@ The Web Client allows a high degree of customization. This ensures a clean, task
 - Filters and preferences can be saved per user
 - Frequently used views can be accessed quickly
 
-The option for all these abilities is called "Customize form / Customize panel" and Settings, indicated by a gearwheel icon.
+The option for all these abilities is called "Customize form / Customize panel" and Settings, indicated by a "gearwheel" icon.
 
 Understanding how these concepts work will allow you to personalize the interface and navigate information faster.
