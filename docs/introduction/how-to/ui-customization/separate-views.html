@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-      <title>How to separate views by object category | ERP.net Web Client </title>
+      <title>How to separate views by Layout category (former Object category) | ERP.net Web Client </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content="How to separate views by object category | ERP.net Web Client ">
+      <meta name="title" content="How to separate views by Layout category (former Object category) | ERP.net Web Client ">
       
       
       <link rel="icon" href="../../../favicon.ico">
@@ -85,17 +85,17 @@
         </div>
 
         <article data-uid="">
-<h1 id="how-to-separate-views-by-object-category">How to separate views by object category</h1>
+<h1 id="how-to-separate-views-by-layout-category-former-object-category">How to separate views by Layout category (former Object category)</h1>
 
-<p><strong>Object categories (OCs)</strong> can be accessed from within the panels of bigger entities such as Customer, Asset and Document.</p>
-<p>You can enable or disable them for different creation forms and make the views of these forms <strong>distinguishable</strong> from one another.</p>
+<p>In the ERP.net Web Client, different user interface views can be defined for objects of the same entity, depending on the type of data they represent. This is achieved through the use of a <strong>Layout category attribute</strong>.</p>
+<p>A Layout category classifies objects within a single entity into semantic types, without creating separate entities or altering the data model. All objects remain part of the same entity and share the same structure, behavior, and persistence.</p>
+<p>The Layout category value of an object is used by the Web Client to determine which layout should be applied when the object is displayed. This allows layouts to be tailored to the specific characteristics of the data, while keeping the entity model unified and consistent.</p>
+<p>For example, customers may represent different types of organizations, such as small, large, or enterprise customers. Although all records are customers, the information that is relevant for each type may differ. Layout categories make it possible to present each type with an appropriate view, without fragmenting the entity.</p>
+<p>The term <em>Layout category</em> is intentionally focused on its primary purpose — controlling layout selection in the Web Client. This naming improves clarity by explicitly linking the categorization to its role in UI customization.</p>
 <h3 id="example">Example</h3>
-<p>Different document forms will prioritise certain fields over others.</p>
-<p>When issuing a return of a product, for instance, you may want to request the original price but not the birth date of a client.</p>
-<p>Depending on its use-case, an object category can represent one or more <strong>types</strong> - Customer Type, Asset Type and Document Type.</p>
-<p>Thus, it's possible to start creating a document or an entity with an object category <strong>already</strong> selected for it.</p>
+<p>Different document forms will prioritise certain fields over others. When issuing a return of a product, for instance, you may want to request the original price but not the birth date of a client.Depending on its use-case, an Layout category can represent one or more <strong>types</strong> - Customer Type, Asset Type and Document Type. Thus, it's possible to start creating a document or an entity with a layout category <strong>already</strong> selected for it.</p>
 <p><img src="../pictures/intropanels_corrected.png" alt="Pictures"></p>
-<h4 id="heres-a-list-of-data-types-and-supported-object-categories">Here's a list of data types and supported object categories:</h4>
+<h4 id="heres-a-list-of-data-types-and-supported-layout-categories">Here's a list of data types and supported Layout categories:</h4>
 <p>Applications / Asset Мanagement: Managed Asset - Managed Asset Type</p>
 <p>Applications  / Rental: Asset - Asset Type</p>
 <p>Applications / Service: Service Object - Service Object Type</p>
@@ -118,7 +118,7 @@
 <ol start="2">
 <li>Click a document type visualized on the main panel (e.g. Direct Sale Order)</li>
 </ol>
-<p>This will take you to the creation form of the document where an <strong>object category</strong> is already applied.</p>
+<p>This will take you to the creation form of the document where a <strong>layout category</strong> is already applied.</p>
 <p>Keep in mind that the field will be <strong>read-only</strong> and unable to be changed.</p>
 <p><img src="../pictures/objectcat_applied.png" alt="Pictures"></p>
 <ol start="3">

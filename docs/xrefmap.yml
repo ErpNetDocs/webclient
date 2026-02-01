@@ -10,3 +10,6 @@ references:
 - uid: webclient
   name: webclient
   href: includes/webclient.html
+- uid: webclient.navigators.filter-row
+  name: Filter row in navigators
+  href: introduction/how-to/filter-row-in-navigators.html
