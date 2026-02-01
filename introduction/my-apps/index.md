@@ -6,7 +6,7 @@ A classic example of one "My app" is the calendar. It's a standalone application
 
 ![My apps - Calendar](./pictures/my-apps-cal-intro.png)
 
-Of course, this is not just a calendar :) You can read more about it in [the separate topic](./calendar.md). 
+Of course, this is not just a calendar :) You can read more about it in [the separate topic](./calendar/index.md). 
 
 ## Widgets
 
@@ -43,4 +43,4 @@ This is the idea - contextual information at your fingertips, easily accessible 
 4. Done.
 ![Widget tile - Stores navigator context](./pictures/my-apps-sett-3.png)
 
-The widgets in the example were [calendar](./calendar.md) and [tiles](./tiles.md). You can find more information about them, as well as all other widgets, through the menu section on the left.
+The widgets in the example were [calendar](./calendar/index.md) and [tiles](./tiles.md). You can find more information about them, as well as all other widgets, through the menu section on the left.
