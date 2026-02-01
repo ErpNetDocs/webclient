@@ -200,7 +200,7 @@ Learn more about [Running UI functions by "Actions"](https://info.erp.net/featur
 
 ---
 
-## Three wertical dots
+## Three vertical dots
 
 ---
 
