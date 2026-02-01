@@ -48,8 +48,7 @@ Layout changes require at least one of the following:
 - Belong to **Global Layout Manager**
 - Have a role with `Is Layout Admin` enabled
 - Permissions are managed under: _Setup → Security → System Security Permissions → Layout_
-
-- 
+ 
 📄 **Source**: [ERP.net Docs – Access to Views](https://docs.erp.net/webclient/introduction/how-to/ui-customization/access-to-views.html)
 
 ---
