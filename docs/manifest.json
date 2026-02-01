@@ -4098,19 +4098,6 @@
       "version": ""
     },
     {
-      "type": "Toc",
-      "source_relative_path": "layouts-and-views/concepts/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "layouts-and-views/concepts/toc.html"
-        },
-        ".json": {
-          "relative_path": "layouts-and-views/concepts/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "layouts-and-views/concepts/users-and-layouts.md",
       "output": {

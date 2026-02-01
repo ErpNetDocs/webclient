@@ -271,8 +271,8 @@
   },
   "layouts-and-views/configuration/index.html": {
     "href": "layouts-and-views/configuration/index.html",
-    "title": "How to enable Layout administration permissions | ERP.net Web Client",
-    "summary": "This section explains the necesssary steps in order to be able to operate with layouts in ERP.net Web Client. How to enable Layout administration permissions To manage layout permissions a system admin should use the settings from within the Desktop client of the instance: Make a user a \"Global Layout Manager\" Go to Setup → Security → System Security Permissions Under General->Layout, click on Global Layout Manager Add group of users that should have full layout customization access. Make a user a \"Is Layout Admin\" Go to Setup → Security → Roles- Users In the navigator choose the combination user : role that should have restricted layout customization access and tick the box."
+    "title": "Configurations | ERP.net Web Client",
+    "summary": "Configurations This section explains the necesssary steps in order to be able to operate with layouts in ERP.net Web Client. 1. How to enable Layout administration permissions To manage layout permissions a system admin should use the settings from within the Desktop client of the instance: Make a user a \"Global Layout Manager\" Go to Setup → Security → System Security Permissions Under General->Layout, click on Global Layout Manager Add group of users that should have full layout customization access. Make a user a \"Is Layout Admin\" Go to Setup → Security → Roles- Users In the navigator choose the combination user : role that should have restricted layout customization access and tick the box."
   },
   "layouts-and-views/guide/index.html": {
     "href": "layouts-and-views/guide/index.html",
