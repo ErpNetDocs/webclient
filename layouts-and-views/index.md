@@ -8,7 +8,7 @@ The @@webclient platform initially loads with its default preset appearance, inc
 
 ![picture](pictures/profile_menu.png)
 
-You can distinguish several key building elements - top ribbon, menu ribbon, app-bar, navigation panel, central window and side panel.
+You can distinguish several key building elements - top ribbon, menu ribbon, app-bar, navigation panel, central panel and side panel.
 
 ![picture](pictures/general.png)
 
