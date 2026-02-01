@@ -6,8 +6,8 @@
   topicHref: guide/index.md
 
 - name: Configurations
-  href: ./configuration/index.md
+  href: configuration/index.md
 
 - name: Concepts
-  href: concepts/toc.yml
-  topicHref: concepts/index.md
+  href: concepts/index.md
+  
