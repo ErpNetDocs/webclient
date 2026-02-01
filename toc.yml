@@ -18,6 +18,10 @@ items:
   href: layouts-and-views/toc.yml
   topicHref: layouts-and-views/index.md
 
+- name: Side panels
+  href: side-panels/toc.yml
+  topicHref: side-panels/index.md
+
 - name: My Apps
   href: introduction/my-apps/toc.yml
   topicHref: introduction/my-apps/index.md
