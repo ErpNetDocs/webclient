@@ -140,7 +140,7 @@ If the user does not press the button, the layout modifications will not be save
 
 ## Starred
 
-This button is visible in navigators. When clicked, it reveals a list of max 5 **Recent** and max 15 [**Favorite**](./introduction/my-apps/favorites/index.md) records for the currently observed entity type. For example, if a user opens the Offers navigator, the Starred button displays recent and favorite offers. Clicking a listed item opens the corresponding record.
+This button is visible in navigators. When clicked, it reveals a list of max 5 **Recent** and max 15 [**Favorite**](../introduction/my-apps/favorites/index.md) records for the currently observed entity type. For example, if a user opens the Offers navigator, the Starred button displays recent and favorite offers. Clicking a listed item opens the corresponding record.
 
 ![picture](pictures/starred.png)
 
