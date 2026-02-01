@@ -4162,6 +4162,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/general.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/general.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "layouts-and-views/pictures/profile_menu.png",
       "output": {
         "resource": {
@@ -4318,6 +4328,39 @@
         },
         ".json": {
           "relative_path": "navigators/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "side-panels/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "side-panels/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "side-panels/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "side-panels/readme.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "side-panels/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "side-panels/toc.html"
+        },
+        ".json": {
+          "relative_path": "side-panels/toc.json"
         }
       },
       "version": ""
