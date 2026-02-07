@@ -13,3 +13,16 @@ Customizing the Main panel allows you to control how record data is presented on
 - Choose the number of columns in which fields are arranged
 
 These options let you tailor the Main panel to display only the most relevant information, reduce visual clutter, and optimize the layout for different working scenarios.
+
+Steps
+1. Click on Customize panel
+2. In tab "Items - Switch on the toggle beside the fields you want to see in the panel
+3. In tab "Reorder" drag and drop vertically the fields to set their order one after another.
+4. Rename, Enter stop or Hide the fields is also possible
+5. In tab "Settings" choose the panel height, position of labels, description and number of columns for the fields.
+6. Close with "X" whne ready
+7. The Save layout button in red will appera at the top ribbon - press it to preserve the changes persistently
+
+![picture](./pictures/items.png)
+![picture](./pictures/reorder.png)
+![picture](./pictures/settings.png)
