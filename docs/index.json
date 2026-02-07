@@ -262,7 +262,7 @@
   "layouts-and-views/concepts/index.html": {
     "href": "layouts-and-views/concepts/index.html",
     "title": "Concepts on Layouts and Views in ERP.net Web Client | ERP.net Web Client",
-    "summary": "Concepts on Layouts and Views in ERP.net Web Client This section explains key concepts related to layout customization in ERP.net Web Client. Permissions and dependencies Access span for layout customization Layout Category"
+    "summary": "Concepts on Layouts and Views in ERP.net Web Client This section explains key concepts related to layout customization in ERP.net Web Client. Permissions and dependencies Access span for layout customization Layout category"
   },
   "layouts-and-views/concepts/layout-category.html": {
     "href": "layouts-and-views/concepts/layout-category.html",
@@ -282,7 +282,7 @@
   "layouts-and-views/guide/index.html": {
     "href": "layouts-and-views/guide/index.html",
     "title": "| ERP.net Web Client",
-    "summary": "This section explains how to customize layouts and views in ERP.net Web Client."
+    "summary": "This section explains how to customize layouts and views in ERP.net Web Client: 1."
   },
   "layouts-and-views/index.html": {
     "href": "layouts-and-views/index.html",
@@ -308,6 +308,11 @@
     "href": "navigators/guide/how-to-use-filter-row-in-navigators.html",
     "title": "How to use the filter row in navigators | ERP.net Web Client",
     "summary": "How to use the filter row in navigators By using the filter row in navigators, it is possible to filter records by setting values in almost all kind of fields, including text, true/false and date. The filter row can be expanded and collapsed on-demand using the respective filter button. Specific values can be set for multiple fields at a time. The more rules you set, the more precise the final filtering on the page will be. Sorting is possible for the fields that support it, by clicking in the field header."
+  },
+  "navigators/guide/index.html": {
+    "href": "navigators/guide/index.html",
+    "title": "| ERP.net Web Client",
+    "summary": "This section contains how-to instructions on working within the navigators: Navigator features Customize navigator panel Use filter row"
   },
   "navigators/index.html": {
     "href": "navigators/index.html",
