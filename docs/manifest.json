@@ -4249,6 +4249,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/items.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/items.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "layouts-and-views/pictures/pinnav.png",
       "output": {
         "resource": {
@@ -4273,6 +4283,26 @@
       "output": {
         ".html": {
           "relative_path": "layouts-and-views/pictures/readme.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/reorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/reorder.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/settings.png"
         }
       },
       "version": ""
