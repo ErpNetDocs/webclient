@@ -4129,6 +4129,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "layouts-and-views/guide/appbar-menu-options.md",
+      "output": {
+        ".html": {
+          "relative_path": "layouts-and-views/guide/appbar-menu-options.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "layouts-and-views/guide/index.md",
       "output": {
         ".html": {
@@ -4149,6 +4159,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/advancedon.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/advancedon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "layouts-and-views/pictures/appbarmenu.png",
       "output": {
         "resource": {
@@ -4159,10 +4179,50 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/breadcrumb.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/breadcrumb.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/buttonstext.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/buttonstext.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/customizeview.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/customizeview.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "layouts-and-views/pictures/general.png",
       "output": {
         "resource": {
           "relative_path": "layouts-and-views/pictures/general.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/pinnav.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/pinnav.png"
         }
       },
       "version": ""
