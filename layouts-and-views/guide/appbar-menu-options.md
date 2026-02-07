@@ -1,26 +1,43 @@
 # App-bar menu options
 
-The App-bar menu lets users control the visibility and behavior of key interface elements—such as navigation, breadcrumbs, button titles, and Advanced mode—so the Web Client adapts to their preferred way of working. The settings are remember per user. The options are switched On or Off.
-Explanation of the features behind the menu options:
+The App-bar menu lets users control the visibility and behavior of key interface elements—such as navigation, breadcrumbs, button titles, and Advanced mode—so the Web Client adapts to their preferred way of working. These settings are stored per user, and each option can be switched **On or Off**.
 
 ![picture](../pictures/appbarmenu.png)
 
-1. Pin AppBar - when On, this pins the app-bar on screen, so it is always available. When Off - the app-bar is hidden, and reveals larger operation screen. In this case the app-bar is accesible from the Start button at the topmost left corner.
+Explanation of the menu options
 
-2. Pin navigation - when On, this pin the navigation panel on screen, so it is always available. When Off, the panel opens after the user clicks on an item on the app-bar.
+1. Pin AppBar
+- When On, the App-bar is pinned to the screen and always visible.
+- When Off, the App-bar is hidden to provide a larger working area and can be accessed from the Start button in the top-left corner.
+
+2. Pin navigation
+- When On, the navigation panel is pinned to the screen and always visible.
+- When Off, the navigation panel opens only after the user clicks an item in the App-bar.
 
 > [!IMPORTANT]
 > App-bar should be pinned in order to pin the navigation too.
 
 
-3. Show navigation on hover - when On, the navigation panel opens when you hover over an item in the app-bar. This is useful, if you do not want to have the navigation panel always on screen.
+3. Show navigation on hover
+- When On, the navigation panel opens when you hover over an App-bar item.
+- This is useful if you want quick access to navigation without keeping the panel permanently visible.
 
-4. Icon buttons text - when On, the labels of the buttons and modules are displayed. This option helps lessen the text load and noise on screen, as buttons and module icons are very clear.
+4. Icon buttons text
+- When On, text labels are shown for buttons and modules.
+- When Off, only icons are displayed, reducing text density and visual noise while keeping actions easily recognizable.
 
-5. Show breadcrumb - when On, the path to the current record, object is reveald at the top right of central panel.
+5. Show breadcrumb
+- When On, the breadcrumb path to the current object or record is displayed at the top-right of the central panel.
 
-6. Advanced mode - when On, this option gives the user access to several options (respectively when Off it hides the options): Panel menu, Maximize, Funnels and collapse chevron
+6. Advanced mode
+- When On, additional UI controls become available.
+- When Off, these controls are hidden to keep the interface cleaner.
+
+Advanced mode affects the visibility of: Panel menu, Maximize button, Filter funnels in grids, Panel collapse chevron
 
 ![picture](../pictures/advancedon.png)
 
-Customize view
+7. Customize view <br>
+Opens a settings panel that allows the user to choose which applications are displayed on the App-bar and to define their order. This lets each user personalize quick access to the applications they use most.
+
+![picture](../pictures/customizeview.png)
