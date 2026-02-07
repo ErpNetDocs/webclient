@@ -4138,19 +4138,6 @@
       "version": ""
     },
     {
-      "type": "Toc",
-      "source_relative_path": "layouts-and-views/guide/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "layouts-and-views/guide/toc.html"
-        },
-        ".json": {
-          "relative_path": "layouts-and-views/guide/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "layouts-and-views/index.md",
       "output": {
@@ -4269,19 +4256,6 @@
       "output": {
         ".html": {
           "relative_path": "navigators/guide/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "navigators/guide/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "navigators/guide/toc.html"
-        },
-        ".json": {
-          "relative_path": "navigators/guide/toc.json"
         }
       },
       "version": ""
