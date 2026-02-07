@@ -4298,6 +4298,26 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "navigators/pictures/activepanel.png",
+      "output": {
+        "resource": {
+          "relative_path": "navigators/pictures/activepanel.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "navigators/pictures/advancedmode.png",
+      "output": {
+        "resource": {
+          "relative_path": "navigators/pictures/advancedmode.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "navigators/pictures/filter-row.png",
       "output": {
         "resource": {
@@ -4312,6 +4332,16 @@
       "output": {
         "resource": {
           "relative_path": "navigators/pictures/modern.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "navigators/pictures/savelayout.png",
+      "output": {
+        "resource": {
+          "relative_path": "navigators/pictures/savelayout.png"
         }
       },
       "version": ""
