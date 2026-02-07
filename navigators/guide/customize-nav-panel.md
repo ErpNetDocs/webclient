@@ -12,7 +12,7 @@ To turn on Advanced mode:
 2. Select the **More options** (three dots) menu.
 3. Toggle **Advanced mode** to **On**.
 
-![picture](./pictures/advancedmode.png)
+![picture](../pictures/advancedmode.png)
 
 ## Customize 
 
