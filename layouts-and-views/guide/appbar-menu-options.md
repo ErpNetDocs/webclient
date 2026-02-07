@@ -29,6 +29,8 @@ Explanation of the menu options
 5. Show breadcrumb
 - When On, the breadcrumb path to the current object or record is displayed at the top-right of the central panel.
 
+![picture](../pictures/breadcrumb.png)
+
 6. Advanced mode
 - When On, additional UI controls become available.
 - When Off, these controls are hidden to keep the interface cleaner.
