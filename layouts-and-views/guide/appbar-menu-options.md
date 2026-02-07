@@ -45,4 +45,7 @@ Advanced mode affects the visibility of: Panel menu, Maximize button, Filter fun
 **7. Customize view <br>**
 Opens a settings panel that allows the user to choose which applications are displayed on the App-bar and to define their order. This lets each user personalize quick access to the applications they use most.
 
+> [!NOTE]
+> This option is available only for user with layout customization permissions. See article [Permissions and dependencies](https://docs.erp.net/webclient/layouts-and-views/concepts/permissions-and-dependencies.html)
+
 ![picture](../pictures/customizeview.png)
