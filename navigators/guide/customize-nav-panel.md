@@ -4,8 +4,6 @@ The navigator layout defines which fields are visible and how they are arranged 
 
 ## Enable Advanced Mode
 
-Managing navigator layouts requires **Advanced mode** to be enabled.
-
 To turn on Advanced mode:
 
 1. Go to the **App Bar**.
