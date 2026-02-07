@@ -46,7 +46,7 @@ The **Position** option defines where a panel appears in the form:
 
 ### Grouping Panels into Tabs
 
-Panels can be grouped into tabs within a host panel using the **Tab** option in the **Reorder** tab.
+Panels can be grouped into tabs within a host panel using the **Tab groups** option.
 
 A new tab group can be created in one of four directions:
 - New group on top  
