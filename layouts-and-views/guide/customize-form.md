@@ -40,8 +40,6 @@ The **Position** option defines where a panel appears in the form:
 - **Left** – displayed on the left side of the form  
 - **Right** – displayed on the right side of the form  
 
----
-
 ### Grouping Panels into Tabs
 
 Panels can be grouped into tabs within a host panel using the **Tab** option in the **Reorder** tab.
