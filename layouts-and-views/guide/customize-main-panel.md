@@ -24,6 +24,8 @@ These options let you tailor the Main panel to display only the most relevant in
 6. Close the form with "X" when ready.
 7. Press the red "Save layout" button at the top ribbon to preserve the changes persistently.
 
-![picture](./pictures/items.png)
-![picture](./pictures/reorder.png)
-![picture](./pictures/settings.png)
+![picture](../pictures/items.png)
+
+![picture](../pictures/reorder.png)
+
+![picture](../pictures/settings.png)
