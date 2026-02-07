@@ -29,7 +29,7 @@ Layouts are optimized to minimize scrolling, highlight important fields, improve
 - Responsive Layouts: The web client adjusts layouts to screen size (desktop vs. tablet), but specific responsive behavior is not deeply detailed in documentation.
 - Panel-based design: All layouts are panel-driven, and user roles can control what appears where.
 
-### 3. Panel - the main component of Layout
+### 3. The Panel - the main component 
 
 🧱 Panels - The main visual elements used to present data and actions:
 
@@ -61,8 +61,7 @@ Common view types in @@webclient include:
 
 ---
 
-
-# Layout personalization and usability
+## Layout personalization and usability
 
 The Web Client allows a high degree of customization. This ensures a clean, task-focused interface that improves productivity and reduces cognitive load. Users with configuration access can:
 
