@@ -20,6 +20,8 @@ From this tab, you can enable or disable:
 
 Only panels enabled here can be arranged and displayed in the form.
 
+![picture](./pictures/formitems.png)
+
 ---
 
 ## Reorder tab
@@ -40,6 +42,8 @@ The **Position** option defines where a panel appears in the form:
 - **Left** – displayed on the left side of the form  
 - **Right** – displayed on the right side of the form  
 
+![picture](./pictures/position.png)
+
 ### Grouping Panels into Tabs
 
 Panels can be grouped into tabs within a host panel using the **Tab** option in the **Reorder** tab.
@@ -56,8 +60,12 @@ A new tab group can be created in one of four directions:
 
 Panels marked as **Tab** are displayed as tabs within the host panel.
 
+![picture](./pictures/tabs.png)
+
 ---
 
 ## Form Settings
 
 The **Settings** tab contains global behavior options for the form. Currently available is config option- **Always save on close** – when enabled, all changes made in a record are automatically saved when the button X Cloes is pressed.
+
+![picture](./pictures/formsettings.png)
