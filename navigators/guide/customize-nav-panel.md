@@ -14,6 +14,9 @@ To turn on Advanced mode:
 
 ![picture](../pictures/advancedmode.png)
 
+> [!NOTE]
+> This is necessary if you want to see the Panel menu at the top right corner of the panel, and only when there is more tha one panel shown in the form.
+
 ## Customize 
 
 To customize a navigator’s layout:
