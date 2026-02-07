@@ -70,6 +70,10 @@ The **Settings** tab contains global behavior options for the form. Currently av
 
 ![picture](../pictures/formsettings.png)
 
+> [! IMPORTANT]
+>  When finished, close the customization screen using the X button.
+> Click the red Save layout button in the top ribbon to save the changes persistently.
+
 An example of a customized single-record form:
 
 ![picture](../pictures/form.png)
