@@ -16,13 +16,19 @@ These options let you tailor the Main panel to display only the most relevant in
 
 **Steps**
 
-1. In Panel manu, click on Customize panel option.
-2. In tab "Items" - Switch on the toggle beside the fields you want to see in the panel.
-3. In tab "Reorder" - Drag and drop vertically the fields to set their order one after another.
-4. Rename, Enter stop or Hide the fields is also possible.
-5. In tab "Settings" - Choose the panel height, position of labels, description and number of columns for the fields.
-6. Close the form with "X" when ready.
-7. Press the red "Save layout" button at the top ribbon to preserve the changes persistently.
+Follow these steps to customize the fields and layout of a panel:
+
+1. From the **Panel menu**, select **Customize panel**.
+2. In the **Items** tab, turn on the toggles next to the fields you want to display in the panel.
+3. In the **Reorder** tab, drag and drop fields vertically to arrange them in the desired order.
+4. From the same tab, you can also **rename**, **hide**, or define an **enter stop** for individual fields.
+5. In the **Settings** tab, configure the panel layout by choosing:
+   - Panel height  
+   - Label position  
+   - Field description visibility  
+   - Number of columns for the fields
+6. When finished, close the customization screen using the **X** button.
+7. Click the red **Save layout** button in the top ribbon to save the changes persistently.
 
 ![picture](../pictures/items.png)
 
