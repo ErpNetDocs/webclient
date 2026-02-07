@@ -2,8 +2,7 @@
   href: index.md
   
 - name: Getting started 
-  href: guide/toc.yml
-  topicHref: guide/index.md
+  href: guide/index.md
 
 - name: Configurations
   href: configurations.md
