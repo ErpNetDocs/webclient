@@ -21,7 +21,15 @@ To manage layout permissions a system admin should use the settings from within 
 
 ## 2. How to get access to Panel menu and Customize panel option
 
-The Panel menu (three small vertical dots) is merged with the Form menu (three large vertical dots). 
-When there is only one panel shown in the form, the Panel menu is not visible.
-When there are more than one panels, shown in the form, the panel menus in the panels will become visible when Advanced mode option is switched on.
-Eather ways, Panel menu is available in the section "Active panel" in Form menu 
+The Panel menu (three small vertical dots) is merged with the Form menu (three large vertical dots). When only one panel is displayed in the form, the Panel menu is not visible.
+When several panels are displayed, the Panel menus become visible only when Advanced mode is enabled.
+
+To turn on Advanced mode:
+
+1. Go to the **App Bar**.
+2. Select the **More options** (three dots) menu.
+3. Toggle **Advanced mode** to **On**.
+
+![picture](../pictures/advancedmode.png)
+
+In both cases, the panel menu is available from the Active panel section in the Form menu.
