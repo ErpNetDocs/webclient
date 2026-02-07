@@ -4179,6 +4179,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/advancedmode.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/advancedmode.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "layouts-and-views/pictures/advancedon.png",
       "output": {
         "resource": {
