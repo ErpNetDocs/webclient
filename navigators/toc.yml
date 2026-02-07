@@ -3,7 +3,7 @@
   
 - name: Getting started
   href: guide/toc.yml
-  topicHref: guide/customize-nav-panel.md
+  topicHref: guide/index.md
 
 - name: Configurations
   href: index.md
