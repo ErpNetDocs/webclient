@@ -1,6 +1,6 @@
-# How to separate views by Layout category (former Object category)
+# How to separate views by Layout category 
 
-In the @@webclient, different user interface views can be defined for objects of the same entity, depending on the type of data they represent. This is achieved through the use of a **Layout category attribute**.
+In the @@webclient, different user interface views can be defined for objects of the same entity, depending on the type of data they represent. This is achieved through the use of a **Layout category attribute** (former Object category).
 
 A Layout category classifies objects within a single entity into semantic types, without creating separate entities or altering the data model. All objects remain part of the same entity and share the same structure, behavior, and persistence.
 
