@@ -13,4 +13,4 @@ Navigators are used to:
 
 Within the Web Client, navigators act as the primary bridge between high-level data overviews and detailed forms, enabling users to work effectively with both individual records and large volumes of information.
 
-![picture](pictures/modern.png)
+![picture](./pictures/modern.png)
