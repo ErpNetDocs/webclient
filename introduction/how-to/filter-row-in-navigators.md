@@ -1,9 +1,3 @@
----
-uid: webclient.navigators.filter-row
-title: Filter row in navigators
----
-
-
 # How to use the Filter row in navigators
 
 By using the filter row in navigators, it is possible to filter records by setting values in almost all kind of fields, including text, true/false and date.
