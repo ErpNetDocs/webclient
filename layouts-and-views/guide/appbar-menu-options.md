@@ -14,9 +14,10 @@ Explanation of the menu options
 - When On, the navigation panel is pinned to the screen and always visible.
 - When Off, the navigation panel opens only after the user clicks an item in the App-bar.
 
+![picture](../pictures/pinnav.png)
+
 > [!IMPORTANT]
 > App-bar should be pinned in order to pin the navigation too.
-
 
 3. Show navigation on hover
 - When On, the navigation panel opens when you hover over an App-bar item.
@@ -25,6 +26,8 @@ Explanation of the menu options
 4. Icon buttons text
 - When On, text labels are shown for buttons and modules.
 - When Off, only icons are displayed, reducing text density and visual noise while keeping actions easily recognizable.
+
+![picture](../pictures/buttonstext.png)
 
 5. Show breadcrumb
 - When On, the breadcrumb path to the current object or record is displayed at the top-right of the central panel.
