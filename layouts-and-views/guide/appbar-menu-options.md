@@ -9,7 +9,7 @@ Explanation of the features behind the menu options:
 
 2. Pin navigation - when On this pin the navigation panle on screen, so it is always available. When off, the panel reveals after the user click on an item on the app-bar.
 
-> [IMPORTANT]
+> [!IMPORTANT]
 > App-bar should be pinned in order to pin the navigation too.
 
 
