@@ -22,7 +22,7 @@ To customize a navigator’s layout:
 2. Go to the  top ribbon and click **Menu**.
 3. Navigate to section **Active Panel**.
 4. Click the **name of the currently active navigator**.
-5. Select **Customize Panel** from the listed options.
+5. Select **Customize panel** from the listed options.
 
 A **Customize Panel** window opens and overlays the current navigator.
 
@@ -30,17 +30,16 @@ A **Customize Panel** window opens and overlays the current navigator.
 
 ## Adjust Layout Settings
 
-In the Customize Panel window, you can:
-
-- Show or hide navigator fields
+In the Customize panel window, you can:
+- Show or hide fields (columns)
 - Change the order of fields
-- Adjust the layout structure
+-  Adjust the height of the panel or freeze a number of columns to the left
 
-When you close the Customize Panel window with X, the changes are reflected immediately in the navigator.
+When you close the Customize panel window with X, the changes are reflected immediately in the navigator.
 
-## Save layout
+## Save major layout changes
 
-To keep the customized layout for the **current role and layout** for further use:
+Any change made through the Customize view panel is considered a major change. To keep the customized layout for the current role and layout for future use:
 
 1. Go to the **top section of the current screen**.
 2. From the available controls, select the **Save Layout** button, that is red in colour.
@@ -48,6 +47,10 @@ To keep the customized layout for the **current role and layout** for further us
 This action updates and saves the current navigator layout persistently.
 
 ![picture](../pictures/savelayout.png)
+
+## Save minor layout changes
+
+A minor change is considered any change outside Customize panel option eg. column width, sorting, hiding a column, grouping etc. In such case the Save layout button is blue.
 
 > [!Note] 
 > Saved layouts apply to the current role and layout configuration.
