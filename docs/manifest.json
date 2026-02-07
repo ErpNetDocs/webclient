@@ -62,6 +62,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "commands/pictures/appbarmenu.png",
+      "output": {
+        "resource": {
+          "relative_path": "commands/pictures/appbarmenu.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "commands/pictures/close.png",
       "output": {
         "resource": {
@@ -1910,16 +1920,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/how-to/ui-customization/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/how-to/ui-customization/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "introduction/how-to/ui-customization/pictures/Customization-Rename_20_01.png",
       "output": {
@@ -2255,19 +2255,6 @@
       "output": {
         ".html": {
           "relative_path": "introduction/how-to/ui-customization/separate-views.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "introduction/how-to/ui-customization/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/how-to/ui-customization/toc.html"
-        },
-        ".json": {
-          "relative_path": "introduction/how-to/ui-customization/toc.json"
         }
       },
       "version": ""
@@ -4239,6 +4226,36 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/form.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/form.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/formitems.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/formitems.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/formsettings.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/formsettings.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "layouts-and-views/pictures/general.png",
       "output": {
         "resource": {
@@ -4263,6 +4280,16 @@
       "output": {
         "resource": {
           "relative_path": "layouts-and-views/pictures/pinnav.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/position.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/position.png"
         }
       },
       "version": ""
@@ -4303,6 +4330,16 @@
       "output": {
         "resource": {
           "relative_path": "layouts-and-views/pictures/settings.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/tabs.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/tabs.png"
         }
       },
       "version": ""
