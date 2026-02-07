@@ -4287,44 +4287,21 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "navigators/overview/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "navigators/overview/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "navigators/overview/modern.png",
-      "output": {
-        "resource": {
-          "relative_path": "navigators/overview/modern.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "navigators/overview/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "navigators/overview/toc.html"
-        },
-        ".json": {
-          "relative_path": "navigators/overview/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "navigators/pictures/filter-row.png",
       "output": {
         "resource": {
           "relative_path": "navigators/pictures/filter-row.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "navigators/pictures/modern.png",
+      "output": {
+        "resource": {
+          "relative_path": "navigators/pictures/modern.png"
         }
       },
       "version": ""
