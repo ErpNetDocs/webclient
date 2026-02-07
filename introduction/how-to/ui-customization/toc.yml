@@ -1,10 +1,6 @@
 - name: Overview
   href: index.md
-- name: Permissions for customization
-  href: access-to-views.md
 - name: Customize fields
   href: customize-fields.md
 - name: Create multiple panels
   href: create-multiple-panels.md
-- name: Separate views by object category
-  href: separate-views.md
