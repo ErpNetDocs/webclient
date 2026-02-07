@@ -1,7 +1,5 @@
 # Navigators in @@webclient
 
-## Navigators
-
 **Navigators** are one of the core user interface components in the ERP.net Web Client. They provide a structured, table-based view for working with collections of data such as documents, master data, and other business records.
 
 A navigator displays records in rows and columns, allowing users to quickly browse, search, and understand large datasets at a glance. Each navigator is focused on a specific entity or dataset (for example, sales orders, invoices, or products) and serves as a central entry point for interacting with that information.
