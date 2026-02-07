@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-      <title>Concepts on Layouts and Views in ERP.net Web Client | ERP.net Web Client </title>
+      <title>What is a Layout Category | ERP.net Web Client </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content="Concepts on Layouts and Views in ERP.net Web Client | ERP.net Web Client ">
+      <meta name="title" content="What is a Layout Category | ERP.net Web Client ">
       
       
       <link rel="icon" href="../../favicon.ico">
@@ -16,7 +16,7 @@
       <meta name="docfx:rel" content="../../">
       
       
-      <meta name="docfx:docurl" content="https://github.com/ErpNetDocs/webclient/blob/master/layouts-and-views/concepts/index.md/#L1">
+      <meta name="docfx:docurl" content="https://github.com/ErpNetDocs/webclient/blob/master/layouts-and-views/concepts/layout-category.md/#L1">
       <meta name="loc:inThisArticle" content="In this article">
       <meta name="loc:searchResultsCount" content="{count} results for &quot;{query}&quot;">
       <meta name="loc:searchNoResults" content="No results for &quot;{query}&quot;">
@@ -85,19 +85,56 @@
         </div>
 
         <article data-uid="">
-<h1 id="concepts-on-layouts-and-views-in-">Concepts on Layouts and Views in ERP.net Web Client</h1>
+<h1 id="what-is-a-layout-category">What is a Layout Category</h1>
 
-<p>This section explains key concepts related to layout customization in ERP.net Web Client.</p>
-<ol>
-<li><a href="https://docs.erp.net/webclient/layouts-and-views/concepts/permissions-and-dependencies.html">Permissions and dependencies</a></li>
-<li><a href="https://docs.erp.net/webclient/introduction/how-to/ui-customization/access-to-views.html">Access span for layout customization</a></li>
-<li><a href="layout-category.html">Layout Category</a></li>
-</ol>
+<p>In the ERP.net Web Client, it is possible to display different user interface layouts for objects of the same entity, depending on the type of data they represent.
+This is achieved through the use of a Layout category attribute.</p>
+<p>A Layout category allows records belonging to the same data entity to be classified into semantic types, without introducing separate entities or changing the underlying data model. Based on this classification, the Web Client can automatically select and render different views (layouts) for different categories of the same entity.</p>
+<p>This mechanism enables flexible UI customization while preserving a clean and unified data structure. It is especially useful when objects share common identity and behavior, but differ significantly in the information that is relevant to users.</p>
+<h2 id="concepts">Concepts</h2>
+<p>What is a Layout Category?</p>
+<p>A Layout category is a designated attribute of an entity whose value determines which UI layout is used when displaying an object in the Web Client.</p>
+<p><strong>All objects:</strong></p>
+<ul>
+<li>Belong to the same entity</li>
+<li>Share the same schema, persistence, and API</li>
+<li>Remain logically and functionally comparable</li>
+</ul>
+<p>However, each object is additionally classified by its layout category, which expresses what kind of object it is from a presentation perspective.</p>
+<p><strong>Example:</strong></p>
+<p>Entity: Customer</p>
+<p>Layout category attribute: Customer Type</p>
+<p>Possible values: Small / Big / Enterprise</p>
+<p>All records are Customers, but each type may require a different screen layout, field set, or visual emphasis.</p>
+<h2 id="purpose-of-layout-categories">Purpose of Layout Categories</h2>
+<p>The primary purpose of layout categories is to enable:</p>
+<ul>
+<li>Different UI layouts for the same entity</li>
+<li>Context-appropriate presentation of data</li>
+<li>Reduced UI complexity, by showing only relevant fields per category</li>
+<li>Avoidance of entity fragmentation (no need to create separate entities for each type)</li>
+</ul>
+<p>Without layout categories, UI customization would typically require:</p>
+<p>Large conditional layouts with hidden fields, or Artificial splitting of a single logical entity into multiple entities.</p>
+<p>Layout categories provide a cleaner, declarative alternative.</p>
+<h2 id="how-layout-categories-affect-views">How Layout Categories Affect Views?</h2>
+<p>When an object is opened in the Web Client:</p>
+<ul>
+<li>The system identifies the entity of the object.</li>
+<li>The value of the layout category attribute is evaluated.</li>
+<li>The Web Client selects the corresponding view (layout) for that category.</li>
+<li>The object is rendered using the selected layout.</li>
+</ul>
+<p>This selection happens automatically and transparently to the user.</p>
+<h2 id="scope-and-intentional-naming">Scope and Intentional Naming</h2>
+<p>The term <strong>Layout category</strong> is intentionally focused on its primary role: driving layout selection in the Web Client. Although such categorization could theoretically be reused for other purposes in the future, its current and documented intent is UI-related. Using a focused name improves clarity, reduces ambiguity, and helps users immediately understand why the attribute exists and how it should be used.</p>
+<p>If additional use cases emerge later, they can be evaluated independently without changing the conceptual clarity of the current mechanism.</p>
+<p><a href="https://docs.erp.net/webclient/introduction/how-to/ui-customization/separate-views.html">See How to separate view based on Layout Category</a></p>
 
 </article>
 
         <div class="contribution d-print-none">
-          <a href="https://github.com/ErpNetDocs/webclient/blob/master/layouts-and-views/concepts/index.md/#L1" class="edit-link">Suggest improvement to this page</a>
+          <a href="https://github.com/ErpNetDocs/webclient/blob/master/layouts-and-views/concepts/layout-category.md/#L1" class="edit-link">Suggest improvement to this page</a>
         </div>
 
         <div class="next-article d-print-none border-top" id="nextArticle"></div>

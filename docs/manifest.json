@@ -4099,6 +4099,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "layouts-and-views/concepts/layout-category.md",
+      "output": {
+        ".html": {
+          "relative_path": "layouts-and-views/concepts/layout-category.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "layouts-and-views/concepts/permissions-and-dependencies.md",
       "output": {
         ".html": {
@@ -4146,16 +4156,6 @@
       "output": {
         ".html": {
           "relative_path": "layouts-and-views/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "layouts-and-views/layout-category.md",
-      "output": {
-        ".html": {
-          "relative_path": "layouts-and-views/layout-category.html"
         }
       },
       "version": ""
