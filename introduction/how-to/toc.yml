@@ -23,7 +23,3 @@
 
 - name: Create a new Stored Attribute or Calculated Attribute
   href: ui-customization/create-new-attributes.md
-
-- name: UI customization
-  href: ui-customization/toc.yml
-  topicHref: ui-customization/index.md
