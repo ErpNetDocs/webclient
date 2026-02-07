@@ -1,4 +1,4 @@
-# Overview of Layout Category
+# What is a Layout Category
 
 In the @@webclient, it is possible to display different user interface layouts for objects of the same entity, depending on the type of data they represent.
 This is achieved through the use of a Layout category attribute.
