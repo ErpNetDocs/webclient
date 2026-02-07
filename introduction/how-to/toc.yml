@@ -2,8 +2,6 @@
   href: index.md
 - name: Use the Create new option
   href: create-new.md
-- name: Use Filter row in navigators
-  href: filter-row-in-navigators.md
 - name: Use period expressions
   href: period-expressions.md
 - name: Use filtering expressions
