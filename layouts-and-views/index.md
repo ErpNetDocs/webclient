@@ -80,4 +80,9 @@ The Web Client allows a high degree of customization. This ensures a clean, task
 
 The option for all these abilities is called "Customize form / Customize panel" and Settings, indicated by a "gearwheel" icon.
 
-Understanding how these concepts work will allow you to personalize the interface and navigate information faster.
+## The App-bar menu
+
+A significant role in the customization plays the App-bar menu. It allows you to control how the Web Client interface behaves and what UI elements are visible on the screen.
+From here, you can adjust the visibility and behavior of the navigation panel, enable or hide contextual elements such as breadcrumbs and button titles, and switch between a simplified and an advanced interface using Advanced mode. These settings let each user tailor the interface to their working style—balancing clarity, screen space, and access to advanced controls.
+
+![picture](pictures/appbarmenu.png)
