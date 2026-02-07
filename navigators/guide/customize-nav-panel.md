@@ -26,6 +26,8 @@ To customize a navigator’s layout:
 
 A **Customize Panel** window opens and overlays the current navigator.
 
+![picture](../pictures/activepanel.png)
+
 ## Adjust Layout Settings
 
 In the Customize Panel window, you can:
@@ -44,6 +46,8 @@ To keep the customized layout for the **current role and layout** for further us
 2. From the available controls, select the **Save Layout** button, that is red in colour.
 
 This action updates and saves the current navigator layout persistently.
+
+![picture](../pictures/savelayout.png)
 
 > [!Note] 
 > Saved layouts apply to the current role and layout configuration.
