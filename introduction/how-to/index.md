@@ -4,8 +4,6 @@ Here, you will find guides that can help you better navigate and use the @@name 
 
 - [Use the "Create new" option](create-new.md)
   
-- [Use filter rows in navigators](filter-row-in-navigators.md)
-
 - [Use period expressions](period-expressions.md)
 
 - [Use filtering expressions](filtering-expressions.md)
