@@ -24,9 +24,6 @@
 - name: Create a new Stored Attribute or Calculated Attribute
   href: ui-customization/create-new-attributes.md
 
-- name: Functional panels
-  href: functional-panels/toc.yml
-  topicHref: functional-panels/index.md
 - name: UI customization
   href: ui-customization/toc.yml
   topicHref: ui-customization/index.md
