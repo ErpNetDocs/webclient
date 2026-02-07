@@ -69,3 +69,7 @@ Panels marked as **Tab** are displayed as tabs within the host panel.
 The **Settings** tab contains global behavior options for the form. Currently available is config option- **Always save on close** – when enabled, all changes made in a record are automatically saved when the button X Cloes is pressed.
 
 ![picture](../pictures/formsettings.png)
+
+An example of a customized single-record form:
+
+![picture](../pictures/form.png)
