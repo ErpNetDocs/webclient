@@ -18,3 +18,10 @@ To manage layout permissions a system admin should use the settings from within 
 2. In the navigator choose the combination *user : role* that should have restricted layout customization access and tick the box.
 
 ---
+
+## 2. How to get access to Panel menu and Customize panel option
+
+The Panel menu (three small vertical dots) is merged with the Form menu (three large vertical dots). 
+When there is only one panel shown in the form, the Panel menu is not visible.
+When there are more than one panels, shown in the form, the panel menus in the panels will become visible when Advanced mode option is switched on.
+Eather ways, Panel menu is available in the section "Active panel" in Form menu 
