@@ -5,4 +5,5 @@ This section explains how to customize layouts and views in @@webclient. Only us
 1. [App-bar menu options](appbar-menu-options.md)
 2. [How to customize form](customize-form.md)
 3. [How to customize main panel](customize-main-panel.md)
-4. [How to customize navigator](../navigators/guide/customize-nav-panel.md)
+4. [How to customize navigator](../../navigators/guide/customize-nav-panel.md)
+   
