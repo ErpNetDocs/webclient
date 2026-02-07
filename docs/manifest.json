@@ -4297,6 +4297,16 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "navigators/overview/modern.png",
+      "output": {
+        "resource": {
+          "relative_path": "navigators/overview/modern.png"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "navigators/overview/toc.yml",
       "output": {
@@ -4315,16 +4325,6 @@
       "output": {
         "resource": {
           "relative_path": "navigators/pictures/filter-row.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "navigators/pictures/modern.png",
-      "output": {
-        "resource": {
-          "relative_path": "navigators/pictures/modern.png"
         }
       },
       "version": ""
