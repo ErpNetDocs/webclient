@@ -40,8 +40,7 @@ eg. Translate from German - source DE: "Vermögenswerte" into Bulgarian - result
 
 Click the **three-dot menu** next to a language field to access more actions:
 
-- **Copy**  
-  Copies the value from the top source language and places it into the selected field.
+- **Copy** - Copies the value from the top source language and places it into the selected field.
 
 ![picture](pictures/copy.png)
 
