@@ -1,6 +1,6 @@
 # How to translate multilanguage fields in @@webclient
 
-This example shows how to translate a product **Name** field when a value exists in one language and needs to be translated into the other active languages.
+This example shows how to translate a  **Name** field when a value exists in one language and needs to be translated into the other active languages.
 
 ### Scenario
 
