@@ -10,7 +10,7 @@ Of course, this is not just a calendar :) You can read more about it in [the sep
 
 ## Widgets
 
-A specific feature of each "My app" is that it can be visualized not only independently, as given above, but also in its own [panel](../terms.md).
+A specific feature of each "My app" is that it can be visualized not only independently, as given above, but also in its own panel.
 
 > [!NOTE]
 > Panels that host My apps are called widget panels or simply widgets.
