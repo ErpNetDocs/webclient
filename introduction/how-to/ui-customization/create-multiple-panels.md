@@ -1,8 +1,8 @@
-# How to add multiple instances of a panel type
+# How to add several main panels and tiles
 
-While customizing a form, you can add certain panels in it **multiple** times. 
+While customizing a form, you can add main panels in it **multiple** times. 
 
-Each added panel is assigned a unique name, which can be modified when necessary. 
+Each added panel can have its unique name (rename it). 
 
 One and the same panel **cannot** be displayed more than **five** times within a single form.
 
