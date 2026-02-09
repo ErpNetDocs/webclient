@@ -20,7 +20,7 @@ This example shows how to translate a  **Name** field when a value exists in one
 
    The system translates the value from the **source language** (English) into all other active languages that do not yet have a value.
 
-   All fields below are filled with translated values eg. BG "Финансови активи", GE: "Finanzielle Vermögenswerte"
+   All fields below are filled with translated values eg. BG "Финансови активи", DE: "Finanzielle Vermögenswerte"
 
 ![picture](pictures/translateall.png)
 5. Click on button **OK** to retain the translations
@@ -30,7 +30,7 @@ This example shows how to translate a  **Name** field when a value exists in one
 - Next to each language field, you can use the **Translate from...** button to translate **only that specific language**.
 - Once any language field contains a value, it can be used as a **source language** for translation to the others.
 
-eg. Translate from German - source GE: "Vermögenswerte" into Bulgarian - result  BG: "Активи"
+eg. Translate from German - source DE: "Vermögenswerte" into Bulgarian - result  BG: "Активи"
 
 ![picture](pictures/translatefrom.png)
 
