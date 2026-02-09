@@ -1198,6 +1198,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/copy.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/copy.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/how-to/pictures/crm_select.png",
       "output": {
         "resource": {
@@ -1842,6 +1852,56 @@
       "output": {
         "resource": {
           "relative_path": "introduction/how-to/pictures/tiles_readys.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/translate.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/translate.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/translate1.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/translate1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/translateall.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/translateall.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/translatefrom.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/translatefrom.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/how-to/pictures/transliterate.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/how-to/pictures/transliterate.png"
         }
       },
       "version": ""
