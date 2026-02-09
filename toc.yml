@@ -30,7 +30,7 @@ items:
   href: introduction/social/toc.yml
   topicHref: introduction/social/index.md   
 
-- name: How To
+- name: How-to guides
   href: introduction/how-to/toc.yml
   topicHref: introduction/how-to/index.md
 
