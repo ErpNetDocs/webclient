@@ -23,13 +23,14 @@ This example shows how to translate a product **Name** field when a value exists
    All fields below are filled with translated values eg. BG "Финансови активи", GE: "Finanzielle Vermögenswerte"
 
 ![picture](pictures/translateall.png)
+5. Click on button **OK** to retain the translations
 
 ### Translating individual languages
 
 - Next to each language field, you can use the **Translate from...** button to translate **only that specific language**.
 - Once any language field contains a value, it can be used as a **source language** for translation to the others.
 
-eg. Translate from German - source GE: Vermögenswerte into Bulgarian - result  BG: "Активи"
+eg. Translate from German - source GE: "Vermögenswerte" into Bulgarian - result  BG: "Активи"
 
 ![picture](pictures/translatefrom.png)
 
@@ -38,8 +39,14 @@ eg. Translate from German - source GE: Vermögenswerte into Bulgarian - result  
 Click the **three-dot menu** next to a language field to access more actions:
 
 - **Copy**  
-  Copies the value from the source language and places it into the selected field.
+  Copies the value from the top source language and places it into the selected field.
 
-- **Transliterate**  
-  Transliterates the value from the source language and places it into the selected field.  
-  This is **not** a translation.
+![picture](pictures/copy.png)
+
+- **Transliterate** - this is **not** a translation.
+  Transliterates the value from the top source language and places it into the selected field.  
+  
+![picture](pictures/transliterate.png)
+
+### Custom translations
+Users can input any text into the language fields, that will be used as translations and will be visible in the platfrom when working in the corresponding language.
