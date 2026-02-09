@@ -1881,6 +1881,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/how-to/translate-fields.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/how-to/translate-fields.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/how-to/ui-customization/access-to-views.md",
       "output": {
         ".html": {
@@ -4047,16 +4057,6 @@
         },
         ".json": {
           "relative_path": "introduction/social/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/terms.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/terms.html"
         }
       },
       "version": ""
