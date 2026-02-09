@@ -14,7 +14,7 @@ This example shows how to translate a  **Name** field when a value exists in one
 ### Steps
 
 1. Open the record in **Edit mode**.
-2. In the multilingual field, click **Translate**.
+2. In the multilingual field, click **Translate** icon.
 3. The **multilanguage editor** opens.
 4. Click **Translate to all (AI)** button next to the English value in the top language field
 
