@@ -23,7 +23,7 @@ This example shows how to translate a  **Name** field when a value exists in one
    All fields below are filled with translated values eg. BG "Финансови активи", DE: "Finanzielle Vermögenswerte"
 
 ![picture](pictures/translateall.png)
-5. Click on button **OK** to retain the translations
+
 
 ### Translating individual languages
 
@@ -34,6 +34,8 @@ eg. Translate from German - source DE: "Vermögenswerte" into Bulgarian - result
 
 ![picture](pictures/translatefrom.png)
 
+5. Click on button **OK** to retain the translations
+   
 ### Additional options
 
 Click the **three-dot menu** next to a language field to access more actions:
