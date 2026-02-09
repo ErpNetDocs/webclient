@@ -23,3 +23,6 @@
 
 - name: Create a new Stored Attribute or Calculated Attribute
   href: ui-customization/create-new-attributes.md
+
+- name: Translate multilanguage fields
+  href: translate-fields.md
