@@ -23,3 +23,5 @@ Here, you will find guides that can help you better navigate and use the @@name 
 - [Use functional panels](./functional-panels/index.md)
   
 - [Create a new Stored Attribute or Calculated Attribute](./ui-customization/create-new-attributes.md)
+
+- [Translate multilanguage fields](translate-fields.md)
