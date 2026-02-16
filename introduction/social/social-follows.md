@@ -125,14 +125,12 @@ This change is deliberate and aligns the system with clearer user intent and sca
 
 **What is shown in Favorites**
 
- - The Favorites app lists only objects with Follow level = Favorite.
- - A user can have **up to 50 favorite objects**. If you reach the limit, you must remove an existing favorite before adding a new one.
+ - The Favorites app lists only objects with Follow level = Favorite. Unlimited number of Favorites applies.
 
 **Automatic follows**
 
-When the system creates a follow automatically (e.g. due to a mention/assignment), the follow level is **Tagged**.
->[!Note]
-> There is a Business Rule ["R38780 Case - Create Follow For Case Creator"](https://docs.erp.net/model/business-rules/R38780.html) that creates an automatic follow for the Owner of the Case - its creator.
+When the system creates a follow automatically (e.g. due to a mention), the follow level is **Tagged**.
+
 
 **Chat groups**
 
