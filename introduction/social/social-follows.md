@@ -72,7 +72,7 @@ This separation makes Favorites meaningful, limited, and intentional.
 
 This section describes the shortest path to start using follow levels in the Web Client.
 
-### Change follow level from the form header
+### Change follow level from the header
 
 1. Open the object you want to follow (e.g. a document, a case, etc.).
 2. Use the **star (follow) button** in the form header.
@@ -141,6 +141,8 @@ When the system creates a follow automatically (e.g. due to a mention), the foll
 
 Creating a new conversation creates a follow with level **Tagged** for the conversation.
 
+---
+
 ## Notifications respect Follow levels
 
 Follow level is applied per notification class, not as a global “enable/disable notifications” switch:
@@ -163,6 +165,8 @@ From this point on, User B will receive **chat/comment notifications** whenever 
 
 No Record Update or Implicit notifications are created at this level.
 
+![picture](pictures/tagged.png)
+
 **2. Upgrade from Tagged → Following**
 
 User B upgrades the Follow Level of *Offer 111* from **Tagged** to **Following**.
@@ -174,6 +178,8 @@ If another user edits *Offer 111*:
 - User B receives notifications for comments too.
 
 Implicit notifications are still not created at this level.
+
+![picture](pictures/following.png)
 
 **3. Favorite on a Related Object → Implicit Notification**
 
@@ -191,6 +197,8 @@ the system must create **only one implicit notification per event**, not multipl
 
 > [!NOTE]
 > Because now User B does not truly follow the offer, he will not receive notifications at update of the offer and will not receive notifications for comments in the offer too.
+
+![picture](pictures/favorite.png)
 
 Learn more about [Favorites](../my-apps/favorites/index.md)
 Learn more about [Notifications]
