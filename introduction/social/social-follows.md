@@ -1,6 +1,6 @@
-# Overview of @@webclient Social Follows 
+# Overview of @@webclient Social follows 
 
-Social follows is a key aspect in Social ERP.They allow users to express interest in business objects and stay informed when something happens in their context.
+Social follows is a key aspect in Social ERP. They allow users to express interest in business objects and stay informed when something happens in their context.
 
 Originally, following an object was treated as a single action: you either followed it or you did not. Following was implicitly understood as “this object matters to me” and was closely tied to concepts such as **favorites, notifications**, and visual indicators in the UI. As the system evolved, this simple model became limiting.<br>
 Following is no longer a simple “follow/unfollow” state. Instead, each follow has a **Follow level** that indicates *why* you follow an object and *how important* it is to you.
@@ -141,12 +141,29 @@ When the system creates a follow automatically (e.g. due to a mention), the foll
 
 Creating a new conversation creates a follow with level **Tagged** for the conversation.
 
-**Notifications**
+## Notifications respect Follow levels
 
 Follow level is applied per notification class, not as a global “enable/disable notifications” switch:
-- Comment/Chat classes are always created for TAGGED/FOLLOW/FAVORITE,
-- Record Update classes are created only when Follow level ≥ FOLLOW,
-- and Implicit document-state notifications (NT_DOC_STATE_IMPLICIT) are created only when Follow level = FAVORITE. For NT_DOC_STATE_IMPLICIT the condition is evaluated as an **OR across all relevant follows** for the document (at least one relevant Favorite enables it), and the system must deduplicate so a single status change generates exactly one NT_DOC_STATE_IMPLICIT per recipient, even if multiple Favorite paths exist.
+- Comment/Chat classes notifications are always created for TAGGED/FOLLOW/FAVORITE,
+- Record Update classes notifications are created only when Follow level ≥ FOLLOW,
+- and Implicit document-state change notifications (NT_DOC_STATE_IMPLICIT) are created only when Follow level = FAVORITE and this Favorite object is respected across all relevant follows for the document, which meens that at least one relevant Favorite enables the creation of a notification upon State change, and the system must deduplicate so a single status change generates exactly one NT_DOC_STATE_IMPLICIT per recipient, even if multiple Favorite paths exist.
+
+How does this dependence act in practice?
+Let say we have a record - an "Offer 111" to Customer "AAA".
+1. User A mentions user B in the Discuss panel of the same Offer 111
+ - as result User B starts to automatically follow the record, and the Follow is indicated as "Tagged"
+From now on, user B will receive chat/comment notifications whenever someone discusses the offer in the Discuss panel.
+
+2. Next - User B upgrades his follow level from Tagged to Following.
+- as a result, when another user edits Offer 111, the system will create Record-update notification (e.g. class NT_ALL_UPDATE) and will notifu user B that the offer was updated.
+
+3. User B follows Customer "AAA" as a Favorite object (follow level is "Favorite") BUT he does not follow Offer 111 (neither Tagged nor Following)
+   User A changes the State of Offer 111 to Released.
+- as a result, User B will receive a notification of class NT_DOC_STATE_IMPLICIT, because he is following as favorite an object (Customer "AAA"), that is closely related to the updated object - The Offer 111
+- If User B has other Favorite realted objects - the Document Type etc. the system will create only one notification, not several of the same kind for the state change that occured to teh Offer 111
+  
 
 Learn more about [Favorites](../my-apps/favorites/index.md)
 Learn more about [Notifications]
+
+
