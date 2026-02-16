@@ -200,7 +200,7 @@ the system must create **only one implicit notification per event**, not multipl
 
 ![picture](pictures/favorite.png)
 
-Learn more about [Favorites](../my-apps/favorites/index.md)
+Learn more about [Favorites](../my-apps/favorites/index.md)<br>
 Learn more about [Notifications]
 
 
