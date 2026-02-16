@@ -179,6 +179,13 @@ You explicitly marked the object as a favorite. Favorites are shown in the <stro
 <li><p>Unfollow immediately - <em>Shift + Click</em> on the star icon → <strong>Unfollow</strong> (removes the follow record and if Favorite - removes it from My Favorites).</p>
 </li>
 </ul>
+<h3 id="automatic-follow">Automatic follow</h3>
+<p>The user may automatically start following an object - level TAGGED - in several cases:</p>
+<ul>
+<li>when he is mentioned in the discuss panel of the record <a href="https://docs.erp.net/model/business-rules/R32946.html">R32946</a></li>
+<li>when he comments an object in the discuss panel <a href="https://docs.erp.net/model/business-rules/R33430.html">R33430</a></li>
+<li>when he creates an Agile Case  - <a href="https://docs.erp.net/model/business-rules/R38780.html">Rule R38780</a></li>
+</ul>
 <hr>
 <h2 id="concepts">Concepts</h2>
 <p>This section explains the strategy behind the introduction of Follow levels and its impact on other instruments in Web Client</p>
@@ -257,6 +264,8 @@ the system must create <strong>only one implicit notification per event</strong>
 <p>Because now User B does not truly follow the offer, he will not receive notifications at update of the offer and will not receive notifications for comments in the offer too.</p>
 </div>
 <p><img src="pictures/favorite.png" alt="picture"></p>
+<p><strong>4. Favorite</strong>
+User B follows <em>Offer 111</em> as Favorite - he receives notifications for comments and updates.</p>
 <p>Learn more about <a href="../my-apps/favorites/index.html">Favorites</a><br>
 Learn more about [Notifications]</p>
 
