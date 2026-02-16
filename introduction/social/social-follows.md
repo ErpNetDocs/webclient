@@ -200,6 +200,9 @@ the system must create **only one implicit notification per event**, not multipl
 
 ![picture](pictures/favorite.png)
 
+**4. Favorite**
+User B follows *Offer 111* as Favorite - he receives notifications for comments and updates.
+
 Learn more about [Favorites](../my-apps/favorites/index.md)<br>
 Learn more about [Notifications]
 
