@@ -13,4 +13,4 @@ It's the same in @@erpnet. We have adopted the well-known practices of social ne
 - You can "follow" an object and receive notifications when something related to it happens.
 - Mentions, e.g. automatic notification when you are involved in a discussion.
 
-Some of the key aspects in the Social ERP are the [Chatter](./chatter/index.md) and the [Social follows](social-follows.md)). Read more in the additional sections.
+Some of the key aspects in the Social ERP are the [Chatter](./chatter/index.md) and the [Social follows](social-follows.md). Read more in the additional sections.
