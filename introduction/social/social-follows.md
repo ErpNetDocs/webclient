@@ -98,6 +98,13 @@ In addition to the standard follow-level click cycle, you can use the following 
 
 - Unfollow immediately - *Shift + Click* on the star icon → **Unfollow** (removes the follow record and if Favorite - removes it from My Favorites).
 
+### Automatic follow
+
+The user may automatically start following an object - level TAGGED - in several cases:
+- when he is mentioned in the discuss panel of the record [R32946](https://docs.erp.net/model/business-rules/R32946.html)
+- when he comments an object in the discuss panel [R33430](https://docs.erp.net/model/business-rules/R33430.html)
+- when he creates an Agile Case  - [Rule R38780](https://docs.erp.net/model/business-rules/R38780.html)
+
 ---
 
 ## Concepts
