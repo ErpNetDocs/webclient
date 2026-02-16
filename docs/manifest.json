@@ -4070,6 +4070,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/favorite.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/favorite.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/social/pictures/follow.png",
       "output": {
         "resource": {
@@ -4089,11 +4099,31 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/following.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/following.png"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "introduction/social/pictures/one.md",
       "output": {
         ".html": {
           "relative_path": "introduction/social/pictures/one.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/tagged.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/tagged.png"
         }
       },
       "version": ""

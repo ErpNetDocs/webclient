@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-      <title>Overview of ERP.net Web Client Social Follows | ERP.net Web Client </title>
+      <title>Overview of ERP.net Web Client Social follows | ERP.net Web Client </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content="Overview of ERP.net Web Client Social Follows | ERP.net Web Client ">
+      <meta name="title" content="Overview of ERP.net Web Client Social follows | ERP.net Web Client ">
       
       
       <link rel="icon" href="../../favicon.ico">
@@ -85,9 +85,9 @@
         </div>
 
         <article data-uid="">
-<h1 id="overview-of--social-follows">Overview of ERP.net Web Client Social Follows</h1>
+<h1 id="overview-of--social-follows">Overview of ERP.net Web Client Social follows</h1>
 
-<p>Social follows is a key aspect in Social ERP.They allow users to express interest in business objects and stay informed when something happens in their context.</p>
+<p>Social follows is a key aspect in Social ERP. They allow users to express interest in business objects and stay informed when something happens in their context.</p>
 <p>Originally, following an object was treated as a single action: you either followed it or you did not. Following was implicitly understood as “this object matters to me” and was closely tied to concepts such as <strong>favorites, notifications</strong>, and visual indicators in the UI. As the system evolved, this simple model became limiting.<br>
 Following is no longer a simple “follow/unfollow” state. Instead, each follow has a <strong>Follow level</strong> that indicates <em>why</em> you follow an object and <em>how important</em> it is to you.</p>
 <p><img src="pictures/follow.png" alt="follow"></p>
@@ -150,7 +150,7 @@ You explicitly marked the object as a favorite. Favorites are shown in the <stro
 <hr>
 <h2 id="getting-started">Getting Started</h2>
 <p>This section describes the shortest path to start using follow levels in the Web Client.</p>
-<h3 id="change-follow-level-from-the-form-header">Change follow level from the form header</h3>
+<h3 id="change-follow-level-from-the-header">Change follow level from the header</h3>
 <ol>
 <li><p>Open the object you want to follow (e.g. a document, a case, etc.).</p>
 </li>
@@ -213,14 +213,51 @@ You explicitly marked the object as a favorite. Favorites are shown in the <stro
 </ul>
 <p><strong>AI Assistant panel</strong></p>
 <p>Creating a new conversation creates a follow with level <strong>Tagged</strong> for the conversation.</p>
-<p><strong>Notifications</strong></p>
+<hr>
+<h2 id="notifications-respect-follow-levels">Notifications respect Follow levels</h2>
 <p>Follow level is applied per notification class, not as a global “enable/disable notifications” switch:</p>
 <ul>
-<li>Comment/Chat classes are always created for TAGGED/FOLLOW/FAVORITE,</li>
-<li>Record Update classes are created only when Follow level ≥ FOLLOW,</li>
-<li>and Implicit document-state notifications (NT_DOC_STATE_IMPLICIT) are created only when Follow level = FAVORITE. For NT_DOC_STATE_IMPLICIT the condition is evaluated as an <strong>OR across all relevant follows</strong> for the document (at least one relevant Favorite enables it), and the system must deduplicate so a single status change generates exactly one NT_DOC_STATE_IMPLICIT per recipient, even if multiple Favorite paths exist.</li>
+<li>Comment/Chat classes notifications are always created for TAGGED/FOLLOW/FAVORITE,</li>
+<li>Record Update classes notifications are created only when Follow level ≥ FOLLOW,</li>
+<li>and Implicit document-state change notifications (NT_DOC_STATE_IMPLICIT) are created only when Follow level = FAVORITE and this Favorite object is respected across all relevant follows for the document, which means that at least one relevant Favorite enables the creation of a notification upon State change, and the system must deduplicate so a single status change generates exactly one NT_DOC_STATE_IMPLICIT per recipient, even if multiple Favorite paths exist.</li>
 </ul>
-<p>Learn more about <a href="../my-apps/favorites/index.html">Favorites</a>
+<h2 id="how-does-this-dependency-work-in-practice">How Does This Dependency Work in Practice?</h2>
+<p>Consider a record: <strong>Offer 111</strong> for Customer <strong>AAA</strong>.</p>
+<p><strong>1. Mention → Follow Level = Tagged</strong></p>
+<p>User A mentions User B in the <strong>Discuss</strong> panel of <em>Offer 111</em>.</p>
+<ul>
+<li>As a result, User B automatically starts following the record.</li>
+<li>The Follow Level is set to <strong>Tagged</strong>.</li>
+</ul>
+<p>From this point on, User B will receive <strong>chat/comment notifications</strong> whenever someone posts in the Discuss panel of <em>Offer 111</em>.</p>
+<p>No Record Update or Implicit notifications are created at this level.</p>
+<p><img src="pictures/tagged.png" alt="picture"></p>
+<p><strong>2. Upgrade from Tagged → Following</strong></p>
+<p>User B upgrades the Follow Level of <em>Offer 111</em> from <strong>Tagged</strong> to <strong>Following</strong>.</p>
+<p>If another user edits <em>Offer 111</em>:</p>
+<ul>
+<li>The system creates a <strong>Record Update notification</strong> (e.g. <code>NT_ALL_UPDATE</code>).</li>
+<li>User B receives a notification that the offer has been updated.</li>
+<li>User B receives notifications for comments too.</li>
+</ul>
+<p>Implicit notifications are still not created at this level.</p>
+<p><img src="pictures/following.png" alt="picture"></p>
+<p><strong>3. Favorite on a Related Object → Implicit Notification</strong></p>
+<p>User B follows <strong>Customer AAA</strong> as a <strong>Favorite</strong> object. (Follow Level = <em>Favorite</em>).</p>
+<p>However, User B does <strong>not</strong> follow <em>Offer 111</em> (neither Tagged nor Following).</p>
+<p>User A changes the <strong>State</strong> of <em>Offer 111</em> to <em>Released</em>.</p>
+<ul>
+<li>The system creates a notification of class <strong><code>NT_DOC_STATE_IMPLICIT</code></strong>.</li>
+<li>User B receives this notification because he follows as <strong>Favorite</strong> an object (<em>Customer AAA</em>) that is related to the updated document (<em>Offer 111</em>).</li>
+</ul>
+<p>If multiple related Favorite objects exist (e.g. Customer, Document Type, etc.),<br>
+the system must create <strong>only one implicit notification per event</strong>, not multiple duplicates for the same state change.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>Because now User B does not truly follow the offer, he will not receive notifications at update of the offer and will not receive notifications for comments in the offer too.</p>
+</div>
+<p><img src="pictures/favorite.png" alt="picture"></p>
+<p>Learn more about <a href="../my-apps/favorites/index.html">Favorites</a><br>
 Learn more about [Notifications]</p>
 
 </article>
