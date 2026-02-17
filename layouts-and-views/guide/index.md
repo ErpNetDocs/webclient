@@ -6,7 +6,7 @@ This section explains how to customize layouts and views in @@webclient. Only us
 Explains the App-bar settings in ERP.net Web Client, including interface modes (Standard and Advanced), layout visibility options, and UI navigation controls.
 
 ### 2. [How to customize form](customize-form.md) 
-Explains the App-bar settings in ERP.net Web Client, including interface modes (Standard and Advanced), layout visibility options, and UI navigation controls.
+Describes form layout customization in ERP.net Web Client, including rearranging panels, modifying form structure, and saving custom form layouts.
 
 ### 3. [How to customize main panel](customize-main-panel.md) 
 Covers main panel configuration in ERP.net Web Client, including managing embedded panels, controlling panel visibility, and organizing the primary form workspace.
