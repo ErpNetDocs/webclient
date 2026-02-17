@@ -3,7 +3,7 @@
 This section explains how to customize layouts and views in @@webclient. Only users with layout [customization permissions](../concepts/permissions-and-dependencies.md) have access to customization menus.
 
 ### 1. [App-bar menu options](appbar-menu-options.md) 
-Explains the App-bar settings in ERP.net Web Client, including interface modes (Standard and Advanced), layout visibility options, and UI navigation controls.
+Explains the App-bar settings in ERP.net Web Client, including interface modes (Standard mpde and Advanced mode), layout visibility options, and UI navigation controls.
 
 ### 2. [How to customize form](customize-form.md) 
 Describes form layout customization in ERP.net Web Client, including rearranging panels, modifying form structure, and saving custom form layouts.
