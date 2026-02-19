@@ -1,7 +1,15 @@
 - name: Getting started
   href: index.md
 
-- name: App-bar menu options
+- name: 1. App-bar menu options
   href: appbar-menu-options.md 
-- name: How to customize form
+- name: 2.How to customize form
   href: customize-form.md  
+- name: 3. How to customize main panel 
+  href: customize-main-panel.md
+- name: 4. How to customize navigator
+  href: ../../navigators/guide/customize-nav-panel.md
+- name: 5. How to customize fields
+  href: ../../introduction/how-to/ui-customization/customize-fields.md
+- name: 6. How to add several main panels and tiles
+  href: ../../introduction/how-to/ui-customization/create-multiple-panels.md  
