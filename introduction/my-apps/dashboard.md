@@ -1,4 +1,4 @@
-# Overview
+# My @@webclient Dashboard 
 
 The "My Dashboard" is a specific app that is the only one that can't be a widget. This is because the dashboard itself only hosts another apps (in separate panels, i.e. widgets). The main goal is to have all the widgets you need, easily accessible at the moment- with a single click.
 
