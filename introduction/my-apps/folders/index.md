@@ -23,8 +23,8 @@ By providing a familiar folder-based structure, the application simplifies docum
 - Accessing and maintaining corporate files directly within the ERP environment
 
 > [!NOTE]
-> Supported file types include: text documents, spreadsheets, PDFs, images, videos, archives, URLs.<br>
-> Supported file formats include: .PDF,   .doc,  .xlsx,  .jpg / .png / .bmp,  .txt,  .zip,  .mp4. <br>
-> Maximum file size for upload is 50 MB. In chat discussions an attached file may not exceed 5 MB.<br>
-> Files and Folders are by default sorted in alphabetical order, folders going first.
+> - Supported file types include: text documents, spreadsheets, PDFs, images, videos, archives, URLs.<br>
+> - Supported file formats include: .PDF,   .doc,  .xlsx,  .jpg / .png / .bmp,  .txt,  .zip,  .mp4. <br>
+> - Maximum file size for upload is 50 MB. In chat discussions an attached file may not exceed 5 MB.<br>
+> - Files and Folders are by default sorted in alphabetical order, folders going first.
 
