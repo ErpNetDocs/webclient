@@ -2494,6 +2494,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/my-apps/folders/guide.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/my-apps/folders/guide.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/my-apps/folders/index.md",
       "output": {
         ".html": {
