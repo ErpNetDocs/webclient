@@ -1,6 +1,6 @@
-# Social Groups 
+# My @@webclient  Groups 
 
-**My Groups** is a centralized all-in-one application uniting team collaboration with personal productivity.
+**My Social Groups** is a centralized all-in-one application uniting team collaboration with personal productivity.
 
 It allows you to:
 
