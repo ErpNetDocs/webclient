@@ -19,3 +19,6 @@
 - name: Web view
   href: ./web-view.md
   
+- name: Folders
+  href: folders/toc.yml
+  topicHref: folders/index.md
