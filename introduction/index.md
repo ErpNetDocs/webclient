@@ -102,18 +102,19 @@ Navigators organize and display data in a structured, interactive table format.
 - Each column includes a **funnel icon** for filtering and searching
 - Records are opened by clicking the value in the first column, which acts as a direct link to the record form
 
-**Single-Record Forms and Panels**
+**Home page**
 
-- **Single record form**  
-  Every record exists within its own form. This form may consist of several panels.
-  The main panel bears the name of the entity itself, and is usually called "the main panel". It contains the essential fields that define the record - the definition.
-  Other panels supply related or detailed information connected with the current record and can be displayed and organized per the needs.
-
-- **Home page**<br>
 Represents the module by several main panels, that define its structure and components (entities). The main panels contain Definitions, Documents and operations, Setup, Reports and Ledgers. Each one further consists of and reveals corresponding categories, namespaces and report-views.
 
-- **Panels**  
-  Panels structure both application home pages and individual record views. Types include:
+**Single-record form**  
+
+Every record exists within its own form. This form may consist of several panels.
+The main panel bears the name of the entity itself, and is usually called "the main panel". It contains the essential fields that define the record - the definition.
+Other panels supply related or detailed information connected with the current record and can be displayed and organized per the needs.
+
+**Panel** 
+
+Panels structure both application home pages and individual record views. Types include:
   - Main panels
   - Detail panels
   - Related data panels
