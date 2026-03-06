@@ -1,4 +1,4 @@
-# Overview
+# My @@webclient Timeline
 
 As the [calendar application](./calendar/index.md) "My Timeline" is... a calendar. But in a more sophisticated way. 
 
