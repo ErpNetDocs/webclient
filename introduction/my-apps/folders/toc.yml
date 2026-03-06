@@ -1,4 +1,4 @@
 - name: Overview
-  topicHref: folders/index.md
+  href: index.md
 - name: Files
-  topicHref: folders/files.md
+  href: files.md
