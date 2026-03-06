@@ -2484,6 +2484,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/my-apps/folders/files.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/my-apps/folders/files.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/my-apps/folders/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/my-apps/folders/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "introduction/my-apps/folders/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/my-apps/folders/toc.html"
+        },
+        ".json": {
+          "relative_path": "introduction/my-apps/folders/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/my-apps/groups/index.md",
       "output": {
         ".html": {
