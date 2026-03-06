@@ -2,3 +2,5 @@
   href: index.md
 - name: Files
   href: files.md
+- name: Getting started
+  href: guide.md 
