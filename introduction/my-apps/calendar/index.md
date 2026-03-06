@@ -1,6 +1,6 @@
-# Calendar
+# My Calendar in @@webclient
 
-The **ERP.net Web Client Calendar** is a powerful time-management tool, allowing users to efficiently organize, monitor, and synchronize activities, events, and tasks. 
+The ** @@webclient Calendar** is a powerful time-management tool, allowing users to efficiently organize, monitor, and synchronize activities, events, and tasks. 
 
 It consolidates group activities, promoting collaboration. Its features include creating events, customizing views (e.g., Workweek, Month), navigating dates, and accessing scheduled events easily.
 
