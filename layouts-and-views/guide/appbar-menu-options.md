@@ -42,7 +42,7 @@ Advanced mode affects the visibility of: Panel menu, Maximize button, Filter fun
 
 ![picture](../pictures/advancedon.png)
 
-## 7. Customize view <br>
+## 7. Customize view
 Opens a settings panel that allows the user to choose which applications are displayed on the App-bar and to define their order. This lets each user personalize quick access to the applications they use most.
 
 > [!NOTE]
