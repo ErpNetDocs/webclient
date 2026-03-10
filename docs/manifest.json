@@ -4332,6 +4332,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "layouts-and-views/pictures/app-bar-menu-default.png",
+      "output": {
+        "resource": {
+          "relative_path": "layouts-and-views/pictures/app-bar-menu-default.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "layouts-and-views/pictures/appbarmenu.png",
       "output": {
         "resource": {
