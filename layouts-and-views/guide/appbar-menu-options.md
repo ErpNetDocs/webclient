@@ -2,7 +2,7 @@
 
 The App-bar menu lets users control the visibility and behavior of key interface elements—such as navigation, breadcrumbs, button titles, and Advanced mode—so the Web Client adapts to their preferred way of working. These settings are stored per user, and each option can be switched **On or Off**.
 
-![picture](../pictures/appbarmenu.png)
+![picture](../pictures/app-bar-menu-default.png)
 
 Explanation of the menu options
 
@@ -42,7 +42,17 @@ Advanced mode affects the visibility of: Panel menu, Maximize button, Filter fun
 
 ![picture](../pictures/advancedon.png)
 
-## 7. Customize view
+## 7. Open links in new tab
+- When On, records that open in full view will launch in a new browser tab.
+- When Off, records will open in the same window.
+
+Currently, this behavior applies to:
+
+👉 Links in received notifications (clicking a notification opens the target record)
+👉 Links in navigators (the first column link that opens a record)
+👉 Links in chat (e.g., links to objects in system comments or shared items)
+
+## 8. Customize view
 Opens a settings panel that allows the user to choose which applications are displayed on the App-bar and to define their order. This lets each user personalize quick access to the applications they use most.
 
 > [!NOTE]
