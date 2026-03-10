@@ -36,7 +36,7 @@ In both cases, the panel menu is available from the Active panel section in the 
 
 ### 3. Default App-bar settings for new users
 
-For new users (first login in a database or on a new device), the following App-bar settings are applied by default:
+For new users (first login in a database or on a new device), the following App-bar settings are applied by default. These defaults are chosen to provide a clean and distraction-free starting interface for new users. Additional controls and navigation options can be enabled as needed, allowing each user to gradually adapt the interface to their preferred way of working - a “clean by default, power when needed” philosophy:
 
 - **Pin AppBar** — On  
 - **Pin navigation** — Off  
@@ -45,7 +45,5 @@ For new users (first login in a database or on a new device), the following App-
 - **Show breadcrumb** — Off  
 - **Advanced mode** — Off
 - **Open links in new tab** - Off
-
-In the default configuration, only the **AppBar is pinned**, while the rest of the interface options remain disabled to provide a cleaner initial workspace.
 
 ![picture](./pictures/app-bar-menu-default.png)
