@@ -24,7 +24,7 @@ Explanation of the menu options
 - This is useful if you want quick access to navigation without keeping the panel permanently visible.
 
 ## 4. Icon buttons text
-- When On, text labels are shown for buttons and modules.
+- When On, text labels are shown for buttons and modules. Shows the label of the grouping field as well.
 - When Off, only icons are displayed, reducing text density and visual noise while keeping actions easily recognizable.
 
 ![picture](../pictures/buttonstext.png)
