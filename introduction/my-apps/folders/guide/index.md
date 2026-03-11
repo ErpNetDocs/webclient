@@ -4,7 +4,7 @@
 
 When the My Folders application is opened, the workspace is organized into two main areas that allow users to browse and manage files efficiently.
 
-- Folder tree (left panel, navigattion) <br>
+- Folder tree (left panel, navigation) <br>
 The left panel displays the hierarchical structure of folders created in the system. Folders can contain subfolders and files, forming a tree structure similar to common desktop file explorers. Expanding a folder reveals its contents in the tree, allowing users to navigate through the folder hierarchy.
 
 - Content panel (central panel) <br>
