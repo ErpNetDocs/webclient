@@ -1,4 +1,4 @@
-# Getting started guide 
+# Getting started 
 
 ## Interface overview
 
