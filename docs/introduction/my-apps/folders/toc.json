@@ -1,2 +1,2 @@
 
-{"order":100,"items":[{"name":"Overview","href":"index.html","topicHref":"index.html"},{"name":"Files","href":"files.html","topicHref":"files.html"},{"name":"Getting started","href":"guide.html","topicHref":"guide.html"}],"pdf":false}
+{"order":100,"items":[{"name":"Overview","href":"index.html","topicHref":"index.html"},{"name":"Files","href":"files.html","topicHref":"files.html"},{"name":"Getting started","href":"guide.md","topicHref":"guide.md"}],"pdf":false}

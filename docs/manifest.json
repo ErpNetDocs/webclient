@@ -2494,10 +2494,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/my-apps/folders/guide.md",
+      "source_relative_path": "introduction/my-apps/folders/guide/index.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/my-apps/folders/guide.html"
+          "relative_path": "introduction/my-apps/folders/guide/index.html"
         }
       },
       "version": ""
@@ -2508,6 +2508,16 @@
       "output": {
         ".html": {
           "relative_path": "introduction/my-apps/folders/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/folders/pictures/interface.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/folders/pictures/interface.png"
         }
       },
       "version": ""
