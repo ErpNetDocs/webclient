@@ -47,4 +47,4 @@ When hovering over a folder in the tree, a + icon appears next to it. This actio
 - Context menu <br>
 Additional actions are available through a context menu that appears when right-clicking a folder or file. The menu provides options for common file management operations related to the selected item.
 
-![picture](../pictures/interface.png)
+![picture](pictures/interface.png)
