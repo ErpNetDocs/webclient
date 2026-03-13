@@ -4565,6 +4565,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "navigators/guide/fill-down.md",
+      "output": {
+        ".html": {
+          "relative_path": "navigators/guide/fill-down.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "navigators/guide/how-to-use-filter-row-in-navigators.md",
       "output": {
         ".html": {
@@ -4609,6 +4619,16 @@
       "output": {
         "resource": {
           "relative_path": "navigators/pictures/advancedmode.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "navigators/pictures/filldown.png",
+      "output": {
+        "resource": {
+          "relative_path": "navigators/pictures/filldown.png"
         }
       },
       "version": ""

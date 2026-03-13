@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-      <title>Getting started | ERP.net Web Client </title>
+      <title>How to use mass fill down | ERP.net Web Client </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content="Getting started | ERP.net Web Client ">
+      <meta name="title" content="How to use mass fill down | ERP.net Web Client ">
       
       
       <link rel="icon" href="../../favicon.ico">
@@ -16,7 +16,7 @@
       <meta name="docfx:rel" content="../../">
       
       
-      <meta name="docfx:docurl" content="https://github.com/ErpNetDocs/webclient/blob/master/navigators/guide/index.md/#L1">
+      <meta name="docfx:docurl" content="https://github.com/ErpNetDocs/webclient/blob/master/navigators/guide/fill-down.md/#L1">
       <meta name="loc:inThisArticle" content="In this article">
       <meta name="loc:searchResultsCount" content="{count} results for &quot;{query}&quot;">
       <meta name="loc:searchNoResults" content="No results for &quot;{query}&quot;">
@@ -85,18 +85,42 @@
         </div>
 
         <article data-uid="">
-<h1 id="getting-started">Getting started</h1>
+<h1 id="how-to-use-mass-fill-down">How to use mass fill down</h1>
 
-<p>This section contains how-to instructions on working within the navigators:</p>
-<h3 id="1-navigator-features">1. <a href="../../introduction/navigator-features.html">Navigator features</a></h3>
-<h3 id="2-customize-navigator-panel">2. <a href="customize-nav-panel.html">Customize navigator panel</a></h3>
-<h3 id="3-use-filter-row">3. <a href="how-to-use-filter-row-in-navigators.html">Use filter row</a></h3>
-<h3 id="4-mass-fill-down-a-value">4. <a href="fill-down.html">Mass fill down a value</a></h3>
+<p>Fill Down (Ctrl+D) helps you quickly copy a value from one cell to the cells below in the same column for the selected rows. Use it when you need to apply the same value to multiple existing rows in a grid. For best predictability, review the current grid sorting and filter.</p>
+<p>Before you begin make sure that:</p>
+<ul>
+<li>the grid is in Edit mode</li>
+<li>the rows and cells are editable - you cannot edit released documents</li>
+<li>the rows are selected - indication of their number and selection is available within icon &quot;Selected&quot; (does not apply for row-panels)</li>
+</ul>
+<h2 id="steps">Steps</h2>
+<ol>
+<li>Open the navigator or the record form;</li>
+<li>Switch to Edit mode;</li>
+<li>Select the target rows below in the same column;</li>
+<li>Click into the source cell, that contains the desired value for mass fill-down;</li>
+</ol>
+<p>Now the system is ready to execute the fill down command.</p>
+<ol start="5">
+<li>Right-click to open the cell context menu and choose &quot;Fill down&quot; OR you press key combination Ctrl+D.</li>
+</ol>
+<p>The source value is copied down in the same column, for the selected rows.<br>
+The selected rows are updated with the same value in that column.<br>
+&quot;Save&quot; button lights up.</p>
+<div class="IMPORTANT">
+<h5>Important</h5>
+<p>Fill Down applies to the existing and selected rows only.<br>
+It follows the current grid order.<br>
+It does not create new rows.<br>
+If some rows between the selected ones are not selected, they are not changed.</p>
+</div>
+<p><img src="../pictures/filldown.png" alt="picture"></p>
 
 </article>
 
         <div class="contribution d-print-none">
-          <a href="https://github.com/ErpNetDocs/webclient/blob/master/navigators/guide/index.md/#L1" class="edit-link">Suggest improvement to this page</a>
+          <a href="https://github.com/ErpNetDocs/webclient/blob/master/navigators/guide/fill-down.md/#L1" class="edit-link">Suggest improvement to this page</a>
         </div>
 
         <div class="next-article d-print-none border-top" id="nextArticle"></div>

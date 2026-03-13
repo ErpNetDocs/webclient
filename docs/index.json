@@ -329,6 +329,11 @@
     "title": "Customize navigator panel | ERP.net Web Client",
     "summary": "Customize navigator panel The navigator layout defines which fields are visible and how they are arranged in a navigator. You can customize the layout to better match your working preferences. Enable Advanced Mode To turn on Advanced mode: Go to the App Bar. Select the More options (three dots) menu. Toggle Advanced mode to On. Note This is necessary if you want to see the Panel menu at the top right corner of the panel when several panels are shown in the form. Customize To customize a navigator’s layout: Make sure the navigator you want to customize is the active panel - click inside it Go to the top ribbon and click Menu. Navigate to section Active Panel. Click the name of the currently active navigator. Select Customize panel from the listed options. A Customize Panel window opens and overlays the current navigator. Adjust Layout Settings In the Customize panel window, you can: Show or hide fields (columns) Change the order of fields Adjust the height of the panel or freeze a number of columns to the left When you close the Customize panel window with X, the changes are reflected immediately in the navigator. Save major layout changes Any change made through the Customize view panel is considered a major change. To keep the customized layout for the current role and layout for future use: Go to the top section of the current screen. From the available controls, select the Save Layout button, that is red in colour. This action updates and saves the current navigator layout persistently. Save minor layout changes A minor change is considered any change outside Customize panel option eg. column width, sorting, hiding a column, grouping etc. In such case the Save layout button is blue. Note Saved layouts apply to the current role and layout configuration."
   },
+  "navigators/guide/fill-down.html": {
+    "href": "navigators/guide/fill-down.html",
+    "title": "How to use mass fill down | ERP.net Web Client",
+    "summary": "How to use mass fill down Fill Down (Ctrl+D) helps you quickly copy a value from one cell to the cells below in the same column for the selected rows. Use it when you need to apply the same value to multiple existing rows in a grid. For best predictability, review the current grid sorting and filter. Before you begin make sure that: the grid is in Edit mode the rows and cells are editable - you cannot edit released documents the rows are selected - indication of their number and selection is available within icon \"Selected\" (does not apply for row-panels) Steps Open the navigator or the record form; Switch to Edit mode; Select the target rows below in the same column; Click into the source cell, that contains the desired value for mass fill-down; Now the system is ready to execute the fill down command. Right-click to open the cell context menu and choose \"Fill down\" OR you press key combination Ctrl+D. The source value is copied down in the same column, for the selected rows. The selected rows are updated with the same value in that column. \"Save\" button lights up. Important Fill Down applies to the existing and selected rows only. It follows the current grid order. It does not create new rows. If some rows between the selected ones are not selected, they are not changed."
+  },
   "navigators/guide/how-to-use-filter-row-in-navigators.html": {
     "href": "navigators/guide/how-to-use-filter-row-in-navigators.html",
     "title": "How to use the filter row in navigators | ERP.net Web Client",
@@ -337,7 +342,7 @@
   "navigators/guide/index.html": {
     "href": "navigators/guide/index.html",
     "title": "Getting started | ERP.net Web Client",
-    "summary": "Getting started This section contains how-to instructions on working within the navigators: Navigator features Customize navigator panel Use filter row"
+    "summary": "Getting started This section contains how-to instructions on working within the navigators: 1. Navigator features 2. Customize navigator panel 3. Use filter row 4. Mass fill down a value"
   },
   "navigators/index.html": {
     "href": "navigators/index.html",
