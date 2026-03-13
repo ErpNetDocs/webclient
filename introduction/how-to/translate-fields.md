@@ -1,4 +1,4 @@
-# How to translate multilanguage fields in @@webclient
+# How to translate multilanguage fields
 
 This example shows how to translate a  **Name** field when a value exists in one language and needs to be translated into the other active languages.
 
