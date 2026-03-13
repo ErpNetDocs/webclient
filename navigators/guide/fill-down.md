@@ -1,6 +1,6 @@
 # How to use mass fill down 
 
-Fill Down helps you quickly copy a value from one cell to the selected rows below in the same column. Use it when you need to apply the same value to multiple existing rows in a grid. For best predictability, review the current grid sorting and filter.
+Fill Down helps you quickly copy a value from one cell to the cells below in the same column for the selected rows. Use it when you need to apply the same value to multiple existing rows in a grid. For best predictability, review the current grid sorting and filter.
 
 Before you begin make sure that:
 
