@@ -23,9 +23,9 @@ The source value is copied down in the same column, for the selected rows.
 The selected rows are updated with the same value in that column. The Save button lights up.
 
 > [!IMPORTANT]
-> Fill Down applies to the existing and selected rows only.
-> It follows the current grid order.
-> It does not create new rows.
+> Fill Down applies to the existing and selected rows only.<br>
+> It follows the current grid order.<br>
+> It does not create new rows.<br>
 > If some rows between the selected ones are not selected, they are not changed.
 
 ![picture](../pictures/filldown.png)
