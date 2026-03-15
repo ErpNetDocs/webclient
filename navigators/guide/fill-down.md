@@ -9,10 +9,10 @@ Before you begin make sure that:
 - the rows are selected - indication of their number and selection is available within icon "Selected" (does not apply for row-panels)
 
 ## Steps
-1. Open the navigator or the record form;
+1. Open the navigator or the record form if you are going to edit a row-panel;
 2. Switch to Edit mode;
 3. Select the target rows below in the same column;
-4. Click into the source cell, that contains the desired value for mass fill-down;
+4. Click into the source cell, that contains the desired value for mass fill-down. It must be the top cell in the selection.
 
 Now the system is ready to execute the fill down command.
 
@@ -20,7 +20,8 @@ Now the system is ready to execute the fill down command.
 
 The source value is copied down in the same column, for the selected rows.<br>
 The selected rows are updated with the same value in that column.<br>
-"Save" button lights up.
+
+6. Keep the changes with "Save" button, that lights up.
 
 > [!IMPORTANT]
 > Fill Down applies to the existing and selected rows only.<br>
