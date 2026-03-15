@@ -331,8 +331,8 @@
   },
   "navigators/guide/fill-down.html": {
     "href": "navigators/guide/fill-down.html",
-    "title": "How to use mass fill down | ERP.net Web Client",
-    "summary": "How to use mass fill down Fill Down (Ctrl+D) helps you quickly copy a value from one cell to the cells below in the same column for the selected rows. Use it when you need to apply the same value to multiple existing rows in a grid. For best predictability, review the current grid sorting and filter. Before you begin make sure that: the grid is in Edit mode the rows and cells are editable - you cannot edit released documents the rows are selected - indication of their number and selection is available within icon \"Selected\" (does not apply for row-panels) Steps Open the navigator or the record form; Switch to Edit mode; Select the target rows below in the same column; Click into the source cell, that contains the desired value for mass fill-down; Now the system is ready to execute the fill down command. Right-click to open the cell context menu and choose \"Fill down\" OR you press key combination Ctrl+D. The source value is copied down in the same column, for the selected rows. The selected rows are updated with the same value in that column. \"Save\" button lights up. Important Fill Down applies to the existing and selected rows only. It follows the current grid order. It does not create new rows. If some rows between the selected ones are not selected, they are not changed."
+    "title": "How to use Fill-down function | ERP.net Web Client",
+    "summary": "How to use Fill-down function Fill Down (Ctrl+D) helps you quickly copy a value from one cell to the cells below in the same column for the selected rows. Use it when you need to apply the same value to multiple existing rows in a grid. For best predictability, review the current grid sorting and filter. Before you begin make sure that: the grid is in Edit mode the rows and cells are editable - you cannot edit released documents the rows are selected - indication of their number and selection is available within icon \"Selected\" (does not apply for row-panels) Steps Open the navigator or the record form if you are going to edit a row-panel; Switch to Edit mode; Select the target rows below in the same column; Click into the source cell, that contains the desired value for mass fill-down. It must be the top cell in the selection. Now the system is ready to execute the fill down command. Right-click to open the cell context menu and choose \"Fill down\" OR you press key combination Ctrl+D. The source value is copied down in the same column, for the selected rows. The selected rows are updated with the same value in that column. Keep the changes with \"Save\" button, that lights up. Important Fill Down applies to the existing and selected rows only. It follows the current grid order. It does not create new rows. If some rows between the selected ones are not selected, they are not changed."
   },
   "navigators/guide/how-to-use-filter-row-in-navigators.html": {
     "href": "navigators/guide/how-to-use-filter-row-in-navigators.html",
@@ -342,7 +342,7 @@
   "navigators/guide/index.html": {
     "href": "navigators/guide/index.html",
     "title": "Getting started | ERP.net Web Client",
-    "summary": "Getting started This section contains how-to instructions on working within the navigators: 1. Navigator features 2. Customize navigator panel 3. Use filter row 4. Mass fill down a value"
+    "summary": "Getting started This section contains how-to instructions on working within the navigators: 1. Navigator features 2. Customize navigator panel 3. Use filter row 4. Bulk fill-down a cell value in a column"
   },
   "navigators/index.html": {
     "href": "navigators/index.html",
