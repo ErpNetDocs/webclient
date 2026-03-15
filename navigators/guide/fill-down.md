@@ -1,4 +1,4 @@
-# How to use mass fill down 
+# How to use Fill-down function
 
 Fill Down (Ctrl+D) helps you quickly copy a value from one cell to the cells below in the same column for the selected rows. Use it when you need to apply the same value to multiple existing rows in a grid. For best predictability, review the current grid sorting and filter.
 
