@@ -38,7 +38,11 @@ Explanation of the menu options
 - When On, additional UI controls become available.
 - When Off, these controls are hidden to keep the interface cleaner.
 
-Advanced mode affects the visibility of: Panel menu, Maximize button, Filter funnels in grids, Panel collapse chevron
+Advanced mode affects the visibility of: 
+- Panel menu,
+- Maximize button,
+- Filter funnels in grids,
+- Panel collapse chevron
 
 ![picture](../pictures/advancedon.png)
 
