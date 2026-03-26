@@ -307,7 +307,12 @@
   "layouts-and-views/guide/index.html": {
     "href": "layouts-and-views/guide/index.html",
     "title": "Getting started | ERP.net Web Client",
-    "summary": "Getting started This section explains how to customize layouts and views in ERP.net Web Client. Only users with layout customization permissions have access to customization menus. 1. App-bar menu options Explains the App-bar settings in ERP.net Web Client, including interface modes (Standard mode and Advanced mode), layout visibility options, and UI navigation controls. 2. How to customize form Describes form layout customization in ERP.net Web Client, including rearranging panels, modifying form structure, and saving custom form layouts. 3. How to customize main panel Covers main panel configuration in ERP.net Web Client, including managing embedded panels, controlling panel visibility, and organizing the primary form workspace. 4. How to customize navigator Explains navigator panel customization in ERP.net Web Client, including column selection, column ordering, list layout adjustments, and saving navigator views. 5. How to customize fields Describes field-level UI customization in ERP.net Web Client, including showing or hiding fields, changing field order, and adjusting field display settings. 6. How to add several main panels and tiles Explains how to add multiple main panels and tiles in ERP.net Web Client forms to display parallel data views and enhance layout flexibility"
+    "summary": "Getting started This section explains how to customize layouts and views in ERP.net Web Client. Only users with layout customization permissions have access to customization menus. 1. App-bar menu options Explains the App-bar settings in ERP.net Web Client, including interface modes (Standard mode and Advanced mode), layout visibility options, and UI navigation controls. 2. How to customize form Describes form layout customization in ERP.net Web Client, including rearranging panels, modifying form structure, and saving custom form layouts. 3. How to customize main panel Covers main panel configuration in ERP.net Web Client, including managing embedded panels, controlling panel visibility, and organizing the primary form workspace. 4. How to customize navigator Explains navigator panel customization in ERP.net Web Client, including column selection, column ordering, list layout adjustments, and saving navigator views. 5. How to customize fields Describes field-level UI customization in ERP.net Web Client, including showing or hiding fields, changing field order, and adjusting field display settings. 6. How to add several main panels and tiles Explains how to add multiple main panels and tiles in ERP.net Web Client forms to display parallel data views and enhance layout flexibility 7. How to create a Named layout Explains steps to create and utilize named layouts."
+  },
+  "layouts-and-views/guide/named-layout.html": {
+    "href": "layouts-and-views/guide/named-layout.html",
+    "title": "Create a Named layout | ERP.net Web Client",
+    "summary": "Create a Named layout"
   },
   "layouts-and-views/index.html": {
     "href": "layouts-and-views/index.html",
@@ -342,7 +347,7 @@
   "navigators/guide/index.html": {
     "href": "navigators/guide/index.html",
     "title": "Getting started | ERP.net Web Client",
-    "summary": "Getting started This section contains how-to instructions on working within the navigators: 1. Navigator features 2. Customize navigator panel 3. Use filter row 4. Bulk fill-down a cell value in a column"
+    "summary": "Getting started This section contains how-to instructions on working within the navigators: 1. Navigator features 2. Customize navigator panel 3. Use filter row 4. Bulk fill-down a cell value in a column 5. Create Named layout"
   },
   "navigators/index.html": {
     "href": "navigators/index.html",

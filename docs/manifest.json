@@ -4298,6 +4298,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "layouts-and-views/guide/named-layout.md",
+      "output": {
+        ".html": {
+          "relative_path": "layouts-and-views/guide/named-layout.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "layouts-and-views/guide/toc.yml",
       "output": {
