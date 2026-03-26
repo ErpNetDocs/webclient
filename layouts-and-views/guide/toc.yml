@@ -3,7 +3,7 @@
 
 - name: 1. App-bar menu options
   href: appbar-menu-options.md 
-- name: 2.How to customize form
+- name: 2. How to customize form
   href: customize-form.md  
 - name: 3. How to customize main panel 
   href: customize-main-panel.md
@@ -13,3 +13,5 @@
   href: ../../introduction/how-to/ui-customization/customize-fields.md
 - name: 6. How to add several main panels and tiles
   href: ../../introduction/how-to/ui-customization/create-multiple-panels.md  
+- name: 7. How to create a Named layout
+  href: named-layout.md  
