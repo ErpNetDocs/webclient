@@ -46,23 +46,20 @@ _You are the initiating participant_
 4. Click **"Start"**.<br>
    The video conferencing page opens and the meeting starts immediately.
    
-💡 A system message is automatically posted in the group chat to notify members that the meeting has started.
+
+💡 When a meeting is started, the system **notifies** participants through multiple channels:
+
+- A system comment is posted in the group's chat: "_The meeting has started. Click **Join meeting** to participate._", where "Join meeting" is a link.
+- A notification appears in the **Notifications** panel (Bell icon) and is marked as unread  
+- A toaster notification appears in the bottom-right corner of the screen  
+- A notification sound (melody) is played for up to 10 seconds  
+
+ The sound stops when the toaster is clicked or automatically after the toaster disappears (10s).
 
 
 ### Join a meeting from a Group
 
 _You are simply a participant_
-
-When a meeting is started, the system notifies participants through multiple channels:
-
-- A system message is posted in the group chat  
-- A notification appears in the **Notifications** panel (Bell icon) and is marked as unread  
-- A toaster notification appears in the bottom-right corner of the screen  
-- A notification sound (melody) is played for up to 10 seconds  
-
-💡 The sound stops when the toaster is clicked or automatically after the toaster disappears (10s).
-
-**To join the meeting:**
 
 1. Open the **Groups** section.  
 2. Select the group where the meeting is active.  
