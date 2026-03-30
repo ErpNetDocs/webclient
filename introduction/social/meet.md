@@ -41,8 +41,8 @@ _You are the initiating participant_
 3. Select the participating members - the host member - you - is preselected and cannot be unchecked.
 4. Click "Start"
    The video conferencing page opens and the meeting starts immediately.
-
-> 💡 A system message is automatically posted in the group chat to notify members that the meeting has started.
+   
+💡 A system message is automatically posted in the group chat to notify members that the meeting has started.
 
 
 ### Join a meeting from a Group
