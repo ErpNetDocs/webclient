@@ -51,6 +51,8 @@ _You are the initiating participant_
 
 ### Join a meeting from a Group
 
+_You are simply a participant_
+
 When a meeting is started, the system notifies participants through multiple channels:
 
 - A system message is posted in the group chat  
