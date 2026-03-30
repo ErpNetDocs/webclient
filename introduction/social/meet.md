@@ -32,7 +32,7 @@ This guide shows how to start and join a meeting from the **Groups** section.
 
 ### Start a meeting from a Group
 
-_You are the initiating group member and meeting participant_
+_You are the initiating participant_
 
 1. From within the Group, navigate to tab **Meet** and click on it.
    An informative page opens.
