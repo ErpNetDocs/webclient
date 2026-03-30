@@ -34,12 +34,16 @@ The feature provides a unified video conferencing experience with the following 
 
 _You are the initiating participant_
 
-1. From within the Group, navigate to tab **Meet** and click on it.<br>
+1. From within the Group, navigate to tab **Meet** and click on. it <br>
    An informative page opens.
-2. Click on the button "Start Meeting"<br>
+   
+2. Click on the button **"Start Meeting**".<br>
    A lobby page opens. It contains all group members.
-3. Select the participating members - the host member - you - is preselected and cannot be unchecked.<br>
-4. Click "Start"<br>
+   
+3. Select the participating members.<br>
+   The host member - you - is preselected and cannot be unchecked.
+   
+4. Click **"Start"**.<br>
    The video conferencing page opens and the meeting starts immediately.
    
 💡 A system message is automatically posted in the group chat to notify members that the meeting has started.
