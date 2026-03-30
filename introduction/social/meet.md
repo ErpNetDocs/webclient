@@ -12,10 +12,7 @@ The feature provides a unified video conferencing experience with the following 
 - Integrated meeting environment: Meetings open in a dedicated video conferencing page and are connected to system notifications and chat.
 - Participation through chat notifications: When a meeting starts, a system message is posted in the related chat, allowing participants to join directly.
 - Audio and video readiness: Camera and microphone are available by default for all participants, enabling immediate interaction.
-Recording functionality
-Meetings can be recorded, with recordings stored and made available for download after the session.
-Automatic file management
-Recordings are saved in the corresponding Files section, with system-generated names based on date and time.
+- Recording functionality: Meetings can be recorded, with recordings stored and made available for download after the session.
+- Automatic file management: Recordings are saved in the corresponding Files section, with system-generated names based on date and time.
 
-Additional constraints apply depending on licensing, particularly regarding external access and recording availability.
 
