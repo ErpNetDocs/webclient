@@ -2686,6 +2686,16 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "introduction/my-apps/groups/pictures/social-group-cases.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/my-apps/groups/pictures/social-group-cases.png"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "introduction/my-apps/groups/roles.md",
       "output": {
