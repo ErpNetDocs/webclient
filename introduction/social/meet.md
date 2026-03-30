@@ -8,22 +8,22 @@ This allows discussions to be started in direct relation to ongoing work, reduci
 
 The feature provides a unified video conferencing experience with the following capabilities:
 
-- Instant meeting initiation <br>
+- **Instant meeting initiation** <br>
   Any member of a group or participant in a supported record can start a meeting without prior scheduling.
 
-- Integrated meeting environment <br>
+- **Integrated meeting environment** <br>
   Meetings open in a dedicated video conferencing page and are connected to system notifications and chat.
 
-- Participation through chat notifications <br>
+- **Participation through chat notifications** <br>
   When a meeting starts, a system message is posted in the related chat, allowing participants to join directly.
   
-- Audio and video readiness <br>
+- **Audio and video readiness** <br>
   Camera and microphone are available by default for all participants, enabling immediate interaction.
 
-- Recording functionality <br>
+- **Recording functionality** <br>
   Meetings can be recorded, with recordings stored and made available for download after the session.
   
-- Automatic file management<br>
+- **Automatic file management**<br>
   Recordings are saved in the corresponding Files section, with system-generated names based on date and time.
 
 
