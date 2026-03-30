@@ -51,12 +51,25 @@ _You are the initiating participant_
 
 ### Join a meeting from a Group
 
-_You are simply a meeting participant_
+When a meeting is started, the system notifies participants through multiple channels:
+
+- A system message is posted in the group chat  
+- A notification appears in the **Notifications** panel (Bell icon) and is marked as unread  
+- A toaster notification appears in the bottom-right corner of the screen  
+- A notification sound (melody) is played for up to 10 seconds  
+
+💡 The sound stops when the toaster is clicked or automatically after the toaster disappears (10s).
+
+**To join the meeting:**
 
 1. Open the **Groups** section.  
 2. Select the group where the meeting is active.  
-3. In the chat, locate the system message indicating that a meeting has started.  
-4. Click **Join meeting**.  
-5. The video conferencing page opens and you join the ongoing meeting.
+3. Join the meeting using any of the following entry points:
+   - Click **Join meeting** in the chat message  
+   - Open the notification from the **Notifications** panel  
+   - Click the toaster notification  
+4. The meeting lobby page opens.  
+5. Click **Join meeting** to enter the ongoing meeting.
+
 
 
