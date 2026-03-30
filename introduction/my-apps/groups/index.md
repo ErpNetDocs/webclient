@@ -53,6 +53,12 @@ You can see information about each file's format, the name of its author, as wel
 
 ![Pictures](pictures/Groups_Files_16_04.png)
 
+## Cases
+
+[Cases](https://docs.erp.net/tech/modules/work-management/agile/cases/index.html) are accessible directly within Social Groups through a dedicated Cases tab. When opened, the tab displays a grid navigator listing all Cases assigned for attention to that group. Group members can view and access these Cases, enabling them to follow up and work on them within the relevant team context.
+
+![Pictures](pictures/social-group-cases.png)
+
 ## Members
 
 The final **Members** tab houses all members of the current group, together with their **[roles](roles.md)**.
