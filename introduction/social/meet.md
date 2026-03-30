@@ -1,4 +1,4 @@
-# Meet in @@webclient (Video Conferensing)
+# Meet in @@webclient (Video Conferencing)
 
 The Meet feature enables real-time video conferencing directly within the system, allowing users to initiate and participate in online meetings without leaving their working context. It is designed to support immediate communication and collaboration across teams by integrating video meetings into the environments where work is already managed.
 
