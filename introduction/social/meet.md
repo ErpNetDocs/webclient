@@ -52,7 +52,7 @@ _You are the initiating participant_
 > 🔔 A system comment is posted in the group's chat: "_The meeting has started. Click **Join meeting** to participate._", where "Join meeting" is a link.<br>
 > 🔔 A notification appears in the **Notifications** panel (Bell icon) and is marked as unread.<br>
 > 🔔 A red toaster pops up in the bottom-right corner of the screen (for 10s). <br> 
-> 🔔 A melody is played for up to 10 seconds. It stops when the toaster is clicked or automatically after the toaster disappears (10s).
+> 🔔 A melody is played. It will stop if you click on the red toaster, or after 10 seconds.
 
 
 ### Join a meeting from a Group
@@ -69,4 +69,40 @@ If you have missed the notifications you can:<be>
 2. Click **Join meeting** to enter the ongoing meeting.<br>
    The conferencing page opens, and you can see what is being shared and participate.
 
+### Start a meeting from a record
 
+You can initiate a meeting from the following records:
+- Case  
+- Activity  
+- Service Activity  
+- Marketing Activity  
+
+1. Open the desired record.  
+2. Open the main menu (three vertical dots in the top-right corner of the form).  
+3. Select option **Meet**.  
+   A side panel opens with the Meet initial page - _Start a new meeting_..  
+4. Click **Start meeting**.  
+   The meeting lobby page opens and displays the list of potential participants.  
+5. Select/deselect the participants.  
+6. Click **Start**.  
+   The video conferencing page opens and the meeting starts.
+
+### Join a meeting from a record
+
+When a meeting is started, the system notifies participants through the mentioned channels (see Note above). The system message is posted in the related Discuss panel of the record.<br>
+From within the record (Case, Activity, Service Activity, or Marketing Activity)
+1. Join the meeting using any of the available entry points:
+   - Click **Join meeting** in the chat message.  
+   - Click on the notification from the **Notifications** panel. 
+   - Click the red toaster.   
+2. The meeting lobby page opens.  
+3. Click **Join meeting** to enter the ongoing meeting.
+
+---
+
+### Participants
+
+Participants in meetings started from records are determined based on the context of the record. This may include:
+
+- Users who follow the record (for example, tagged users)  
+- Users explicitly listed as participants (e.g. in Activities)
