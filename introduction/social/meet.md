@@ -26,8 +26,6 @@ The feature provides a unified video conferencing experience with the following 
 - **Automatic file management**<br>
   Recordings are saved in the corresponding Files section, with system-generated names based on date and time.
 
----
-
 ## Getting Started
 
 ### Start a meeting from a Group
@@ -46,7 +44,6 @@ _You are the initiating participant_
 4. Click **"Start"**.<br>
    The video conferencing page opens and the meeting starts immediately.
    
-
 > [!NOTE]
 >  When a meeting is started, the system **notifies** participants through multiple channels:<br>
 > 🔔 A system comment is posted in the group's chat: "_The meeting has started. Click **Join meeting** to participate._", where "Join meeting" is a link.<br>
