@@ -43,6 +43,15 @@ _You are the initiating participant_
    
 4. Click **"Start"**.<br>
    The video conferencing page opens and the meeting starts immediately.
+
+The **video conferencing page** provides the active meeting environment where participants communicate in real time. It includes standard meeting controls, such as:
+
+- Audio and video management
+- Screen or content sharing
+- Environment and layout settings
+- Meeting recording controls
+
+These controls allow participants to interact, present, and manage the meeting as it progresses.
    
 > [!NOTE]
 >  When a meeting is started, the system **notifies** participants through multiple channels:<br>
@@ -50,6 +59,7 @@ _You are the initiating participant_
 > 🔔 A notification appears in the **Notifications** panel (Bell icon) and is marked as unread.<br>
 > 🔔 A red toaster pops up in the bottom-right corner of the screen (for 10s). <br> 
 > 🔔 A melody is played. It will stop if you click on the red toaster, or after 10 seconds.
+
 
 
 ### Join a meeting from a Group
@@ -112,8 +122,8 @@ The availability of video conferencing features is **License-based**:
 
 > [!IMPORTANT]
 > Potential **Participants** in meetins are determined based on the context of the record.<br>
-> A meeting from a Case calls participants who are Tagged at least, or have set higher follow level (Following, Favorite) for the record.
-> A meeting from an Activity/Service Activity/Marketing Activity needs users explicitly listed as participants (panel "Participants".
-> A meeting from a Group needs only its Group Members.
+> - A meeting from a Case calls participants who are Tagged at least, or have set higher follow level (Following, Favorite) for the record.<br>
+> - A meeting from an Activity/Service Activity/Marketing Activity needs users explicitly listed as participants (panel "Participants".<br>
+> - A meeting from a Group needs only its Group Members.
 
 
