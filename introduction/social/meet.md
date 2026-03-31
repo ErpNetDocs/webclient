@@ -95,11 +95,25 @@ From within the record (Case, Activity, Service Activity, or Marketing Activity)
 2. The meeting lobby page opens.  
 3. Click **Join meeting** to enter the ongoing meeting.
 
----
+*For specifics about Participants, see Configuration section
 
-### Participants
+## Configuration
 
-Participants in meetings started from records are determined based on the context of the record. This may include:
+The availability of video conferencing features is **License-based**:
 
-- Users who follow the record (for example, tagged users)  
-- Users explicitly listed as participants (e.g. in Activities)
+- **X19 – Basic**
+  - Meetings are available for internal users only  
+  - Recording is not available  
+
+- **X20 – Advanced**
+  - Meetings are available for both internal and external users  
+  - Recording is available and can be initiated by internal users  
+
+
+> [!IMPORTANT]
+> Potential **Participants** in meetins are determined based on the context of the record.<br>
+> A meeting from a Case calls participants who are Tagged at least, or have set higher follow level (Following, Favorite) for the record.
+> A meeting from an Activity/Service Activity/Marketing Activity needs users explicitly listed as participants (panel "Participants".
+> A meeting from a Group needs only its Group Members.
+
+
