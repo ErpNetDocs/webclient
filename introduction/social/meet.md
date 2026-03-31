@@ -105,7 +105,7 @@ From within the record (Case, Activity, Service Activity, or Marketing Activity)
 2. The meeting lobby page opens.  
 3. Click **Join meeting** to enter the ongoing meeting.
 
-*For specifics about Participants, see Configuration.
+*For rules about Participants, see Configuration.
 
 ### Record a meeting
 
