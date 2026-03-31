@@ -111,7 +111,6 @@ Meetings can be recorded, with recordings stored and made available for download
 Recordings are saved in the corresponding Files section, with system-generated names based on date and time.</p>
 </li>
 </ul>
-<hr>
 <h2 id="getting-started">Getting Started</h2>
 <h3 id="start-a-meeting-from-a-group">Start a meeting from a Group</h3>
 <p><em>You are the initiating participant</em></p>
@@ -129,13 +128,21 @@ The host member - you - is preselected and cannot be unchecked.</p>
 The video conferencing page opens and the meeting starts immediately.</p>
 </li>
 </ol>
+<p>The <strong>video conferencing page</strong> provides the active meeting environment where participants communicate in real time. It includes standard meeting controls, such as:</p>
+<ul>
+<li>Audio and video management</li>
+<li>Screen or content sharing</li>
+<li>Environment and layout settings</li>
+<li>Meeting recording controls</li>
+</ul>
+<p>These controls allow participants to interact, present, and manage the meeting as it progresses.</p>
 <div class="NOTE">
 <h5>Note</h5>
 <p>When a meeting is started, the system <strong>notifies</strong> participants through multiple channels:<br>
 🔔 A system comment is posted in the group's chat: &quot;<em>The meeting has started. Click <strong>Join meeting</strong> to participate.</em>&quot;, where &quot;Join meeting&quot; is a link.<br>
 🔔 A notification appears in the <strong>Notifications</strong> panel (Bell icon) and is marked as unread.<br>
 🔔 A red toaster pops up in the bottom-right corner of the screen (for 10s). <br>
-🔔 A melody is played for up to 10 seconds. It stops when the toaster is clicked or automatically after the toaster disappears (10s).</p>
+🔔 A melody is played. It will stop if you click on the red toaster, or after 10 seconds.</p>
 </div>
 <h3 id="join-a-meeting-from-a-group">Join a meeting from a Group</h3>
 <p><em>You are simply a participant</em></p>
@@ -151,6 +158,86 @@ If you have missed the notifications you can:<be></be></p>
 <li>Click <strong>Join meeting</strong> to enter the ongoing meeting.<br>
 The conferencing page opens, and you can see what is being shared and participate.</li>
 </ol>
+<h3 id="start-a-meeting-from-a-record">Start a meeting from a record</h3>
+<p>You can initiate a meeting from the following records:</p>
+<ul>
+<li>Case</li>
+<li>Activity</li>
+<li>Service Activity</li>
+<li>Marketing Activity</li>
+</ul>
+<ol>
+<li>Open the desired record.</li>
+<li>Open the main menu (three vertical dots in the top-right corner of the form).</li>
+<li>Select option <strong>Meet</strong>.<br>
+A side panel opens with the Meet initial page - <em>Start a new meeting</em>..</li>
+<li>Click <strong>Start meeting</strong>.<br>
+The meeting lobby page opens and displays the list of potential participants.</li>
+<li>Select/deselect the participants.</li>
+<li>Click <strong>Start</strong>.<br>
+The video conferencing page opens and the meeting starts.</li>
+</ol>
+<h3 id="join-a-meeting-from-a-record">Join a meeting from a record</h3>
+<p>When a meeting is started, the system notifies participants through the mentioned channels (see Note above). The system message is posted in the related Discuss panel of the record.<br>
+From within the record (Case, Activity, Service Activity, or Marketing Activity)</p>
+<ol>
+<li>Join the meeting using any of the available entry points:
+<ul>
+<li>Click <strong>Join meeting</strong> in the chat message.</li>
+<li>Click on the notification from the <strong>Notifications</strong> panel.</li>
+<li>Click the red toaster.</li>
+</ul>
+</li>
+<li>The meeting lobby page opens.</li>
+<li>Click <strong>Join meeting</strong> to enter the ongoing meeting.</li>
+</ol>
+<p>*For specifics about Participants, see Configuration section</p>
+<h3 id="record-a-meeting">Record a meeting</h3>
+<ol>
+<li>In the video conferencing page, locate the recording control - a round button - and click on it.<br>
+A confirmation pop-up appears.<br></li>
+<li>Click <strong>Start recording</strong>.<br><br>
+The system begins recording the meeting.<br>
+💡 Two  toasters notify that a Recording is being prepared and a Link is generated.<br>
+💡 A voice confirms that &quot;Recording is on&quot;.<br></li>
+</ol>
+<p>To stop recording, click <strong>Stop recording</strong> - a square button. Confirm.<br>
+💡 A voice confirms that &quot;Recording has stopped&quot;.<br></p>
+<p>The recording is available for download immediately after the meeting and is saved in the <strong>Files</strong> of the Group and the record. The file name includes the exact date and time of the meeting.</p>
+<h2 id="configuration">Configuration</h2>
+<p>The availability of video conferencing features is <strong>License-based</strong>:</p>
+<ul>
+<li><p><strong>X19 – Basic</strong></p>
+<ul>
+<li>Meetings are available for internal users only</li>
+<li>Recording is not available</li>
+</ul>
+</li>
+<li><p><strong>X20 – Advanced</strong></p>
+<ul>
+<li>Meetings are available for both internal and external users</li>
+<li>Recording is available and can be initiated by internal users</li>
+</ul>
+</li>
+</ul>
+<div class="IMPORTANT">
+<h5>Important</h5>
+<p>Potential <strong>Participants</strong> in meetins are determined based on the context of the record.<br></p>
+<ul>
+<li>A meeting from a Case calls participants who are Tagged at least, or have set higher follow level (Following, Favorite) for the record.<br></li>
+<li>A meeting from an Activity/Service Activity/Marketing Activity needs users explicitly listed as participants (panel &quot;Participants&quot;.<br></li>
+<li>A meeting from a Group needs only its Group Members.</li>
+</ul>
+</div>
+<h2 id="concepts">Concepts</h2>
+<h3 id="recording-lifecycle">Recording lifecycle</h3>
+<p>Meeting recordings are automatically processed and made available for download immediately after the meeting ends. They are stored in the <strong>Files</strong> section of the related group or record. The File is actually an URL address from which to download the recording. The recordings are in fact stored within the provider of the videoconferencing service &quot;Jitsi.org&quot;</p>
+<p>Each recording is assigned a system-generated name that includes the exact date and time of the meeting.</p>
+<p>Recordings are available for download for a limited time only:</p>
+<ul>
+<li>The download link remains active for 24 hours</li>
+<li>After this period, the recording is automatically deleted and can no longer be accessed</li>
+</ul>
 
 </article>
 
