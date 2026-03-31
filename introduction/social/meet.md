@@ -47,28 +47,26 @@ _You are the initiating participant_
    The video conferencing page opens and the meeting starts immediately.
    
 
-💡 When a meeting is started, the system **notifies** participants through multiple channels:
-
-- A system comment is posted in the group's chat: "_The meeting has started. Click **Join meeting** to participate._", where "Join meeting" is a link.
-- A notification appears in the **Notifications** panel (Bell icon) and is marked as unread  
-- A toaster notification appears in the bottom-right corner of the screen  
-- A notification sound (melody) is played for up to 10 seconds  
-
- The sound stops when the toaster is clicked or automatically after the toaster disappears (10s).
+> [!NOTE]
+>  When a meeting is started, the system **notifies** participants through multiple channels:<br>
+> 🔔 A system comment is posted in the group's chat: "_The meeting has started. Click **Join meeting** to participate._", where "Join meeting" is a link.<br>
+> 🔔 A notification appears in the **Notifications** panel (Bell icon) and is marked as unread.<br>
+> 🔔 A red toaster pops up in the bottom-right corner of the screen (for 10s). <br> 
+> 🔔 A melody is played for up to 10 seconds. It stops when the toaster is clicked or automatically after the toaster disappears (10s).
 
 
 ### Join a meeting from a Group
 
 _You are simply a participant_
 
-1. Open the **Groups** section.  
-2. Select the group where the meeting is active.  
-3. Join the meeting using any of the following entry points:
-   - Click **Join meeting** in the chat message  
-   - Open the notification from the **Notifications** panel  
-   - Click the toaster notification  
-4. The meeting lobby page opens.  
-5. Click **Join meeting** to enter the ongoing meeting.
+**Variant A** - Join an ongoing meeting using the entry points in the NOTE<br>
+1. Click on the red toaster, or the notification, or the link in the system comment - the system takes you to the lobby page.
+2. Click **Join meeting** to enter the ongoing meeting.
 
+**Variant B** - Join an ongoing meeting from the Group <br>
+If you have missed the notifications you can:<be>
+1. Go to tab Meet
+2. Click **Join meeting** to enter the ongoing meeting.<br>
+   The conferencing page opens, and you can see what is being shared and participate.
 
 
