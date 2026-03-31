@@ -95,7 +95,9 @@ You can initiate a meeting from the following records:
 ### Join a meeting from a record
 
 When a meeting is started, the system notifies participants through the mentioned channels (see Note above). The system message is posted in the related Discuss panel of the record.<br>
+
 From within the record (Case, Activity, Service Activity, or Marketing Activity)
+
 1. Join the meeting using any of the available entry points:
    - Click **Join meeting** in the chat message.  
    - Click on the notification from the **Notifications** panel. 
@@ -103,7 +105,7 @@ From within the record (Case, Activity, Service Activity, or Marketing Activity)
 2. The meeting lobby page opens.  
 3. Click **Join meeting** to enter the ongoing meeting.
 
-*For specifics about Participants, see Configuration section
+*For specifics about Participants, see Configuration.
 
 ### Record a meeting
 
@@ -133,7 +135,7 @@ The availability of video conferencing features is **License-based**:
 
 
 > [!IMPORTANT]
-> Potential **Participants** in meetins are determined based on the context of the record.<br>
+> Potential **Participants** in meetins are determined based on the context of the record.
 > - A meeting from a Case calls participants who are Tagged at least, or have set higher follow level (Following, Favorite) for the record.<br>
 > - A meeting from an Activity/Service Activity/Marketing Activity needs users explicitly listed as participants (panel "Participants".<br>
 > - A meeting from a Group needs only its Group Members.
