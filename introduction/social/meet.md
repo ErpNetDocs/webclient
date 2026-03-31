@@ -137,7 +137,7 @@ The availability of video conferencing features is **License-based**:
 > [!IMPORTANT]
 > Potential **Participants** in meetins are determined based on the context of the record.
 > - A meeting from a Case calls participants who are Tagged at least, or have set higher follow level (Following, Favorite) for the record.<br>
-> - A meeting from an Activity/Service Activity/Marketing Activity needs users explicitly listed as participants (panel "Participants".<br>
+> - A meeting from an Activity/Service Activity/Marketing Activity needs users explicitly listed as participants.<br>
 > - A meeting from a Group needs only its Group Members.
 
 ## Concepts
