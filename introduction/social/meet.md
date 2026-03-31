@@ -60,8 +60,6 @@ These controls allow participants to interact, present, and manage the meeting a
 > 🔔 A red toaster pops up in the bottom-right corner of the screen (for 10s). <br> 
 > 🔔 A melody is played. It will stop if you click on the red toaster, or after 10 seconds.
 
-
-
 ### Join a meeting from a Group
 
 _You are simply a participant_
@@ -106,6 +104,20 @@ From within the record (Case, Activity, Service Activity, or Marketing Activity)
 3. Click **Join meeting** to enter the ongoing meeting.
 
 *For specifics about Participants, see Configuration section
+
+### Record a meeting
+
+1. In the video conferencing page, locate the recording control - a round button - and click on it.<br>
+   A confirmation pop-up appears.<br>
+2. Click **Start recording**.<br>  
+   The system begins recording the meeting.<br>
+💡 Two  toasters notify that a Recording is being prepared and a Link is generated.<br>
+💡 A voice confirms that "Recording is on".<br>
+
+To stop recording, click **Stop recording** - a square button. Confirm.<br> 
+💡 A voice confirms that "Recording has stopped".<br>
+
+The recording is available for download immediately after the meeting and is saved in the **Files** of the Group and the record. The file name includes the exact date and time of the meeting.
 
 ## Configuration
 
