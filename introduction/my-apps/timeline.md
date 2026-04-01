@@ -44,6 +44,8 @@ This is useful when working with records such as:
 
 The result is a contextual chronological view directly inside the form.
 
+![Timeline shown inside a customer form](pictures/Timeline-Customer.png)
+
 ### View modes
 
 The Timeline supports multiple time scales so the same information can be reviewed at different levels.
