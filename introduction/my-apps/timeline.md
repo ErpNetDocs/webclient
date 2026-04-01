@@ -58,6 +58,8 @@ Typical modes include:
 
 Use the view selector to switch between the available modes.
 
+![Timeline with by-week view options](pictures/timeline-byweek.png)
+
 ### Navigation
 
 The Timeline includes controls for moving across time periods.
@@ -70,6 +72,8 @@ You can:
 - choose a date from the date picker
 
 These controls make it easier to review both recent and upcoming activities and documents.
+
+![Timeline navigation inside a form](pictures/timeline-navigation.png)
 
 ### When to use Timeline in a form
 
