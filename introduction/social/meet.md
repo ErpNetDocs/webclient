@@ -1,6 +1,8 @@
-# Meet in @@webclient (Video Conferencing)
+# Meet in @@webclient 
 
-The Meet feature enables real-time video conferencing directly within the system, allowing users to initiate and participate in online meetings without leaving their working context. It is designed to support immediate communication and collaboration across teams by integrating video meetings into the environments where work is already managed.
+The Meet feature (Video Conferencing) enables real-time video conferencing directly within the system, allowing users to initiate and participate in online meetings without leaving their working context. It is designed to support immediate communication and collaboration across teams by integrating video meetings into the environments where work is already managed.
+
+Our company has chosen [jaas.8x8.vc](https://jaas.8x8.vc/#/) platform for this feature.
 
 Meet is available within Groups and can also be initiated from business-related records, including Cases, Activities, Service Activities and Marketing Activities.
 
