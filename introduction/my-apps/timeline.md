@@ -26,7 +26,7 @@ To show it in a form:
 4. In the **Items** tab, enable **Timeline** from the **Widgets** section.
 5. Save the layout.
 
-For more information about adding panels to forms, see [How to customize form in ERP.net Web Client](../../layouts-and-views/guide/customize-form.html).
+For more information about adding panels to forms, see [How to customize form in ERP.net Web Client](https://docs.erp.net/webclient/layouts-and-views/guide/customize-form.html).
 
 ### Context-aware behavior in forms
 
