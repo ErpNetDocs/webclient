@@ -12,7 +12,7 @@ The timeline displays not just your activities, but:
 
 This is a convenient tool with which you can trace chronologically what happend. The timeline shows 15 days in a row and groups all events, according to the related party.
 
-![My apps - Timeline](./pictures/my-apps-timeline.png)
+![My apps - Timeline](pictures/Timeline-general3.png)
 
 ## 1. Timeline as a widget
 
@@ -25,6 +25,8 @@ To show it in a form:
 3. Select **Customize form**.
 4. In the **Items** tab, enable **Timeline** from the **Widgets** section.
 5. Save the layout.
+
+![Timeline widget added to a form](pictures/timeline-widget3.png)
 
 For more information about adding panels to forms, see [How to customize form in ERP.net Web Client](https://docs.erp.net/webclient/layouts-and-views/guide/customize-form.html).
 
