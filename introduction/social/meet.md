@@ -89,6 +89,10 @@ If you have missed the notifications you can:<be>
 
 ![picture](pictures/meet-join.png)
 
+When participants ar ina meeting, their user state changes to "Busy".
+
+![picture](pictures/meet-busy.png)
+
 ### Start a meeting from a record
 
 You can initiate a meeting from the following records:
