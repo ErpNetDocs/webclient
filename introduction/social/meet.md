@@ -183,9 +183,9 @@ The availability of video conferencing features is **License-based**:
 
 ## Concepts
 
-### Meeting platform
+### Meet platform
 
-ERP.net has implemented Jitsi As A Service [jaas.8x8.vc](https://jaas.8x8.vc/#/) platform for this feature. The meeting is held within a new browser window. At ist end, the browser tab remains until closed by hand.
+ERP.net has implemented Jitsi As A Service [jaas.8x8.vc](https://jaas.8x8.vc/#/) platform for this feature. The meeting is held within a new browser window. At its end, the browser tab remains until closed by hand.
 
 ### Recording lifecycle
 
