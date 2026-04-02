@@ -37,18 +37,18 @@ The feature provides a unified video conferencing experience with the following 
 _You are the initiating participant_
 
 1. From within the Group, navigate to tab **Meet** and click on. it <br>
-   An informative page opens.
+An informative page opens.
    
 2. Click on the button **"Start Meeting**".<br>
-   A lobby page opens. It contains all group members.
+A lobby page opens. It contains all group members.
 
 3. Select the participating members.<br>
-   The host member - you - is preselected and cannot be unchecked.
+The host member - you - is preselected and cannot be unchecked.
 
 ![picture](pictures/meet-start1.png)
 
 4. Click **"Start"**.<br>
-   The video conferencing page opens and the meeting starts immediately.
+The video conferencing page opens and the meeting starts immediately.
    
 ![picture](pictures/meet-start2.png)
 
@@ -103,11 +103,17 @@ You can initiate a meeting from the following records:
 
 1. Open the desired record.  
 2. Open the main menu (three vertical dots in the top-right corner of the form).  
-3. Select option **Meet**.  
-   A side panel opens with the Meet initial page - _Start a new meeting_..  
+3. Select option **Meet**.
+   
+A side panel opens with the Meet initial page - _Start a new meeting_.
+![picture](pictures/meet-activity1.png)  
+   
 4. Click **Start meeting**.  
-   The meeting lobby page opens and displays the list of potential participants.  
-5. Select/deselect the participants.  
+The meeting lobby page opens and displays the list of potential participants.  
+   
+![picture](pictures/meet-activity2.png)
+
+5. Select/deselect participants.  
 6. Click **Start**.  
    The video conferencing page opens and the meeting starts.
 
@@ -123,6 +129,8 @@ From within the record (Case, Activity, Service Activity, or Marketing Activity)
    - Click the red toaster.   
 2. The meeting lobby page opens.  
 3. Click **Join meeting** to enter the ongoing meeting.
+
+![picture](pictures/meet-activity-join.png)
 
 *For rules about Participants, see Configuration.
 
