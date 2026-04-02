@@ -41,12 +41,16 @@ _You are the initiating participant_
    
 2. Click on the button **"Start Meeting**".<br>
    A lobby page opens. It contains all group members.
-   
+
 3. Select the participating members.<br>
    The host member - you - is preselected and cannot be unchecked.
-   
+
+![picture](pictures/meet-start1.png)
+
 4. Click **"Start"**.<br>
    The video conferencing page opens and the meeting starts immediately.
+   
+![picture](pictures/meet-start2.png)
 
 The **video conferencing page** provides the active meeting environment where participants communicate in real time. It includes standard meeting controls, such as:
 
@@ -56,13 +60,18 @@ The **video conferencing page** provides the active meeting environment where pa
 - Meeting recording controls
 
 These controls allow participants to interact, present, and manage the meeting as it progresses.
+
+![picture](pictures/meet-controls.png)
    
 > [!NOTE]
 >  When a meeting is started, the system **notifies** participants through multiple channels:<br>
+>
 > 🔔 A system comment is posted in the group's chat: "_The meeting has started. Click **Join meeting** to participate._", where "Join meeting" is a link.<br>
 > 🔔 A notification appears in the **Notifications** panel (Bell icon) and is marked as unread.<br>
 > 🔔 A red toaster pops up in the bottom-right corner of the screen (for 10s). <br> 
 > 🔔 A melody is played. It will stop if you click on the red toaster, or after 10 seconds.
+
+![picture](pictures/meet-notifs.png)
 
 ### Join a meeting from a Group
 
@@ -77,6 +86,8 @@ If you have missed the notifications you can:<be>
 1. Go to tab Meet
 2. Click **Join meeting** to enter the ongoing meeting.<br>
    The conferencing page opens, and you can see what is being shared and participate.
+
+![picture](pictures/meet-join.png)
 
 ### Start a meeting from a record
 
