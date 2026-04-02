@@ -126,6 +126,12 @@ From within the record (Case, Activity, Service Activity, or Marketing Activity)
 
 *For rules about Participants, see Configuration.
 
+### Stop a meeting
+
+Participants can leave the meeting at any time by pressing the red "End call" button. If only two participants are in the meeting, it ends when either of them leaves.
+
+![picture](pictures/meet-leave.png)
+
 ### Record a meeting
 
 1. In the video conferencing page, locate the recording control - a round button - and click on it.<br>
@@ -160,6 +166,10 @@ The availability of video conferencing features is **License-based**:
 > - A meeting from a Group needs only its Group Members.
 
 ## Concepts
+
+### Meeting platform
+
+ERP.net has implemented Jitsi As A Service [jaas.8x8.vc](https://jaas.8x8.vc/#/) platform for this feature. The meeting is held within a new browser window. At ist ending, the browser will remain until closed by hand.
 
 ### Recording lifecycle
 
