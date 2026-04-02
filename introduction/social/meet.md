@@ -116,6 +116,7 @@ The meeting lobby page opens and displays the list of potential participants.
 The video conferencing page opens and the meeting starts.
    
 ![picture](pictures/meet-activity2.png)
+
 ### Join a meeting from a record
 
 When a meeting is started, the system notifies participants through the mentioned channels (see Note above). The system message is posted in the related Discuss panel of the record.<br>
