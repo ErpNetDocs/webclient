@@ -137,7 +137,7 @@ Participants can leave the meeting at any time by pressing the red "End call" bu
 1. In the video conferencing page, locate the recording control - a round button - and click on it.<br>
    A confirmation pop-up appears.<br>
 2. Click **Start recording**.<br>  
-   The system begins recording the meeting.<br>
+The system begins recording the meeting.<br>
 💡 Two  toasters notify that a Recording is being prepared and a Link is generated.<br>
 💡 A voice confirms that "Recording is on".<br>
 
@@ -169,7 +169,7 @@ The availability of video conferencing features is **License-based**:
 
 ### Meeting platform
 
-ERP.net has implemented Jitsi As A Service [jaas.8x8.vc](https://jaas.8x8.vc/#/) platform for this feature. The meeting is held within a new browser window. At ist ending, the browser will remain until closed by hand.
+ERP.net has implemented Jitsi As A Service [jaas.8x8.vc](https://jaas.8x8.vc/#/) platform for this feature. The meeting is held within a new browser window. At ist end, the browser tab remains until closed by hand.
 
 ### Recording lifecycle
 
