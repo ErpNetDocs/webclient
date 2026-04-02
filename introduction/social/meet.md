@@ -6,6 +6,8 @@ Our company has chosen [jaas.8x8.vc](https://jaas.8x8.vc/#/) platform for this f
 
 Meet is available within Groups and can also be initiated from business-related records, including Cases, Activities, Service Activities and Marketing Activities.
 
+![picture](pictures/meet-tab.png)
+
 This allows discussions to be started in direct relation to ongoing work, reducing the need to switch between tools and ensuring that communication remains context-aware.
 
 The feature provides a unified video conferencing experience with the following capabilities:
