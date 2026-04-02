@@ -105,18 +105,17 @@ You can initiate a meeting from the following records:
 2. Open the main menu (three vertical dots in the top-right corner of the form).  
 3. Select option **Meet**.
    
-A side panel opens with the Meet initial page - _Start a new meeting_.
 ![picture](pictures/meet-activity1.png)  
    
+A side panel opens with the Meet initial page - _Start a new meeting_.
+
 4. Click **Start meeting**.  
 The meeting lobby page opens and displays the list of potential participants.  
-   
-![picture](pictures/meet-activity2.png)
-
 5. Select/deselect participants.  
 6. Click **Start**.  
-   The video conferencing page opens and the meeting starts.
-
+The video conferencing page opens and the meeting starts.
+   
+![picture](pictures/meet-activity2.png)
 ### Join a meeting from a record
 
 When a meeting is started, the system notifies participants through the mentioned channels (see Note above). The system message is posted in the related Discuss panel of the record.<br>
