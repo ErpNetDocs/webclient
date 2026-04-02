@@ -4232,6 +4232,146 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-activity-join.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-activity-join.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-activity1.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-activity1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-activity2.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-activity2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-busy.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-busy.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-controls.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-controls.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-join.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-join.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-leave.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-leave.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-notifs.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-notifs.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-recording-download.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-recording-download.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-recording-start.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-recording-start.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-recording-stop.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-recording-stop.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-start1.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-start1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-start2.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-start2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-tab.png"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "introduction/social/pictures/one.md",
       "output": {
