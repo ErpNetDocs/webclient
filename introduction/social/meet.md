@@ -149,10 +149,18 @@ The system begins recording the meeting.<br>
 💡 Two  toasters notify that a Recording is being prepared and a Link is generated.<br>
 💡 A voice confirms that "Recording is on".<br>
 
+![picture](pictures/meet-recording-start.png)
+
 To stop recording, click **Stop recording** - a square button. Confirm.<br> 
 💡 A voice confirms that "Recording has stopped".<br>
 
-The recording is available for download immediately after the meeting and is saved in the **Files** of the Group and the record. The file name includes the exact date and time of the meeting.
+![picture](pictures/meet-recording-stop.png)
+
+The recording generates as a file, that is actually a URL link. It is stored in tab Files of the Group or the record. The file name includes the exact date and time of the meeting.A system comment announces the upload of the File too.
+
+The link leads to download of the recording immediately, but the record itself is kept for 24h only.
+
+![picture](pictures/meet-recording-download.png)
 
 ## Configuration
 
