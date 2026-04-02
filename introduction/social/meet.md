@@ -193,7 +193,8 @@ Meeting recordings are automatically processed and made available for download i
 
 Each recording is assigned a system-generated name that includes the exact date and time of the meeting.
 
-Recordings are available for download for a limited time only:
-- The download link remains active for 24 hours  
-- After this period, the recording is automatically deleted and can no longer be accessed  
+> [!WARNING]
+> Recording is available for download for a limited time only - 24h. After this period it is automatically deleted and can no longer be accessed.
+> Make sure to download it immediately after the meeting ends! 
+
 
