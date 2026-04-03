@@ -93,7 +93,7 @@ If you have missed the notifications you can:<be>
 
 ![picture](pictures/meet-join.png)
 
-When participants are in meeting, their user state changes to "Busy".
+When participants are in a meeting, their user state changes to "Busy".
 
 ![picture](pictures/meet-busy.png)
 
