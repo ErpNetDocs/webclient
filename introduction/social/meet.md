@@ -30,6 +30,10 @@ The feature provides a unified video conferencing experience with the following 
 - **Automatic file management**<br>
   Recordings are saved in the corresponding Files section, with system-generated names based on date and time.
 
+## Meet platform
+
+ERP.net has implemented Jitsi As A Service [jaas.8x8.vc](https://jaas.8x8.vc/#/) platform for this feature. The meeting is held within a new browser window. At its end, the browser tab remains until closed by hand.
+
 ## Getting Started
 
 ### Start a meeting from a Group
@@ -89,7 +93,7 @@ If you have missed the notifications you can:<be>
 
 ![picture](pictures/meet-join.png)
 
-When participants ar ina meeting, their user state changes to "Busy".
+When participants are in meeting, their user state changes to "Busy".
 
 ![picture](pictures/meet-busy.png)
 
@@ -158,9 +162,11 @@ To stop recording, click **Stop recording** - a square button. Confirm.<br>
 
 The recording generates as a file, that is actually a URL link. It is stored in tab Files of the Group or the record. The file name includes the exact date and time of the meeting.A system comment announces the upload of the File too.
 
-The link leads to download of the recording immediately, but the record itself is kept for 24h only.
-
 ![picture](pictures/meet-recording-download.png)
+
+> [!WARNING]
+> Recording is available for download for a limited time only - 24h. After this period it is automatically deleted and can no longer be accessed.
+> Make sure to download it immediately after the meeting ends!
 
 ## Configuration
 
@@ -174,27 +180,12 @@ The availability of video conferencing features is **License-based**:
   - Meetings are available for both internal and external users  
   - Recording is available and can be initiated by internal users  
 
-
 > [!IMPORTANT]
-> Potential **Participants** in meetins are determined based on the context of the record.
+> Potential **Participants** in meetings are determined based on the context of the record.
 > - A meeting from a Case calls participants who are Tagged at least, or have set higher follow level (Following, Favorite) for the record.<br>
 > - A meeting from an Activity/Service Activity/Marketing Activity needs users explicitly listed as participants.<br>
 > - A meeting from a Group needs only its Group Members.
 
-## Concepts
 
-### Meet platform
-
-ERP.net has implemented Jitsi As A Service [jaas.8x8.vc](https://jaas.8x8.vc/#/) platform for this feature. The meeting is held within a new browser window. At its end, the browser tab remains until closed by hand.
-
-### Recording lifecycle
-
-Meeting recordings are automatically processed and made available for download immediately after the meeting ends. They are stored in the **Files** section of the related group or record. The File is actually an URL address from which to download the recording. The recordings are in fact stored within the provider of the videoconferencing service "Jitsi.org"
-
-Each recording is assigned a system-generated name that includes the exact date and time of the meeting.
-
-> [!WARNING]
-> Recording is available for download for a limited time only - 24h. After this period it is automatically deleted and can no longer be accessed.
-> Make sure to download it immediately after the meeting ends! 
 
 
