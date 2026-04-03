@@ -113,6 +113,8 @@ Meetings can be recorded, with recordings stored and made available for download
 Recordings are saved in the corresponding Files section, with system-generated names based on date and time.</p>
 </li>
 </ul>
+<h2 id="meet-platform">Meet platform</h2>
+<p>ERP.net has implemented Jitsi As A Service <a href="https://jaas.8x8.vc/#/">jaas.8x8.vc</a> platform for this feature. The meeting is held within a new browser window. At its end, the browser tab remains until closed by hand.</p>
 <h2 id="getting-started">Getting Started</h2>
 <h3 id="start-a-meeting-from-a-group">Start a meeting from a Group</h3>
 <p><em>You are the initiating participant</em></p>
@@ -166,7 +168,7 @@ If you have missed the notifications you can:<be></be></p>
 The conferencing page opens, and you can see what is being shared and participate.</li>
 </ol>
 <p><img src="pictures/meet-join.png" alt="picture"></p>
-<p>When participants ar ina meeting, their user state changes to &quot;Busy&quot;.</p>
+<p>When participants are in meeting, their user state changes to &quot;Busy&quot;.</p>
 <p><img src="pictures/meet-busy.png" alt="picture"></p>
 <h3 id="start-a-meeting-from-a-record">Start a meeting from a record</h3>
 <p>You can initiate a meeting from the following records:</p>
@@ -224,8 +226,12 @@ The system begins recording the meeting.<br>
 💡 A voice confirms that &quot;Recording has stopped&quot;.<br></p>
 <p><img src="pictures/meet-recording-stop.png" alt="picture"></p>
 <p>The recording generates as a file, that is actually a URL link. It is stored in tab Files of the Group or the record. The file name includes the exact date and time of the meeting.A system comment announces the upload of the File too.</p>
-<p>The link leads to download of the recording immediately, but the record itself is kept for 24h only.</p>
 <p><img src="pictures/meet-recording-download.png" alt="picture"></p>
+<div class="WARNING">
+<h5>Warning</h5>
+<p>Recording is available for download for a limited time only - 24h. After this period it is automatically deleted and can no longer be accessed.
+Make sure to download it immediately after the meeting ends!</p>
+</div>
 <h2 id="configuration">Configuration</h2>
 <p>The availability of video conferencing features is <strong>License-based</strong>:</p>
 <ul>
@@ -244,23 +250,12 @@ The system begins recording the meeting.<br>
 </ul>
 <div class="IMPORTANT">
 <h5>Important</h5>
-<p>Potential <strong>Participants</strong> in meetins are determined based on the context of the record.</p>
+<p>Potential <strong>Participants</strong> in meetings are determined based on the context of the record.</p>
 <ul>
 <li>A meeting from a Case calls participants who are Tagged at least, or have set higher follow level (Following, Favorite) for the record.<br></li>
 <li>A meeting from an Activity/Service Activity/Marketing Activity needs users explicitly listed as participants.<br></li>
 <li>A meeting from a Group needs only its Group Members.</li>
 </ul>
-</div>
-<h2 id="concepts">Concepts</h2>
-<h3 id="meet-platform">Meet platform</h3>
-<p>ERP.net has implemented Jitsi As A Service <a href="https://jaas.8x8.vc/#/">jaas.8x8.vc</a> platform for this feature. The meeting is held within a new browser window. At its end, the browser tab remains until closed by hand.</p>
-<h3 id="recording-lifecycle">Recording lifecycle</h3>
-<p>Meeting recordings are automatically processed and made available for download immediately after the meeting ends. They are stored in the <strong>Files</strong> section of the related group or record. The File is actually an URL address from which to download the recording. The recordings are in fact stored within the provider of the videoconferencing service &quot;Jitsi.org&quot;</p>
-<p>Each recording is assigned a system-generated name that includes the exact date and time of the meeting.</p>
-<div class="WARNING">
-<h5>Warning</h5>
-<p>Recording is available for download for a limited time only - 24h. After this period it is automatically deleted and can no longer be accessed.
-Make sure to download it immediately after the meeting ends!</p>
 </div>
 
 </article>
