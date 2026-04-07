@@ -160,9 +160,14 @@ To stop recording, click **Stop recording** - a square button. Confirm.<br>
 
 ![picture](pictures/meet-recording-stop.png)
 
-The recording generates as a file, that is actually a URL link. It is stored in tab Files of the Group or the record. The file name includes the exact date and time of the meeting.A system comment announces the upload of the File too.
+The recording generates as a file, that is actually a URL link. It is stored in tab Files of the Group or the record. The file name includes the exact date and time of the meeting.
+A system comment announces the upload of the File too.
 
 ![picture](pictures/meet-recording-download.png)
+
+The system comment for the uploaded file also has a link to download the recording. By clicking the link, the file starts downloading immediately, while the download page opens in the Folders application.
+
+![picture](pictures/meet-recording-file-link.png)
 
 > [!WARNING]
 > Recording is available for download for a limited time only - 24h. After this period it is automatically deleted and can no longer be accessed.
