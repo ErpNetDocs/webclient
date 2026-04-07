@@ -4323,6 +4323,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/social/pictures/meet-recording-file-link.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/social/pictures/meet-recording-file-link.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/social/pictures/meet-recording-start.png",
       "output": {
         "resource": {
