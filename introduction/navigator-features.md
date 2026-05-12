@@ -2,6 +2,14 @@
 
 There are several features and behaviors that are common for all ERP.net Web Client navigators.
 
+## Edit
+
+The user can edit a cell value directly from the Navigator grid, no need to open the record in a separate form. Edit mode is activated:
+- click on **Edit** button on the menu ribbon
+- double-click in a cell
+
+![Pictures](pictures/edit-navigator.png)
+
 ## Default sorting
 
 If you haven't customized the view of a document navigator in any way, or if you have reset your current view's settings to default, they will be sorted by **Document Date** in a descending order.
