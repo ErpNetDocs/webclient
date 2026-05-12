@@ -4033,6 +4033,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/edit-navigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/edit-navigator.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/group_by.png",
       "output": {
         "resource": {
