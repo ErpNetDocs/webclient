@@ -10,7 +10,7 @@ Before you begin make sure that:
 
 ## Steps
 1. Open the navigator or the record form if you are going to edit a row-panel;
-2. Switch to Edit mode;
+2. Switch to Edit mode - click on the Edit button or double-click in a cell;
 3. Select the target rows below in the same column;
 4. Click into the source cell, that contains the desired value for mass fill-down. It must be the top cell in the selection.
 
