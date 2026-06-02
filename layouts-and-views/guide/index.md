@@ -1,4 +1,4 @@
-# Getting started
+# Operations
 
 This section explains how to customize layouts and views in @@webclient. Only users with layout [customization permissions](../concepts/permissions-and-dependencies.md) have access to customization menus.
 
