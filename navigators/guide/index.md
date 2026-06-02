@@ -1,4 +1,4 @@
-# Getting started
+# Operations
 
 This section contains how-to instructions on working within the navigators:
 
