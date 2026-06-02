@@ -351,8 +351,8 @@
   },
   "navigators/guide/index.html": {
     "href": "navigators/guide/index.html",
-    "title": "Getting started | ERP.net Web Client",
-    "summary": "Getting started This section contains how-to instructions on working within the navigators: 1. Navigator features 2. Customize navigator panel 3. Use filter row 4. Bulk fill-down a cell value in a column 5. Create Named layout"
+    "title": "Operations | ERP.net Web Client",
+    "summary": "Operations This section contains how-to instructions on working within the navigators: 1. Navigator features 2. Customize navigator panel 3. Use filter row 4. Bulk fill-down a cell value in a column 5. Create Named layout"
   },
   "navigators/index.html": {
     "href": "navigators/index.html",
