@@ -1,7 +1,7 @@
 - name: Overview
   href: index.md
   
-- name: Configurations
+- name: Configuration
   href: configurations.md
 
 - name: Operations 
