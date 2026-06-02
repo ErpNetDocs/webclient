@@ -1,13 +1,14 @@
 - name: Overview
   href: index.md
   
-- name: Operations 
-  href: guide/toc.yml
-  topicHref: guide/index.md
 
 - name: Configurations
   href: configurations.md
 
+- name: Operations 
+  href: guide/toc.yml
+  topicHref: guide/index.md
+  
 - name: Concepts
   href: concepts/index.md
   
