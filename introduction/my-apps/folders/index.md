@@ -10,7 +10,7 @@ The Folders application also acts as a central location for files attached to ER
 
 By providing a familiar folder-based structure, the application simplifies document organization and retrieval. Users can browse files through the folder hierarchy, perform common file management operations, and maintain a clear structure for corporate documents within the system.
 
-## What the Folders application enables
+## Folders application enables
 
 - Organizing files in a hierarchical folder structure
 
@@ -28,7 +28,7 @@ By providing a familiar folder-based structure, the application simplifies docum
 > - Maximum file size for upload is 50 MB. In chat discussions an attached file may not exceed 5 MB.<br>
 > - Files and Folders are by default sorted in alphabetical order, folders going first.
 
-## Interface overview
+## Interface 
 
 When the My Folders application is opened, the workspace is organized into two main areas that allow users to browse and manage files efficiently.
 
