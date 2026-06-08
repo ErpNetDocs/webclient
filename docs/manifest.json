@@ -4878,6 +4878,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "navigators/pictures/columnmenu.png",
+      "output": {
+        "resource": {
+          "relative_path": "navigators/pictures/columnmenu.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "navigators/pictures/filldown.png",
       "output": {
         "resource": {
@@ -4898,10 +4908,30 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "navigators/pictures/gridmenu.png",
+      "output": {
+        "resource": {
+          "relative_path": "navigators/pictures/gridmenu.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "navigators/pictures/modern.png",
       "output": {
         "resource": {
           "relative_path": "navigators/pictures/modern.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "navigators/pictures/panelmenu.png",
+      "output": {
+        "resource": {
+          "relative_path": "navigators/pictures/panelmenu.png"
         }
       },
       "version": ""
