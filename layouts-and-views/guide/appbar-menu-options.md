@@ -39,12 +39,16 @@ Explanation of the menu options
 - When Off, these controls are hidden to keep the interface cleaner.
 
 Advanced mode affects the visibility of: 
-- Panel menu,
-- Maximize button,
-- Filter funnels in grids,
+- Panel menu
+- Maximize button
+- Filter funnels in grids
 - Panel collapse chevron
 
+> [!NOTE]
+> If only one panel is shown in the form the elements will not be visible. Advanced mode makes a difference when at least two panels are shown in the form.
+
 ![picture](../pictures/advancedon.png)
+
 
 ## 7. Open links in new tab
 - When On, records that open in full view will launch in a new browser tab.
@@ -52,9 +56,9 @@ Advanced mode affects the visibility of:
 
 Currently, this behavior applies to:
 
-👉 Links in received notifications (clicking a notification opens the target record)
-👉 Links in navigators (the first column link that opens a record)
-👉 Links in chat (e.g., links to objects in system comments or shared items)
+👉 Links in received notifications (clicking a notification opens the target record)<br>
+👉 Links in navigators (the first column link that opens a record)<br>
+👉 Links in chat (e.g., links to objects in system comments or shared items)<br>
 
 ## 8. Customize view
 Opens a settings panel that allows the user to choose which applications are displayed on the App-bar and to define their order. This lets each user personalize quick access to the applications they use most.
