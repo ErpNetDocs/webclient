@@ -17,7 +17,6 @@ Turn on "Advanced mode" in order to have access to the Panel menu at the top rig
 
 Customization is done from option "Customize panel". It can be reached from several access points:
 
-
 **(1)** From the merged panel menu - Active panel:
 
 1. Make sure the **navigator** you want to customize is the **active panel** - click inside it
@@ -32,6 +31,22 @@ Customization is done from option "Customize panel". It can be reached from seve
 
 1. Click the panel menu - three vertical dots in the top right corner 
 2. Click option **Customize panel**
+
+![picture](../pictures/panelmenu.png)
+
+**(3)** Grid menu:
+
+1. Right-click anywhere in the navigator grid - a menu will open
+2. Click option **Customize panel**
+
+![picture](../pictures/gridmenu.png)
+
+**(4)** Column menu:
+
+1. Right-click in the column title cell - a context menu will open
+2. Click option **Customize panel**
+
+![picture](../pictures/columnmenu.png)
 
 ## Adjust layoutsSettings
 
