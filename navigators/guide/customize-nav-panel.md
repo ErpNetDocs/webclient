@@ -4,7 +4,7 @@ The navigator layout defines which fields are visible and how they are arranged 
 
 ## Enable Advanced Mode
 
-To turn on Advanced mode:
+Turn on "Advanced mode" in order to have access to the Panel menu at the top right corner of the panel. This is necessary when several panels are shown in the form.
 
 1. Go to the **App Bar**.
 2. Select the **More options** (three dots) menu.
@@ -12,29 +12,33 @@ To turn on Advanced mode:
 
 ![picture](../pictures/advancedmode.png)
 
-> [!NOTE]
-> This is necessary if you want to see the Panel menu at the top right corner of the panel when several panels are shown in the form.
 
-## Customize 
+## Customize panel
 
-To customize a navigator’s layout:
+Customization is done from option "Customize panel". It can be reached from several access points:
+
+
+**(1)** From the merged panel menu - Active panel:
 
 1. Make sure the **navigator** you want to customize is the **active panel** - click inside it
-2. Go to the  top ribbon and click **Menu**.
+2. Go to the top ribbon and click **Menu**.
 3. Navigate to section **Active Panel**.
 4. Click the **name of the currently active navigator**.
-5. Select **Customize panel** from the listed options.
-
-A **Customize Panel** window opens and overlays the current navigator.
+5. Click **Customize panel** from the listed options.
 
 ![picture](../pictures/activepanel.png)
 
-## Adjust Layout Settings
+**(2)** From the Panel menu:
 
-In the Customize panel window, you can:
+1. Click the panel menu - three vertical dots in the top right corner 
+2. Click option **Customize panel**
+
+## Adjust layoutsSettings
+
+When you activate the "Customize panel", a window opens and overlays the current navigator.In this window, you can:
 - Show or hide fields (columns)
 - Change the order of fields
--  Adjust the height of the panel or freeze a number of columns to the left
+- Adjust the height of the panel or freeze a number of columns to the left
 
 When you close the Customize panel window with X, the changes are reflected immediately in the navigator.
 
