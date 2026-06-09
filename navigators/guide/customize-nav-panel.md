@@ -2,7 +2,7 @@
 
 The navigator layout defines which fields are visible and how they are arranged in a navigator. You can customize the layout to better match your working preferences.
 
-## Enable Advanced Mode
+## Enable Advanced mode
 
 Turn on "Advanced mode" in order to have access to the Panel menu at the top right corner of the panel. This is necessary when several panels are shown in the form.
 
@@ -48,16 +48,16 @@ Customization is done from option "Customize panel". It can be reached from seve
 
 ![picture](../pictures/columnmenu.png)
 
-## Adjust layoutsSettings
+## Set the desired layout
 
-When you activate the "Customize panel", a window opens and overlays the current navigator.In this window, you can:
+When you activate the "Customize panel", a window opens and overlays the current navigator. In this window, you can:
 - Show or hide fields (columns)
 - Change the order of fields
 - Adjust the height of the panel or freeze a number of columns to the left
 
 When you close the Customize panel window with X, the changes are reflected immediately in the navigator.
 
-## Save major layout changes
+## Save major changes
 
 Any change made through the Customize view panel is considered a major change. To keep the customized layout for the current role and layout for future use:
 
@@ -68,7 +68,7 @@ This action updates and saves the current navigator layout persistently.
 
 ![picture](../pictures/savelayout.png)
 
-## Save minor layout changes
+## Save minor changes
 
 A minor change is considered any change outside Customize panel option eg. column width, sorting, hiding a column, grouping etc. In such case the Save layout button is blue.
 
