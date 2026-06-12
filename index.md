@@ -1,6 +1,6 @@
 # Welcome to the @@webclient Documentation
 
-This documentation contains information about the user interface and capabilities of the @@webclient...
+This documentation contains information about the user interface and capabilities of the @@webclient.
 
 ## Topics
  
