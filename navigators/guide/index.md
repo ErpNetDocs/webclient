@@ -7,3 +7,4 @@ This section contains how-to instructions on working within the navigators:
 ### 3. [Use filter row](how-to-use-filter-row-in-navigators.md)
 ### 4. [Bulk fill-down a cell value in a column](fill-down.md)
 ### 5. [Create Named layout](../../layouts-and-views/guide/named-layout.md)
+### 6. [Update records](update-records.md)
