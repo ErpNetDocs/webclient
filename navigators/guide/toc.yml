@@ -10,3 +10,5 @@
   href: fill-down.md
 - name: 5. Create Named layout
   href: ../../layouts-and-views/guide/named-layout.md
+- name: 6. Update records
+  href: update-records.md
