@@ -41,7 +41,7 @@ Arrange the columns in the same order as the corresponding columns in the naviga
 
 **4.** Switch the navigator to Edit mode.
 
-5. Right-click anywhere in the navigator and select "Paste new rows".
+**5.** Right-click anywhere in the navigator and select "Paste new rows".
 
 ![picture](../pictures/edit-products.png)
 
