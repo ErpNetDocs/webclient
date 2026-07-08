@@ -48,6 +48,8 @@ The copied rows are pasted into the navigator.
 
 6. If any pasted cells are highlighted in red, correct the invalid values directly in the navigator by selecting valid values from the available lists.
 
+![picture](../pictures/pasted.png)
+
 When all validation errors have been resolved, the pasted cells are outlined with green borders, indicating that the rows are ready to be processed.
 
 7. From the ribbon, click "Action" and then select "Update records".
@@ -64,4 +66,4 @@ The system compares the pasted rows with the existing records using the entity's
 
 The navigator is refreshed to display the processed records. Successfully updated or created records are marked with a green status indicator. If a row is marked with a red status indicator, the operation for that row was not completed successfully and requires your attention.
 
-![picture](../pictures/success.png) 📷 Screenshot: Navigator after the operation showing green and red status indicators.
+![picture](../pictures/update-success.png) 
