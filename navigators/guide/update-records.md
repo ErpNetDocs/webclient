@@ -56,7 +56,7 @@ When all validation errors have been resolved, the pasted cells are outlined wit
 
 ![picture](../pictures/update-records-function1.png) 
 
-8. In the confirmation dialog, click Update to start the operation.
+8. In the confirmation dialog, click OK to start the operation.
 
 ![picture](../pictures/update-records-function2.png)
 
