@@ -5,9 +5,6 @@ It is equal to function "Merge" in WinClient.
 
 During the operation, the system matches the prepared rows with existing records using the entity's primary key. If a matching record is found, it is updated with the new values. If no matching record exists, a new record is created automatically.
 
-> [!Important]
-> Changes made by the Update records function are applied and saved immediately. Unlike normal editing in the navigator, the operation commits all successfully processed records directly to the database.
-
 > [!Note]
 > The Update function is intended for mass updates. Unlike Save, which stores the current state of edited records, Update treats the pasted rows as the source
 of an update operation. Existing records are matched by their primary key and updated accordingly, reducing the risk of creating duplicate records during bulk
@@ -25,9 +22,7 @@ In this example, we will update several existing products by copying modified da
 
 **1.** Open the Products navigator and display the columns that you want to update.
 
-💡 Tip
-
-Only the columns that are visible in the navigator participate in the update operation. Hidden columns are ignored.
+💡 Tip: Only the columns that are visible in the navigator participate in the update operation. Hidden columns are ignored.
 
 ![picture](../pictures/products.png)
 
@@ -47,24 +42,27 @@ Arrange the columns in the same order as the corresponding columns in the naviga
 
 The copied rows are pasted into the navigator.
 
-6. If any pasted cells are highlighted in red, correct the invalid values directly in the navigator by selecting valid values from the available lists.
+**6.** If any pasted cells are highlighted in red, correct the invalid values directly in the navigator by selecting valid values from the available lists.
 
 ![picture](../pictures/pasted.png)
 
 When all validation errors have been resolved, the pasted cells are outlined with green borders, indicating that the rows are ready to be processed.
 
-7. From the ribbon, click "Action" and then select "Update records".
+**7.** From the ribbon, click "Action" and then select "Update records".
 
 ![picture](../pictures/update-records-function1.png) 
 
-8. In the confirmation dialog, click OK to start the operation.
+**8.** In the confirmation dialog, click OK to start the operation.
 
 ![picture](../pictures/update-records-function2.png)
 
 The system compares the pasted rows with the existing records using the entity's primary key. Records with matching primary key values are updated with the new data. If no matching record is found, a new record is created.
 
-10. When the operation completes, review the results.
+**9.** When the operation completes, review the results.
 
 The navigator is refreshed to display the processed records. Successfully updated or created records are marked with a green status indicator. If a row is marked with a red status indicator, the operation for that row was not completed successfully and requires your attention.
 
 ![picture](../pictures/update-success.png) 
+
+> [!Important]
+> The Update records function immediately applies and saves all successfully processed changes. Unlike normal navigator editing, no additional Save action is required after the operation completes. Review your data carefully before executing the command.
