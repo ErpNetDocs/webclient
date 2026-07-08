@@ -28,13 +28,13 @@ In this example, we will update several existing products by copying modified da
 
 Only the columns that are visible in the navigator participate in the update operation. Hidden columns are ignored.
 
-![picture](products.png)
+![picture](../pictures/products.png)
 
 2. Prepare the data to be updated in an external source, such as an Excel spreadsheet.
 
 Arrange the columns in the same order as the corresponding columns in the navigator and modify the values that you want to apply to the existing product records.
 
-![picture](excel.png)
+![picture](../pictures/excel.png)
 
 3. Copy the prepared rows.
 
@@ -42,28 +42,26 @@ Arrange the columns in the same order as the corresponding columns in the naviga
 
 5. Right-click anywhere in the navigator and select "Paste new rows".
 
-![picture](edit-products.png)
+![picture](../pictures/edit-products.png)
 
 The copied rows are pasted into the navigator.
-
-![picture](paste-products.png)
 
 6. If any pasted cells are highlighted in red, correct the invalid values directly in the navigator by selecting valid values from the available lists.
 
 When all validation errors have been resolved, the pasted cells are outlined with green borders, indicating that the rows are ready to be processed.
 
-![picture](green-products.png)
-
 7. From the ribbon, click "Action" and then select "Update records".
 
-![picture](update-records-function.png) 📷 Screenshot: The Action menu with the Update records command highlighted.
+![picture](../pictures/update-records-function1.png) 
 
 8. In the confirmation dialog, click Update to start the operation.
 
+![picture](../pictures/update-records-function2.png)
+
 The system compares the pasted rows with the existing records using the entity's primary key. Records with matching primary key values are updated with the new data. If no matching record is found, a new record is created.
 
-9. When the operation completes, review the results.
+10. When the operation completes, review the results.
 
 The navigator is refreshed to display the processed records. Successfully updated or created records are marked with a green status indicator. If a row is marked with a red status indicator, the operation for that row was not completed successfully and requires your attention.
 
-![picture](success.png) 📷 Screenshot: Navigator after the operation showing green and red status indicators.
+![picture](../pictures/success.png) 📷 Screenshot: Navigator after the operation showing green and red status indicators.
