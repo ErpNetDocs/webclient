@@ -5,12 +5,13 @@ It is equal to function "Merge" in WinClient.
 
 During the operation, the system matches the prepared rows with existing records using the entity's primary key. If a matching record is found, it is updated with the new values. If no matching record exists, a new record is created automatically.
 
-This is especially useful when importing or copying predefined data into the navigator, allowing you to update existing records efficiently while creating new ones only when necessary.
+> [!Important]
+> Changes made by the Update records function are applied and saved immediately. Unlike normal editing in the navigator, the operation commits all successfully processed records directly to the database.
 
 > [!Note]
 > The Update function is intended for mass updates. Unlike Save, which stores the current state of edited records, Update treats the pasted rows as the source
-> of an update operation. Existing records are matched by their primary key and updated accordingly, reducing the risk of creating duplicate records during bulk
-> data modifications.
+of an update operation. Existing records are matched by their primary key and updated accordingly, reducing the risk of creating duplicate records during bulk
+data modifications.
 
 ## Prerequisite
 
@@ -22,7 +23,7 @@ The Update function only processes the columns that are currently visible in the
 
 In this example, we will update several existing products by copying modified data from an Excel spreadsheet into the Products navigator.
 
-1. Open the Products navigator and display the columns that you want to update.
+**1.** Open the Products navigator and display the columns that you want to update.
 
 💡 Tip
 
@@ -30,15 +31,15 @@ Only the columns that are visible in the navigator participate in the update ope
 
 ![picture](../pictures/products.png)
 
-2. Prepare the data to be updated in an external source, such as an Excel spreadsheet.
+**2.** Prepare the data to be updated in an external source, such as an Excel spreadsheet.
 
 Arrange the columns in the same order as the corresponding columns in the navigator and modify the values that you want to apply to the existing product records.
 
 ![picture](../pictures/excel.png)
 
-3. Copy the prepared rows.
+**3.** Copy the prepared rows.
 
-4. Switch the navigator to Edit mode.
+**4.** Switch the navigator to Edit mode.
 
 5. Right-click anywhere in the navigator and select "Paste new rows".
 
