@@ -68,11 +68,11 @@ This separation makes Favorites meaningful, limited, and intentional.
 
 ---
 
-## Getting Started
+## Operations
 
 This section describes the shortest path to start using follow levels in the Web Client.
 
-### Change follow level from the header
+### 1. Change follow level from the header
 
 1. Open the object you want to follow (e.g. a document, a case, etc.).
 2. Use the **star (follow) button** in the form header.
@@ -86,11 +86,11 @@ This section describes the shortest path to start using follow levels in the Web
 Expected result:
 - If you set an object to **Favorite**, it becomes available in the **Favorites** app.
 
-### Change follow level from the context menu
+### 2. Change follow level from the context menu
 
 The context menu follow action uses the **same behavior as the form header button** (the same click-cycle logic).
 
-## Quick follow/unfollow actions 
+### 3. Quick follow/unfollow  
 
 In addition to the standard follow-level click cycle, you can use the following shortcuts on the **Follow (star) icon** to immediately change the follow states (skip the cycle): 
 
@@ -98,12 +98,12 @@ In addition to the standard follow-level click cycle, you can use the following 
 
 - Unfollow immediately - *Shift + Click* on the star icon → **Unfollow** (removes the follow record and if Favorite - removes it from My Favorites).
 
-### Automatic follow
+### 4. Automatic follow
 
 The user may automatically start following an object - level TAGGED - in several cases:
-- when he is mentioned in the discuss panel of the record [R32946](https://docs.erp.net/model/business-rules/R32946.html)
-- when he comments an object in the discuss panel [R33430](https://docs.erp.net/model/business-rules/R33430.html)
-- when he creates an Agile Case  - [Rule R38780](https://docs.erp.net/model/business-rules/R38780.html)
+- when the user is mentioned in the discuss panel of the record [R32946](https://docs.erp.net/model/business-rules/R32946.html)
+- when the user comments an object in the discuss panel [R33430](https://docs.erp.net/model/business-rules/R33430.html)
+- when the user creates an Agile Case - owner of a case - - [Rule R38780](https://docs.erp.net/model/business-rules/R38780.html)
 
 ---
 
@@ -138,7 +138,6 @@ This change is deliberate and aligns the system with clearer user intent and sca
 
 When the system creates a follow automatically (e.g. due to a mention), the follow level is **Tagged**.
 
-
 **Chat groups**
 
 - Group membership sets automatic follow level **Tagged** for the Group.
@@ -157,7 +156,7 @@ Follow level is applied per notification class, not as a global “enable/disabl
 - Record Update classes notifications are created only when Follow level ≥ FOLLOW,
 - and Implicit document-state change notifications (NT_DOC_STATE_IMPLICIT) are created only when Follow level = FAVORITE and this Favorite object is respected across all relevant follows for the document, which means that at least one relevant Favorite enables the creation of a notification upon State change, and the system must deduplicate so a single status change generates exactly one NT_DOC_STATE_IMPLICIT per recipient, even if multiple Favorite paths exist.
 
-## How Does This Dependency Work in Practice?
+**How Does This Dependency Work in Practice?**
 
 Consider a record: **Offer 111** for Customer **AAA**.
 
@@ -190,7 +189,7 @@ Implicit notifications are still not created at this level.
 
 **3. Favorite on a Related Object → Implicit Notification**
 
-User B follows **Customer AAA** as a **Favorite** object. (Follow Level = *Favorite*). 
+User B follows **Customer AAA** as a **Favorite** object. (Follow Level towards the Customer = Favorite). 
 
 However, User B does **not** follow *Offer 111* (neither Tagged nor Following).
 
