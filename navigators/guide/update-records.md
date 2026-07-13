@@ -12,7 +12,7 @@ data modifications.
 
 ## Prerequisite
 
-Before running "Update records", make sure the navigator displays all columns whose values you want to update.
+Before running "Update records", make sure the navigator displays **all columns whose values you want to update**.
 
 The Update function only processes the columns that are currently visible in the navigator. Hidden columns are ignored, even if they are present in the pasted data. If you want to update a particular field, display its corresponding column before executing the operation.
 
@@ -22,7 +22,7 @@ In this example, we will update several existing products by copying modified da
 
 **1.** Open the Products navigator and display the columns that you want to update.
 
-💡 Tip: Only the columns that are visible in the navigator participate in the update operation. Hidden columns are ignored.
+💡 Tip: Only the columns that are visible participate in the update operation. Hidden columns are ignored.
 
 ![picture](../pictures/products.png)
 
@@ -36,7 +36,7 @@ Arrange the columns in the same order as the corresponding columns in the naviga
 
 **4.** Switch the navigator to Edit mode.
 
-**5.** Right-click anywhere in the navigator and select "Paste new rows".
+**5.** Right-click anywhere in the grid (on a row) to reveal the context menu and select "Paste new rows".
 
 ![picture](../pictures/edit-products.png)
 
@@ -66,3 +66,5 @@ The navigator is refreshed to display the processed records. Successfully update
 
 > [!Important]
 > The Update records function immediately applies and saves all successfully processed changes. Unlike normal navigator editing, no additional Save action is required after the operation completes. Review your data carefully before executing the command.
+
+**10.** Exit to view mode by pressing "Discard" button.
