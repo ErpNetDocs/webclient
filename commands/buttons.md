@@ -101,7 +101,8 @@ Use to create a new record. It is available in the navigators, the navigation pa
 ---
 
 ## Reload
-Use to refresh the page, equal to F5 key. It appears in the navigators.
+It appears in the navigators. Refreshes the data in the current navigator or table without reloading the entire browser page. It forces the navigator data to be loaded again instead of reusing data cached in the browser.
+Unlike the browser’s F5 command, it refreshes only the navigator.
 
 ---
 ## Details
