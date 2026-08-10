@@ -14,22 +14,18 @@
   href: select-navigator.md
 - name: Use the Advanced filter
   href: advanced-filter.md
-- name: Define user roles
-  href: user-roles.md
 - name: Enter keyboard data
   href: enter-stops.md
 - name: Use the Access Permission field
   href: access-permission-field.md
-
 - name: Create a new Stored Attribute or Calculated Attribute
   href: ui-customization/create-new-attributes.md
-
 - name: Translate multilanguage fields
   href: translate-fields.md
-
 - name: Invite a new user into an instance
   href: https://docs.erp.net/tech/modules/system/security/how-to/invite-a-user.html
-
+- name: Define user roles
+  href: user-roles.md
 - name: Create and use id.erp.net account
   href: https://info.erp.net/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.html
   
