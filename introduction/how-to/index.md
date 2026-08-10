@@ -16,8 +16,6 @@ Here, you will find guides that can help you better navigate and use the @@name 
 
 - [Use the Advanced filter](advanced-filter.md)
   
-- [Define user roles](user-roles.md)
-  
 - [Use the Access Permission field in the Files panel](access-permission-field.md)
 
 - [Use functional panels](./functional-panels/index.md)
@@ -27,5 +25,7 @@ Here, you will find guides that can help you better navigate and use the @@name 
 - [Translate multilanguage fields](translate-fields.md)
 
 - [Invite a new user into an instance](https://docs.erp.net/tech/modules/system/security/how-to/invite-a-user.html)
+
+- [Define user roles](user-roles.md)
 
 - [Create and use id.erp.net account](https://info.erp.net/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.html)
