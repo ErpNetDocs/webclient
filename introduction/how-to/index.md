@@ -25,3 +25,7 @@ Here, you will find guides that can help you better navigate and use the @@name 
 - [Create a new Stored Attribute or Calculated Attribute](./ui-customization/create-new-attributes.md)
 
 - [Translate multilanguage fields](translate-fields.md)
+
+- [Invite a new user into an instance](https://docs.erp.net/tech/modules/system/security/how-to/invite-a-user.html)
+
+- [Invite a new External user](
