@@ -19,6 +19,10 @@ Describes field-level UI customization in ERP.net Web Client, including showing 
 
 ### 6. [How to add several main panels and tiles](https://docs.erp.net/webclient/introduction/how-to/ui-customization/create-multiple-panels.html) 
 Explains how to add multiple main panels and tiles in ERP.net Web Client forms to display parallel data views and enhance layout flexibility
+
+### 7. [How to set a multi-column layout](multi-column.md) 
+Explains steps to arrange the form with several panels at hand.
    
-### 7. [How to create a Named layout](named-layout.md) 
+### 8. [How to create a Named layout](named-layout.md) 
 Explains steps to create and utilize named layouts.
+
