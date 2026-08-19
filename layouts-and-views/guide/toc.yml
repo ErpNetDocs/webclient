@@ -1,17 +1,19 @@
 - name: Operations
   href: index.md
 
-- name: 1. App-bar menu options
+- name: 1. App-bar menu 
   href: appbar-menu-options.md 
-- name: 2. How to customize form
+- name: 2. How to customize a Form
   href: customize-form.md  
-- name: 3. How to customize main panel 
+- name: 3. How to customize a Main panel 
   href: customize-main-panel.md
-- name: 4. How to customize navigator
+- name: 4. How to customize a Navigator
   href: ../../navigators/guide/customize-nav-panel.md
-- name: 5. How to customize fields
+- name: 5. How to customize Fields
   href: ../../introduction/how-to/ui-customization/customize-fields.md
 - name: 6. How to add several main panels and tiles
   href: ../../introduction/how-to/ui-customization/create-multiple-panels.md  
-- name: 7. How to create a Named layout
+- name: 7. How to set a Multi-column layout
+  href: multi-column.md  
+- name: 8. How to create a Named layout
   href: named-layout.md  
