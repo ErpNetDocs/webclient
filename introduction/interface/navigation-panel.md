@@ -50,6 +50,12 @@ The repository navigation provides several main entry points:
 
 The **Notifications**, **Menu**, **Favorites**, and **Recent** sections can be expanded or collapsed using their chevrons.
 
+- **Running** section appears when a record is opened in the main content area.
+
+<img width="372" height="107" alt="image" src="https://github.com/user-attachments/assets/21887fbd-b856-491d-bab9-bc1604c21cca" />
+
+The displayed item changes according to the content currently open in the main area.
+
 After a module is selected, the Navigation panel provides access to the resources available in its repository.
 
 <img width="373" height="989" alt="image" src="https://github.com/user-attachments/assets/ee12506f-2c91-4b7e-b7a1-5d3bda8aebe4" />
