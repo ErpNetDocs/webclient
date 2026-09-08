@@ -6,10 +6,6 @@ items:
   href: introduction/toc.yml
   topicHref: introduction/index.md
   
-- name: Command Tools
-  href: commands/toc.yml
-  topicHref: commands/index.md
-
 - name: Navigators
   href: navigators/toc.yml
   topicHref: navigators/index.md
@@ -19,7 +15,9 @@ items:
   topicHref: layouts-and-views/index.md
 
 - name: Functional panels
-  
+  href: functional-panels/toc.yml
+  topicHref: functional-panels/index.md
+
 - name: My Apps
   href: introduction/my-apps/toc.yml
   topicHref: introduction/my-apps/index.md
