@@ -45,11 +45,8 @@ The repository navigation provides several main entry points:
 - **Overview** – opens the homepage of the selected module.
 - **Notifications** – provides access to notifications related to the current module.
 - **Menu** – contains the repository entities and other navigation items available to the current user. The current user role is displayed below the **Menu** label. Each item in the **Menu** can include a short description indicating its purpose.
-- **Recent** – provides quick access to a maximum of 15 recently opened records under the current module only.
 - **Favorites** – provides quick access to a maximum of 15 favorite records.
-
-The **Notifications**, **Menu**, **Favorites**, and **Recent** sections can be expanded or collapsed using their chevrons.
-
+- **Recent** – provides quick access to a maximum of 15 recently opened records under the current module only.
 - **Running** section appears when a record is opened in the main content area.
 
 <img width="372" height="107" alt="image" src="https://github.com/user-attachments/assets/21887fbd-b856-491d-bab9-bc1604c21cca" />
