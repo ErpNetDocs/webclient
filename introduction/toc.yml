@@ -1,9 +1,9 @@
 - name: Introduction
   href: index.md
 - name: Common terms
-  href: index.md
+  href: common-terms.md
 - name: Interface
   href: interface/toc.yml
   topicHref: interface/index.md
-- Command tools
+- name: Command tools
   href: command-tools.md
