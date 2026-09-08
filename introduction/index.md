@@ -93,9 +93,9 @@ A context-sensitive panel on the right side of the screen. Available options dep
 > [!Note]  
 > Side-panel tools are context-based and always relevant to the currently opened record.
 
-[**Navigators**](https://docs.erp.net/webclient/navigators/index.html)
+**Navigators**
 
-Navigators organize and display data in a structured, interactive table format.
+[Navigators](https://docs.erp.net/webclient/navigators/index.html) organize and display data in a structured, interactive table format.
 
 - Records are typically sorted by **Document Date** in descending order (newest first)
 - Columns can be sorted using up/down arrows
@@ -124,7 +124,7 @@ Panels structure both application home pages and individual record views. Types 
 
 ## My Apps
 
-**My Apps** is the personal home area for each user. It consists of independent, interactive applications that can also be used as standalone tools.
+[**My Apps**](https://docs.erp.net/webclient/introduction/my-apps/index.html)  is the personal home area for each user. It consists of independent, interactive applications that can also be used as standalone tools.
 
 Included applications:
 
