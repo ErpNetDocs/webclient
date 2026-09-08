@@ -1,0 +1,10 @@
+- name: Overview
+  href: index.md
+- name: Product supply
+  href: ../introduction/how-to/functional-panels/product-supply.md
+- name: Customer products
+  href: ../introduction/how-to/functional-panels/customer-products.md
+- name: Available products
+  href: ../introduction/how-to/functional-panels/available-products.md
+- name: Product list
+  href: ../introduction/how-to/functional-panels/product-list.md
