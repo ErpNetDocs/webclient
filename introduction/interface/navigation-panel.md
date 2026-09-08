@@ -38,9 +38,7 @@ Selecting a module opens the navigation structure of its corresponding repositor
 
 ### Repository navigation
 
-After a module is selected, the Navigation panel provides access to the resources available in its repository.
-
-<img width="373" height="989" alt="image" src="https://github.com/user-attachments/assets/ee12506f-2c91-4b7e-b7a1-5d3bda8aebe4" />
+<img width="378" height="369" alt="image" src="https://github.com/user-attachments/assets/7d912835-e622-4f9f-8c61-4951c8995ddc" />
 
 The repository navigation provides several main entry points:
 
@@ -52,25 +50,25 @@ The repository navigation provides several main entry points:
 
 The **Notifications**, **Menu**, **Favorites**, and **Recent** sections can be expanded or collapsed using their chevrons.
 
+After a module is selected, the Navigation panel provides access to the resources available in its repository.
 
-<img width="378" height="369" alt="image" src="https://github.com/user-attachments/assets/7d912835-e622-4f9f-8c61-4951c8995ddc" />
+<img width="373" height="989" alt="image" src="https://github.com/user-attachments/assets/ee12506f-2c91-4b7e-b7a1-5d3bda8aebe4" />
 
 ### Current role
 
-The **Menu** displays the current role of the logged-in user. 
+The **Menu** displays the current role of the logged-in user. WebClient layout, navigation layout are organized per role.
+
 <img width="352" height="54" alt="image" src="https://github.com/user-attachments/assets/13858549-5f0a-44f0-841d-28c3eebebd1c" />
 
-The role determines the repository navigation available to the user and is shown directly below the **Menu** label.
+### Аctions
 
-### Entity actions
-
-Repository entities provide additional actions directly from the Navigation panel. When the pointer hovers over an entity, the available action icons appear on its right side.
+When the pointer hovers over a section or an entity, the available action icons appear to the right side.
+- **Menu settings** - allows users to **show or hide repository elements** in the Navigation panel, so the Menu can be adjusted to contain only the items relevant to their work.
+  
+<img width="354" height="56" alt="image" src="https://github.com/user-attachments/assets/732c5832-8ac2-4774-ac6a-ac07d22b1a25" />
 
 - **Layouts** (eye icon) – displays the available named layouts for the entity's navigator. Selecting a layout opens the navigator with that layout.
 - **Create** (plus icon) – displays the available types of records that can be created for the entity. Selecting a type starts the creation of a new record directly from the Navigation panel.
-
-This provides quick access to frequently used navigator layouts and record creation without first opening the corresponding navigator.
-
 <img width="399" height="104" alt="image" src="https://github.com/user-attachments/assets/683658fe-91f1-44b1-9d9d-79086da82954" />
 
 ### Recent and favorite records
