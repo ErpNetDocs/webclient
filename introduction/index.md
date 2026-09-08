@@ -88,7 +88,7 @@ Displays the components of the currently open application, including records, se
 
 **Side panel**  
 
-A context-sensitive panel on the right side of the screen. Available options depend on the active form and may include additional, context-specific features such as document routes, discussions, advanced filters, functional panels, and access permissions.
+A [side panel](https://docs.erp.net/webclient/side-panels/index.html) is a context-sensitive panel on the right side of the screen. Available options depend on the active form and may include additional, context-specific features such as document routes, discussions, advanced filters, functional panels, and access permissions.
 
 > [!Note]  
 > Side-panel tools are context-based and always relevant to the currently opened record.
