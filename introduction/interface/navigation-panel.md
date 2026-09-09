@@ -88,3 +88,29 @@ A label below each record indicates why it appears in the list:
 - **Recent** – the record is one of the recently opened records for the entity.
 - **Favorite** – а record that is a Favorite has been recently opened.
 Selecting a record opens it directly from the Navigation panel.
+
+## Getting Started
+
+When a user logs in to the @@webclient, the **homepage** of the module configured as **First** in the App-bar customization is opened by default. The Navigation panel displays the navigation items of the corresponding repository.
+
+In the **App-bar** the active module's icon is outlined in blue and a solid blue vertical line.
+<img width="87" height="65" alt="image" src="https://github.com/user-attachments/assets/f7a534cb-f3a0-4397-934d-143b8b588aab" />
+
+### Switch modules from the Navigation panel
+
+1. Select the **Start** button.
+2. The Navigation panel displays the available clusters and modules.
+3. The currently active module remains highlighted, making it easy to identify the user's current location.
+
+Select a module to open its homepage and load its repository navigation in the Navigation panel.
+
+![picture](switch-module.png)
+
+### Switch modules from the App-bar
+
+1. Select the icon of the required module in the **App-bar**.
+2. The module's icon is outlined in blue.
+3. The Navigation panel displays the items of the selected repository.
+4. Click **Overview** to open the module's homepage in the main content area.
+
+When the homepage is loaded, a solid blue vertical line appears to the left of the module icon, indicating that the module is now **active**.
