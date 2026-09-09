@@ -115,3 +115,80 @@ Select a module to open its homepage and load its repository navigation in the N
 4. Click **Overview** to open the module's homepage in the main content area.
 
 When the homepage is loaded, a solid blue vertical line appears to the left of the module icon, indicating that the module is now **active**.
+
+### Search in the Navigation panel
+
+Use the **Search** bar at the top of the Navigation panel to find modules, entities, and subentities across the @@webclient.
+
+The search is not limited to the items currently displayed in the Navigation panel. It searches deeper within the platform navigation structure and returns matching items even when they are not currently exposed in the panel.
+
+For example, searching for `balance` reduces the Navigation panel to modules, entities, and subentities whose names contain **balance**.
+
+<img width="502" height="344" alt="image" src="https://github.com/user-attachments/assets/354640b2-81e8-461f-8f69-e89d2b5404eb" />
+
+> [!TIP]
+> Use Search when you know the name or part of the name of an entity but do not know where it is located in the module structure.
+
+### Pin or unpin the Navigation panel
+
+Use the **Pin** icon at the top of the Navigation panel to keep the panel constantly available on the left side of the screen. When the panel is unpinned, it does not remain permanently open while working in the main content area.
+
+The same behavior can be controlled with the **Pin navigation** toggle in the App-bar menu.
+
+<img width="758" height="186" alt="image" src="https://github.com/user-attachments/assets/3390633b-2aae-457d-8edf-04332da504db" />
+
+### Customize the Navigation panel
+
+Use the **Settings** icon at the top of the Navigation panel to choose which modules are displayed.
+
+<img width="564" height="177" alt="image" src="https://github.com/user-attachments/assets/bfe24272-9939-4bd3-b9af-ef68c8e1d0be" />
+
+1. Select the **Settings** icon.
+2. In the settings dialog, choose the modules that you want to be available in the Navigation panel.
+3. Hide the modules that you do not need for your regular work.
+
+This allows the module selection to be adjusted to the user's needs.
+
+<img width="1911" height="986" alt="image" src="https://github.com/user-attachments/assets/33a97195-8d72-4032-8f95-1c3548755f83" />
+
+### Show or hide repository elements
+
+The **Settings** icon next to **Menu** controls the elements displayed for the current repository.
+
+<img width="561" height="320" alt="image" src="https://github.com/user-attachments/assets/ce8317be-8e7b-4e8d-b6a8-8feacd2eacac" />
+
+1. Open the required module.
+2. Select the **Settings** icon next to **Menu**.
+3. Show the repository elements that you need in the Navigation panel.
+4. Hide the elements that you do not need.
+
+The available repository elements depend on the user's current role.
+
+<img width="1913" height="992" alt="image" src="https://github.com/user-attachments/assets/47c64d26-d496-4be0-8773-871634dc7258" />
+
+Together, the Navigation panel settings and the repository **Menu** settings allow users to customize navigation at different levels. The main settings determine which **modules** are available, while the Menu settings determine which **repository elements** are displayed within a particular module.
+
+### Pin an item for quick access
+
+Individual repository elements and records can also be pinned to the Navigation panel for quick access.
+
+To pin an item:
+
+1. Right-click the repository element or record.
+2. Select **Pin**.
+
+The item is added to the **Pinned** section of the Navigation panel and remains readily available for direct access.
+
+To remove it:
+
+1. Right-click the item in the **Pinned** section.
+2. Select **Unpin**.
+
+<img width="494" height="857" alt="image" src="https://github.com/user-attachments/assets/f648a750-73ea-42c4-9825-8cfd17a3388d" />
+
+
+### Navigation of "My apps"
+
+The apps available under **My** have their own Navigation panels, designed according to the functionality of the particular app. Their navigation can therefore differ from the standard repository navigation used by the other modules.
+
+![picture](my-navigations.png)
