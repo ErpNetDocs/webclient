@@ -5,6 +5,3 @@
 - name: Interface
   href: interface/toc.yml
   topicHref: interface/index.md
-- name: Command tools
-  href: ./commands/toc.yml
-  topicHref: ./commands/index.md
