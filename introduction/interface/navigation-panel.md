@@ -110,11 +110,14 @@ Select a module to open its homepage and load its repository navigation in the N
 ### Switch modules from the App-bar
 
 1. Select the icon of the required module in the **App-bar**.
-2. The module's icon is outlined in blue.
+2. The module's icon is outlined in blue and has a lighter background.
 3. The Navigation panel displays the items of the selected repository.
 4. Click **Overview** to open the module's homepage in the main content area.
 
 When the homepage is loaded, a solid blue vertical line appears to the left of the module icon, indicating that the module is now **active**.
+(eg. switch from "Presales" to "Sales")
+
+![picture](app-bar-switch-module.png)
 
 ### Search in the Navigation panel
 
