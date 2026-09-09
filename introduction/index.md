@@ -61,11 +61,11 @@ The ERP.net Web Client interface includes a range of intuitive symbols, elements
 
 These are the core elements, the structure of @@webclient that present data and are actually the tools to navigate and execute tasks.
 
-**App bar** 
+[**App bar**](app-bar.md) 
 
-A vertical sidebar that appears after clicking the Start menu. It provides access to all ERP.net applications and their subsystems.
+A vertical sidebar that appears when you click the Start menu (if not pinned). It provides access to all ERP.net applications and their subsystems.
 
-**Navigation panel** 
+[**Navigation panel**](navigation-panel.md)
 
 Displays the components of the currently open application, including records, settings, and favorites. This is the shortcut to reach the desired entities and operate within the module.
 
