@@ -38,13 +38,14 @@ Selecting a module opens the navigation structure of its corresponding repositor
 
 ### Repository navigation
 
-<img width="378" height="369" alt="image" src="https://github.com/user-attachments/assets/7d912835-e622-4f9f-8c61-4951c8995ddc" />
+<img width="499" height="486" alt="image" src="https://github.com/user-attachments/assets/12841a77-4c6a-4d88-ba22-fa9c6d619511" />
 
 The repository navigation provides several main entry points (eg."Presales" repository):
 
 - **Overview** – opens the homepage of the selected module.
 - **Notifications** – provides access to notifications related to the current module.
 - **Menu** – contains the repository entities and other navigation items available to the current user. The current user role is displayed below the **Menu** label. Each item in the **Menu** can include a short description indicating its purpose.
+- **Pinned** - provides access to pinned items.
 - **Favorites** – provides quick access to a maximum of 15 favorite records.
 - **Recent** – provides quick access to a maximum of 15 recently opened records under the current module only.
 
