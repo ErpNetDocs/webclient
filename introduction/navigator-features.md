@@ -47,7 +47,7 @@ Each navigator features its own dedicated **Menu** through which you can perform
 * Build and apply **advanced filters**
 * Use ERP.net's dedicated **AI Asssistant** (upcoming)
 * Take advantage of **side panels** that reveal additional data and attachments for each selected document
-* Use **[functional panels](./how-to/functional-panels/index.md)** to speed up the process of filling out a document
+* Use functional panels to speed up the process of filling out a document
 * View **Hierarchy** references and apply filters based on them
 * Expand **detail panels** to see information relevant for each selected record of the navigator (e.g. its Document Lines)
 * Create **tiles** to save and later easily access a specific navigator view
