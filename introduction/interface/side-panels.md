@@ -1,6 +1,6 @@
 # Side panels in @@webclient
 
-Side panels are contextual UI components in the @@webclient that provide access to additional, supporting functionality related to the data currently shown in the central panel. They are designed to extend the main workspace without interrupting the primary flow or navigation.
+[Side panels](../../side-panels/index.md) are contextual UI components in the @@webclient that provide access to additional, supporting functionality related to the data currently shown in the central panel. They are designed to extend the main workspace without interrupting the primary flow or navigation.
 
 Side panels always relate to a specific data context—for example, a single record or a document—and expose actions, information, or tools that help users inspect, manage, or collaborate around that data in greater depth.
 
