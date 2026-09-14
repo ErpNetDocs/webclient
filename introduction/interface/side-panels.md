@@ -45,3 +45,11 @@ Several major types of side panels exist in the Web Client. These are outlined b
 ---
 
 ## Advanced filter
+
+---
+
+## Functional panels
+
+---
+
+## Extensions
