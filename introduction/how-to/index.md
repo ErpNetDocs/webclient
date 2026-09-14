@@ -18,7 +18,7 @@ Here, you will find guides that can help you better navigate and use the @@name 
   
 - [Use the Access Permission field in the Files panel](access-permission-field.md)
 
-- Use functional panels
+- [Use functional panels](../../side-panels/func-panels/index.md)
   
 - [Create a new Stored Attribute or Calculated Attribute](./ui-customization/create-new-attributes.md)
 
