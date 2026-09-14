@@ -61,24 +61,24 @@ The ERP.net Web Client interface includes a range of intuitive symbols, elements
 
 These are the core elements, the structure of @@webclient that present data and are actually the tools to navigate and execute tasks.
 
-[**App bar**](app-bar.md) 
+[**App bar**](../introduction/interface/app-bar.md) 
 
 A vertical sidebar that appears when you click the Start menu (if not pinned). It provides access to all ERP.net applications and their subsystems.
 
-[**Navigation panel**](navigation-panel.md)
+[**Navigation panel**](..introduction/interface/navigation-panel.md)
 
 Displays the components of the currently open application, including records, settings, and favorites. This is the shortcut to reach the desired entities and operate within the module.
 
-**Side panel**  
+[**Side panel**](..introduction/interface/side-panels.md)
 
-A [side panel](https://docs.erp.net/webclient/side-panels/index.html) is a context-sensitive panel on the right side of the screen. Available options depend on the active form and may include additional, context-specific features such as document routes, discussions, advanced filters, functional panels, and access permissions.
+A side panel is a context-sensitive panel on the right side of the screen. Available options depend on the active form and may include additional, context-specific features such as document routes, discussions, advanced filters, functional panels, and access permissions.
 
 > [!Note]  
 > Side-panel tools are context-based and always relevant to the currently opened record.
 
-**Navigators**
+[**Navigators**](https://docs.erp.net/webclient/navigators/index.html)
 
-[Navigators](https://docs.erp.net/webclient/navigators/index.html) organize and display data in a structured, interactive table format.
+Navigators organize and display data in a structured, interactive table format.
 
 - Records are typically sorted by **Document Date** in descending order (newest first)
 - Columns can be sorted using up/down arrows
@@ -105,9 +105,9 @@ Panels structure both application home pages and individual record views. Types 
 
 ---
 
-## My Apps
+## [My Apps](https://docs.erp.net/webclient/introduction/my-apps/index.html)
 
-[**My Apps**](https://docs.erp.net/webclient/introduction/my-apps/index.html)  is the personal home area for each user. It consists of independent, interactive applications that can also be used as standalone tools.
+"My Apps" is the personal home area for each user. It consists of independent, interactive applications that can also be used as standalone tools.
 
 Included applications:
 
