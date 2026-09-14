@@ -48,7 +48,7 @@ Several major types of side panels exist in the Web Client. These are outlined b
 
 ---
 
-## [Functional panels](side-panels/func-panels/index.md)
+## [Functional panels](../../side-panels/func-panels/index.md)
 
 Functional panels are task-oriented sections that provide specialized business functionality inside a form.
 
