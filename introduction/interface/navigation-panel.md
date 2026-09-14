@@ -90,7 +90,7 @@ A label below each record indicates why it appears in the list:
 - **Favorite** – а record that is a Favorite has been recently opened.
 Selecting a record opens it directly from the Navigation panel.
 
-## Getting Started
+## Operations
 
 When a user logs in to the @@webclient, the **homepage** of the module configured as **First** in the App-bar customization is opened by default. The Navigation panel displays the navigation items of the corresponding repository.
 
@@ -190,7 +190,7 @@ To remove it:
 <img width="494" height="857" alt="image" src="https://github.com/user-attachments/assets/f648a750-73ea-42c4-9825-8cfd17a3388d" />
 
 
-### Navigation of "My apps"
+## Navigation of "My apps"
 
 The apps available under **My** have their own Navigation panels, designed according to the functionality of the particular app. Their navigation can therefore differ from the standard repository navigation used by the other modules.
 
