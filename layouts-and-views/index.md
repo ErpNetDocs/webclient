@@ -75,7 +75,7 @@ The Web Client allows a high degree of customization. This ensures a clean, task
 - Shoq/hide key components - definitions, reports, setup forms
 - Save changes to personalize the layout
 - Users can adjust column visibility and order in list views
-- Filters and preferences can be saved per user
+- Filters and preferences can be saved per role (but not per user!)
 - Frequently used views can be accessed quickly
 
 The option for all these abilities is called "Customize form / Customize panel" and Settings, indicated by a "gearwheel" icon.
