@@ -1,6 +1,7 @@
 # Interface, Layouts and Views in @@webclient
 
 The @@webclient is designed around flexible layouts and views that help users work efficiently with data, regardless of role or device.
+Theme, language, App-bar behavior, etc. can be personal settings, while the actual saved UI layout is role-based.
 
 ## Instance interface 
 
@@ -79,6 +80,9 @@ The Web Client allows a high degree of customization. This ensures a clean, task
 - Frequently used views can be accessed quickly
 
 The option for all these abilities is called "Customize form / Customize panel" and Settings, indicated by a "gearwheel" icon.
+
+> [!NOTE]
+> Unlike the Desktop Client, the Web Client does not support personal layouts saved for individual users. Layouts are role-based, and saved layout changes apply to all users assigned to the respective role. Personal user preferences that are supported separately do not constitute a personal layout.
 
 ## The App-bar menu
 
