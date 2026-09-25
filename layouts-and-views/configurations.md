@@ -6,25 +6,25 @@ This section explains the necesssary steps in order to be able to operate with l
 
 To manage layout permissions a system admin should use the settings from within the Desktop client of the instance:
 
-**Make a user a "Global Layout Manager"**
+**Make a user "Global Layout Manager"**
 
 1. Go to **Setup → Security → System Security Permissions**
 2. Under **General->Layout**, click on **Global Layout Manager**
 3. Add group of users that should have full layout customization access.
 
-**Make a user a "Is Layout Admin"**
+**Make a user "Is Layout Admin"**
 
 1. Go to **Setup → Security → Roles- Users**
 2. In the navigator choose the combination *user : role* that should have restricted layout customization access and tick the box.
 
 ---
 
-## 2. How to get access to Panel menu and Customize panel option
+## 2. How to access Panel menu and the "Customize panel" option
 
-The Panel menu (three small vertical dots) is merged with the Form menu (three large vertical dots). When only one panel is displayed in the form, the Panel menu is not visible.
-When several panels are displayed, the Panel menus become visible only when Advanced mode is enabled.
+The Panel menu - three small vertical dots <img width="129" height="50" alt="image" src="https://github.com/user-attachments/assets/5dfd9a5c-d053-4106-944a-5fe770cf0b62" />- is merged with the Form menu (three large vertical dots). When only one panel is displayed in the form, the Panel menu is not visible.
+When several panels are displayed, the Panel menus become visible, but only when "Advanced mode" is enabled.
 
-To turn on Advanced mode:
+Turn on Advanced mode:
 
 1. Go to the **App Bar**.
 2. Select the **More options** (three dots) menu.
@@ -32,7 +32,7 @@ To turn on Advanced mode:
 
 ![picture](./pictures/advancedmode.png)
 
-In both cases, the panel menu is available from the Active panel section in the Form menu.
+In both cases, the panel menu is available from the "Active panel" section in the Form menu.
 
 ### 3. Default App-bar settings for new users
 
