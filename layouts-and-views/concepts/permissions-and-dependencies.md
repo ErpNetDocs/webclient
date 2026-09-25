@@ -29,7 +29,7 @@ Layout customization is restricted by **permissions and roles**.
 - Cannot save layout changes.
 - Can only view the UI as configured for their role.
 
-| User Status | Customize Menus | Customize Forms/Panels | Customize Single-record Forms |
+| User Status | Customize menus | Customize Module and Navigator forms | Customize Single-record forms |
 |-------------|----------------------|--------|----------------|
 | **Global Layout Manager** | ✅ | ✅ | ✅ Full access |
 | **Role with `Is Layout Admin`** | ✅ | ✅ | ❌ Not allowed|
