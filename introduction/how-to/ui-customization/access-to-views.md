@@ -23,15 +23,15 @@ Here is a short explanation on access to WEB customization of Menu, Views, Panel
 
 **Inside the Navigation panel of a Namespace you can:**
 
-5. Customize panel – which columns and related data to be shown 
+5. Customize panel – which columns to be shown 
 6. Customize form – what additional panels and related data to be shown 
 
 ![Pictures](pictures/views_access2.png)
 
-**Inside an entity (object) you can:**
+**Inside a single record form you can:**
 
-7. Customize panel – which fields to be shown in the single form
-8. Customize form  - what additional panels and related data to be shown
+7. Customize panel – which fields to be shown in the main panel of the single form
+8. Customize form  - what additional panels and related data to be shown 
 
 ![Pictures](pictures/views_access3.png)
 
