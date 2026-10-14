@@ -1,3 +1,5 @@
+NOT VISIBLE AS A SOLITARY PAGE
+
 # Command Tools in @@webclient 
 
 These consist of Command buttons and Context menus. This section will explain each command button and context menu features in details — its purpose, behavior, and expected results when clicked. 
