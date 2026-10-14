@@ -31,12 +31,11 @@ In this site you will be aquianted with the concepts, terms and features:
 - the [My Apps](./my-apps/index.md) module
 - [How-to guides](https://docs.erp.net/webclient/introduction/how-to/index.html) for operations and features specific to the Web Client
 
-## Interface
+## [Interface](interface/index.md)
 
 The ERP.net Web Client interface includes a range of intuitive symbols, elements, buttons that provide quick access to core functionality. 
 
 ### 1. Interface Symbols
-
 
 - **Kebab menu (⋮)**: Opens a dropdown menu with contextual options. Typically located on the right side of a panel.
 - **Gearwheel** ⚙️: Provides access to system or contextual settings.
@@ -102,6 +101,10 @@ Panels structure both application home pages and individual record views. Types 
   - Detail panels
   - Related data panels
   - Widget panels
+
+**Command tools**
+
+These consist of [Command buttons](../commands/buttons.md) and [Context menus](../commands/context_menus.md). Follow the links to learn in details about purpose, behavior and expected results. 
 
 ---
 
