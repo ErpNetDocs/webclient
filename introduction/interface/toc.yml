@@ -5,6 +5,6 @@
 - name: Side panels 
   href: side-panels.md
 - name: Command buttons 
-  href: ../commands/buttons.md
+  href: ../../commands/buttons.md
 - name: Context menus 
-  href: ../commands/context_menus.md
+  href: ../../commands/context_menus.md
