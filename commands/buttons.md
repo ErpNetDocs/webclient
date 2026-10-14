@@ -57,6 +57,15 @@ Use when you want to exit the form without explicitly saving.
 > 2. The configuration can be swithed ON/OFF from Main menu/Customize form/Settings tab.
 
 ---
+## Exit edit mode
+
+Appears only in **edit mode**, when no changes have been made to the record. Use it to return to **view mode** as there are no unsaved changes.
+
+The moment a change has been made, this button is immediately replaced by "Discard" button.
+
+<img width="507" height="125" alt="image" src="https://github.com/user-attachments/assets/b1ae46d6-74b8-4dfc-bebd-0ec1913387ee" />
+
+---
 
 ## Discard
 
