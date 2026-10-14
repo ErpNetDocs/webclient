@@ -71,7 +71,7 @@ Panels structure both application home pages and individual record views. Types 
 
 ## Command tools
 
-These consist of Command buttons and Context menus. This section will explain each command button and context menu features in details — its purpose, behavior, and expected results when clicked. 
+These consist of Command buttons and Context menus. Follow the links to learn in details how to use the command tools.
 
 ### [Command buttons](../../commands/buttons.md)
 
