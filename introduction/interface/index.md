@@ -69,11 +69,11 @@ Panels structure both application home pages and individual record views. Types 
   - Related data panels
   - Widget panels
 
-## Command Tools
+## Command tools
 
 These consist of Command buttons and Context menus. This section will explain each command button and context menu features in details — its purpose, behavior, and expected results when clicked. 
 
-### Command buttons
+### [Command buttons](../../commands/buttons.md)
 
 An essential part of the ERP.net Web Client interface. They perform actions ranging from saving and closing entries to initiating processes, navigating between views, and interacting with documents and data. These buttons are typically displayed at the top of panels and forms, or in the context menus, providing direct access to frequently used commands and functionalities.
 
@@ -85,7 +85,7 @@ While some command buttons are standardized across the system (e.g., Save, Close
 
 ![picture](../../commands/pictures/cmd-bttns.png)
 
-### Context menus
+### [Context menus](../../commands/context_menus.md)
 
 Context menus vary widely depending on the element, feature, or field they serve. They contain operations specific to the panel, form, field, or feature currently in use. Context menus may also be attached to buttons—for example, the Run button includes a context menu with multiple functions.
 
