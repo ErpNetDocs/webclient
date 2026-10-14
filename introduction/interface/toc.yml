@@ -4,3 +4,7 @@
   href: navigation-panel.md
 - name: Side panels 
   href: side-panels.md
+- name: Command buttons 
+  href: ../commands/buttons.md
+- name: Context menus 
+  href: ../commands/context_menus.md
