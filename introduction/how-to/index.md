@@ -29,3 +29,5 @@ Here, you will find guides that can help you better navigate and use the @@name 
 - [Define user roles](user-roles.md)
 
 - [Create and use id.erp.net account](https://info.erp.net/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.html)
+
+- [Create and use a default attribute value]
