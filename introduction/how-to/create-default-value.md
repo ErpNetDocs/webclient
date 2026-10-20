@@ -1,0 +1,2 @@
+# Entity attribute default value
+
