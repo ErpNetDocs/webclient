@@ -1,6 +1,6 @@
 # Default attribute value*
 
-*also called "entity attribute default value"
+*also known as "Entity attribute default value", "Default value"
 
 
 
