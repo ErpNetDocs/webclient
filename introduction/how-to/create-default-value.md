@@ -22,7 +22,7 @@ The examples here are carried on a Sales Order - Customer field.
 3. Open the Customer field’s three-dot context menu.
 4. Select **Default attribute value** → **Set as default attribute value.**
 
-![picture](menu.png)
+![picture](./pictures/menu.png)
 
 5. In the dialog, review the field and value you are about to save.
 6. Select any conditions that should restrict when the default applies—for example, the current user, role, enterprise company, company location, language, or sales order document type. Only the conditions you select will restrict the default.
@@ -32,6 +32,6 @@ The examples here are carried on a Sales Order - Customer field.
 
 7. Select OK to save it.  (docs.erp.net)
 
-![picture](conditions.png)
+![picture](./pictures/conditions.png)
 
 Example: To use Tiramisu Ltd. only for a particular sales order document type, select the document type condition before clicking OK. To use it without a document-type restriction—or any other context restriction—leave all conditions unselected. The saved setting belongs to Entity Attribute Default Values. 
