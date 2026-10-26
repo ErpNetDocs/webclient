@@ -89,7 +89,7 @@ The examples below compare a default for **Customer** in the old *Data Entry Def
 
 | Example | Existing entity: Customer | Existing conditions | New entity: Customer | New conditions | Context | Customer applied in Desktop |
 |---|---|---|---|---|---|---|
-| 1 | A Racing Ltd | None | Professional Components Ltd | None | New sales order | **A Racing Ltd** |
+| 1 | A Racing Ltd | None | Professional Components Ltd | None | Create a sales order of any type | **A Racing Ltd** |
 | 2 | A Racing Ltd | Document Type = Direct Sale | Professional Components Ltd | Document Type = Direct Sale | Document Type = Direct Sale | **A Racing Ltd** |
 | 3 | A Racing Ltd | Document Type = Direct Sale | Professional Components Ltd | Document Type = Direct Sale; Role = X Tech MI Role | Document Type = Direct Sale; Role = X Tech MI Role | **A Racing Ltd** |
 | 4 | A Racing Ltd | Document Type = Direct Sale | Professional Components Ltd | Document Type = Direct Sale; Role = X Tech MI Role | Document Type = Shop Order; Role = X Tech MI Role | **A Racing Ltd — observed result¹** |
