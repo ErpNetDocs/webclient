@@ -20,6 +20,8 @@
   href: access-permission-field.md
 - name: Create a new Stored Attribute or Calculated Attribute
   href: ui-customization/create-new-attributes.md
+- name: Create Default Values
+  href: create-default-value.md
 - name: Translate multilanguage fields
   href: translate-fields.md
 - name: Invite a new user into an instance
