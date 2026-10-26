@@ -4,7 +4,7 @@
 
 In the Web Client, you can save a field’s current value as a default. The setting is stored in System/Internal system data/**Entity Attribute Default Values**
 
-Technical information may be found [HERE](
+Technical information may be found [HERE](https://docs.erp.net/tech/advanced/concepts/default-value.html)
 
 ## Prerequisites: 
 
