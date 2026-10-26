@@ -27,11 +27,17 @@ The examples here are carried on a Sales Order - Customer field.
 5. In the dialog, review the field and value you are about to save.
 6. Select any conditions that should restrict when the default applies—for example, the current user, role, enterprise company, company location, language, or sales order document type. Only the conditions you select will restrict the default.
 
-- If you do not any conditions - "All cases", "A-Racing Ltd" becomes an unconditional default that can be applied when a new sales order of any document type is created. 
-- If you select conditions, it applies when the relevant context matches them.
+- If you mark "For all cases" -no conditions, "A-Racing Ltd" becomes an unconditional default that can be applied when a new sales order of any document type is created. 
+- If you mark "For specific cases" and select conditions, the value applies when the chosen conditions are met.
 
-7. Select OK to save it.  (docs.erp.net)
+  Let us choose conditions per Role and per Document type.
 
+7. Select OK to save the Default attribute value.
+   
 ![picture](./pictures/conditions.png)
 
-Example: To use Tiramisu Ltd. only for a particular sales order document type, select the document type condition before clicking OK. To use it without a document-type restriction—or any other context restriction—leave all conditions unselected. The saved setting belongs to Entity Attribute Default Values. 
+This creates a record in table "Entity Attribute Default Values". 
+
+This value is next applied when the values are met at the creation of a new Sales order. In the example Customer will be autimatically set to "A-Racing Ltd" when a new order of document type "Sales Order" is created, by a user whose role is "X-Tech MI Role".
+If an order of a dfferent document type is created, the Customer will be empty (as normal).
+
