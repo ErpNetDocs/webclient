@@ -62,6 +62,27 @@ From the record itself:
 
 In order to change the default value for the same field, follow the steps to **Set as default attribute value.**. In case the new value has the same conditions (e.g. per Role and per Document Type) and only the value itself is defferent, the system will not create a new record, but will actually change only the two fields - Default internal value and the Default text value.
 
-## Application of the new "Default attribute value" in Desktop client
+Цветанка, here is a draft **if–then list** for the Desktop documentation. I’ve kept it to behavior observed in your sales-order tests.
 
-The new entity impacts the application of a default value in Desktop cient. 
+## Impact of Entity Attribute Default Values on the Desktop Client
+
+The Desktop Client can apply defaults stored in the new **Entity Attribute Default Values** entity, even though those settings were created through the Web Client. When defaults for the same field exist in both entities, the Desktop Client uses the following precedence:
+
+!!! behavior is verified with sales orders, field Customer
+
+*old entity - Data Entry Default Values, Default Values
+*new entity - Entity Attribute Default Values, Default Attribute Values
+
+1. If an applicable default exists in the old entity, then the Desktop Client applies that value. This remains true even if a default in the new entity matches more conditions.
+2. If no applicable default exists in the old entity, but an applicable default exists in "Entity Attribute Default Values", then the Desktop Client applies the value from the new entity.
+3. If no applicable default exists in the old entity, and there is a default in the new entity "For all cases" it will be applied in the Desktop Client
+4. If the session context changes while a document is open, then the Desktop Client does **not** automatically refresh that document’s default values.The user needs to change or reopen the document, so that the system could check the new conditions and apply the correct default value.
+5. If there are two defaults with the same or different conditions for one and the same field, saved in the two entities the default from the old table will be applied in the Desktop client.
+
+As a conclusion - if a default has been saved within the old table (from the Desktop's interface) it will be preferred over the default save under the Web Client interface. 
+
+**Examples:** Suppose the old entity specifies **Customer = A-Racing Ltd.** and the new entity specifies **Customer = Naselenie**. If both settings are applicable, the Desktop Client uses **A-Racing Ltd.** 
+
+> [!IMPORTANT]
+> Check applicable settings in both entities before adding a new default. A setting created through the Web Client may affect Desktop users, but an applicable setting in the old entity takes precedence there.
+
