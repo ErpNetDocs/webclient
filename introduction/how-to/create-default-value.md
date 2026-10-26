@@ -71,6 +71,7 @@ The Desktop Client can apply defaults stored in the new **Entity Attribute Defau
 !!! behavior is verified with sales orders, field Customer
 
 *old entity - Data Entry Default Values, Default Values
+
 *new entity - Entity Attribute Default Values, Default Attribute Values
 
 1. If an applicable default exists in the old entity, then the Desktop Client applies that value. This remains true even if a default in the new entity matches more conditions.
