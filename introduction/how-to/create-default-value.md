@@ -81,7 +81,22 @@ The Desktop Client can apply defaults stored in the new **Entity Attribute Defau
 
 As a conclusion - if a default has been saved within the old table (from the Desktop's interface) it will be preferred over the default save under the Web Client interface. 
 
-**Examples:** Suppose the old entity specifies **Customer = A-Racing Ltd.** and the new entity specifies **Customer = Naselenie**. If both settings are applicable, the Desktop Client uses **A-Racing Ltd.** 
+**Examples:** Suppose the old entity specifies **Customer = A-Racing Ltd.** and the new entity specifies **Customer = Professional Components Ltd.**. If both settings are applicable, the Desktop Client uses **A-Racing Ltd.** 
+
+### Desktop Client: examples of defaults stored in both entities
+
+The examples below compare a default for **Customer** in the old *Data Entry Default Values* entity with one in the new *Entity Attribute Default Values* entity.
+
+| Example | Existing entity: Customer | Existing conditions | New entity: Customer | New conditions | Context | Customer applied in Desktop |
+|---|---|---|---|---|---|---|
+| 1 | A Racing Ltd | None | Professional Components Ltd | None | New sales order | **A Racing Ltd** |
+| 2 | A Racing Ltd | Document Type = Direct Sale | Professional Components Ltd | Document Type = Direct Sale | Document Type = Direct Sale | **A Racing Ltd** |
+| 3 | A Racing Ltd | Document Type = Direct Sale | Professional Components Ltd | Document Type = Direct Sale; Role = X Tech MI Role | Document Type = Direct Sale; Role = X Tech MI Role | **A Racing Ltd** |
+| 4 | A Racing Ltd | Document Type = Direct Sale | Professional Components Ltd | Document Type = Direct Sale; Role = X Tech MI Role | Document Type = Shop Order; Role = X Tech MI Role | **A Racing Ltd — observed result¹** |
+
+What the first three examples show: when both settings are applicable, the Desktop Client selects the value from the existing entity, even when the new setting has more matching conditions.
+
+Example 4 shows the preference of Desktop client to apply the old entity default value even though the new default value matches more conditions.
 
 > [!IMPORTANT]
 > Check applicable settings in both entities before adding a new default. A setting created through the Web Client may affect Desktop users, but an applicable setting in the old entity takes precedence there.
