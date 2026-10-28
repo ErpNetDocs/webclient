@@ -8,12 +8,7 @@ Technical information may be found [HERE](https://docs.erp.net/tech/advanced/con
 
 ## Prerequisites: 
 
-To access "Default attribute value"—including "Set as default attribute value" and "Manage default attribute value"—the user must meet both requirements:
-
-- Be a member of a user group granted the Global Layout Manager system permission - this permission is managed through the Desktop client
-- Have Is Layout Admin enabled for their current user–role assignment - may be managed through the WEB client
-
-If either requirement is not met, the options are not available. 
+To access "Default attribute value"—including "Set as default attribute value" and "Manage default attribute value"—the user must be granted the Global Layout Manager system permission - this permission is managed through the Desktop client
 
 ## Create a default attribute value
 
