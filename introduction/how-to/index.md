@@ -26,10 +26,13 @@ Here, you will find guides that can help you better navigate and use the @@name 
 
 - [Translate multilanguage fields](translate-fields.md)
 
+- [Create and use a default attribute value](create-default-value.md)
+
 - [Invite a new user into an instance](https://docs.erp.net/tech/modules/system/security/how-to/invite-a-user.html)
 
 - [Define user roles](user-roles.md)
 
 - [Create and use id.erp.net account](https://info.erp.net/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.html)
 
-- [Create and use a default attribute value](create-default-value.md)
+- [Account recovery](https://info.erp.net/information/erp-net-id/account-recovery.html)
+
