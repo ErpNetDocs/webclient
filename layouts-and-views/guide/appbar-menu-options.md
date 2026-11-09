@@ -56,9 +56,8 @@ Advanced mode affects the visibility of:
 
 Currently, this behavior applies to:
 
-👉 Links in received notifications (clicking a notification opens the target record)<br>
-👉 Links in navigators (the first column link that opens a record)<br>
-👉 Links in chat (e.g., links to objects in system comments or shared items)<br>
+👉 Links in notifications (opens the target record)<br>
+👉 Links in chats (e.g., links to objects in system comments or shared items)<br>
 
 ## 8. Customize view
 Opens a settings panel that allows the user to choose which applications are displayed on the App-bar and to define their order. This lets each user personalize quick access to the applications they use most.
