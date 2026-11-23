@@ -50,12 +50,13 @@ Advanced mode affects the visibility of:
 ![picture](../pictures/advancedon.png)
 
 
-## 7. Open links in new tab
+## 7. Open links in new tab - OBSOLETE!!!
 - When On, records that open in full view will launch in a new browser tab.
 - When Off, records will open in the same window.
 
 Currently, this behavior applies to:
 
+👉 Links in first column of a navigator
 👉 Links in notifications (opens the target record)<br>
 👉 Links in chats (e.g., links to objects in system comments or shared items)<br>
 
