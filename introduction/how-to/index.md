@@ -16,13 +16,13 @@ Here, you will find guides that can help you better navigate and use the @@name 
 
 - [Use the Advanced filter](advanced-filter.md)
   
-- [Use the Access Permission field in the Files panel](access-permission-field.md)
+- [Use the Access permission field in the Files panel](access-permission-field.md)
 
 - [Use functional panels](../../side-panels/func-panels/index.md)
   
-- [Create a new Stored Attribute or Calculated Attribute](./ui-customization/create-new-attributes.md)
+- [Create a new Stored attribute or Calculated attribute](./ui-customization/create-new-attributes.md)
 
-- [Create Default Values](./create-default-value.md)
+- [Create Default values](./create-default-value.md)
 
 - [Translate multilanguage fields](translate-fields.md)
 
