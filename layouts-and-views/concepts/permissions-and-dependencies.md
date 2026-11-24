@@ -17,7 +17,7 @@ Layout customization is restricted by **permissions and roles**.
 
 ---
 
-### Role with `Is layout admin` flag
+### Role with "Is layout admin" flag
 
 - If the user is not a Global layout manager, but their **role** has `Is layout admin` enabled, they have advanced layout customization rights.
 - Useful for allowing layout editing without full system privileges.
