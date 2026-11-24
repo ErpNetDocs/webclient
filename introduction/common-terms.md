@@ -1,4 +1,4 @@
-# Common Terms
+# Common terms
 
 Within the ERP.net Web Client, several key terms are used throughout the interface:
 
