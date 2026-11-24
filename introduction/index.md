@@ -8,7 +8,7 @@ ERP.net is built around a **single, centralized data source** combined with **au
 
 ---
 
-# Key Benefits and Features
+# Key benefits and features
 
 - **Centralized data** - work with a single source of truth from anywhere. Access real-time information, collaborate remotely, and make faster, data-driven decisions;
 - **Lower upfront costs** - no need for expensive hardware or on-premises infrastructure. ERP.net follows a subscription-based (SaaS) model with predictable monthly or annual costs;
@@ -35,7 +35,7 @@ In this site you will be aquianted with the concepts, terms and features:
 
 The ERP.net Web Client interface includes a range of intuitive symbols, elements, buttons that provide quick access to core functionality. 
 
-### 1. Interface Symbols
+### 1. Interface symbols
 
 - **Kebab menu (⋮)**: Opens a dropdown menu with contextual options. Typically located on the right side of a panel.
 - **Gearwheel** ⚙️: Provides access to system or contextual settings.
@@ -56,7 +56,7 @@ The ERP.net Web Client interface includes a range of intuitive symbols, elements
 
 ---
 
-### 2. Functional Elements
+### 2. Functional elements
 
 These are the core elements, the structure of @@webclient that present data and are actually the tools to navigate and execute tasks.
 
@@ -127,7 +127,7 @@ Included applications:
 - **Notifications** - a list of recent notifications
 ---
 
-## Personal Profile
+## Personal profile
 
 Each user has a personal profile accessible from the top-right corner of the interface. It allows management of:
 
