@@ -6,7 +6,7 @@ The App-bar menu lets users control the visibility and behavior of key interface
 
 Explanation of the menu options
 
-## 1. Pin AppBar
+## 1. Pin app-bar
 - When On, the App-bar is pinned to the screen and always visible.
 - When Off, the App-bar is hidden to provide a larger working area and can be accessed from the Start button in the top-left corner.
 
